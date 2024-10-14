@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Tillich Lecture Page Nr. {{ img_id }}</title>
+            <title type="sub">Religion and Culture Project</title>
+            <principal>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </principal>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid">JJ Warren</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <persName key="https://orcid.some-orcid1">Michaela XX</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>
+               <idno type="transkribus_col_id">{{ col_id }}</idno>
+               <idno type="transkribus_doc_id">{{ doc_id }}</idno>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc type="invetory">
+               <msIdentifier>
+                  <institution>changme</institution>
+                  <repository>changme</repository>
+                  <idno type="archive">changme</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <locus>{{ img_id }}</locus>
+                     <p/>
+                  </msItem>
+               </msContents>
+               <history>
+                  <origin notBefore="1900-01-01" notAfter="2000-12-31"/>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+    {{ surface_node|safe }}
+   </facsimile>
+   <text>
+      <body>
+        <div>
+            {{ pb_node|safe }}
+            {{ ab_node|safe }}
+        </div>
+      </body>
+    </text>
+</TEI>
