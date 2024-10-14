@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <meta>
+        <filters directoryPatterns="" filePatterns="\Qtillich-lectures-transkribus-export.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="tillich-lectures-transkribus-export.xpr">
+        <folder path="."/>
+    </projectTree>
+</project>
