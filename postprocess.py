@@ -33,7 +33,6 @@ for part, x in enumerate(files, start=1):
 
 for i, x in enumerate(tqdm(files)):
     doc_id = os.path.split(x)[-1].replace('.xml', '')
-    print(doc_id)
     doc = TeiReader(x)
     nsmap = doc.nsmap
     for y in doc.any_xpath(".//tei:surface[@xml:id]"):
@@ -95,3 +94,16 @@ for i, x in enumerate(files, start=1):
     pb.attrib["facs"] = f"#{cur_id}.jpg"
     doc.tree_to_file(os.path.join("data", "editions", f_name))
     os.remove(x)
+
+files = sorted(glob.glob('./data/editions/*xml'))
+for x in files:
+    doc = TeiReader(x)
+    body = doc.any_xpath(".//tei:body")[0]
+    for element in body.iter():
+        el_name = element.tag.replace("{http://www.tei-c.org/ns/1.0}", "")
+        if el_name[0].isupper():
+            print(el_name)
+            element.tag = "{http://www.tei-c.org/ns/1.0}rs"
+            element.attrib["type"] = "keyword"
+            element.attrib["ref"] = f"#{el_name}"
+    doc.tree_to_file(x)
