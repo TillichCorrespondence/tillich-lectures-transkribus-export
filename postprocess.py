@@ -40,7 +40,7 @@ for i, x in enumerate(tqdm(files)):
         img_url = y.xpath("./tei:graphic/@url", namespaces=nsmap)[0]
         img_id = img_url.replace(".jpg", "")
         pb_node = doc.any_xpath(f'.//tei:pb[@facs="#{facs_id}"]')[0]
-        xpath_expr = f'.//tei:ab[@facs="{facs_id}" or starts-with(@facs, "#{facs_id}_")]'
+        xpath_expr = f'.//tei:ab[@facs="{facs_id}" or starts-with(@facs, "#{facs_id}_")] | .//tei:p[@facs="{facs_id}" or starts-with(@facs, "#{facs_id}_")]'
         ab_node = doc.any_xpath(xpath_expr)
         if len(ab_node) > 1:
             print(len(ab_node))
@@ -106,4 +106,6 @@ for x in files:
             element.tag = "{http://www.tei-c.org/ns/1.0}rs"
             element.attrib["type"] = "keyword"
             element.attrib["ref"] = f"#{el_name}"
+        elif element.tag == "{http://www.tei-c.org/ns/1.0}ab":
+            element.tag = "{http://www.tei-c.org/ns/1.0}p"
     doc.tree_to_file(x)
