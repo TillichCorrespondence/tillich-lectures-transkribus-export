@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt><title type="main">Tillich 388-469</title></titleStmt>
@@ -3102,14 +3101,14 @@
    <text>
       <body>
          <div>
-            <pb facs="#facs_1" n="1830350__p001.jpg" xml:id="img_0001"/>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
             <ab facs="#facs_1_tr_1">
                <lb facs="#facs_1_tr_1_tl_1" n="N001"/>[388]
                <lb facs="#facs_1_l" n="N002"/>Now you see what I mean [by] dehumanization, objectivation. And there is still
                <lb facs="#facs_1_l_128" n="N003"/>a little bit more we have to discuss next time, and then I will go fully into the problem of
                <lb facs="#facs_1_l_82" n="N004"/>education.
             </ab>
-            <pb facs="#facs_2" n="1830350__p002.jpg" xml:id="img_0002"/>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <ab facs="#facs_2_tr_2">
                <lb facs="#facs_2_tr_2_tl_1" n="N001"/>[389]
                <lb facs="#facs_2_tr_2_tl_2" n="N002"/>LECTURE XXXI, March 1, 1956
@@ -3135,7 +3134,7 @@
                <lb facs="#facs_2_tr_1_tl_11" n="N010"/>expressionistic or surrealistic) was admired. And the criteria of poor, average, good, and great
                <lb facs="#facs_2_tr_1_tl_12" n="N011"/>were not applied any more. And this is always hard, there is always a large margin of error,
             </ab>
-            <pb facs="#facs_3" n="1830350__p003.jpg" xml:id="img_0003"/>
+            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
             <ab facs="#facs_3_r">
                <lb facs="#facs_3_l" n="N001"/>[390]
             </ab>
@@ -3163,7 +3162,7 @@
                <lb facs="#facs_3_tr_2_tl_7" n="N006"/>This situation was the general character. We also found that this situation creates
                <lb facs="#facs_3_tr_2_tl_8" n="N007"/>something I like to call patternization, namely being subjected to a pattern. Not conformism
             </ab>
-            <pb facs="#facs_4" n="1830350__p004.jpg" xml:id="img_0004"/>
+            <pb facs="#facs_4" n="4" xml:id="img_0004"/>
             <ab facs="#facs_4_tr_2">
                <lb facs="#facs_4_tr_2_tl_1" n="N001"/>[391]
                <lb facs="#facs_4_tr_2_tl_2" n="N002"/>as such, is bad; conformism CAN be good, if it is historically founded and alive, as it still was
@@ -3188,7 +3187,7 @@
                <lb facs="#facs_4_tr_1_tl_13" n="N012"/>like Giotto, still the greatness of a religious substance expressed in naturalistic forms. Then step
                <lb facs="#facs_4_tr_1_tl_14" n="N013"/>by step the loss of this substance: it is wasted. And what is left is the objective world as we
             </ab>
-            <pb facs="#facs_5" n="1830350__p005.jpg" xml:id="img_0005"/>
+            <pb facs="#facs_5" n="5" xml:id="img_0005"/>
             <ab facs="#facs_5_tr_1">
                <lb facs="#facs_5_tr_1_tl_1" n="N001"/>dʼun autre
                <lb facs="#facs_5_tr_1_tl_2" n="N002"/>-392-
@@ -3218,7 +3217,7 @@
                <lb facs="#facs_5_tr_2_tl_8" n="N008"/>to choose the battlefield of their defence—the realm, or better the dimension, in which religion
                <lb facs="#facs_5_tr_2_tl_9" n="N009"/>uauaadu
             </ab>
-            <pb facs="#facs_6" n="1830350__p006.jpg" xml:id="img_0006"/>
+            <pb facs="#facs_6" n="6" xml:id="img_0006"/>
             <ab facs="#facs_6_tr_2">
                <lb facs="#facs_6_tr_2_tl_1" n="N001"/>-ß93-
                <lb facs="#facs_6_tr_2_tl_2" n="N002"/>cannot be defended at all, namely the dimension of the subject-object structure of reality.
@@ -3246,7 +3245,7 @@
                <lb facs="#facs_6_tr_1_tl_12" n="N012"/>did not adapt them but had no weapons of resistance because they resisted on the level which was
                <lb facs="#facs_6_tr_1_tl_13" n="N013"/>vous avez eu le
             </ab>
-            <pb facs="#facs_7" n="1830350__p007.jpg" xml:id="img_0007"/>
+            <pb facs="#facs_7" n="7" xml:id="img_0007"/>
             <ab facs="#facs_7_tr_1">
                <lb facs="#facs_7_tr_1_tl_1" n="N001"/>Anhard der Kunst mach T. Brotleme, deutlich!
                <lb facs="#facs_7_tr_1_tl_2" n="N002"/>-394-
@@ -3274,7 +3273,7 @@
                <lb facs="#facs_7_tr_2_tl_7" n="N007"/>foundations, “existentalism.”) But since this word is a clumsy one, and everybody is afraid
                <lb facs="#facs_7_tr_2_tl_8" n="N008"/>before he even trees to understand what it COUED mean, we might also describe it in other words.
             </ab>
-            <pb facs="#facs_8" n="1830350__p008.jpg" xml:id="img_0008"/>
+            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
             <ab facs="#facs_8_tr_1">
                <lb facs="#facs_8_tr_1_tl_1" n="N001"/>-395-
                <lb facs="#facs_8_tr_1_tl_2" n="N002"/>We can simply use the [ennrase] "the experience of brokenness," we can speak of "the expressionistic
@@ -3302,7 +3301,7 @@
                <lb facs="#facs_8_tr_3_tl_5" n="N005"/>in such a way that, so to speak, that which was covered by the process of creating gadgets, means
                <lb facs="#facs_8_tr_3_tl_6" n="N006"/>-
             </ab>
-            <pb facs="#facs_9" n="1830350__p009.jpg" xml:id="img_0009"/>
+            <pb facs="#facs_9" n="9" xml:id="img_0009"/>
             <ab facs="#facs_9_tr_3">
                <lb facs="#facs_9_tr_3_tl_1" n="N001"/>dʼêtre
                <lb facs="#facs_9_tr_3_tl_2" n="N002"/>-av6-
@@ -3330,7 +3329,7 @@
                <lb facs="#facs_9_tr_2_tl_7" n="N007"/>almost five years. I am very much interested that you ask this question again! Now this question
                <lb facs="#facs_9_tr_2_tl_8" n="N008"/>is of course very much justified in a lecture in which we speak about religion and culture
             </ab>
-            <pb facs="#facs_10" n="1830350__p010.jpg" xml:id="img_0010"/>
+            <pb facs="#facs_10" n="10" xml:id="img_0010"/>
             <ab facs="#facs_10_tr_2">
                <lb facs="#facs_10_tr_2_tl_1" n="N001"/>ne se
                <lb facs="#facs_10_tr_2_tl_2" n="N002"/>Monsieur,
@@ -3359,7 +3358,7 @@
                <lb facs="#facs_10_tr_1_tl_12" n="N012"/>develop remedies, forces of healing in himself which will radiate into others. So to this class,
                <lb facs="#facs_10_tr_1_tl_13" n="N013"/>here and now, in this moment, I would answer your question by saying: EXPERIANCE the things
             </ab>
-            <pb facs="#facs_11" n="1830350__p011.jpg" xml:id="img_0011"/>
+            <pb facs="#facs_11" n="11" xml:id="img_0011"/>
             <ab facs="#facs_11_tr_1">
                <lb facs="#facs_11_tr_1_tl_1" n="N001"/>M. de
                <lb facs="#facs_11_tr_1_tl_2" n="N002"/>-398-
@@ -3388,7 +3387,7 @@
                <lb facs="#facs_11_tr_3_tl_6" n="N006"/>you BEYOND the subject-object encounter into that which is ITSELF beyond subject and object,
                <lb facs="#facs_11_tr_3_tl_7" n="N007"/>namely the holy, the ground of being out of which both come. This experience can be called
             </ab>
-            <pb facs="#facs_12" n="1830350__p012.jpg" xml:id="img_0012"/>
+            <pb facs="#facs_12" n="12" xml:id="img_0012"/>
             <ab facs="#facs_12_tr_1">
                <lb facs="#facs_12_tr_1_tl_1" n="N001"/>peuil
                <lb facs="#facs_12_tr_1_tl_2" n="N002"/>cʼest lʼétat de ses
@@ -3420,7 +3419,7 @@
                <lb facs="#facs_12_tr_2_tl_9" n="N009"/>PT: This is a very Bey justified question, whether our period is the first in which such objectivation
                <lb facs="#facs_12_tr_2_tl_10" n="N010"/>has taken place. I have learned about the whole thing only by studying the history of Greek
             </ab>
-            <pb facs="#facs_13" n="1830350__p013.jpg" xml:id="img_0013"/>
+            <pb facs="#facs_13" n="13" xml:id="img_0013"/>
             <ab facs="#facs_13_tr_2">
                <lb facs="#facs_13_tr_2_tl_1" n="N001"/>de
                <lb facs="#facs_13_tr_2_tl_2" n="N002"/>400.
@@ -3447,7 +3446,7 @@
                <lb facs="#facs_13_tr_1_tl_12" n="N012"/>on theNaziures of the sarcophagi, [where] you find a return to the non-naturalistic archaism,
                <lb facs="#facs_13_tr_1_tl_13" n="N013"/>archaic style, which now, since it is a repetition, could be called archaistic in contrast to archaic¬
             </ab>
-            <pb facs="#facs_14" n="1830350__p014.jpg" xml:id="img_0014"/>
+            <pb facs="#facs_14" n="14" xml:id="img_0014"/>
             <ab facs="#facs_14_tr_2">
                <lb facs="#facs_14_tr_2_tl_1" n="N001"/>-w01-
                <lb facs="#facs_14_tr_2_tl_2" n="N002"/>it is not originally archaic any more, but it is archaistic, it is a return. And this return gives the
@@ -3483,7 +3482,7 @@
                <lb facs="#facs_14_tr_3_tl_7" n="N007"/>dʼadresse à
                <lb facs="#facs_14_tr_3_tl_8" n="N008"/>dʼauteur dʼune manière
             </ab>
-            <pb facs="#facs_15" n="1830350__p015.jpg" xml:id="img_0015"/>
+            <pb facs="#facs_15" n="15" xml:id="img_0015"/>
             <ab facs="#facs_15_tr_3">
                <lb facs="#facs_15_tr_3_tl_1" n="N001"/>4o—
                <lb facs="#facs_15_tr_3_tl_2" n="N002"/>First World War we believed, in Europe, that now the kziros, the right time, has arrived for the
@@ -3520,7 +3519,7 @@
                <lb facs="#facs_15_tr_1_tl_11" n="N011"/>dʼune manière beaucoup
                <lb facs="#facs_15_tr_1_tl_12" n="N012"/>Monsieur
             </ab>
-            <pb facs="#facs_16" n="1830350__p016.jpg" xml:id="img_0016"/>
+            <pb facs="#facs_16" n="16" xml:id="img_0016"/>
             <ab facs="#facs_16_tr_1">
                <lb facs="#facs_16_tr_1_tl_1" n="N001"/>sses unconsciously, as a too! to preserve it. This is
                <lb facs="#facs_16_tr_1_tl_2" n="N002"/>[ task]
@@ -3536,7 +3535,7 @@
                <lb facs="#facs_16_tr_2_tl_4" n="N004"/>dans une lettre
                <lb facs="#facs_16_tr_2_tl_5" n="N005"/>Vous avez
             </ab>
-            <pb facs="#facs_17" n="1830350__p017.jpg" xml:id="img_0017"/>
+            <pb facs="#facs_17" n="17" xml:id="img_0017"/>
             <ab facs="#facs_17_tr_3">
                <lb facs="#facs_17_tr_3_tl_1" n="N001"/> Ma¬
                <lb facs="#facs_17_tr_3_tl_2" n="N002"/>LECTURE XXXII, March 6, 956
@@ -3574,7 +3573,7 @@
                <lb facs="#facs_17_tr_1_tl_12" n="N012"/>dʼune manière beaucoup
                <lb facs="#facs_17_tr_1_tl_13" n="N013"/>dʼadresse
             </ab>
-            <pb facs="#facs_18" n="1830350__p018.jpg" xml:id="img_0018"/>
+            <pb facs="#facs_18" n="18" xml:id="img_0018"/>
             <ab facs="#facs_18_tr_1">
                <lb facs="#facs_18_tr_1_tl_1" n="N001"/>405-
                <lb facs="#facs_18_tr_1_tl_2" n="N002"/>the idea. Ideas are but meditations on the intuitions first given usual form by the artist. The iron
@@ -3609,7 +3608,7 @@
                <lb facs="#facs_18_tr_2_tl_11" n="N011"/>e
                <lb facs="#facs_18_tr_2_tl_12" n="N012"/>ne sont pas
             </ab>
-            <pb facs="#facs_19" n="1830350__p019.jpg" xml:id="img_0019"/>
+            <pb facs="#facs_19" n="19" xml:id="img_0019"/>
             <ab facs="#facs_19_tr_2">
                <lb facs="#facs_19_tr_2_tl_1" n="N001"/>-406-
                <lb facs="#facs_19_tr_2_tl_2" n="N002"/>[there] was the word of Peter, "Thou art the Christ," [there] war the appearance of the Christ
@@ -3647,7 +3646,7 @@
                <lb facs="#facs_19_tr_3_tl_9" n="N009"/>Monsieur
                <lb facs="#facs_19_tr_3_tl_10" n="N010"/>dʼune manière
             </ab>
-            <pb facs="#facs_20" n="1830350__p020.jpg" xml:id="img_0020"/>
+            <pb facs="#facs_20" n="20" xml:id="img_0020"/>
             <ab facs="#facs_20_tr_1">
                <lb facs="#facs_20_tr_1_tl_1" n="N001"/>Herrn
                <lb facs="#facs_20_tr_1_tl_2" n="N002"/>407.
@@ -3687,7 +3686,7 @@
                <lb facs="#facs_20_tr_2_tl_10" n="N010"/>dʼune manière beaucoup
                <lb facs="#facs_20_tr_2_tl_11" n="N011"/>dʼadresse à
             </ab>
-            <pb facs="#facs_21" n="1830350__p021.jpg" xml:id="img_0021"/>
+            <pb facs="#facs_21" n="21" xml:id="img_0021"/>
             <ab facs="#facs_21_tr_2">
                <lb facs="#facs_21_tr_2_tl_1" n="N001"/>-ere¬
                <lb facs="#facs_21_tr_2_tl_2" n="N002"/>other. I repeat the three: the humanistic, the technical, and the introductory.
@@ -3724,7 +3723,7 @@
                <lb facs="#facs_21_tr_1_tl_13" n="N013"/>dʼun autre
                <lb facs="#facs_21_tr_1_tl_14" n="N014"/>dʼune manière
             </ab>
-            <pb facs="#facs_22" n="1830350__p022.jpg" xml:id="img_0022"/>
+            <pb facs="#facs_22" n="22" xml:id="img_0022"/>
             <ab facs="#facs_22_tr_1">
                <lb facs="#facs_22_tr_1_tl_1" n="N001"/>pour lui
                <lb facs="#facs_22_tr_1_tl_2" n="N002"/>409.
@@ -3775,7 +3774,7 @@
                <lb facs="#facs_22_tr_3_tl_11" n="N011"/>dʼacquerir que je suis
                <lb facs="#facs_22_tr_3_tl_12" n="N012"/>dʼadresse à
             </ab>
-            <pb facs="#facs_23" n="1830350__p023.jpg" xml:id="img_0023"/>
+            <pb facs="#facs_23" n="23" xml:id="img_0023"/>
             <ab facs="#facs_23_tr_2">
                <lb facs="#facs_23_tr_2_tl_1" n="N001"/>410-
                <lb facs="#facs_23_tr_2_tl_2" n="N002"/>all his strength on the full sevelopment of one individual who is supposed to become an outstanding
@@ -3814,7 +3813,7 @@
                <lb facs="#facs_23_tr_1_tl_15" n="N015"/>de mon frere,
                <lb facs="#facs_23_tr_1_tl_16" n="N016"/>dʼune manière
             </ab>
-            <pb facs="#facs_24" n="1830350__p024.jpg" xml:id="img_0024"/>
+            <pb facs="#facs_24" n="24" xml:id="img_0024"/>
             <ab facs="#facs_24_tr_1">
                <lb facs="#facs_24_tr_1_tl_1" n="N001"/>411.
                <lb facs="#facs_24_tr_1_tl_2" n="N002"/>geography and history. But all this was done on the basis of the use of which the state makes of
@@ -3852,7 +3851,7 @@
                <lb facs="#facs_24_tr_2_tl_11" n="N011"/>dʼavoir lʼautre
                <lb facs="#facs_24_tr_2_tl_12" n="N012"/>dans la
             </ab>
-            <pb facs="#facs_25" n="1830350__p025.jpg" xml:id="img_0025"/>
+            <pb facs="#facs_25" n="25" xml:id="img_0025"/>
             <ab facs="#facs_25_tr_1">
                <lb facs="#facs_25_tr_1_tl_1" n="N001"/>412.
                <lb facs="#facs_25_tr_1_tl_2" n="N002"/>and an ability to look on THES basis into the humanistic values with a new eye. And weffenreamt
@@ -3891,7 +3890,7 @@
                <lb facs="#facs_25_tr_2_tl_15" n="N015"/>cʼest à lire
                <lb facs="#facs_25_tr_2_tl_16" n="N016"/>Monsieur
             </ab>
-            <pb facs="#facs_26" n="1830350__p026.jpg" xml:id="img_0026"/>
+            <pb facs="#facs_26" n="26" xml:id="img_0026"/>
             <ab facs="#facs_26_tr_2">
                <lb facs="#facs_26_tr_2_tl_1" n="N001"/>„
                <lb facs="#facs_26_tr_2_tl_2" n="N002"/>in the power of a higher principle. This I would call the negative concept of an education of Kjustment.
@@ -3929,7 +3928,7 @@
                <lb facs="#facs_26_tr_1_tl_13" n="N013"/>dʼune manière est devenu de ses
                <lb facs="#facs_26_tr_1_tl_14" n="N014"/>dʼune manière beaucoup
             </ab>
-            <pb facs="#facs_27" n="1830350__p027.jpg" xml:id="img_0027"/>
+            <pb facs="#facs_27" n="27" xml:id="img_0027"/>
             <ab facs="#facs_27_tr_2">
                <lb facs="#facs_27_tr_2_tl_1" n="N001"/>Monsieur,
                <lb facs="#facs_27_tr_2_tl_2" n="N002"/>¼
@@ -3971,7 +3970,7 @@
                <lb facs="#facs_27_tr_1_tl_13" n="N013"/>dʼune manière beaucoup
                <lb facs="#facs_27_tr_1_tl_14" n="N014"/>dʼune manière est devenu avec vous
             </ab>
-            <pb facs="#facs_28" n="1830350__p028.jpg" xml:id="img_0028"/>
+            <pb facs="#facs_28" n="28" xml:id="img_0028"/>
             <ab facs="#facs_28_tr_2">
                <lb facs="#facs_28_tr_2_tl_1" n="N001"/>415-
                <lb facs="#facs_28_tr_2_tl_2" n="N002"/>but in terms of these comparately few institutions which in Germany are called Gymnasia,
@@ -4011,7 +4010,7 @@
                <lb facs="#facs_28_tr_1_tl_27" n="N027"/>dʼadresse à
                <lb facs="#facs_28_tr_1_tl_28" n="N028"/>dʼune manière
             </ab>
-            <pb facs="#facs_29" n="1830350__p029.jpg" xml:id="img_0029"/>
+            <pb facs="#facs_29" n="29" xml:id="img_0029"/>
             <ab facs="#facs_29_tr_2">
                <lb facs="#facs_29_tr_2_tl_1" n="N001"/>ur.
                <lb facs="#facs_29_tr_2_tl_2" n="N002"/>on what was called in German Sozialpadagogik, social pedagogy, then the pattern which we had in mind
@@ -4051,7 +4050,7 @@
                <lb facs="#facs_29_tr_1_tl_25" n="N025"/>dʼune manière beaucoup devenu
                <lb facs="#facs_29_tr_1_tl_26" n="N026"/>dʼune manière
             </ab>
-            <pb facs="#facs_30" n="1830350__p030.jpg" xml:id="img_0030"/>
+            <pb facs="#facs_30" n="30" xml:id="img_0030"/>
             <ab facs="#facs_30_tr_1">
                <lb facs="#facs_30_tr_1_tl_1" n="N001"/>vous avez
                <lb facs="#facs_30_tr_1_tl_2" n="N002"/>-117-
@@ -4085,7 +4084,7 @@
                <lb facs="#facs_30_tr_2_tl_10" n="N010"/>ou vous intérieurez
                <lb facs="#facs_30_tr_2_tl_11" n="N011"/>G.C.F.P.
             </ab>
-            <pb facs="#facs_31" n="1830350__p031.jpg" xml:id="img_0031"/>
+            <pb facs="#facs_31" n="31" xml:id="img_0031"/>
             <ab facs="#facs_31_tr_3">
                <lb facs="#facs_31_tr_3_tl_1" n="N001"/>-A18-
                <lb facs="#facs_31_tr_3_tl_2" n="N002"/>LECTURE XXXIII, March 8, 956
@@ -4120,7 +4119,7 @@
                <lb facs="#facs_31_tr_1_tl_9" n="N009"/>Monsieur
                <lb facs="#facs_31_tr_1_tl_10" n="N010"/>sʼil est vrai
             </ab>
-            <pb facs="#facs_32" n="1830350__p032.jpg" xml:id="img_0032"/>
+            <pb facs="#facs_32" n="32" xml:id="img_0032"/>
             <ab facs="#facs_32_tr_2">
                <lb facs="#facs_32_tr_2_tl_1" n="N001"/>m¬
                <lb facs="#facs_32_tr_2_tl_2" n="N002"/>a matter of ultimate concern. And those movements which fu[l]fill this demand were the
@@ -4154,7 +4153,7 @@
                <lb facs="#facs_32_tr_1_tl_11" n="N011"/>de mon
                <lb facs="#facs_32_tr_1_tl_12" n="N012"/>dire une
             </ab>
-            <pb facs="#facs_33" n="1830350__p033.jpg" xml:id="img_0033"/>
+            <pb facs="#facs_33" n="33" xml:id="img_0033"/>
             <ab facs="#facs_33_tr_3">
                <lb facs="#facs_33_tr_3_tl_1" n="N001"/>dans
                <lb facs="#facs_33_tr_3_tl_2" n="N002"/>-420-
@@ -4197,7 +4196,7 @@
                <lb facs="#facs_33_tr_1_tl_20" n="N020"/>cʼest avec
                <lb facs="#facs_33_tr_1_tl_21" n="N021"/>dʼune manière beaucoup
             </ab>
-            <pb facs="#facs_34" n="1830350__p034.jpg" xml:id="img_0034"/>
+            <pb facs="#facs_34" n="34" xml:id="img_0034"/>
             <ab facs="#facs_34_tr_3">
                <lb facs="#facs_34_tr_3_tl_1" n="N001"/>-man¬
                <lb facs="#facs_34_tr_3_tl_2" n="N002"/>then of course the education IS NOTDenETTER, although much smoother and softer than the education
@@ -4233,7 +4232,7 @@
                <lb facs="#facs_34_tr_2_tl_9" n="N009"/>to the
                <lb facs="#facs_34_tr_2_tl_10" n="N010"/>dʼune manière beaucoup
             </ab>
-            <pb facs="#facs_35" n="1830350__p035.jpg" xml:id="img_0035"/>
+            <pb facs="#facs_35" n="35" xml:id="img_0035"/>
             <ab facs="#facs_35_tr_1">
                <lb facs="#facs_35_tr_1_tl_1" n="N001"/>dʼoù il y a eut
                <lb facs="#facs_35_tr_1_tl_2" n="N002"/>422.
@@ -4279,7 +4278,7 @@
                <lb facs="#facs_35_tr_3_tl_21" n="N021"/>dire une
                <lb facs="#facs_35_tr_3_tl_22" n="N022"/>dʼun autre
             </ab>
-            <pb facs="#facs_36" n="1830350__p036.jpg" xml:id="img_0036"/>
+            <pb facs="#facs_36" n="36" xml:id="img_0036"/>
             <ab facs="#facs_36_tr_3">
                <lb facs="#facs_36_tr_3_tl_1" n="N001"/>vous avez
                <lb facs="#facs_36_tr_3_tl_2" n="N002"/>1423.
@@ -4310,7 +4309,7 @@
                <lb facs="#facs_36_tr_1_tl_11" n="N011"/>Monsieur
                <lb facs="#facs_36_tr_1_tl_12" n="N012"/>le reste de ses rêveaux
             </ab>
-            <pb facs="#facs_37" n="1830350__p037.jpg" xml:id="img_0037"/>
+            <pb facs="#facs_37" n="37" xml:id="img_0037"/>
             <ab facs="#facs_37_tr_3">
                <lb facs="#facs_37_tr_3_tl_1" n="N001"/>-/24-
                <lb facs="#facs_37_tr_3_tl_2" n="N002"/>potentalities, which are already in the child. Now if we look in this light to the Greek and the
@@ -4349,7 +4348,7 @@
                <lb facs="#facs_37_tr_1_tl_14" n="N014"/>dʼune manière
                <lb facs="#facs_37_tr_1_tl_15" n="N015"/>de M r de
             </ab>
-            <pb facs="#facs_38" n="1830350__p038.jpg" xml:id="img_0038"/>
+            <pb facs="#facs_38" n="38" xml:id="img_0038"/>
             <ab facs="#facs_38_tr_4">
                <lb facs="#facs_38_tr_4_tl_1" n="N001"/>mʼa jusquʼau moins dʼune manière
                <lb facs="#facs_38_tr_4_tl_2" n="N002"/>-425-
@@ -4396,7 +4395,7 @@
                <lb facs="#facs_38_tr_1_tl_15" n="N015"/>cʼest avec
                <lb facs="#facs_38_tr_1_tl_16" n="N016"/>dʼune manière
             </ab>
-            <pb facs="#facs_39" n="1830350__p039.jpg" xml:id="img_0039"/>
+            <pb facs="#facs_39" n="39" xml:id="img_0039"/>
             <ab facs="#facs_39_tr_2">
                <lb facs="#facs_39_tr_2_tl_1" n="N001"/>- sev.
                <lb facs="#facs_39_tr_2_tl_2" n="N002"/>Here religion and positivism agree, namely if religion has become positivistic-and that, it did,
@@ -4428,7 +4427,7 @@
                <lb facs="#facs_39_tr_3_tl_5" n="N005"/>pour lui
                <lb facs="#facs_39_tr_3_tl_6" n="N006"/>dans
             </ab>
-            <pb facs="#facs_40" n="1830350__p040.jpg" xml:id="img_0040"/>
+            <pb facs="#facs_40" n="40" xml:id="img_0040"/>
             <ab facs="#facs_40_tr_3">
                <lb facs="#facs_40_tr_3_tl_1" n="N001"/>de mon ami, je suis
                <lb facs="#facs_40_tr_3_tl_2" n="N002"/>-227.
@@ -4477,7 +4476,7 @@
                <lb facs="#facs_40_tr_1_tl_23" n="N023"/>Monsieur
                <lb facs="#facs_40_tr_1_tl_24" n="N024"/>dʼun autre
             </ab>
-            <pb facs="#facs_41" n="1830350__p041.jpg" xml:id="img_0041"/>
+            <pb facs="#facs_41" n="41" xml:id="img_0041"/>
             <ab facs="#facs_41_tr_1">
                <lb facs="#facs_41_tr_1_tl_1" n="N001"/>-urda-
                <lb facs="#facs_41_tr_1_tl_2" n="N002"/>This means the humanistic element isölacking in both. This alliance of non-religious and religious
@@ -4524,7 +4523,7 @@
                <lb facs="#facs_41_tr_2_tl_21" n="N021"/>des
                <lb facs="#facs_41_tr_2_tl_22" n="N022"/>by the
             </ab>
-            <pb facs="#facs_42" n="1830350__p042.jpg" xml:id="img_0042"/>
+            <pb facs="#facs_42" n="42" xml:id="img_0042"/>
             <ab facs="#facs_42_tr_3">
                <lb facs="#facs_42_tr_3_tl_1" n="N001"/>pour entendre
                <lb facs="#facs_42_tr_3_tl_2" n="N002"/> la¬
@@ -4575,7 +4574,7 @@
                <lb facs="#facs_42_tr_1_tl_25" n="N025"/>Puis
                <lb facs="#facs_42_tr_1_tl_26" n="N026"/>devenu
             </ab>
-            <pb facs="#facs_43" n="1830350__p043.jpg" xml:id="img_0043"/>
+            <pb facs="#facs_43" n="43" xml:id="img_0043"/>
             <ab facs="#facs_43_tr_3">
                <lb facs="#facs_43_tr_3_tl_1" n="N001"/>e
                <lb facs="#facs_43_tr_3_tl_2" n="N002"/>-430-
@@ -4616,7 +4615,7 @@
                <lb facs="#facs_43_tr_2_tl_17" n="N017"/>dʼOndine
                <lb facs="#facs_43_tr_2_tl_18" n="N018"/>dʼun autre
             </ab>
-            <pb facs="#facs_44" n="1830350__p044.jpg" xml:id="img_0044"/>
+            <pb facs="#facs_44" n="44" xml:id="img_0044"/>
             <ab facs="#facs_44_tr_2">
                <lb facs="#facs_44_tr_2_tl_1" n="N001"/>que je mʼa fait
                <lb facs="#facs_44_tr_2_tl_2" n="N002"/>„
@@ -4638,7 +4637,7 @@
                <lb facs="#facs_44_tr_1_tl_8" n="N008"/>of human existence—falls short of what it should do. And nothing is more revealed for this
                <lb facs="#facs_44_tr_1_tl_9" n="N009"/>fact than the latent European history! (Applause)
             </ab>
-            <pb facs="#facs_45" n="1830350__p045.jpg" xml:id="img_0045"/>
+            <pb facs="#facs_45" n="45" xml:id="img_0045"/>
             <ab facs="#facs_45_tr_2">
                <lb facs="#facs_45_tr_2_tl_1" n="N001"/>de ses
                <lb facs="#facs_45_tr_2_tl_2" n="N002"/>de votre beauement.
@@ -4672,7 +4671,7 @@
                <lb facs="#facs_45_tr_1_tl_12" n="N012"/>Monsieur,
                <lb facs="#facs_45_tr_1_tl_13" n="N013"/>Monsieur, que
             </ab>
-            <pb facs="#facs_46" n="1830350__p046.jpg" xml:id="img_0046"/>
+            <pb facs="#facs_46" n="46" xml:id="img_0046"/>
             <ab facs="#facs_46_tr_2">
                <lb facs="#facs_46_tr_2_tl_1" n="N001"/>-us¬
                <lb facs="#facs_46_tr_2_tl_2" n="N002"/>in this. And this is so self-understood in a Christian culture that we don't remember any more
@@ -4702,7 +4701,7 @@
                <lb facs="#facs_46_tr_1_tl_12" n="N012"/>pour la
                <lb facs="#facs_46_tr_1_tl_13" n="N013"/>P.S.
             </ab>
-            <pb facs="#facs_47" n="1830350__p047.jpg" xml:id="img_0047"/>
+            <pb facs="#facs_47" n="47" xml:id="img_0047"/>
             <ab facs="#facs_47_tr_1">
                <lb facs="#facs_47_tr_1_tl_1" n="N001"/>dʼêtre
                <lb facs="#facs_47_tr_1_tl_2" n="N002"/>„
@@ -4733,7 +4732,7 @@
                <lb facs="#facs_47_tr_2_tl_7" n="N007"/>practical, on the basis of the development of his own rationality. This of course has the consequence
                <lb facs="#facs_47_tr_2_tl_8" n="N008"/>cʼest lʼobligation
             </ab>
-            <pb facs="#facs_48" n="1830350__p048.jpg" xml:id="img_0048"/>
+            <pb facs="#facs_48" n="48" xml:id="img_0048"/>
             <ab facs="#facs_48_tr_2">
                <lb facs="#facs_48_tr_2_tl_1" n="N001"/>«435-
                <lb facs="#facs_48_tr_2_tl_2" n="N002"/>that every individual is ultimately Heolated from the other one, in theòvelopment of his own
@@ -4760,7 +4759,7 @@
                <lb facs="#facs_48_tr_1_tl_12" n="N012"/>cʼest avec
                <lb facs="#facs_48_tr_1_tl_13" n="N013"/>dʼune manière
             </ab>
-            <pb facs="#facs_49" n="1830350__p049.jpg" xml:id="img_0049"/>
+            <pb facs="#facs_49" n="49" xml:id="img_0049"/>
             <ab facs="#facs_49_tr_3">
                <lb facs="#facs_49_tr_3_tl_1" n="N001"/>dʼauteur avec
                <lb facs="#facs_49_tr_3_tl_2" n="N002"/>„34
@@ -4791,7 +4790,7 @@
                <lb facs="#facs_49_tr_2_tl_9" n="N009"/>Mais elle est vrai avec lʼhonneur dʼautre vérité
                <lb facs="#facs_49_tr_2_tl_10" n="N010"/>Monsieur Mʼa paruilà lʼécrire séance
             </ab>
-            <pb facs="#facs_50" n="1830350__p050.jpg" xml:id="img_0050"/>
+            <pb facs="#facs_50" n="50" xml:id="img_0050"/>
             <ab facs="#facs_50_tr_1">
                <lb facs="#facs_50_tr_1_tl_1" n="N001"/> spol.
                <lb facs="#facs_50_tr_1_tl_2" n="N002"/>is a direct intreference of God, i.e., a fundamental substance which is the point of unity in all this.
@@ -4820,7 +4819,7 @@
                <lb facs="#facs_50_tr_2_tl_7" n="N007"/>de mon ami
                <lb facs="#facs_50_tr_2_tl_8" n="N008"/>dʼadresse à
             </ab>
-            <pb facs="#facs_51" n="1830350__p051.jpg" xml:id="img_0051"/>
+            <pb facs="#facs_51" n="51" xml:id="img_0051"/>
             <ab facs="#facs_51_tr_1">
                <lb facs="#facs_51_tr_1_tl_1" n="N001"/>d.
                <lb facs="#facs_51_tr_1_tl_2" n="N002"/>and which he is supposed to bevelop. This is the third type of individualism.
@@ -4854,7 +4853,7 @@
                <lb facs="#facs_51_tr_2_tl_10" n="N010"/>the WIOLE concept of the individual in these three senses has not beenque dropped for the sake of radical
                <lb facs="#facs_51_tr_2_tl_11" n="N011"/>collectivism.
             </ab>
-            <pb facs="#facs_52" n="1830350__p052.jpg" xml:id="img_0052"/>
+            <pb facs="#facs_52" n="52" xml:id="img_0052"/>
             <ab facs="#facs_52_tr_2">
                <lb facs="#facs_52_tr_2_tl_1" n="N001"/>dʼun autre
                <lb facs="#facs_52_tr_2_tl_2" n="N002"/>dʼavoir eu que je
@@ -4890,7 +4889,7 @@
                <lb facs="#facs_52_tr_1_tl_12" n="N012"/>dʼune manière
                <lb facs="#facs_52_tr_1_tl_13" n="N013"/>dʼadresse
             </ab>
-            <pb facs="#facs_53" n="1830350__p053.jpg" xml:id="img_0053"/>
+            <pb facs="#facs_53" n="53" xml:id="img_0053"/>
             <ab facs="#facs_53_tr_3">
                <lb facs="#facs_53_tr_3_tl_1" n="N001"/>- 440-
                <lb facs="#facs_53_tr_3_tl_2" n="N002"/>Persona means the character of the actor in a play—one has derived it from personare,
@@ -4923,7 +4922,7 @@
                <lb facs="#facs_53_tr_2_tl_9" n="N009"/>pour le
                <lb facs="#facs_53_tr_2_tl_10" n="N010"/>Je ne suis
             </ab>
-            <pb facs="#facs_54" n="1830350__p054.jpg" xml:id="img_0054"/>
+            <pb facs="#facs_54" n="54" xml:id="img_0054"/>
             <ab facs="#facs_54_tr_2">
                <lb facs="#facs_54_tr_2_tl_1" n="N001"/>dʼune manière beaucoup
                <lb facs="#facs_54_tr_2_tl_2" n="N002"/>41.
@@ -4952,7 +4951,7 @@
                <lb facs="#facs_54_tr_1_tl_12" n="N012"/>de vous
                <lb facs="#facs_54_tr_1_tl_13" n="N013"/>pour lui
             </ab>
-            <pb facs="#facs_55" n="1830350__p055.jpg" xml:id="img_0055"/>
+            <pb facs="#facs_55" n="55" xml:id="img_0055"/>
             <ab facs="#facs_55_tr_2">
                <lb facs="#facs_55_tr_2_tl_1" n="N001"/>442.
                <lb facs="#facs_55_tr_2_tl_2" n="N002"/>PT: You would say it is an understood personality. (laugh ter)
@@ -4985,7 +4984,7 @@
                <lb facs="#facs_55_tr_1_tl_8" n="N008"/>de votre beaucoup
                <lb facs="#facs_55_tr_1_tl_9" n="N009"/>Monsieur
             </ab>
-            <pb facs="#facs_56" n="1830350__p056.jpg" xml:id="img_0056"/>
+            <pb facs="#facs_56" n="56" xml:id="img_0056"/>
             <ab facs="#facs_56_tr_2">
                <lb facs="#facs_56_tr_2_tl_1" n="N001"/>44s.
                <lb facs="#facs_56_tr_2_tl_2" n="N002"/>of these two characteristics, lprimitive collectivism went to pieces. Why? In the first respect, in primitive
@@ -5016,7 +5015,7 @@
                <lb facs="#facs_56_tr_1_tl_9" n="N009"/>cʼest en
                <lb facs="#facs_56_tr_1_tl_10" n="N010"/>dʼune manière
             </ab>
-            <pb facs="#facs_57" n="1830350__p057.jpg" xml:id="img_0057"/>
+            <pb facs="#facs_57" n="57" xml:id="img_0057"/>
             <ab facs="#facs_57_tr_2">
                <lb facs="#facs_57_tr_2_tl_1" n="N001"/>pour lui
                <lb facs="#facs_57_tr_2_tl_2" n="N002"/> Maer e
@@ -5052,7 +5051,7 @@
                <lb facs="#facs_57_tr_1_tl_18" n="N018"/>dʼune manière beaucoup
                <lb facs="#facs_57_tr_1_tl_19" n="N019"/>dire une
             </ab>
-            <pb facs="#facs_58" n="1830350__p058.jpg" xml:id="img_0058"/>
+            <pb facs="#facs_58" n="58" xml:id="img_0058"/>
             <ab facs="#facs_58_tr_2">
                <lb facs="#facs_58_tr_2_tl_1" n="N001"/>-445-
                <lb facs="#facs_58_tr_2_tl_2" n="N002"/>Now let me conclude in brief. We must distinguish two things: the idea, and the ideal,
@@ -5071,7 +5070,7 @@
                <lb facs="#facs_58_tr_1_tl_5" n="N005"/>personality and relate it to social ethics and the problem of community.
                <lb facs="#facs_58_tr_1_tl_6" n="N006"/>de ses
             </ab>
-            <pb facs="#facs_59" n="1830350__p059.jpg" xml:id="img_0059"/>
+            <pb facs="#facs_59" n="59" xml:id="img_0059"/>
             <ab facs="#facs_59_tr_2">
                <lb facs="#facs_59_tr_2_tl_1" n="N001"/> ee
                <lb facs="#facs_59_tr_2_tl_2" n="N002"/>LECTURE XXXV, March 12, 956
@@ -5106,7 +5105,7 @@
                <lb facs="#facs_59_tr_1_tl_13" n="N013"/>G.C.F.P
                <lb facs="#facs_59_tr_1_tl_14" n="N014"/>Vous avez
             </ab>
-            <pb facs="#facs_60" n="1830350__p060.jpg" xml:id="img_0060"/>
+            <pb facs="#facs_60" n="60" xml:id="img_0060"/>
             <ab facs="#facs_60_tr_2">
                <lb facs="#facs_60_tr_2_tl_1" n="N001"/>dire,
                <lb facs="#facs_60_tr_2_tl_2" n="N002"/>447.
@@ -5145,7 +5144,7 @@
             <ab facs="#facs_60_tr_4">
                <lb facs="#facs_60_tr_4_tl_1" n="N001"/>Mn
             </ab>
-            <pb facs="#facs_61" n="1830350__p061.jpg" xml:id="img_0061"/>
+            <pb facs="#facs_61" n="61" xml:id="img_0061"/>
             <ab facs="#facs_61_tr_2">
                <lb facs="#facs_61_tr_2_tl_1" n="N001"/>-248.
                <lb facs="#facs_61_tr_2_tl_2" n="N002"/>Lutheran; and in consequence, of Cart (s)ianõevelopment of the Renaissance, namely the philosophy
@@ -5175,7 +5174,7 @@
                <lb facs="#facs_61_tr_3_tl_4" n="N004"/>pour la
                <lb facs="#facs_61_tr_3_tl_5" n="N005"/>dʼune manière
             </ab>
-            <pb facs="#facs_62" n="1830350__p062.jpg" xml:id="img_0062"/>
+            <pb facs="#facs_62" n="62" xml:id="img_0062"/>
             <ab facs="#facs_62_tr_1">
                <lb facs="#facs_62_tr_1_tl_1" n="N001"/>-449-
                <lb facs="#facs_62_tr_1_tl_2" n="N002"/>which one gets in one week. Now what does this mean? This means that something is going wrong
@@ -5201,7 +5200,7 @@
                <lb facs="#facs_62_tr_2_tl_7" n="N007"/>an end in itself, not a mirror of the divine potentialities in every atom and in every plant and
                <lb facs="#facs_62_tr_2_tl_8" n="N008"/>animal. This is donied as European romanticism, and since romanticism has become a name-called word¬
             </ab>
-            <pb facs="#facs_63" n="1830350__p063.jpg" xml:id="img_0063"/>
+            <pb facs="#facs_63" n="63" xml:id="img_0063"/>
             <ab facs="#facs_63_tr_1">
                <lb facs="#facs_63_tr_1_tl_1" n="N001"/>450
                <lb facs="#facs_63_tr_1_tl_2" n="N002"/>although, as Karl Barth says, we all are romantics by nature (he means, by history) (some daughter) —
@@ -5237,7 +5236,7 @@
                <lb facs="#facs_63_tr_2_tl_12" n="N012"/>de mon ami
                <lb facs="#facs_63_tr_2_tl_13" n="N013"/>de Votre
             </ab>
-            <pb facs="#facs_64" n="1830350__p064.jpg" xml:id="img_0064"/>
+            <pb facs="#facs_64" n="64" xml:id="img_0064"/>
             <ab facs="#facs_64_tr_2">
                <lb facs="#facs_64_tr_2_tl_1" n="N001"/>Monsieur,
                <lb facs="#facs_64_tr_2_tl_2" n="N002"/>-ür¬
@@ -5274,7 +5273,7 @@
                <lb facs="#facs_64_tr_1_tl_14" n="N014"/>de mon ami
                <lb facs="#facs_64_tr_1_tl_15" n="N015"/>qui a
             </ab>
-            <pb facs="#facs_65" n="1830350__p065.jpg" xml:id="img_0065"/>
+            <pb facs="#facs_65" n="65" xml:id="img_0065"/>
             <ab facs="#facs_65_tr_1">
                <lb facs="#facs_65_tr_1_tl_1" n="N001"/>dʼune
                <lb facs="#facs_65_tr_1_tl_2" n="N002"/>-aus¬
@@ -5308,7 +5307,7 @@
                <lb facs="#facs_65_tr_2_tl_8" n="N008"/>dʼun autre
                <lb facs="#facs_65_tr_2_tl_9" n="N009"/>Monsieur
             </ab>
-            <pb facs="#facs_66" n="1830350__p066.jpg" xml:id="img_0066"/>
+            <pb facs="#facs_66" n="66" xml:id="img_0066"/>
             <ab facs="#facs_66_tr_3">
                <lb facs="#facs_66_tr_3_tl_1" n="N001"/>dʼêtre
                <lb facs="#facs_66_tr_3_tl_2" n="N002"/>us¬
@@ -5342,7 +5341,7 @@
                <lb facs="#facs_66_tr_1_tl_13" n="N013"/>dʼun autre
                <lb facs="#facs_66_tr_1_tl_14" n="N014"/>dʼune manière
             </ab>
-            <pb facs="#facs_67" n="1830350__p067.jpg" xml:id="img_0067"/>
+            <pb facs="#facs_67" n="67" xml:id="img_0067"/>
             <ab facs="#facs_67_tr_1">
                <lb facs="#facs_67_tr_1_tl_1" n="N001"/>dʼun autre
                <lb facs="#facs_67_tr_1_tl_2" n="N002"/>154.
@@ -5371,7 +5370,7 @@
                <lb facs="#facs_67_tr_2_tl_11" n="N011"/>cʼest lʼobligation
                <lb facs="#facs_67_tr_2_tl_12" n="N012"/>sont pas
             </ab>
-            <pb facs="#facs_68" n="1830350__p068.jpg" xml:id="img_0068"/>
+            <pb facs="#facs_68" n="68" xml:id="img_0068"/>
             <ab facs="#facs_68_tr_1">
                <lb facs="#facs_68_tr_1_tl_1" n="N001"/>-455-
                <lb facs="#facs_68_tr_1_tl_2" n="N002"/>I am now very near to the psychophological problematic, which we haveavssed at the end of the
@@ -5405,7 +5404,7 @@
                <lb facs="#facs_68_tr_2_tl_10" n="N010"/>Mais elle est vrai avec lʼhonneur dʼune
                <lb facs="#facs_68_tr_2_tl_11" n="N011"/>décrire dernier une lettre est
             </ab>
-            <pb facs="#facs_69" n="1830350__p069.jpg" xml:id="img_0069"/>
+            <pb facs="#facs_69" n="69" xml:id="img_0069"/>
             <ab facs="#facs_69_tr_1">
                <lb facs="#facs_69_tr_1_tl_1" n="N001"/>-ame¬
                <lb facs="#facs_69_tr_1_tl_2" n="N002"/>This brings me to a point to which I referred: family and sex. Most of these things are
@@ -5438,7 +5437,7 @@
                <lb facs="#facs_69_tr_2_tl_8" n="N008"/>dʼune manière beaucoup
                <lb facs="#facs_69_tr_2_tl_9" n="N009"/>G.C.H.P.
             </ab>
-            <pb facs="#facs_70" n="1830350__p070.jpg" xml:id="img_0070"/>
+            <pb facs="#facs_70" n="70" xml:id="img_0070"/>
             <ab facs="#facs_70_tr_3">
                <lb facs="#facs_70_tr_3_tl_1" n="N001"/>-or¬
                <lb facs="#facs_70_tr_3_tl_2" n="N002"/>of both Christian and Protestant sexldhics, and family cthics.
@@ -5471,7 +5470,7 @@
                <lb facs="#facs_70_tr_1_tl_11" n="N011"/>ne sont pas
                <lb facs="#facs_70_tr_1_tl_12" n="N012"/>dʼun autre
             </ab>
-            <pb facs="#facs_71" n="1830350__p071.jpg" xml:id="img_0071"/>
+            <pb facs="#facs_71" n="71" xml:id="img_0071"/>
             <ab facs="#facs_71_tr_2">
                <lb facs="#facs_71_tr_2_tl_1" n="N001"/>-ener¬
                <lb facs="#facs_71_tr_2_tl_2" n="N002"/>and perhaps the first and most important thing. The main question is not better rules—they would
@@ -5510,7 +5509,7 @@
                <lb facs="#facs_71_tr_1_tl_27" n="N027"/>G.C.F.P.
                <lb facs="#facs_71_tr_1_tl_28" n="N028"/>de ses
             </ab>
-            <pb facs="#facs_72" n="1830350__p072.jpg" xml:id="img_0072"/>
+            <pb facs="#facs_72" n="72" xml:id="img_0072"/>
             <ab facs="#facs_72_tr_1">
                <lb facs="#facs_72_tr_1_tl_1" n="N001"/>459.
                <lb facs="#facs_72_tr_1_tl_2" n="N002"/>(V.3.) og Kosten.
@@ -5524,7 +5523,7 @@
             <ab facs="#facs_72_tr_2">
                <lb facs="#facs_72_tr_2_tl_1" n="N001"/>Cela nʼentraîne
             </ab>
-            <pb facs="#facs_73" n="1830350__p073.jpg" xml:id="img_0073"/>
+            <pb facs="#facs_73" n="73" xml:id="img_0073"/>
             <ab facs="#facs_73_tr_3">
                <lb facs="#facs_73_tr_3_tl_1" n="N001"/>460-
                <lb facs="#facs_73_tr_3_tl_2" n="N002"/>LECTURE XXXVI, March 13, [?) 956
@@ -5558,7 +5557,7 @@
                <lb facs="#facs_73_tr_2_tl_11" n="N011"/>dʼun autre est
                <lb facs="#facs_73_tr_2_tl_12" n="N012"/>cʼest un autre
             </ab>
-            <pb facs="#facs_74" n="1830350__p074.jpg" xml:id="img_0074"/>
+            <pb facs="#facs_74" n="74" xml:id="img_0074"/>
             <ab facs="#facs_74_tr_3">
                <lb facs="#facs_74_tr_3_tl_1" n="N001"/>sont pas
                <lb facs="#facs_74_tr_3_tl_2" n="N002"/>-fen¬
@@ -5604,7 +5603,7 @@
                <lb facs="#facs_74_tr_2_tl_21" n="N021"/>dʼavoir lʼautre vieux
                <lb facs="#facs_74_tr_2_tl_22" n="N022"/>cʼest avec
             </ab>
-            <pb facs="#facs_75" n="1830350__p075.jpg" xml:id="img_0075"/>
+            <pb facs="#facs_75" n="75" xml:id="img_0075"/>
             <ab facs="#facs_75_tr_3">
                <lb facs="#facs_75_tr_3_tl_1" n="N001"/>dʼun autre
                <lb facs="#facs_75_tr_3_tl_2" n="N002"/>- H62-
@@ -5645,7 +5644,7 @@
                <lb facs="#facs_75_tr_2_tl_15" n="N015"/>dʼun autre
                <lb facs="#facs_75_tr_2_tl_16" n="N016"/>dʼauteur de vous
             </ab>
-            <pb facs="#facs_76" n="1830350__p076.jpg" xml:id="img_0076"/>
+            <pb facs="#facs_76" n="76" xml:id="img_0076"/>
             <ab facs="#facs_76_tr_1">
                <lb facs="#facs_76_tr_1_tl_1" n="N001"/>Monsieur M r de
                <lb facs="#facs_76_tr_1_tl_2" n="N002"/>¼63.
@@ -5692,7 +5691,7 @@
                <lb facs="#facs_76_tr_2_tl_20" n="N020"/>Monsieur,
                <lb facs="#facs_76_tr_2_tl_21" n="N021"/>dire les
             </ab>
-            <pb facs="#facs_77" n="1830350__p077.jpg" xml:id="img_0077"/>
+            <pb facs="#facs_77" n="77" xml:id="img_0077"/>
             <ab facs="#facs_77_tr_3">
                <lb facs="#facs_77_tr_3_tl_1" n="N001"/>Monsieur
                <lb facs="#facs_77_tr_3_tl_2" n="N002"/>dʼun autre
@@ -5732,7 +5731,7 @@
                <lb facs="#facs_77_tr_2_tl_14" n="N014"/>devenu,
                <lb facs="#facs_77_tr_2_tl_15" n="N015"/>dans le
             </ab>
-            <pb facs="#facs_78" n="1830350__p078.jpg" xml:id="img_0078"/>
+            <pb facs="#facs_78" n="78" xml:id="img_0078"/>
             <ab facs="#facs_78_tr_1">
                <lb facs="#facs_78_tr_1_tl_1" n="N001"/>- 26s-
                <lb facs="#facs_78_tr_1_tl_2" n="N002"/>ask about it”—this means a turning-away from it. And so I would say: in the moment in which the
@@ -5772,7 +5771,7 @@
                <lb facs="#facs_78_tr_2_tl_17" n="N017"/>Monsieur
                <lb facs="#facs_78_tr_2_tl_18" n="N018"/>Vous avez
             </ab>
-            <pb facs="#facs_79" n="1830350__p079.jpg" xml:id="img_0079"/>
+            <pb facs="#facs_79" n="79" xml:id="img_0079"/>
             <ab facs="#facs_79_tr_3">
                <lb facs="#facs_79_tr_3_tl_1" n="N001"/>- 466-
                <lb facs="#facs_79_tr_3_tl_2" n="N002"/>is the way in which the S[n]lightenment comes, but it CAN come from another INNER-regious way.
@@ -5823,7 +5822,7 @@
                <lb facs="#facs_79_tr_1_tl_24" n="N024"/>dʼun autre
                <lb facs="#facs_79_tr_1_tl_25" n="N025"/>dʼune manière vieuse
             </ab>
-            <pb facs="#facs_80" n="1830350__p080.jpg" xml:id="img_0080"/>
+            <pb facs="#facs_80" n="80" xml:id="img_0080"/>
             <ab facs="#facs_80_tr_2">
                <lb facs="#facs_80_tr_2_tl_1" n="N001"/>tsn
                <lb facs="#facs_80_tr_2_tl_2" n="N002"/>lʼauteur ses
@@ -5862,7 +5861,7 @@
                <lb facs="#facs_80_tr_1_tl_12" n="N012"/>toutes
                <lb facs="#facs_80_tr_1_tl_13" n="N013"/>dʼune manière beaucoup
             </ab>
-            <pb facs="#facs_81" n="1830350__p081.jpg" xml:id="img_0081"/>
+            <pb facs="#facs_81" n="81" xml:id="img_0081"/>
             <ab facs="#facs_81_tr_1">
                <lb facs="#facs_81_tr_1_tl_1" n="N001"/>168.
                <lb facs="#facs_81_tr_1_tl_2" n="N002"/>The QUESTIONS are not always present; they are sometimes not even hiddenly present. But there
@@ -5900,7 +5899,7 @@
                <lb facs="#facs_81_tr_2_tl_11" n="N011"/>des
                <lb facs="#facs_81_tr_2_tl_12" n="N012"/>dʼune lettre
             </ab>
-            <pb facs="#facs_82" n="1830350__p082.jpg" xml:id="img_0082"/>
+            <pb facs="#facs_82" n="82" xml:id="img_0082"/>
             <ab facs="#facs_82_tr_3">
                <lb facs="#facs_82_tr_3_tl_1" n="N001"/>-ster¬
                <lb facs="#facs_82_tr_3_tl_2" n="N002"/>can happen ENEN IN THE PREACHING OF A PROTESTANT CHURCH! * /little daughter /

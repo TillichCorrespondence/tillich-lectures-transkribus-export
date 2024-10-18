@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt><title type="main">TRAINING_VALIDATION_SET_English Tillich Type Set</title></titleStmt>
@@ -56,7 +55,7 @@
    <text>
       <body>
          <div>
-            <pb facs="#facs_1" n="1840428__p001.jpg" xml:id="img_0001"/>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
             <ab facs="#facs_1_tr_1">
                <lb facs="#facs_1_tr_1_tl_1" n="N001"/>. .       .
                <lb facs="#facs_1_tr_1_tl_2" n="N002"/>. .  . .

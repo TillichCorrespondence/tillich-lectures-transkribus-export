@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt><title type="main">Tillich 281-387</title></titleStmt>
@@ -3227,20 +3226,20 @@
    <text>
       <body>
          <div>
-            <pb facs="#facs_1" n="1830293__p001.jpg" xml:id="img_0001"/>
+            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
             <ab facs="#facs_1_tr_3">
                <lb facs="#facs_1_tr_3_tl_1" n="N001"/>[281]
                <lb facs="#facs_1_tr_3_tl_2" n="N002"/>RELIGION and CULTURE — Semester II *
-               <lb facs="#facs_1_tr_3_tl_3" n="N003"/>1. The special character of art between theory and practice.
+               <lb facs="#facs_1_tr_3_tl_3" n="N003"/>1. The special character of <Art>art</Art> between theory and practice.
                <lb facs="#facs_1_tr_3_tl_4" n="N004"/>2. The doctrine of artistic symbols. (Reflective and representative symbols, psychological symbols,
                <lb facs="#facs_1_tr_3_tl_5" n="N005"/>symbols in the different arts---music, architecture)
                <lb facs="#facs_1_tr_3_tl_6" n="N006"/>3. Theory of the four levels in the different arts. (The problem of subject matter in music)
                <lb facs="#facs_1_tr_3_tl_7" n="N007"/>4. Examples of the four levels in the visual arts. (Slides)
                <lb facs="#facs_1_tr_3_tl_8" n="N008"/>5. Discussion and beginning analysis of the present period in the light of the arts.
-               <lb facs="#facs_1_l" n="N009"/>*Malraux, A. THE TWILIGHT OF THE ABSOLUTE
+               <lb facs="#facs_1_l" n="N009"/>*<rs type="person" key=", tillich_person_id__2988">Malraux</rs>, A. THE TWILIGHT OF THE ABSOLUTE
                <lb facs="#facs_1_l_165" n="N010"/>PSYCHOLOGY OF ART (1950)
-               <lb facs="#facs_1_l_176" n="N011"/>*Maritain, J. and
-               <lb facs="#facs_1_l_183" n="N012"/>Cocteau CREATIVE INTUITION IN ART AND POETRY
+               <lb facs="#facs_1_l_176" n="N011"/>*<rs type="person" key=", tillich_person_id__2989">Maritain, J. </rs>and
+               <lb facs="#facs_1_l_183" n="N012"/><rs type="person" key=", tillich_person_id__2990">Cocteau</rs> CREATIVE INTUITION IN ART AND POETRY
                <lb facs="#facs_1_l_190" n="N013"/>Wilder, A. MODERN POETRY AND CHRISTIAN TRADITION
                <lb facs="#facs_1_l_197" n="N014"/>SPIRITUAL ASPECTS OF THE NEW POETRY
                <lb facs="#facs_1_l_204" n="N015"/>Watkin, W. PLANNING THE MODERN CHURCH
@@ -3249,16 +3248,16 @@
                <lb facs="#facs_1_l_225" n="N018"/>Bailey THE ARTS AND RELIGION
                <lb facs="#facs_1_l_232" n="N019"/>6. Total analysis of the present situation in the light of preceding periods.
                <lb facs="#facs_1_l_239" n="N020"/>Berdyaev, N. THE FAITH OF MAN IN THE MODERN WORLD
-               <lb facs="#facs_1_l_246" n="N021"/>*Schweitzer, A. THE DECAY AND RESTORATION OF CIVILIZATION
+               <lb facs="#facs_1_l_246" n="N021"/>*<rs type="person" key=", tillich_person_id__1757">Schweitzer, A</rs>. THE DECAY AND RESTORATION OF CIVILIZATION
                <lb facs="#facs_1_l_253" n="N022"/>Sorokin, P. THE CRISIS OF OUR AGE
-               <lb facs="#facs_1_l_260" n="N023"/>Niebuhr, Reinhold DOES CIVILIZATION NEED RELIGION?
-               <lb facs="#facs_1_l_267" n="N024"/>*Spengler, O. THE DECLINE OF THE WEST
-               <lb facs="#facs_1_l_274" n="N025"/>*Toynbee, A. CIVILIZATION ON TRIAL
+               <lb facs="#facs_1_l_260" n="N023"/><rs type="person" key=", tillich_person_id__1390">Niebuhr,</rs> Reinhold DOES CIVILIZATION NEED RELIGION?
+               <lb facs="#facs_1_l_267" n="N024"/>*<rs type="person" key=", tillich_person_id__1826">Spengler,</rs> O. THE DECLINE OF THE WEST
+               <lb facs="#facs_1_l_274" n="N025"/>*<rs type="person" key=", tillich_person_id__1948">Toynbee, A</rs>. CIVILIZATION ON TRIAL
                <lb facs="#facs_1_l_281" n="N026"/>*Tillich, P. THE RELIGIOUS SITUATION
                <lb facs="#facs_1_l_288" n="N027"/>Tillich, P. "The World Situation," in THE CHRISTIAN ANSWER, ed. H. P. Van Dusen
-               <lb facs="#facs_1_l_295" n="N028"/>Jaspers, K. MAN IN THE MODERN AGE
+               <lb facs="#facs_1_l_295" n="N028"/><rs type="person" key=", tillich_person_id__972">Jaspers, K.</rs> MAN IN THE MODERN AGE
                <lb facs="#facs_1_l_302" n="N029"/>7. Continuation of the analysis of present day industrial society. Its relation to religion.
-               <lb facs="#facs_1_l_309" n="N030"/>Mannheim, K. DIAGNOSIS OF OUR TIME
+               <lb facs="#facs_1_l_309" n="N030"/><rs type="person" key=", tillich_person_id__1255">Mannheim, K.</rs> DIAGNOSIS OF OUR TIME
                <lb facs="#facs_1_l_316" n="N031"/>*Mumford, L. TECHNICS AND CIVILIZATION
                <lb facs="#facs_1_l_323" n="N032"/>8. Religion and Education. The meaning of education (the wherefrom and the whereto)
                <lb facs="#facs_1_l_330" n="N033"/>9. The meaning and method of religious education. (Question and answer. Symbols and interpretation.)
@@ -3270,7 +3269,7 @@
                <lb facs="#facs_1_l_372" n="N039"/>--------------------
                <lb facs="#facs_1_l_379" n="N040"/>* Names with asterisk refer to books involved in exam topics. -Ed.
             </ab>
-            <pb facs="#facs_2" n="1830293__p002.jpg" xml:id="img_0002"/>
+            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
             <ab facs="#facs_2_tr_2">
                <lb facs="#facs_2_tr_2_tl_1" n="N001"/>[282]
                <lb facs="#facs_2_tr_2_tl_2" n="N002"/>10. Religion and the University. (The possible function of a theological faculty)
@@ -3319,7 +3318,7 @@
                <lb facs="#facs_2_tr_1_tl_60" n="N036"/>*Berdyaev, N. FREEDOM AND SLAVERY
                <lb facs="#facs_2_tr_1_tl_62" n="N037"/>*Loewe, A. THE PRICE OF LIBERTY
             </ab>
-            <pb facs="#facs_3" n="1830293__p003.jpg" xml:id="img_0003"/>
+            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
             <ab facs="#facs_3_tr_1">
                <lb facs="#facs_3_tr_1_tl_1" n="N001"/>[283]
                <lb facs="#facs_3_tr_1_tl_2" n="N002"/>17. Family and sex relations. (Historical relativity. The two meanings of sex)
@@ -3365,15 +3364,15 @@
                <lb facs="#facs_3_tr_1_tl_71" n="N042"/>*Bergraav, E. MAN AND STATE
                <lb facs="#facs_3_tr_1_tl_73" n="N043"/>Brunner, E. THE MISUNDERSTANDING OF THE CHURCH
             </ab>
-            <pb facs="#facs_4" n="1830293__p004.jpg" xml:id="img_0004"/>
+            <pb facs="#facs_4" n="4" xml:id="img_0004"/>
             <ab facs="#facs_4_tr_1">
                <lb facs="#facs_4_tr_1_tl_1" n="N001"/>[284]
                <lb facs="#facs_4_tr_1_tl_2" n="N002"/>LECTURE XXIII, February 2, 1956
                <lb facs="#facs_4_tr_1_tl_3" n="N003"/>. . . The reading [pp. 281-84) is expected but will not be controlled.  . . .
-               <lb facs="#facs_4_tr_1_tl_4" n="N004"/>The title is "RELIGION and CULTURE." What we did in the first hours of last semester
-               <lb facs="#facs_4_tr_1_tl_6" n="N005"/>was to give a definition of religion, and especially of the religious act---which I called "faith"---
+               <lb facs="#facs_4_tr_1_tl_4" n="N004"/>The title is "<Religion>RELIGION</Religion> and <Culture>CULTURE.</Culture>" What we did in the first hours of last semester
+               <lb facs="#facs_4_tr_1_tl_6" n="N005"/>was to give a definition of religion, and especially of the religious act---which I called "<Faith>faith</Faith>"---
                <lb facs="#facs_4_tr_1_tl_7" n="N006"/>on the basis of which the relationship of religion and culture could be discussed. The fundamental
-               <lb facs="#facs_4_tr_1_tl_8" n="N007"/>definition was "Religion is the state of being ultimately concerned." (By the way, this must have
+               <lb facs="#facs_4_tr_1_tl_8" n="N007"/>definition was "Religion is the state of being <ultimate_concern>ultimately concerned.</ultimate_concern>" (By the way, this must have
                <lb facs="#facs_4_tr_1_tl_9" n="N008"/>interested most of those who took an examination because they chose, in their presentation, the
                <lb facs="#facs_4_tr_1_tl_10" n="N009"/>question "What does religion mean? What does faith mean?" as one of their three subjects).
                <lb facs="#facs_4_tr_1_tl_11" n="N010"/>This fundamental definition was the main subject of the first lectures, and of many discussions, going on
@@ -3383,18 +3382,18 @@
             <ab facs="#facs_4_tr_2">
                <lb facs="#facs_4_tr_2_tl_1" n="N001"/>the stream of my speech and to compel me to repeat what I said in other words, in order to make it
                <lb facs="#facs_4_tr_2_tl_2" n="N002"/>more understandable, or putting a question which is meant as a criticism of what I said. Both is
-               <lb facs="#facs_4_tr_2_tl_3" n="N003"/>permitted, even during the lecture hour. Beyond this, my assistant Professor Leibrecht will give
+               <lb facs="#facs_4_tr_2_tl_3" n="N003"/>permitted, even during the lecture hour. Beyond this, my assistant Professor <rs type="person" key=", tillich_person_id__1160">Leibrecht</rs> will give
                <lb facs="#facs_4_tr_2_tl_4" n="N004"/>special discussion hours in which the content of the previous disucssions [sic.] here are discussed with those
                <lb facs="#facs_4_tr_2_tl_5" n="N005"/>who want.
                <lb facs="#facs_4_tr_2_tl_6" n="N006"/>The basic statement about the nature of religion is something which must be presupposed also
                <lb facs="#facs_4_tr_2_tl_7" n="N007"/>in all the following lectures because my main thesis is that religion in this sense is present in every
-               <lb facs="#facs_4_tr_2_tl_8" n="N008"/>human being, because everybody has an ultimate concern, however it is expressed, and that every cultural
+               <lb facs="#facs_4_tr_2_tl_8" n="N008"/>human being, because everybody has an<ultimate_concern> ultimate concern, </ultimate_concern>however it is expressed, and that every cultural
             </ab>
-            <pb facs="#facs_5" n="1830293__p005.jpg" xml:id="img_0005"/>
+            <pb facs="#facs_5" n="5" xml:id="img_0005"/>
             <ab facs="#facs_5_tr_3">
                <lb facs="#facs_5_tr_3_tl_1" n="N001"/>[285]
-               <lb facs="#facs_5_tr_3_tl_2" n="N002"/>activity, theoretical or practical, or aesthetic, is based on a hidden or open ultimate concern, and,
-               <lb facs="#facs_5_tr_3_tl_3" n="N003"/>in this sense, on a religious attitude, on an element of faith. On this basis we want to proceed in this
+               <lb facs="#facs_5_tr_3_tl_2" n="N002"/>activity, theoretical or practical, or aesthetic, is based on a hidden or open <ultimate_concern>ultimate concern</ultimate_concern>, and,
+               <lb facs="#facs_5_tr_3_tl_3" n="N003"/>in this sense, on a religious attitude, on an element of <Faith>faith</Faith>. On this basis we want to proceed in this
                <lb facs="#facs_5_tr_3_tl_4" n="N004"/>semester as we did in the first.
                <lb facs="#facs_5_tr_3_tl_5" n="N005"/>Now on this basis I then fought against mistaken interpretations of the concept of faith
                <lb facs="#facs_5_tr_3_tl_6" n="N006"/>as meaning belief in some hardly believable things, or as assuring things for which there is no evidence,
@@ -3417,7 +3416,7 @@
                <lb facs="#facs_5_tr_1_tl_3" n="N003"/>in which man LOOKS at reality—<hi style="font-style: italic;">theoria</hi> means looking at something, envisaging, seeing, contemplating it,
                <lb facs="#facs_5_tr_1_tl_4" n="N004"/>i.e., receiving it in its structures and forms. We started with the foundation of BOTH cultural activities,
             </ab>
-            <pb facs="#facs_6" n="1830293__p006.jpg" xml:id="img_0006"/>
+            <pb facs="#facs_6" n="6" xml:id="img_0006"/>
             <ab facs="#facs_6_tr_3">
                <lb facs="#facs_6_tr_3_tl_2" n="N001"/>[286]
                <lb facs="#facs_6_tr_3_tl_4" n="N002"/>with that which makes man man, namely with the power of language. Our first discussion dealt
@@ -3443,7 +3442,7 @@
                <lb facs="#facs_6_tr_1_tl_5" n="N005"/>of religion to the technical realm, what it does for us and in how far it is dangerous for the
                <lb facs="#facs_6_tr_1_tl_6" n="N006"/>question of ultimacy, because it produces means and hides ends. The question of ultimate concern
             </ab>
-            <pb facs="#facs_7" n="1830293__p007.jpg" xml:id="img_0007"/>
+            <pb facs="#facs_7" n="7" xml:id="img_0007"/>
             <ab facs="#facs_7_tr_2">
                <lb facs="#facs_7_tr_2_tl_1" n="N001"/>[287]
                <lb facs="#facs_7_tr_2_tl_2" n="N002"/>is the question of the ultimate end, the meaning of our existence.
@@ -3466,7 +3465,7 @@
                <lb facs="#facs_7_tr_1_tl_8" n="N007"/>reality, is able to produce religious experiences---and I have no doubt about it, I completely agreed
                <lb facs="#facs_7_tr_1_tl_9" n="N008"/>with this. But as a theologian, this was almost self-understood for me, but the problem with which
             </ab>
-            <pb facs="#facs_8" n="1830293__p008.jpg" xml:id="img_0008"/>
+            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
             <ab facs="#facs_8_tr_3">
                <lb facs="#facs_8_tr_3_tl_1" n="N001"/>[288]
                <lb facs="#facs_8_tr_3_tl_2" n="N002"/>theology has been plagued for centuries now, was something quite different. It was the problem of mutual
@@ -3492,7 +3491,7 @@
                <lb facs="#facs_8_tr_1_tl_4" n="N004"/>is in both realms. We discussed the problem of the relationship of body and soul, and many other
                <lb facs="#facs_8_tr_1_tl_5" n="N005"/>problems of this kind which are connected with the special nature of man as man.
             </ab>
-            <pb facs="#facs_9" n="1830293__p009.jpg" xml:id="img_0009"/>
+            <pb facs="#facs_9" n="9" xml:id="img_0009"/>
             <ab facs="#facs_9_tr_1">
                <lb facs="#facs_9_tr_1_tl_1" n="N001"/>[289]
                <lb facs="#facs_9_tr_1_tl_2" n="N002"/>This prevented us from going over another bridge from the theoretical to the practical, the
@@ -3516,7 +3515,7 @@
                <lb facs="#facs_9_tr_2_tl_5" n="N005"/>As the first one, I take religion and education---the meaning of education, FROM what one is educated
                <lb facs="#facs_9_tr_2_tl_6" n="N006"/>and we always forget the problem "INTO what?" Then the problem of religious education, where we again
             </ab>
-            <pb facs="#facs_10" n="1830293__p010.jpg" xml:id="img_0010"/>
+            <pb facs="#facs_10" n="10" xml:id="img_0010"/>
             <ab facs="#facs_10_tr_1">
                <lb facs="#facs_10_tr_1_tl_1" n="N001"/>[290]
                <lb facs="#facs_10_tr_1_tl_2" n="N002"/>return to the meaning of symbols. Finally I want to DISCUSS with you the problem of religion in the
@@ -3543,7 +3542,7 @@
                <lb facs="#facs_10_tr_2_tl_4" n="N004"/>problems of community, of collectivism, of conformism, of revolution against conformism, and
                <lb facs="#facs_10_tr_2_tl_5" n="N005"/>especially the relation of the Protestant principle to an increasingly conformist culture. Then the question
             </ab>
-            <pb facs="#facs_11" n="1830293__p011.jpg" xml:id="img_0011"/>
+            <pb facs="#facs_11" n="11" xml:id="img_0011"/>
             <ab facs="#facs_11_tr_3">
                <lb facs="#facs_11_tr_3_tl_1" n="N001"/>[291]
                <lb facs="#facs_11_tr_3_tl_2" n="N002"/>which also is so important in a world which has lost older types of authority and is looking for new types,
@@ -3570,7 +3569,7 @@
                <lb facs="#facs_11_tr_1_tl_4" n="N004"/>This depends largely on the intensity of your questioning or the interruptions of other newly-invented
                <lb facs="#facs_11_tr_1_tl_5" n="N005"/>holidays! <hi style="font-style: italic;">[some laughter]</hi>
             </ab>
-            <pb facs="#facs_12" n="1830293__p012.jpg" xml:id="img_0012"/>
+            <pb facs="#facs_12" n="12" xml:id="img_0012"/>
             <ab facs="#facs_12_tr_2">
                <lb facs="#facs_12_tr_2_tl_1" n="N001"/>[292]
                <lb facs="#facs_12_tr_2_tl_2" n="N002"/>You will receive one or two books [i.e. book titles] for each of these subjects. I wanted to
@@ -3594,7 +3593,7 @@
                <lb facs="#facs_12_tr_3_tl_7" n="N007"/>"beautiful" is identified with a special type of beautifying naturalism, which is a LESS valuable style
                <lb facs="#facs_12_tr_3_tl_8" n="N008"/>of all styles of art. Therefore we avoid the term today.
             </ab>
-            <pb facs="#facs_13" n="1830293__p013.jpg" xml:id="img_0013"/>
+            <pb facs="#facs_13" n="13" xml:id="img_0013"/>
             <ab facs="#facs_13_tr_2">
                <lb facs="#facs_13_tr_2_tl_1" n="N001"/>[293]
                <lb facs="#facs_13_tr_2_tl_2" n="N002"/>Then art has a third function, an anticipatory one, in terms of anticipation, solutions of the
@@ -3612,7 +3611,7 @@
                <lb facs="#facs_13_tr_3_tl_5" n="N005"/>realm not only in terms of the visual arts, although my main examples will come from it, because that is
                <lb facs="#facs_13_tr_3_tl_6" n="N006"/>my hobby, but I will also refer, as far as I am able, to the other arts.
             </ab>
-            <pb facs="#facs_14" n="1830293__p014.jpg" xml:id="img_0014"/>
+            <pb facs="#facs_14" n="14" xml:id="img_0014"/>
             <ab facs="#facs_14_tr_1">
                <lb facs="#facs_14_tr_1_tl_3" n="N001"/>[294]
                <lb facs="#facs_14_tr_1_tl_5" n="N002"/>LECTURE XXIV, Feb. 7, 1956
@@ -3638,7 +3637,7 @@
                <lb facs="#facs_14_tr_2_tl_2" n="N002"/>of self-revelation in reality through the different instruments, including the human voice, or as the
                <lb facs="#facs_14_tr_2_tl_3" n="N003"/>old Pythagoreans called it, we discover the numbers which are the basis for musical reception and understanding
             </ab>
-            <pb facs="#facs_15" n="1830293__p015.jpg" xml:id="img_0015"/>
+            <pb facs="#facs_15" n="15" xml:id="img_0015"/>
             <ab facs="#facs_15_tr_2">
                <lb facs="#facs_15_tr_2_tl_1" n="N001"/>[295]
                <lb facs="#facs_15_tr_2_tl_2" n="N002"/>In all these cases, it's NOT only a matter of emotion but it's also a matter of receiving adimension
@@ -3662,7 +3661,7 @@
                <lb facs="#facs_15_tr_1_tl_10" n="N010"/>What do you find there? You find a description of realities, in nature and society and soul---soul especially
                <lb facs="#facs_15_tr_1_tl_11" n="N011"/>in the 20th century psychological novel, for instance---which gives empirical reality. But it is not a
             </ab>
-            <pb facs="#facs_16" n="1830293__p016.jpg" xml:id="img_0016"/>
+            <pb facs="#facs_16" n="16" xml:id="img_0016"/>
             <ab facs="#facs_16_tr_3">
                <lb facs="#facs_16_tr_3_tl_1" n="N001"/>[296]
                <lb facs="#facs_16_tr_3_tl_2" n="N002"/>scientific work; it is a work of art. And by the work of art, if it is really a work of ART---and there are
@@ -3688,7 +3687,7 @@
                <lb facs="#facs_16_tr_1_tl_5" n="N005"/>in which the purely theoretical, namely the world as seen by Newton and Descartes, is reconciled with the
                <lb facs="#facs_16_tr_1_tl_6" n="N006"/>ethical realm, namely man's unconditional responsibility for his action under the categorical imperative.
             </ab>
-            <pb facs="#facs_17" n="1830293__p017.jpg" xml:id="img_0017"/>
+            <pb facs="#facs_17" n="17" xml:id="img_0017"/>
             <ab facs="#facs_17_tr_2">
                <lb facs="#facs_17_tr_2_tl_1" n="N001"/>[297]
                <lb facs="#facs_17_tr_2_tl_2" n="N002"/>The world was split in[to] these two realms. Kant himself didn't feel able to overcome definitively
@@ -3712,7 +3711,7 @@
                <lb facs="#facs_17_tr_1_tl_13" n="N011"/>Now this was the idea of the Neo-Kantian school, which derived from this its theories of art.
                <lb facs="#facs_17_tr_1_tl_14" n="N012"/>These theories are thoroughly idealistic---also a word which needs different ways of salvation!---
             </ab>
-            <pb facs="#facs_18" n="1830293__p018.jpg" xml:id="img_0018"/>
+            <pb facs="#facs_18" n="18" xml:id="img_0018"/>
             <ab facs="#facs_18_tr_2">
                <lb facs="#facs_18_tr_2_tl_1" n="N001"/>[298]
                <lb facs="#facs_18_tr_2_tl_2" n="N002"/>one way is not enough, so distorted is it. But in the Neo-Kantian school it can be used in the sense
@@ -3736,7 +3735,7 @@
                <lb facs="#facs_18_tr_3_tl_10" n="N010"/>reached in the theoretical realm and certainly not in the unconditional ethical demand, which is
                <lb facs="#facs_18_tr_3_tl_11" n="N011"/>always in contradiction with our inclinations, with nature outside and inside of us. But in art there is
             </ab>
-            <pb facs="#facs_19" n="1830293__p019.jpg" xml:id="img_0019"/>
+            <pb facs="#facs_19" n="19" xml:id="img_0019"/>
             <ab facs="#facs_19_tr_3">
                <lb facs="#facs_19_tr_3_tl_1" n="N001"/>[299]
                <lb facs="#facs_19_tr_3_tl_2" n="N002"/>anticipatory reconciliation. Now this is the reason for the idealistic art, and although for ecclesiastical
@@ -3763,7 +3762,7 @@
                <lb facs="#facs_19_tr_1_tl_2" n="N002"/>Therefore what the Greeks called <hi style="font-style: italic;">kalos</hi> is something which is forever valid, even if the word "beautiful"
                <lb facs="#facs_19_tr_1_tl_3" n="N003"/>and "beauty" have been badly deteriorized.
             </ab>
-            <pb facs="#facs_20" n="1830293__p020.jpg" xml:id="img_0020"/>
+            <pb facs="#facs_20" n="20" xml:id="img_0020"/>
             <ab facs="#facs_20_tr_3">
                <lb facs="#facs_20_tr_3_tl_1" n="N001"/>[300]
                <lb facs="#facs_20_tr_3_tl_2" n="N002"/>This is the second function of art. Now I come to the third and fundamental, which is
@@ -3790,7 +3789,7 @@
                <lb facs="#facs_20_tr_1_tl_3" n="N003"/>seeing recreates, the expression of subjectivity. And the third---and for this reason I brought
                <lb facs="#facs_20_tr_1_tl_4" n="N004"/>Spinoza's philosophy in---the expression of ULTIMATE reality. And the way in which ULTIMATE
             </ab>
-            <pb facs="#facs_21" n="1830293__p021.jpg" xml:id="img_0021"/>
+            <pb facs="#facs_21" n="21" xml:id="img_0021"/>
             <ab facs="#facs_21_tr_2">
                <lb facs="#facs_21_tr_2_tl_1" n="N001"/>[301]
                <lb facs="#facs_21_tr_2_tl_2" n="N002"/>reality is expressed is the STYLE of a work of art. I will come to this; style is of fundamental
@@ -3814,7 +3813,7 @@
                <lb facs="#facs_21_tr_1_tl_11" n="N009"/>which we will explain later. Since this is so, we must speak of reflective symbols, psychological
                <lb facs="#facs_21_tr_1_tl_12" n="N010"/>symbols, and, most important, of representative symbols.
             </ab>
-            <pb facs="#facs_22" n="1830293__p022.jpg" xml:id="img_0022"/>
+            <pb facs="#facs_22" n="22" xml:id="img_0022"/>
             <ab facs="#facs_22_tr_3">
                <lb facs="#facs_22_tr_3_tl_1" n="N001"/>[302]
                <lb facs="#facs_22_tr_3_tl_2" n="N002"/>Reflective symbols are symbols used in our reflexive <hi style="font-style: italic;">[sic] </hi>and dealing with empirical reality.
@@ -3841,7 +3840,7 @@
                <lb facs="#facs_22_tr_1_tl_4" n="N004"/>but hopelessly, and so I had better not do it!---that they shouldn't be called symbols either,
                <lb facs="#facs_22_tr_1_tl_5" n="N005"/>they should be signs of the unconscious, and nothing else.
             </ab>
-            <pb facs="#facs_23" n="1830293__p023.jpg" xml:id="img_0023"/>
+            <pb facs="#facs_23" n="23" xml:id="img_0023"/>
             <ab facs="#facs_23_tr_2">
                <lb facs="#facs_23_tr_2_tl_1" n="N001"/>[303]
                <lb facs="#facs_23_tr_2_tl_2" n="N002"/>The third group are representative symbols. Here we come to the real realm of the symbolic.
@@ -3868,7 +3867,7 @@
                <lb facs="#facs_23_tr_1_tl_5" n="N005"/>one should be conscious of this, especially as a preacher, that it is not only the meaning the words
                <lb facs="#facs_23_tr_1_tl_6" n="N006"/>have, but it is also their power coming out of the person of the minister or out of the connotations,
             </ab>
-            <pb facs="#facs_24" n="1830293__p024.jpg" xml:id="img_0024"/>
+            <pb facs="#facs_24" n="24" xml:id="img_0024"/>
             <ab facs="#facs_24_tr_3">
                <lb facs="#facs_24_tr_3_tl_2" n="N001"/>[304]
                <lb facs="#facs_24_tr_3_tl_3" n="N002"/>which influences the congregations. Then if they are very much influenced and impressed,
@@ -3894,7 +3893,7 @@
                <lb facs="#facs_24_tr_2_tl_2" n="N002"/>insofar as he IS a symbol, he transcends his empirical reality by far.
                <lb facs="#facs_24_tr_2_tl_3" n="N003"/>And so it is also with special events. The battle between the Huns and the Franks, in the
             </ab>
-            <pb facs="#facs_25" n="1830293__p025.jpg" xml:id="img_0025"/>
+            <pb facs="#facs_25" n="25" xml:id="img_0025"/>
             <ab facs="#facs_25_tr_2">
                <lb facs="#facs_25_tr_2_tl_1" n="N001"/>[305]
                <lb facs="#facs_25_tr_2_tl_2" n="N002"/>Catalonic [Catalonian?] fields---I think it was 411 or so---has been very often painted and described.
@@ -3922,7 +3921,7 @@
                <lb facs="#facs_25_tr_1_tl_4" n="N004"/>which are not signs but genuine symbols. To this realm belong the artistic symbols, and I will speak
                <lb facs="#facs_25_tr_1_tl_6" n="N005"/>more about them next time.
             </ab>
-            <pb facs="#facs_26" n="1830293__p026.jpg" xml:id="img_0026"/>
+            <pb facs="#facs_26" n="26" xml:id="img_0026"/>
             <ab facs="#facs_26_tr_2">
                <lb facs="#facs_26_tr_2_tl_1" n="N001"/>[306]
                <lb facs="#facs_26_tr_2_tl_2" n="N002"/>LECTURE XXV, Feb. 9, 1956
@@ -3949,7 +3948,7 @@
                <lb facs="#facs_26_tr_1_tl_5" n="N005"/>the experience that if you are, in a picture or in a piece of music or in a poem or in a drama,
                <lb facs="#facs_26_tr_1_tl_6" n="N006"/>participating in its meaning, there is the character which belongs to every symbol---to point beyond
             </ab>
-            <pb facs="#facs_27" n="1830293__p027.jpg" xml:id="img_0027"/>
+            <pb facs="#facs_27" n="27" xml:id="img_0027"/>
             <ab facs="#facs_27_tr_1">
                <lb facs="#facs_27_tr_1_tl_1" n="N001"/>[307]
                <lb facs="#facs_27_tr_1_tl_2" n="N002"/>itself--not at all visible. You are in it, but you don't go beyond it. And if you go beyond it to
@@ -3973,7 +3972,7 @@
                <lb facs="#facs_27_tr_3_tl_7" n="N007"/>the hobby of Americans, especially Protestant Americans, where especially music and poetry are
                <lb facs="#facs_27_tr_3_tl_8" n="N008"/>predominant. Nevertheless, just for this reason it is good that I try to use the visual arts as my main
             </ab>
-            <pb facs="#facs_28" n="1830293__p028.jpg" xml:id="img_0028"/>
+            <pb facs="#facs_28" n="28" xml:id="img_0028"/>
             <ab facs="#facs_28_tr_2">
                <lb facs="#facs_28_tr_2_tl_1" n="N001"/>[308]
                <lb facs="#facs_28_tr_2_tl_2" n="N002"/>example, and I think you will like it when next week we will show you pictures and their analysis,
@@ -3998,7 +3997,7 @@
                <lb facs="#facs_28_tr_1_tl_15" n="N013"/>carry this through later on in many different respects---then we can say: in every art, the materials
                <lb facs="#facs_28_tr_1_tl_16" n="N014"/>taken from the perceived world point beyond themselves, but they do not point to something which is
             </ab>
-            <pb facs="#facs_29" n="1830293__p029.jpg" xml:id="img_0029"/>
+            <pb facs="#facs_29" n="29" xml:id="img_0029"/>
             <ab facs="#facs_29_tr_2">
                <lb facs="#facs_29_tr_2_tl_1" n="N001"/>[309]
                <lb facs="#facs_29_tr_2_tl_2" n="N002"/>OUTSIDE of them, but something which is IN them---and THERE was the reason for my hesitation.
@@ -4025,7 +4024,7 @@
                <lb facs="#facs_29_tr_1_tl_6" n="N006"/>Now everybody would agree with this. Those of you who are musical can easiest agree with me because
                <lb facs="#facs_29_tr_1_tl_7" n="N007"/>that which you experience in terms of opening up your souls, in listening to a great work of music
             </ab>
-            <pb facs="#facs_30" n="1830293__p030.jpg" xml:id="img_0030"/>
+            <pb facs="#facs_30" n="30" xml:id="img_0030"/>
             <ab facs="#facs_30_tr_3">
                <lb facs="#facs_30_tr_3_tl_1" n="N001"/>[310]
                <lb facs="#facs_30_tr_3_tl_2" n="N002"/>("great" always means simply "artistic" here)---I don't want to graduate the artists, but there is
@@ -4052,7 +4051,7 @@
                <lb facs="#facs_30_tr_1_tl_2" n="N002"/>in the different arts, the symbols which are used, the categories of symbols, not the individual
                <lb facs="#facs_30_tr_1_tl_4" n="N003"/>symbols---every color spot in a picture is a symbol in itself in relation to others---but categories of
             </ab>
-            <pb facs="#facs_31" n="1830293__p031.jpg" xml:id="img_0031"/>
+            <pb facs="#facs_31" n="31" xml:id="img_0031"/>
             <ab facs="#facs_31_tr_2">
                <lb facs="#facs_31_tr_2_tl_2" n="N001"/>[311]
                <lb facs="#facs_31_tr_2_tl_3" n="N002"/>symbols in the different arts.
@@ -4079,7 +4078,7 @@
                <lb facs="#facs_31_tr_1_tl_4" n="N003"/>of the universe as such. Now here you have the face of a human being which has its photographic side
                <lb facs="#facs_31_tr_1_tl_5" n="N004"/>and which can be photographed and which we encounter in everyday life, always a little bit different,
             </ab>
-            <pb facs="#facs_32" n="1830293__p032.jpg" xml:id="img_0032"/>
+            <pb facs="#facs_32" n="32" xml:id="img_0032"/>
             <ab facs="#facs_32_tr_3">
                <lb facs="#facs_32_tr_3_tl_1" n="N001"/>[312]
                <lb facs="#facs_32_tr_3_tl_2" n="N002"/>but so that we always recognize it. And now the artist uses that as his symbol for something far
@@ -4105,7 +4104,7 @@
                <lb facs="#facs_32_tr_1_tl_3" n="N003"/>political scene---as long as they do that, they are not symbols. They become symbols in the
                <lb facs="#facs_32_tr_1_tl_4" n="N004"/>moment in which they express a historical event as embodying meaning of existence. And then,
             </ab>
-            <pb facs="#facs_33" n="1830293__p033.jpg" xml:id="img_0033"/>
+            <pb facs="#facs_33" n="33" xml:id="img_0033"/>
             <ab facs="#facs_33_tr_2">
                <lb facs="#facs_33_tr_2_tl_1" n="N001"/>[313]
                <lb facs="#facs_33_tr_2_tl_2" n="N002"/>even historical scenes can become symbols for something which transcends the immediate situation.
@@ -4129,7 +4128,7 @@
                <lb facs="#facs_33_tr_1_tl_12" n="N010"/>[is that it] deprives philosophy of the possibility of mediating an image of reality, which a
                <lb facs="#facs_33_tr_1_tl_13" n="N011"/>philosophy always wanted to do.
             </ab>
-            <pb facs="#facs_34" n="1830293__p034.jpg" xml:id="img_0034"/>
+            <pb facs="#facs_34" n="34" xml:id="img_0034"/>
             <ab facs="#facs_34_tr_2">
                <lb facs="#facs_34_tr_2_tl_3" n="N001"/>[314]
                <lb facs="#facs_34_tr_2_tl_4" n="N002"/>Now in poetry the situation is such that the DECISIVE things are the connotations.
@@ -4155,7 +4154,7 @@
                <lb facs="#facs_34_tr_1_tl_3" n="N003"/>the cognitive element, the anticipatory element, and the expressive element) which otherwise
                <lb facs="#facs_34_tr_1_tl_4" n="N004"/>cannot be produced at all. In this way the words and sentences, and the connotations and
             </ab>
-            <pb facs="#facs_35" n="1830293__p035.jpg" xml:id="img_0035"/>
+            <pb facs="#facs_35" n="35" xml:id="img_0035"/>
             <ab facs="#facs_35_tr_2">
                <lb facs="#facs_35_tr_2_tl_1" n="N001"/>[315]
                <lb facs="#facs_35_tr_2_tl_2" n="N002"/>images produced by them in our mind, are symbols for a special encounter with reality.
@@ -4179,7 +4178,7 @@
                <lb facs="#facs_35_tr_1_tl_6" n="N006"/>recommend more than anything else in novelistic literature to read, if you want to understand
                <lb facs="#facs_35_tr_1_tl_9" n="N007"/>your own deeper levels of life. This man who in <hi style="font-style: italic;">The Castle</hi> tries to reach the sources of meaning
             </ab>
-            <pb facs="#facs_36" n="1830293__p036.jpg" xml:id="img_0036"/>
+            <pb facs="#facs_36" n="36" xml:id="img_0036"/>
             <ab facs="#facs_36_tr_3">
                <lb facs="#facs_36_tr_3_tl_1" n="N001"/>[316]
                <lb facs="#facs_36_tr_3_tl_2" n="N002"/>symbolized in a castle which rules the village and the countryside and he never can reach it, he is
@@ -4206,7 +4205,7 @@
                <lb facs="#facs_36_tr_2_tl_3" n="N003"/>Pythagorean theory of the sounds of the heavenly bodies, usually known as the sounds of the spheres.
                <lb facs="#facs_36_tr_2_tl_4" n="N004"/>They discovered the mathematical vibrations which produce sound and their relationships in
             </ab>
-            <pb facs="#facs_37" n="1830293__p037.jpg" xml:id="img_0037"/>
+            <pb facs="#facs_37" n="37" xml:id="img_0037"/>
             <ab facs="#facs_37_tr_2">
                <lb facs="#facs_37_tr_2_tl_1" n="N001"/>[317]
                <lb facs="#facs_37_tr_2_tl_2" n="N002"/>mathematical proportions. And since they saw the movement of the heavenly bodies, they derived
@@ -4233,7 +4232,7 @@
                <lb facs="#facs_37_tr_1_tl_4" n="N004"/>that music expresses something about bodies, about the heavenly bodies and all bodies. The self-
                <lb facs="#facs_37_tr_1_tl_5" n="N005"/>expression of dance in moving bodies is in itself a symptom for what I said, and is a symbol of a
             </ab>
-            <pb facs="#facs_38" n="1830293__p038.jpg" xml:id="img_0038"/>
+            <pb facs="#facs_38" n="38" xml:id="img_0038"/>
             <ab facs="#facs_38_tr_1">
                <lb facs="#facs_38_tr_1_tl_1" n="N001"/>[318]
                <lb facs="#facs_38_tr_1_tl_2" n="N002"/>combined character. I only want to remind, so that you don't need to ask what has that to do with
@@ -4260,7 +4259,7 @@
                <lb facs="#facs_38_tr_3_tl_3" n="N003"/>purpose and symbol are in a unique way united, and for this reason---to this I will come next time---
                <lb facs="#facs_38_tr_3_tl_4" n="N004"/>I am convinced that church architecture will be the guiding power in the relation of religion and art.
             </ab>
-            <pb facs="#facs_39" n="1830293__p039.jpg" xml:id="img_0039"/>
+            <pb facs="#facs_39" n="39" xml:id="img_0039"/>
             <ab facs="#facs_39_tr_1">
                <lb facs="#facs_39_tr_1_tl_1" n="N001"/>[319]
                <lb facs="#facs_39_tr_1_tl_2" n="N002"/>LECTURE XXVI, Feb. 14, 1956
@@ -4287,7 +4286,7 @@
                <lb facs="#facs_39_tr_2_tl_4" n="N004"/>all not beside others. If you call it "level," then we must [say] it is the ultimate level,
                <lb facs="#facs_39_tr_2_tl_5" n="N005"/>but we had better call it a dimension and then say it is the dimension of ultimate concern. When
             </ab>
-            <pb facs="#facs_40" n="1830293__p040.jpg" xml:id="img_0040"/>
+            <pb facs="#facs_40" n="40" xml:id="img_0040"/>
             <ab facs="#facs_40_tr_3">
                <lb facs="#facs_40_tr_3_tl_1" n="N001"/>[320]
             </ab>
@@ -4316,7 +4315,7 @@
                <lb facs="#facs_40_tr_1_tl_1" n="N001"/>symbols taken from ALL forms of life. And so with respect to arts, the phenomenon of double
                <lb facs="#facs_40_tr_1_tl_2" n="N002"/>symbolization appears, and without this we don't understand religious art at all.
             </ab>
-            <pb facs="#facs_41" n="1830293__p041.jpg" xml:id="img_0041"/>
+            <pb facs="#facs_41" n="41" xml:id="img_0041"/>
             <ab facs="#facs_41_tr_1">
                <lb facs="#facs_41_tr_1_tl_1" n="N001"/>[321]
                <lb facs="#facs_41_tr_1_tl_2" n="N002"/>The phenomenon of double symbolization: -- You have the holy legend, the story of [the]
@@ -4342,7 +4341,7 @@
                <lb facs="#facs_41_tr_2_tl_5" n="N003"/>symbols. And the question in every visitor is always: do you listen in terms of your ultimate concern
                <lb facs="#facs_41_tr_2_tl_6" n="N004"/>and DISregard the aesthetic form?---or do you listen in terms of an aesthetic judge who perhaps has
             </ab>
-            <pb facs="#facs_42" n="1830293__p042.jpg" xml:id="img_0042"/>
+            <pb facs="#facs_42" n="42" xml:id="img_0042"/>
             <ab facs="#facs_42_tr_2">
                <lb facs="#facs_42_tr_2_tl_1" n="N001"/>[322a]
                <lb facs="#facs_42_tr_2_tl_2" n="N002"/>to write about the merits of these singers or of this music? These are two different attitudes which
@@ -4366,7 +4365,7 @@
                <lb facs="#facs_42_tr_1_tl_7" n="N007"/>scene of Resurrection, which, in the Easter story, already has a double symbolization (a mythological
                <lb facs="#facs_42_tr_1_tl_8" n="N008"/>and a poetical).
             </ab>
-            <pb facs="#facs_43" n="1830293__p043.jpg" xml:id="img_0043"/>
+            <pb facs="#facs_43" n="43" xml:id="img_0043"/>
             <ab facs="#facs_43_tr_2">
                <lb facs="#facs_43_tr_2_tl_1" n="N001"/>[322b]
                <lb facs="#facs_43_tr_2_tl_2" n="N002"/>Now however this may be, we must see here also the phenomenon of double symbolization
@@ -4391,7 +4390,7 @@
                <lb facs="#facs_43_tr_1_tl_2" n="N002"/>religious symbolization was preserved. Again I would say: the ideal is of course a perfect artistic
                <lb facs="#facs_43_tr_1_tl_3" n="N003"/>symbolization which has preserved the religious power in the ritual context.
             </ab>
-            <pb facs="#facs_44" n="1830293__p044.jpg" xml:id="img_0044"/>
+            <pb facs="#facs_44" n="44" xml:id="img_0044"/>
             <ab facs="#facs_44_tr_1">
                <lb facs="#facs_44_tr_1_tl_1" n="N001"/>[323]
                <lb facs="#facs_44_tr_1_tl_2" n="N002"/>Now this gives you a first taste of the many problems connected with the relationship of
@@ -4418,7 +4417,7 @@
                <lb facs="#facs_44_tr_2_tl_5" n="N005"/>form without meaning. But form is that which distinguishes the work of art from a failure to
                <lb facs="#facs_44_tr_2_tl_6" n="N006"/>produce a work of art.
             </ab>
-            <pb facs="#facs_45" n="1830293__p045.jpg" xml:id="img_0045"/>
+            <pb facs="#facs_45" n="45" xml:id="img_0045"/>
             <ab facs="#facs_45_tr_3">
                <lb facs="#facs_45_tr_3_tl_2" n="N001"/>[324]
                <lb facs="#facs_45_tr_3_tl_3" n="N002"/>3) A third element stands against formalism, namely meaning, which is sometimes called
@@ -4445,7 +4444,7 @@
                <lb facs="#facs_45_tr_2_tl_1" n="N001"/>impressive function within the overall style, because of what I called last time the expressive power
                <lb facs="#facs_45_tr_2_tl_2" n="N002"/>of a work of art. It is more expressive than any other style.
             </ab>
-            <pb facs="#facs_46" n="1830293__p046.jpg" xml:id="img_0046"/>
+            <pb facs="#facs_46" n="46" xml:id="img_0046"/>
             <ab facs="#facs_46_tr_1">
                <lb facs="#facs_46_tr_1_tl_1" n="N001"/>[325]
                <lb facs="#facs_46_tr_1_tl_2" n="N002"/>Now here I can tell you a little story of my own inquiries in past years. I had to
@@ -4469,7 +4468,7 @@
                <lb facs="#facs_46_tr_2_tl_5" n="N005"/>but also the expression of that subject matter in artistic form.
                <lb facs="#facs_46_tr_2_tl_6" n="N006"/>Now in this way we have styles in all periods of history, and these styles are present in all
             </ab>
-            <pb facs="#facs_47" n="1830293__p047.jpg" xml:id="img_0047"/>
+            <pb facs="#facs_47" n="47" xml:id="img_0047"/>
             <ab facs="#facs_47_tr_2">
                <lb facs="#facs_47_tr_2_tl_1" n="N001"/>[326]
                <lb facs="#facs_47_tr_2_tl_2" n="N002"/>functions of history, and these styles give you an answer to the question, "What about the ultimate
@@ -4494,7 +4493,7 @@
                <lb facs="#facs_47_tr_1_tl_9" n="N008"/>artistic symbols. I would count under this form of naturalistic art not only what we usually call
                <lb facs="#facs_47_tr_1_tl_10" n="N009"/>naturalistic in the narrower sense, but I would call also everything, every idealistic art, which is based
             </ab>
-            <pb facs="#facs_48" n="1830293__p048.jpg" xml:id="img_0048"/>
+            <pb facs="#facs_48" n="48" xml:id="img_0048"/>
             <ab facs="#facs_48_tr_2">
                <lb facs="#facs_48_tr_2_tl_1" n="N001"/>[327]
                <lb facs="#facs_48_tr_2_tl_2" n="N002"/>on the anticipatory function of which I spoke, where nature is idealized, but it remains nature.
@@ -4522,7 +4521,7 @@
                <lb facs="#facs_48_tr_1_tl_2" n="N002"/>I mean it in the sense of non-naturalistic generally, and include all non- naturalistic art from the
                <lb facs="#facs_48_tr_1_tl_3" n="N003"/>very primitive to the present-day abstract, under this term. But let us perhaps not complicate the matter
             </ab>
-            <pb facs="#facs_49" n="1830293__p049.jpg" xml:id="img_0049"/>
+            <pb facs="#facs_49" n="49" xml:id="img_0049"/>
             <ab facs="#facs_49_tr_1">
                <lb facs="#facs_49_tr_1_tl_1" n="N001"/>[328]
                <lb facs="#facs_49_tr_1_tl_2" n="N002"/>and simply call it non-naturalistic. We have that in primitive art, we have it in the whole Byzantine
@@ -4549,7 +4548,7 @@
                <lb facs="#facs_49_tr_2_tl_1" n="N001"/>Now this shows that we have to make a distinction of types of art from the point of
                <lb facs="#facs_49_tr_2_tl_2" n="N002"/>view of religion and art, according to the two principles: the one is non-naturalistic against naturalistic;
             </ab>
-            <pb facs="#facs_50" n="1830293__p050.jpg" xml:id="img_0050"/>
+            <pb facs="#facs_50" n="50" xml:id="img_0050"/>
             <ab facs="#facs_50_tr_1">
                <lb facs="#facs_50_tr_1_tl_1" n="N001"/>[329]
                <lb facs="#facs_50_tr_1_tl_2" n="N002"/>and the other is a religious subject matter and a non-religious subject matter. This leads us to the
@@ -4579,7 +4578,7 @@
                <lb facs="#facs_50_tr_2_tl_5" n="N005"/>3) Non-religious (secular, naturalistic) style and the religious content, subject matter.
                <lb facs="#facs_50_tr_2_tl_6" n="N006"/>4) The expressionistic or non-naturalistic style together with the religious content.
             </ab>
-            <pb facs="#facs_51" n="1830293__p051.jpg" xml:id="img_0051"/>
+            <pb facs="#facs_51" n="51" xml:id="img_0051"/>
             <ab facs="#facs_51_tr_1">
                <lb facs="#facs_51_tr_1_tl_1" n="N001"/>[330]
                <lb facs="#facs_51_tr_1_tl_2" n="N002"/>I will ask you to compare this . . . with music, drama, novel, or wherever you are especially
@@ -4588,7 +4587,7 @@
                <lb facs="#facs_51_tr_1_tl_5" n="N005"/>because nobody can be at home, ot [sic.] even at least at home in terms of a hobby, in ALL realms of
                <lb facs="#facs_51_tr_1_tl_6" n="N006"/>the arts, and I believe some of you here are much better than I am in some other realms of art.
             </ab>
-            <pb facs="#facs_52" n="1830293__p052.jpg" xml:id="img_0052"/>
+            <pb facs="#facs_52" n="52" xml:id="img_0052"/>
             <ab facs="#facs_52_tr_2">
                <lb facs="#facs_52_tr_2_tl_1" n="N001"/>[331]
                <lb facs="#facs_52_tr_2_tl_2" n="N002"/>LECTURE XXVII, Feb. 16, 1956
@@ -4618,7 +4617,7 @@
                <lb facs="#facs_52_l" n="N003"/>-------------------------------
                <lb facs="#facs_52_tr_1_tl_3" n="N004"/><hi style="font-style: italic;">*See APPENDIX, below, page 344, for list of slides used in Lectures 27-28. -- ED.</hi>
             </ab>
-            <pb facs="#facs_53" n="1830293__p053.jpg" xml:id="img_0053"/>
+            <pb facs="#facs_53" n="53" xml:id="img_0053"/>
             <ab facs="#facs_53_tr_1">
                <lb facs="#facs_53_tr_1_tl_1" n="N001"/>[332]
                <lb facs="#facs_53_tr_1_tl_2" n="N002"/>and this country generally, is not too near to the visual arts---it is much nearer to music and to literature.
@@ -4643,7 +4642,7 @@
                <lb facs="#facs_53_tr_2_tl_7" n="N007"/>a walk or have a picnic or read a newspaper, but some of the power of reality which reveals itself
                <lb facs="#facs_53_tr_2_tl_8" n="N008"/>in this picture.
             </ab>
-            <pb facs="#facs_54" n="1830293__p054.jpg" xml:id="img_0054"/>
+            <pb facs="#facs_54" n="54" xml:id="img_0054"/>
             <ab facs="#facs_54_tr_1">
                <lb facs="#facs_54_tr_1_tl_1" n="N001"/>[333]
                <lb facs="#facs_54_tr_1_tl_2" n="N002"/>2) RUBENS -- I am especially fond of Rubens's landscapes because they show in a very special
@@ -4670,7 +4669,7 @@
                <lb facs="#facs_54_tr_2_tl_4" n="N004"/>is Manet, who is more than any other painter in the 19th century, but Monet is most characteristic
                <lb facs="#facs_54_tr_2_tl_5" n="N005"/>for what is called impressionism. I call this style, in my stylistic analysis, subjective naturalism
             </ab>
-            <pb facs="#facs_55" n="1830293__p055.jpg" xml:id="img_0055"/>
+            <pb facs="#facs_55" n="55" xml:id="img_0055"/>
             <ab facs="#facs_55_tr_2">
                <lb facs="#facs_55_tr_2_tl_1" n="N001"/>[334]
                <lb facs="#facs_55_tr_2_tl_2" n="N002"/>in contrast to the Ruisdaels and the Rubens, which I would call objective naturalism. It is subjective
@@ -4695,7 +4694,7 @@
                <lb facs="#facs_55_tr_1_tl_10" n="N009"/>Next we will have another realm of naturalistic style and secular subject matter: human
                <lb facs="#facs_55_tr_1_tl_11" n="N010"/>relations, social relations:
             </ab>
-            <pb facs="#facs_56" n="1830293__p056.jpg" xml:id="img_0056"/>
+            <pb facs="#facs_56" n="56" xml:id="img_0056"/>
             <ab facs="#facs_56_tr_1">
                <lb facs="#facs_56_tr_1_tl_1" n="N001"/>[335]
                <lb facs="#facs_56_tr_1_tl_2" n="N002"/>7) Carpaccio: <hi style="font-style: italic;">EXORCISM OF A DEMON</hi>--Yes, now, this sounds religious--<hi style="font-style: italic;">[laughter]</hi>--
@@ -4719,7 +4718,7 @@
                <lb facs="#facs_56_tr_2_tl_6" n="N006"/>all very similar. And I asked myself. ''Now what about the religious character of such a picture?
                <lb facs="#facs_56_tr_2_tl_7" n="N007"/>It is on the extreme side of the non-religious, in SOME way.'' And then I was ashamed of myself,
             </ab>
-            <pb facs="#facs_57" n="1830293__p057.jpg" xml:id="img_0057"/>
+            <pb facs="#facs_57" n="57" xml:id="img_0057"/>
             <ab facs="#facs_57_tr_3">
                <lb facs="#facs_57_tr_3_tl_1" n="N001"/>[336]
                <lb facs="#facs_57_tr_3_tl_2" n="N002"/>that I didn't immediately realize that in these peasant scenes, pointed by the Dutch painters, there is
@@ -4745,7 +4744,7 @@
                <lb facs="#facs_57_tr_2_tl_2" n="N002"/>removed from some of our presentday [sic.] philosophies of nature, as if this power of being which we find
                <lb facs="#facs_57_tr_2_tl_3" n="N003"/>in the miraculous phenomenon of light is brought into the surface of such a picture.
             </ab>
-            <pb facs="#facs_58" n="1830293__p058.jpg" xml:id="img_0058"/>
+            <pb facs="#facs_58" n="58" xml:id="img_0058"/>
             <ab facs="#facs_58_tr_1">
                <lb facs="#facs_58_tr_1_tl_2" n="N001"/>[337]
                <lb facs="#facs_58_tr_1_tl_3" n="N002"/>12) Rembrandt: <hi style="font-style: italic;">ANATOMY LESSON</hi>--Now here these men, with great seriousness, study
@@ -4772,7 +4771,7 @@
                <lb facs="#facs_58_tr_2_tl_1" n="N001"/>something comes through, inescapably, from the underground of life, from the demonic underground,
                <lb facs="#facs_58_tr_2_tl_2" n="N002"/>from the tragic, in this case. We have seen something of it in the one picture of Ruisdael, and here
             </ab>
-            <pb facs="#facs_59" n="1830293__p059.jpg" xml:id="img_0059"/>
+            <pb facs="#facs_59" n="59" xml:id="img_0059"/>
             <ab facs="#facs_59_r">
                <lb facs="#facs_59_l" n="N001"/>[338]
             </ab>
@@ -4799,7 +4798,7 @@
                <lb facs="#facs_59_tr_1_tl_8" n="N008"/>NOW--perhaps this is one of the reasons for your question--we are able, with our eyes (which are
                <lb facs="#facs_59_tr_1_tl_9" n="N009"/>educated by the history of art), to see with the eyes of Watteau a reality which we encounter in
             </ab>
-            <pb facs="#facs_60" n="1830293__p060.jpg" xml:id="img_0060"/>
+            <pb facs="#facs_60" n="60" xml:id="img_0060"/>
             <ab facs="#facs_60_tr_2">
                <lb facs="#facs_60_tr_2_tl_1" n="N001"/>[339]
                <lb facs="#facs_60_tr_2_tl_2" n="N002"/>our daily life. Now I hope you all had this experience. When you came from a gallery and were under
@@ -4826,7 +4825,7 @@
                <lb facs="#facs_60_tr_1_tl_13" n="N013"/>resurrection of the body, which of course I understand symbolically, but as a true symbol.
                <lb facs="#facs_60_tr_1_tl_14" n="N014"/>And the symbol is true because man is a whole, and, as a whole, the bodily existence participates
             </ab>
-            <pb facs="#facs_61" n="1830293__p061.jpg" xml:id="img_0061"/>
+            <pb facs="#facs_61" n="61" xml:id="img_0061"/>
             <ab facs="#facs_61_tr_2">
                <lb facs="#facs_61_tr_2_tl_1" n="N001"/>[340]
                <lb facs="#facs_61_tr_2_tl_2" n="N002"/>in the spiritual, and vice versa. They are expressions of the one reality which is man. This makes it
@@ -4850,7 +4849,7 @@
                <lb facs="#facs_61_tr_1_tl_12" n="N011"/>reality by their power to bring into our vision something about a person which otherwise we never
                <lb facs="#facs_61_tr_1_tl_14" n="N012"/>would be able to realize in this way.
             </ab>
-            <pb facs="#facs_62" n="1830293__p062.jpg" xml:id="img_0062"/>
+            <pb facs="#facs_62" n="62" xml:id="img_0062"/>
             <ab facs="#facs_62_tr_1">
                <lb facs="#facs_62_tr_1_tl_1" n="N001"/>[341]
                <lb facs="#facs_62_tr_1_tl_2" n="N002"/>18) Frans Hals--Here we are again in the more joyous element of Frans Hals, also a Dutch painter
@@ -4874,7 +4873,7 @@
                <lb facs="#facs_62_tr_2_tl_8" n="N007"/>This is the meaning of portrait, and therefore portrait has a very special religious dignity, according
                <lb facs="#facs_62_tr_2_tl_10" n="N008"/>to the fact that the individual person has a very special religious dignity.
             </ab>
-            <pb facs="#facs_63" n="1830293__p063.jpg" xml:id="img_0063"/>
+            <pb facs="#facs_63" n="63" xml:id="img_0063"/>
             <ab facs="#facs_63_tr_1">
                <lb facs="#facs_63_tr_1_tl_3" n="N001"/>[342]
                <lb facs="#facs_63_tr_1_tl_4" n="N002"/>QN: To what extent is modern so-called art-photography not photography?
@@ -4901,7 +4900,7 @@
                <lb facs="#facs_63_tr_2_tl_7" n="N007"/><hi style="font-style: italic;">STILL LIFE</hi>. I will show you first a few more still lifes. Go through them.
                <lb facs="#facs_63_tr_2_tl_8" n="N008"/>23) Braque--Cézanne is more important, in the development.
             </ab>
-            <pb facs="#facs_64" n="1830293__p064.jpg" xml:id="img_0064"/>
+            <pb facs="#facs_64" n="64" xml:id="img_0064"/>
             <ab facs="#facs_64_tr_1">
                <lb facs="#facs_64_tr_1_tl_1" n="N001"/>[343]
                <lb facs="#facs_64_tr_1_tl_2" n="N002"/>24) Braque--
@@ -4928,7 +4927,7 @@
                <lb facs="#facs_64_tr_2_tl_5" n="N003"/>realm. That is the meaning of cubism, and I will speak more about it. We must stop now.
                <lb facs="#facs_64_tr_2_tl_7" n="N004"/>So I can promise you we will use the whole hour on Tuesday, but then we will be through.
             </ab>
-            <pb facs="#facs_65" n="1830293__p065.jpg" xml:id="img_0065"/>
+            <pb facs="#facs_65" n="65" xml:id="img_0065"/>
             <ab facs="#facs_65_r_5">
                <lb facs="#facs_65_l" n="N001"/>[The following is the listing of slides in the ''Religion and Art'' section.--Ed.]
                <lb facs="#facs_65_l_23" n="N002"/>[344]
@@ -5009,7 +5008,7 @@
                <lb facs="#facs_65_l_531" n="N034"/>Picasso: <hi style="font-style: italic;">Crucifixion</hi>
                <lb facs="#facs_65_l_538" n="N035"/>Sutherland: <hi style="font-style: italic;">Crucifixion</hi>
             </ab>
-            <pb facs="#facs_66" n="1830293__p066.jpg" xml:id="img_0066"/>
+            <pb facs="#facs_66" n="66" xml:id="img_0066"/>
             <ab facs="#facs_66_tr_1">
                <lb facs="#facs_66_tr_1_tl_1" n="N001"/>[345]
                <lb facs="#facs_66_tr_1_tl_2" n="N002"/>LECTURE XXVIII, Feb. 21, 1956
@@ -5034,7 +5033,7 @@
                <lb facs="#facs_66_tr_2_tl_6" n="N006"/>and that is most visible in them if you look at them and let the power of their symbolic character
                <lb facs="#facs_66_tr_2_tl_7" n="N007"/>have effect on you.
             </ab>
-            <pb facs="#facs_67" n="1830293__p067.jpg" xml:id="img_0067"/>
+            <pb facs="#facs_67" n="67" xml:id="img_0067"/>
             <ab facs="#facs_67_tr_1">
                <lb facs="#facs_67_tr_1_tl_1" n="N001"/>[346]
                <lb facs="#facs_67_tr_1_tl_2" n="N002"/>2) Kadinsky: <hi style="font-style: italic;">COMPOSITION</hi>--I can tell you of myself that long ago, in Wester Germany
@@ -5061,7 +5060,7 @@
                <lb facs="#facs_67_tr_2_tl_5" n="N005"/>controversial and which has now become almost a classic. It is Picasso's <hi style="font-style: italic;">Guernica</hi>, this little
                <lb facs="#facs_67_tr_2_tl_6" n="N006"/>village in northern Spain which was bombed by the Fascist countries before the beginning of the
             </ab>
-            <pb facs="#facs_68" n="1830293__p068.jpg" xml:id="img_0068"/>
+            <pb facs="#facs_68" n="68" xml:id="img_0068"/>
             <ab facs="#facs_68_tr_1">
                <lb facs="#facs_68_tr_1_tl_2" n="N001"/>[347]
                <lb facs="#facs_68_tr_1_tl_3" n="N002"/>Second World War, as an exercise for their military airplanes! The horrors were incredible, the whole
@@ -5087,7 +5086,7 @@
                <lb facs="#facs_68_tr_3_tl_4" n="N004"/>and figures like this, is in itself an expression of the tragic feeling especially in those figures which
                <lb facs="#facs_68_tr_3_tl_5" n="N005"/>are supposed to express the <hi style="font-style: italic;">joie de vivre</hi>, the joy of living.
             </ab>
-            <pb facs="#facs_69" n="1830293__p069.jpg" xml:id="img_0069"/>
+            <pb facs="#facs_69" n="69" xml:id="img_0069"/>
             <ab facs="#facs_69_tr_1">
                <lb facs="#facs_69_tr_1_tl_1" n="N001"/>[348]
                <lb facs="#facs_69_tr_1_tl_2" n="N002"/>6) Chirico: <hi style="font-style: italic;">MELANCHOLY AND MYSTERY OF A STREET</hi>--This is surrealism. Surrealism
@@ -5112,7 +5111,7 @@
                <lb facs="#facs_69_tr_2_tl_4" n="N004"/>disrupted or, as here, completely disappears. These of you who have read a little about it know
                <lb facs="#facs_69_tr_2_tl_5" n="N005"/>that there is a controversy--some Catholic authorities take the point that the human face is divinely
             </ab>
-            <pb facs="#facs_70" n="1830293__p070.jpg" xml:id="img_0070"/>
+            <pb facs="#facs_70" n="70" xml:id="img_0070"/>
             <ab facs="#facs_70_tr_2">
                <lb facs="#facs_70_tr_2_tl_1" n="N001"/>[349]
                <lb facs="#facs_70_tr_2_tl_2" n="N002"/>given and therefore should not be a matter of expressionistic art at all but should always be preserved
@@ -5138,7 +5137,7 @@
                <lb facs="#facs_70_tr_3_tl_3" n="N003"/>Here I want to say something about transitions. Sometimes the transitory moments in history
                <lb facs="#facs_70_tr_3_tl_4" n="N004"/>are the most important ones. Here the expressionistic power of being is seen in everything,
             </ab>
-            <pb facs="#facs_71" n="1830293__p071.jpg" xml:id="img_0071"/>
+            <pb facs="#facs_71" n="71" xml:id="img_0071"/>
             <ab facs="#facs_71_tr_2">
                <lb facs="#facs_71_tr_2_tl_2" n="N001"/>[350]
                <lb facs="#facs_71_tr_2_tl_3" n="N002"/>for instance in this great tree, which is the Platonic ''treehood'' again, but here in a much more
@@ -5164,7 +5163,7 @@
                <lb facs="#facs_71_tr_1_tl_7" n="N006"/>and into subjective piety as expressed in the eyes of the mother.
                <lb facs="#facs_71_tr_1_tl_8" n="N007"/>14) Raphael, <hi style="font-style: italic;">Madonna Colonna</hi>--Here you have the fulfilment of this development. Here you don’t
             </ab>
-            <pb facs="#facs_72" n="1830293__p072.jpg" xml:id="img_0072"/>
+            <pb facs="#facs_72" n="72" xml:id="img_0072"/>
             <ab facs="#facs_72_tr_1">
                <lb facs="#facs_72_tr_1_tl_1" n="N001"/>[351]
                <lb facs="#facs_72_tr_1_tl_2" n="N002"/>feel very much any more of the divinity of the Madonna, but you have a picture of Mother and Child,
@@ -5189,7 +5188,7 @@
                <lb facs="#facs_72_tr_2_tl_9" n="N009"/>and the real metaphysical power of CHRIST was completely gone!
                <lb facs="#facs_72_tr_2_tl_10" n="N010"/>17) Manet, <hi style="font-style: italic;">ECCE HOMO</hi>--Here I will speak about a very interesting phenomenon. Manet is
             </ab>
-            <pb facs="#facs_73" n="1830293__p073.jpg" xml:id="img_0073"/>
+            <pb facs="#facs_73" n="73" xml:id="img_0073"/>
             <ab facs="#facs_73_tr_1">
                <lb facs="#facs_73_tr_1_tl_2" n="N001"/>[352]
                <lb facs="#facs_73_tr_1_tl_3" n="N002"/>certainly the greatest painter of the 19th century. He is greater than his Impressionistic period, in which
@@ -5217,7 +5216,7 @@
                <lb facs="#facs_73_tr_3_tl_4" n="N005"/>which combines expressionistic style with religious subject matter, and that is the style which
                <lb facs="#facs_73_tr_3_tl_5" n="N006"/>is able [to be used] for the cult. This is an archaic Greek god, <hi style="font-style: italic;">APOLLO</hi>. Here you see how he
             </ab>
-            <pb facs="#facs_74" n="1830293__p074.jpg" xml:id="img_0074"/>
+            <pb facs="#facs_74" n="74" xml:id="img_0074"/>
             <ab facs="#facs_74_tr_1">
                <lb facs="#facs_74_tr_1_tl_1" n="N001"/>[353]
                <lb facs="#facs_74_tr_1_tl_2" n="N002"/>looks. You cannot go around him. He is not a figure which stands in time and space. In the Greek
@@ -5244,7 +5243,7 @@
                <lb facs="#facs_74_tr_3_tl_4" n="N004"/>22) BYZANTINE SCHOOL...--This shows you in the same way the transparency of the natural,
                <lb facs="#facs_74_tr_3_tl_5" n="N005"/>the fact that it has become translucent for the divine, and the Spiritual (capital ''S'') translucent
             </ab>
-            <pb facs="#facs_75" n="1830293__p075.jpg" xml:id="img_0075"/>
+            <pb facs="#facs_75" n="75" xml:id="img_0075"/>
             <ab facs="#facs_75_tr_1">
                <lb facs="#facs_75_tr_1_tl_1" n="N001"/>[354]
                <lb facs="#facs_75_tr_1_tl_2" n="N002"/>through it. Here you can also see what I said before: this Baby is already the same world-ruler
@@ -5270,7 +5269,7 @@
                <lb facs="#facs_75_tr_3_tl_3" n="N003"/>pictures were given. There we have a similar Romanesque picture, but more distorted, even,
                <lb facs="#facs_75_tr_3_tl_4" n="N004"/>than this, and less naturalistic. But this is the Romanesque period.
             </ab>
-            <pb facs="#facs_76" n="1830293__p076.jpg" xml:id="img_0076"/>
+            <pb facs="#facs_76" n="76" xml:id="img_0076"/>
             <ab facs="#facs_76_tr_2">
                <lb facs="#facs_76_tr_2_tl_3" n="N001"/>[355]
                <lb facs="#facs_76_tr_2_tl_4" n="N002"/>25) FRENCH, 15th Century...--This is one of the most famous ones in the Middle Ages.
@@ -5293,7 +5292,7 @@
                <lb facs="#facs_76_tr_1_tl_12" n="N010"/>very photographic sometimes, but the composition of the parts into the whole is something of a
                <lb facs="#facs_76_tr_1_tl_14" n="N011"/>demonic imagination as it has hardly reached in any painting of the 20th century.
             </ab>
-            <pb facs="#facs_77" n="1830293__p077.jpg" xml:id="img_0077"/>
+            <pb facs="#facs_77" n="77" xml:id="img_0077"/>
             <ab facs="#facs_77_tr_1">
                <lb facs="#facs_77_tr_1_tl_1" n="N001"/>[356]
                <lb facs="#facs_77_tr_1_tl_2" n="N002"/>28) HIERONYMOUS BOSCH, <hi style="font-style: italic;">TEMPTATION</hi>--I can simply repeat the same thing about the
@@ -5318,7 +5317,7 @@
                <lb facs="#facs_77_tr_2_tl_6" n="N006"/>these figures, but nevertheless in the triangular lines going up, at the same time the triumph.
                <lb facs="#facs_77_tr_2_tl_7" n="N007"/>But not a visible triumph, so to speak, but a triumph in terms of an indication of a ''beyond the situation,''
             </ab>
-            <pb facs="#facs_78" n="1830293__p078.jpg" xml:id="img_0078"/>
+            <pb facs="#facs_78" n="78" xml:id="img_0078"/>
             <ab facs="#facs_78_tr_1">
                <lb facs="#facs_78_tr_1_tl_1" n="N001"/>[357]
                <lb facs="#facs_78_tr_1_tl_2" n="N002"/>--not a visible triumph as such.
@@ -5345,7 +5344,7 @@
                <lb facs="#facs_78_tr_2_tl_3" n="N003"/>say this is almost the ONLY picture of resurrection which I personally can accept because it doesn't
                <lb facs="#facs_78_tr_2_tl_4" n="N004"/>make the resurrection into a physical event of special events of a special body, but it puts the body
             </ab>
-            <pb facs="#facs_79" n="1830293__p079.jpg" xml:id="img_0079"/>
+            <pb facs="#facs_79" n="79" xml:id="img_0079"/>
             <ab facs="#facs_79_tr_4">
                <lb facs="#facs_79_l" n="N001"/>[358]
                <lb facs="#facs_79_tr_4_tl_1" n="N002"/>into the sun, which means it is a completely transcendent event, and not an event of a physical
@@ -5369,7 +5368,7 @@
                <lb facs="#facs_79_tr_3_tl_10" n="N010"/>in a modern church, and that would be the first step, perhaps, toward a renewal of religious art
                <lb facs="#facs_79_tr_3_tl_11" n="N011"/>which is possible for cultic activities.
             </ab>
-            <pb facs="#facs_80" n="1830293__p080.jpg" xml:id="img_0080"/>
+            <pb facs="#facs_80" n="80" xml:id="img_0080"/>
             <ab facs="#facs_80_tr_1">
                <lb facs="#facs_80_tr_1_tl_3" n="N001"/>[359]
                <lb facs="#facs_80_tr_1_tl_4" n="N002"/>36) NOLDE, <hi style="font-style: italic;">THE LAST SUPPER</hi>--Nolde is a German expressionist who tried to bring,
@@ -5394,7 +5393,7 @@
                <lb facs="#facs_80_tr_2_tl_4" n="N004"/>years, it could be used, and might be used, for that purpose. In any case, you see here the
                <lb facs="#facs_80_tr_2_tl_5" n="N005"/>denaturalization of the scene, also the disrupted elements, but no triumphant indication at all.
             </ab>
-            <pb facs="#facs_81" n="1830293__p081.jpg" xml:id="img_0081"/>
+            <pb facs="#facs_81" n="81" xml:id="img_0081"/>
             <ab facs="#facs_81_tr_1">
                <lb facs="#facs_81_tr_1_tl_1" n="N001"/>[360]
                <lb facs="#facs_81_tr_1_tl_2" n="N002"/>38) SUTHERLAND, <hi style="font-style: italic;">CRUCIFIXION</hi>--This is the last picture, by an American painter. You see
@@ -5407,7 +5406,7 @@
                <lb facs="#facs_81_tr_1_tl_9" n="N009"/>I gave you in this whole lecture. Now Thursday we will then start with an analysis of a kind which
                <lb facs="#facs_81_tr_1_tl_10" n="N010"/>CAN produce styles like that on the second level, and like this [Sutherland] on the fourth level.
             </ab>
-            <pb facs="#facs_82" n="1830293__p082.jpg" xml:id="img_0082"/>
+            <pb facs="#facs_82" n="82" xml:id="img_0082"/>
             <ab facs="#facs_82_tr_2">
                <lb facs="#facs_82_tr_2_tl_3" n="N001"/>[361]
                <lb facs="#facs_82_tr_2_tl_4" n="N002"/>LECTURE XXIX, Feb. 23, 1956
@@ -5434,7 +5433,7 @@
                <lb facs="#facs_82_tr_1_tl_6" n="N006"/>phrase of Rilke, where I know the context, in his doctrine of angels, I can tell you for sure that he
                <lb facs="#facs_82_tr_1_tl_7" n="N007"/>points to the hidden demonic backward of the angelic form...
             </ab>
-            <pb facs="#facs_83" n="1830293__p083.jpg" xml:id="img_0083"/>
+            <pb facs="#facs_83" n="83" xml:id="img_0083"/>
             <ab facs="#facs_83_tr_3">
                <lb facs="#facs_83_tr_3_tl_1" n="N001"/>[362]
                <lb facs="#facs_83_tr_3_tl_2" n="N002"/>We have lost one or two hours already by the manifoldness of our discussion of religion
@@ -5461,7 +5460,7 @@
                <lb facs="#facs_83_tr_1_tl_5" n="N005"/>in this century and to a special place where this period takes place. If you follow this method,
                <lb facs="#facs_83_tr_1_tl_6" n="N006"/>then you come to the point that you cannot say anything universally about man. And that is
             </ab>
-            <pb facs="#facs_84" n="1830293__p084.jpg" xml:id="img_0084"/>
+            <pb facs="#facs_84" n="84" xml:id="img_0084"/>
             <ab facs="#facs_84_tr_1">
                <lb facs="#facs_84_tr_1_tl_1" n="N001"/>[363]
                <lb facs="#facs_84_tr_1_tl_2" n="N002"/>indeed what they want; they want to concentrate exclusively on special groups in a special situation,
@@ -5488,7 +5487,7 @@
                <lb facs="#facs_84_tr_2_tl_1" n="N001"/>only different social structures, they all are different in different societies, and that is what we have
                <lb facs="#facs_84_tr_2_tl_2" n="N002"/>to deal with. There is no basic anxiety, there is no basic courage, there is no basic freedom, there is
             </ab>
-            <pb facs="#facs_85" n="1830293__p085.jpg" xml:id="img_0085"/>
+            <pb facs="#facs_85" n="85" xml:id="img_0085"/>
             <ab facs="#facs_85_tr_2">
                <lb facs="#facs_85_l" n="N001"/>[364]
                <lb facs="#facs_85_tr_2_tl_1" n="N002"/>no basic destiny, there is no structure of mind, there is structure of body, all this changes--and it is
@@ -5515,7 +5514,7 @@
                <lb facs="#facs_85_tr_1_tl_4" n="N004"/>same is true for sociology in contrast to the analysis of plantations of plants and their living together,
                <lb facs="#facs_85_tr_1_tl_5" n="N005"/>which ALSO is a reality.
             </ab>
-            <pb facs="#facs_86" n="1830293__p086.jpg" xml:id="img_0086"/>
+            <pb facs="#facs_86" n="86" xml:id="img_0086"/>
             <ab facs="#facs_86_tr_1">
                <lb facs="#facs_86_tr_1_tl_2" n="N001"/>[365] 
                <lb facs="#facs_86_tr_1_tl_3" n="N002"/>Alright. After this has been said, I think I can say: in dealing with our presentday [sic.]
@@ -5542,7 +5541,7 @@
                <lb facs="#facs_86_tr_2_tl_4" n="N004"/>style which comes out in the art of our period, and which, in this, as such a style, expresses the actual
                <lb facs="#facs_86_tr_2_tl_5" n="N005"/>situation of our period, and at the same time potentialities of human nature generally?
             </ab>
-            <pb facs="#facs_87" n="1830293__p087.jpg" xml:id="img_0087"/>
+            <pb facs="#facs_87" n="87" xml:id="img_0087"/>
             <ab facs="#facs_87_tr_1">
                <lb facs="#facs_87_tr_1_tl_1" n="N001"/>[366]
                <lb facs="#facs_87_tr_1_tl_2" n="N002"/>If we ask this question, we come certainly to the distinction between the naturalistic and the
@@ -5566,7 +5565,7 @@
                <lb facs="#facs_87_tr_2_tl_6" n="N005"/>and artists in early Florence of the Renaissance worked intimately together. The philosophers
                <lb facs="#facs_87_tr_2_tl_7" n="N006"/>tried to express rationally, or better, conceptually, what the artists did visually,and vice versa.
             </ab>
-            <pb facs="#facs_88" n="1830293__p088.jpg" xml:id="img_0088"/>
+            <pb facs="#facs_88" n="88" xml:id="img_0088"/>
             <ab facs="#facs_88_tr_2">
                <lb facs="#facs_88_tr_2_tl_1" n="N001"/>[367]
                <lb facs="#facs_88_tr_2_tl_2" n="N002"/>In all these men there was not the tendency to deny what is always present in expressionistic styles,
@@ -5592,7 +5591,7 @@
                <lb facs="#facs_88_tr_1_tl_16" n="N013"/>I speak here of logos: man controlling nature and society in the power of the logos.
                <lb facs="#facs_88_tr_1_tl_17" n="N014"/>This started around 1450 and went on till at least 1850 or 1900. Such periodizations
             </ab>
-            <pb facs="#facs_89" n="1830293__p089.jpg" xml:id="img_0089"/>
+            <pb facs="#facs_89" n="89" xml:id="img_0089"/>
             <ab facs="#facs_89_tr_2">
                <lb facs="#facs_89_tr_2_tl_1" n="N001"/>[368]
                <lb facs="#facs_89_tr_2_tl_2" n="N002"/>MUST be vague, because the next period is always conceived and developed, and finally born, in the lap
@@ -5618,7 +5617,7 @@
                <lb facs="#facs_89_tr_1_tl_14" n="N009"/>other of the Western periods, namely the translucency of the spiritual to the material--in philosophy, in
                <lb facs="#facs_89_tr_1_tl_15" n="N010"/>life, in everything. Or we can compare it with the period in which Neoplatonism and Christianity fought
             </ab>
-            <pb facs="#facs_90" n="1830293__p090.jpg" xml:id="img_0090"/>
+            <pb facs="#facs_90" n="90" xml:id="img_0090"/>
             <ab facs="#facs_90_tr_2">
                <lb facs="#facs_90_tr_2_tl_1" n="N001"/>[369]
                <lb facs="#facs_90_tr_2_tl_2" n="N002"/>with each other, from 100 before to 400 after Christ, the so-called religious period of the ancient world
@@ -5643,7 +5642,7 @@
                <lb facs="#facs_90_tr_1_tl_8" n="N007"/>thought, namely that this period is not unbroken, and the pictures I gave you have shown this quality
                <lb facs="#facs_90_tr_1_tl_11" n="N008"/>I hope very closely. In the late Renaissance, a reaction against the naturalistic self-interpretation
             </ab>
-            <pb facs="#facs_91" n="1830293__p091.jpg" xml:id="img_0091"/>
+            <pb facs="#facs_91" n="91" xml:id="img_0091"/>
             <ab facs="#facs_91_tr_3">
                <lb facs="#facs_91_tr_3_tl_1" n="N001"/>[370]
                <lb facs="#facs_91_tr_3_tl_2" n="N002"/>of man occurred. We call it, if we use terms taken from the history of art, the period of Mannerism
@@ -5670,7 +5669,7 @@
                <lb facs="#facs_91_tr_1_tl_5" n="N005"/>Reformation in its combination with humanism. About the Counter-Reformation, I can say that here--
                <lb facs="#facs_91_tr_1_tl_6" n="N006"/>and I think I said it briefly when I showed you pictures of El Greco--the mystical reality which in
             </ab>
-            <pb facs="#facs_92" n="1830293__p092.jpg" xml:id="img_0092"/>
+            <pb facs="#facs_92" n="92" xml:id="img_0092"/>
             <ab facs="#facs_92_tr_1">
                <lb facs="#facs_92_tr_1_tl_1" n="N001"/>[371]
                <lb facs="#facs_92_tr_1_tl_2" n="N002"/>the whole Middle Ages comes from above and is GIVEN to man, now comes from below and is
@@ -5697,7 +5696,7 @@
                <lb facs="#facs_92_tr_2_tl_2" n="N002"/>were partly victorious in the 20th century. This history is the history of our period. This was
                <lb facs="#facs_92_tr_2_tl_3" n="N003"/>what was going on in the 250 years, and for this reason no religiouspicture [sic.] worth mentioning
             </ab>
-            <pb facs="#facs_93" n="1830293__p093.jpg" xml:id="img_0093"/>
+            <pb facs="#facs_93" n="93" xml:id="img_0093"/>
             <ab facs="#facs_93_tr_1">
                <lb facs="#facs_93_tr_1_tl_1" n="N001"/>[372]
                <lb facs="#facs_93_tr_1_tl_2" n="N002"/>could be painted.
@@ -5724,7 +5723,7 @@
                <lb facs="#facs_93_tr_3_tl_4" n="N002"/>namely the machine. From tool to machine is a long way, but in principle, in relation to man, they
                <lb facs="#facs_93_tr_3_tl_5" n="N003"/>have the same character. Both tool and machine have a tremendously liberating power. And I would
             </ab>
-            <pb facs="#facs_94" n="1830293__p094.jpg" xml:id="img_0094"/>
+            <pb facs="#facs_94" n="94" xml:id="img_0094"/>
             <ab facs="#facs_94_tr_1">
                <lb facs="#facs_94_tr_1_tl_1" n="N001"/>[373]
                <lb facs="#facs_94_tr_1_tl_2" n="N002"/>not hesitate to say, against some of my romantic friends who are terribly afraid of automation, that
@@ -5749,7 +5748,7 @@
                <lb facs="#facs_94_tr_2_tl_12" n="N008"/>Now this is a tremendous thing. I don't speak here about the problem of employment connected with it,
                <lb facs="#facs_94_tr_2_tl_13" n="N009"/>the problem of leisure time--I will come to this later. But here I only want to say: don't forget
             </ab>
-            <pb facs="#facs_95" n="1830293__p095.jpg" xml:id="img_0095"/>
+            <pb facs="#facs_95" n="95" xml:id="img_0095"/>
             <ab facs="#facs_95_tr_2">
                <lb facs="#facs_95_tr_2_tl_1" n="N001"/>[374]
                <lb facs="#facs_95_tr_2_tl_2" n="N002"/>this fact. And even the assembly line can largely reduce, in the big factories, so that the mechanical
@@ -5760,7 +5759,7 @@
                <lb facs="#facs_95_tr_2_tl_7" n="N007"/>to be found today in booklets, and even in larger books, which do not take into consideration
                <lb facs="#facs_95_tr_2_tl_8" n="N008"/>the blessing, of which the curse is the other side.
             </ab>
-            <pb facs="#facs_96" n="1830293__p096.jpg" xml:id="img_0096"/>
+            <pb facs="#facs_96" n="96" xml:id="img_0096"/>
             <ab facs="#facs_96_tr_3">
                <lb facs="#facs_96_tr_3_tl_1" n="N001"/>[375]
                <lb facs="#facs_96_tr_3_tl_2" n="N002"/>LECTURE XXX, Feb. 28, 1956
@@ -5788,7 +5787,7 @@
                <lb facs="#facs_96_tr_1_tl_3" n="N003"/>cannot make man, because in man are united all levels of reality, but they are united in a center
                <lb facs="#facs_96_tr_1_tl_4" n="N004"/>which decides and creates. This makes all the difference! I know that many people are very much worried
             </ab>
-            <pb facs="#facs_97" n="1830293__p097.jpg" xml:id="img_0097"/>
+            <pb facs="#facs_97" n="97" xml:id="img_0097"/>
             <ab facs="#facs_97_tr_2">
                <lb facs="#facs_97_tr_2_tl_2" n="N001"/>[376]
                <lb facs="#facs_97_tr_2_tl_3" n="N002"/>about the existence of the artificial brain and who do something else very foolish: they interpret
@@ -5815,7 +5814,7 @@
                <lb facs="#facs_97_tr_1_tl_7" n="N007"/>subjected to the method of mechanical connections and dependences.
                <lb facs="#facs_97_tr_1_tl_8" n="N008"/>Let me say something about this test method. Test in itself is nothing objectifying.
             </ab>
-            <pb facs="#facs_98" n="1830293__p098.jpg" xml:id="img_0098"/>
+            <pb facs="#facs_98" n="98" xml:id="img_0098"/>
             <ab facs="#facs_98_tr_1">
                <lb facs="#facs_98_tr_1_tl_1" n="N001"/>[377]
                <lb facs="#facs_98_tr_1_tl_2" n="N002"/>The witness before the court TESTS something. But the test method uses those elements of man
@@ -5842,7 +5841,7 @@
                <lb facs="#facs_98_tr_2_tl_4" n="N004"/>for a moment the absurdity that you choose your husband or your wife on the basis of a family
                <lb facs="#facs_98_tr_2_tl_6" n="N005"/>tester (which perhaps will be a job for tomorrow!). Now if you do this, then you will
             </ab>
-            <pb facs="#facs_99" n="1830293__p099.jpg" xml:id="img_0099"/>
+            <pb facs="#facs_99" n="99" xml:id="img_0099"/>
             <ab facs="#facs_99_tr_1">
                <lb facs="#facs_99_tr_1_tl_1" n="N001"/>[378]
                <lb facs="#facs_99_tr_1_tl_2" n="N002"/>certainly find out that he or she has a tendency towards greed or towards waste--you can do that--
@@ -5868,7 +5867,7 @@
                <lb facs="#facs_99_tr_2_tl_3" n="N003"/>than storm troopers or armies, namely the guidance of a whole nation in[to] those realms in which
                <lb facs="#facs_99_tr_2_tl_4" n="N004"/>the individual resistance doesn't exist, in which you can calculate the reactions by test experiments.
             </ab>
-            <pb facs="#facs_100" n="1830293__p100.jpg" xml:id="img_0100"/>
+            <pb facs="#facs_100" n="100" xml:id="img_0100"/>
             <ab facs="#facs_100_tr_1">
                <lb facs="#facs_100_tr_1_tl_2" n="N001"/>[379]
                <lb facs="#facs_100_tr_1_tl_3" n="N002"/>This leads me to a more fundamental anthropological problem that belongs here, the
@@ -5895,7 +5894,7 @@
                <lb facs="#facs_100_tr_2_tl_1" n="N001"/>produce, even in the others, as much conditioned reflexes as the dictators wanted--BUT NOT
                <lb facs="#facs_100_tr_2_tl_2" n="N002"/>QUITE AS MUCH--and this is the important thing to learn from these experiments in which theory
             </ab>
-            <pb facs="#facs_101" n="1830293__p101.jpg" xml:id="img_0101"/>
+            <pb facs="#facs_101" n="101" xml:id="img_0101"/>
             <ab facs="#facs_101_tr_2">
                <lb facs="#facs_101_tr_2_tl_1" n="N001"/>[380]
                <lb facs="#facs_101_tr_2_tl_2" n="N002"/>became horrible, atrocious practice, namely that there a resistance still was left. I know a man
@@ -5920,7 +5919,7 @@
                <lb facs="#facs_101_tr_1_tl_9" n="N009"/>become irrelevant for the mass. Now that is what happens in mass society. Mass society is a society
                <lb facs="#facs_101_tr_1_tl_10" n="N010"/>in which the individual reactions which have the character of spontaneity or finite freedom, are of
             </ab>
-            <pb facs="#facs_102" n="1830293__p102.jpg" xml:id="img_0102"/>
+            <pb facs="#facs_102" n="102" xml:id="img_0102"/>
             <ab facs="#facs_102_tr_1">
                <lb facs="#facs_102_tr_1_tl_2" n="N001"/>[381]
                <lb facs="#facs_102_tr_1_tl_3" n="N002"/>no importance for the movement of the whole. The word ''mass society'' has little to do--
@@ -5948,7 +5947,7 @@
                <lb facs="#facs_102_tr_2_tl_4" n="N004"/>(slowly, but safely); and is reduced more and more, ideally to a point where it is of [no] influence
                <lb facs="#facs_102_tr_2_tl_6" n="N005"/>on the movement of the whole any more. This is the definition of a mass society. This takes much
             </ab>
-            <pb facs="#facs_103" n="1830293__p103.jpg" xml:id="img_0103"/>
+            <pb facs="#facs_103" n="103" xml:id="img_0103"/>
             <ab facs="#facs_103_tr_2">
                <lb facs="#facs_103_tr_2_tl_1" n="N001"/>[382]
                <lb facs="#facs_103_tr_2_tl_2" n="N002"/>time, perhaps decades, perhaps centuries, but somehow then the mass has developed. We have now
@@ -5977,7 +5976,7 @@
                <lb facs="#facs_103_tr_1_tl_6" n="N006"/>Now I could say, ''They are well-adjusted to what?'' If he then answers, ''They are well-
                <lb facs="#facs_103_tr_1_tl_7" n="N007"/>adjusted to behave in the class so that we can work together,'' then it is alright; that is good adjustment.
             </ab>
-            <pb facs="#facs_104" n="1830293__p104.jpg" xml:id="img_0104"/>
+            <pb facs="#facs_104" n="104" xml:id="img_0104"/>
             <ab facs="#facs_104_tr_3">
                <lb facs="#facs_104_tr_3_tl_1" n="N001"/>[383]
                <lb facs="#facs_104_tr_3_tl_2" n="N002"/>If they say they are adjusted to the general standards of the way in which one should think and
@@ -6005,7 +6004,7 @@
                <lb facs="#facs_104_tr_1_tl_1" n="N001"/>And they are most powerful means for producing mass society--people who know the same things,
                <lb facs="#facs_104_tr_1_tl_2" n="N002"/>they have learned from these means of mass communication: people who think the same thing,
             </ab>
-            <pb facs="#facs_105" n="1830293__p105.jpg" xml:id="img_0105"/>
+            <pb facs="#facs_105" n="105" xml:id="img_0105"/>
             <ab facs="#facs_105_tr_2">
                <lb facs="#facs_105_tr_2_tl_3" n="N001"/>[384]
                <lb facs="#facs_105_tr_2_tl_4" n="N002"/>who make the same decisions, who have the same ideals, the same conventions, the same
@@ -6033,7 +6032,7 @@
                <lb facs="#facs_105_tr_1_tl_5" n="N004"/>one of the things which made the difference between the old crafts, where people worked usually
                <lb facs="#facs_105_tr_1_tl_7" n="N005"/>fourteen to sixteen and more hours, and the laborer today who works perhaps only eight hours
             </ab>
-            <pb facs="#facs_106" n="1830293__p106.jpg" xml:id="img_0106"/>
+            <pb facs="#facs_106" n="106" xml:id="img_0106"/>
             <ab facs="#facs_106_tr_2">
                <lb facs="#facs_106_tr_2_tl_1" n="N001"/>[385]
                <lb facs="#facs_106_tr_2_tl_2" n="N002"/>or even less, but who doesn't see what he does and has lost what I would like to call the creative
@@ -6061,7 +6060,7 @@
                <lb facs="#facs_106_tr_1_tl_3" n="N003"/>the politicians, the educators, in order to think about a nation which has managed to take away from
                <lb facs="#facs_106_tr_1_tl_4" n="N004"/>most people most of the mechanical functions and which has thrown them into utter emptiness
             </ab>
-            <pb facs="#facs_107" n="1830293__p107.jpg" xml:id="img_0107"/>
+            <pb facs="#facs_107" n="107" xml:id="img_0107"/>
             <ab facs="#facs_107_tr_3">
                <lb facs="#facs_107_tr_3_tl_1" n="N001"/>[386]
                <lb facs="#facs_107_tr_3_tl_2" n="N002"/>with respect to the time which is given to them and which now COULD be used by them.
@@ -6089,7 +6088,7 @@
                <lb facs="#facs_107_tr_1_tl_4" n="N004"/>on the street, it also refers to the four million chief executives who have to conform themselves
                <lb facs="#facs_107_tr_1_tl_5" n="N005"/>like the man in <hi style="font-style: italic;">Point of No Return</hi>. This famous novel, which also was in a movie--there you can
             </ab>
-            <pb facs="#facs_108" n="1830293__p108.jpg" xml:id="img_0108"/>
+            <pb facs="#facs_108" n="108" xml:id="img_0108"/>
             <ab facs="#facs_108_tr_2">
                <lb facs="#facs_108_tr_2_tl_2" n="N001"/>[387]
                <lb facs="#facs_108_tr_2_tl_3" n="N002"/>see the whole tragedy of the force to adjustment, under the necessity of competition.
