@@ -1,3 +1,4 @@
 acdh-transkribus-utils
 acdh-tei-pyutils
 saxonche>=12.1.0,<13
+Jinja2

@@ -163,6 +163,5 @@ cython_debug/
 
 secret*
 jupyter*
-data/editions/*
 *.ipynb
 hansi.csv
