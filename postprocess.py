@@ -53,11 +53,10 @@ for i, x in enumerate(tqdm(files)):
             ab_text += (
                 ET.tostring(abnode, encoding="utf-8")
                 .decode("utf-8")
-                .replace('key=", Personen ID=', 'ref="tillich-lectures__')
+                .replace('key=", ', 'ref="#')
                 .replace('xmlns="http://www.tei-c.org/ns/1.0"', "")
                 .replace("vertical-align: superscript;", "superscript")
             )
-            ab_text = ab_text.replace('ref="tillich-lectures', 'ref="#tillich-lectures')
         page = {
             "id": f"tillich-lectures-{img_id}",
             "col_id": col_id,
