@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt><title type="main">Tillich 470-604</title></titleStmt>
@@ -10,7 +11,7 @@
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
-         <graphic url="65412705.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p001.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=EWKXKNTDXYOBSVVJETIOUZHG&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="179,213 2304,213 2304,3244 179,3244" rendition="TextRegion" xml:id="facs_1_r_124">
             <zone points="1144,291 1212,309 1228,304 1233,309 1273,306 1271,223 1258,223 1233,248 1223,251 1142,253" rendition="Line" xml:id="facs_1_r_124_tl_1"/>
@@ -35,7 +36,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
-         <graphic url="65412707.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p002.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=NFHPZFPOERZXDNDMYVPPVVGX&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="50,6 2367,6 2367,2822 50,2822" rendition="TextRegion" xml:id="facs_2_tr_1">
             <zone points="1165,322 1190,322 1203,332 1231,335 1239,335 1246,327 1254,332 1277,332 1277,268 1241,268 1236,263 1228,266 1218,258 1195,278 1165,278" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
@@ -63,7 +64,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3">
-         <graphic url="65412709.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p003.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=BJBDDIKHPWVLGOUIVYJXLRYA&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="23,6 2280,6 2280,944 23,944" rendition="TextRegion" xml:id="facs_3_tr_1">
             <zone points="1146,322 1159,322 1166,330 1181,330 1194,340 1204,337 1209,342 1221,342 1229,335 1254,335 1261,332 1259,275 1209,277 1199,267 1176,292 1166,287 1144,287" rendition="Line" xml:id="facs_3_tr_1_tl_3"/>
@@ -96,7 +97,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_4">
-         <graphic url="65412710.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p004.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=XURPQKDJPXVPCFSOCBTFPIMQ&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="298,272 2295,272 2295,1855 298,1855" rendition="TextRegion" xml:id="facs_4_tr_1">
             <zone points="1142,332 1162,332 1180,342 1222,337 1259,342 1262,254 1229,254 1209,274 1145,274" rendition="Line" xml:id="facs_4_tr_1_tl_1"/>
@@ -126,7 +127,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_5">
-         <graphic url="65412712.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p005.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=RHNMLLEVIZPRFYIYUVCMBOZE&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="298,269 2257,269 2257,1652 298,1652" rendition="TextRegion" xml:id="facs_5_tr_2">
             <zone points="1099,324 1158,334 1171,334 1181,327 1190,337 1223,329 1220,240 1200,240 1178,260 1163,257 1136,285 1126,277 1096,277" rendition="Line" xml:id="facs_5_tr_2_tl_1"/>
@@ -154,7 +155,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_6">
-         <graphic url="65412714.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p006.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=ICRQDMBXRSHQFVGNOBPFEWGM&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="310,182 2331,182 2331,1004 310,1004" rendition="TextRegion" xml:id="facs_6_tr_3">
             <zone points="1103,243 1133,246 1138,254 1158,256 1164,251 1174,256 1227,248 1227,185 1191,185 1176,175 1161,190 1103,193" rendition="Line" xml:id="facs_6_tr_3_tl_1"/>
@@ -179,7 +180,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_7">
-         <graphic url="65412717.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p007.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=HCTIJGNPAMPZYAPIBBZZCUVY&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="319,287 2397,287 2397,2099 319,2099" rendition="TextRegion" xml:id="facs_7_tr_1">
             <zone points="1116,340 1129,340 1160,358 1212,358 1222,350 1235,350 1235,288 1222,288 1212,298 1163,293 1150,301 1116,301" rendition="Line" xml:id="facs_7_tr_1_tl_1"/>
@@ -207,7 +208,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_8">
-         <graphic url="65412719.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p008.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=ENMPIZGNFYNRLVSXXJIURVIW&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="316,269 2301,269 2301,1780 316,1780" rendition="TextRegion" xml:id="facs_8_tr_1">
             <zone points="1123,328 1160,333 1178,342 1224,340 1232,333 1249,333 1247,269 1212,269 1202,259 1183,278 1121,281" rendition="Line" xml:id="facs_8_tr_1_tl_1"/>
@@ -237,7 +238,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_9">
-         <graphic url="65412721.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p009.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=DMLEDBDUQXEUWXCXMPGHMEQR&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="32,281 2280,281 2280,1111 32,1111" rendition="TextRegion" xml:id="facs_9_tr_3">
             <zone points="1126,333 1143,333 1152,343 1167,343 1174,350 1238,350 1245,343 1257,343 1255,292 1220,294 1206,280 1196,282 1191,277 1167,304 1123,301" rendition="Line" xml:id="facs_9_tr_3_tl_1"/>
@@ -280,7 +281,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_10">
-         <graphic url="65412723.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p010.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=EWNOCNSJWLOJMPNXBYYUBJHT&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="328,275 2310,275 2310,1553 328,1553" rendition="TextRegion" xml:id="facs_10_tr_2">
             <zone points="1115,324 1127,321 1139,331 1157,331 1166,341 1184,344 1213,344 1231,334 1243,334 1241,274 1216,272 1203,287 1115,287" rendition="Line" xml:id="facs_10_tr_2_tl_1"/>
@@ -326,7 +327,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_11">
-         <graphic url="65412725.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p011.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=SEHSKRVNDMEVIYRSJHFVXZZA&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="44,27 2322,27 2322,1867 44,1867" rendition="TextRegion" xml:id="facs_11_tr_1">
             <zone points="29,84 49,86 74,81 106,86 113,79 125,79 120,0 25,0" rendition="Line" xml:id="facs_11_tr_1_tl_1"/>
@@ -370,7 +371,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_12">
-         <graphic url="65412726.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p012.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=OSTULZZSRXTWGPBMVRTPQQOK&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="328,311 2277,311 2277,1756 328,1756" rendition="TextRegion" xml:id="facs_12_tr_1">
             <zone points="1137,370 1236,372 1246,365 1258,365 1258,312 1224,312 1210,297 1195,312 1180,312 1171,321 1137,321" rendition="Line" xml:id="facs_12_tr_1_tl_1"/>
@@ -409,7 +410,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_13">
-         <graphic url="65412727.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p013.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=KBWRLCTYNJQATITLPPURYLET&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="256,54 2212,54 2212,1586 256,1586" rendition="TextRegion" xml:id="facs_13_tr_1">
             <zone points="242,129 333,134 355,115 420,117 429,0 252,0" rendition="Line" xml:id="facs_13_tr_1_tl_1"/>
@@ -451,7 +452,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_14">
-         <graphic url="65412728.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p014.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=SGFBGTSEPWDCFLDJHXJTLJRK&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="223,287 2185,287 2185,1374 223,1374" rendition="TextRegion" xml:id="facs_14_tr_1">
             <zone points="1123,347 1163,357 1225,357 1232,350 1248,350 1248,273 1204,273 1184,291 1123,293" rendition="Line" xml:id="facs_14_tr_1_tl_1"/>
@@ -498,7 +499,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_15">
-         <graphic url="65412730.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p015.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=NBDTSHUPAFXWACMFDGTFHRUE&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="17,308 2364,308 2364,1893 17,1893" rendition="TextRegion" xml:id="facs_15_tr_1">
             <zone points="1035,361 1073,364 1083,374 1160,374 1160,295 1118,295 1099,311 1086,308 1075,316 1035,316" rendition="Line" xml:id="facs_15_tr_1_tl_1"/>
@@ -543,7 +544,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_16">
-         <graphic url="65412733.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p016.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=ZXOIRQMRVIHEKSEEVSTBRIPD&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="310,51 2233,51 2233,1574 310,1574" rendition="TextRegion" xml:id="facs_16_tr_1">
             <zone points="391,113 405,111 412,118 518,115 516,61 492,61 474,49 469,54 450,42 445,47 422,26 386,26" rendition="Line" xml:id="facs_16_tr_1_tl_1"/>
@@ -586,7 +587,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_17">
-         <graphic url="65412735.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p017.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=FHIIEWLOEEQPXIYCUVQIGAFU&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="328,302 2242,302 2242,1281 328,1281" rendition="TextRegion" xml:id="facs_17_tr_3">
             <zone points="1126,363 1153,363 1163,373 1185,375 1194,371 1202,375 1245,371 1245,308 1211,310 1194,303 1182,310 1170,308 1160,315 1126,315" rendition="Line" xml:id="facs_17_tr_3_tl_1"/>
@@ -635,7 +636,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_18">
-         <graphic url="65412737.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p018.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=WBAVVEFHJGHESEURNGTOLITK&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="32,42 2254,42 2254,1711 32,1711" rendition="TextRegion" xml:id="facs_18_tr_1">
             <zone points="19,101 108,101 110,0 22,0" rendition="Line" xml:id="facs_18_tr_1_tl_1"/>
@@ -688,7 +689,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_19">
-         <graphic url="65412739.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p019.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=WPAFHWEYEKMKBATXMLIUBLWF&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="331,272 2280,272 2280,1260 331,1260" rendition="TextRegion" xml:id="facs_19_tr_3">
             <zone points="1064,328 1077,328 1079,333 1101,330 1106,338 1121,335 1146,342 1185,340 1188,271 1136,273 1126,283 1101,288 1091,298 1064,298" rendition="Line" xml:id="facs_19_tr_3_tl_1"/>
@@ -743,7 +744,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_20">
-         <graphic url="65412740.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p020.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=NGKXUQPTCCLTILXJRVNHNABH&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="310,257 2269,257 2269,1544 310,1544" rendition="TextRegion" xml:id="facs_20_tr_2">
             <zone points="1046,316 1083,314 1098,326 1130,326 1155,316 1173,316 1173,251 1150,254 1130,274 1111,274 1101,264 1086,279 1078,274 1046,274" rendition="Line" xml:id="facs_20_tr_2_tl_1"/>
@@ -794,7 +795,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_21">
-         <graphic url="65412743.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p021.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=ZLAFVWMVMIDJGXAKKUGLJNJM&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="346,257 2334,257 2334,1917 346,1917" rendition="TextRegion" xml:id="facs_21_tr_1">
             <zone points="1084,312 1124,317 1131,324 1213,322 1213,255 1188,255 1173,270 1158,267 1146,272 1129,270 1119,277 1084,277" rendition="Line" xml:id="facs_21_tr_1_tl_1"/>
@@ -853,7 +854,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_22">
-         <graphic url="65412745.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p022.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=LIFSQLUMIBAWFMOSGMKJLPEZ&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="343,281 2260,281 2260,968 343,968" rendition="TextRegion" xml:id="facs_22_tr_3">
             <zone points="1076,341 1176,348 1183,341 1195,339 1195,273 1178,278 1146,273 1132,288 1120,283 1108,295 1076,295" rendition="Line" xml:id="facs_22_tr_3_tl_1"/>
@@ -904,7 +905,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_23">
-         <graphic url="65412748.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p023.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=CSEWKBNGWEORJMZSAGTHCQKG&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="352,275 2215,275 2215,1114 352,1114" rendition="TextRegion" xml:id="facs_23_tr_2">
             <zone points="1083,334 1101,334 1111,341 1187,341 1192,336 1203,336 1203,276 1169,281 1155,269 1143,269 1120,294 1083,297" rendition="Line" xml:id="facs_23_tr_2_tl_1"/>
@@ -925,7 +926,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_24">
-         <graphic url="65412750.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p024.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=VPNKFYQMHZUDKHTDUFFVRKOH&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="217,-8 2254,-8 2254,1810 217,1810" rendition="TextRegion" xml:id="facs_24_tr_1">
             <zone points="349,52 551,54 551,0 349,0" rendition="Line" xml:id="facs_24_tr_1_tl_1"/>
@@ -983,7 +984,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_25">
-         <graphic url="65412752.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p025.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=VJSEKFMDZNZQWCEHFDFPSNKR&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="250,242 2194,242 2194,920 250,920" rendition="TextRegion" xml:id="facs_25_tr_3">
             <zone points="1087,301 1115,301 1123,308 1207,306 1207,257 1156,254 1141,239 1117,257 1087,259" rendition="Line" xml:id="facs_25_tr_3_tl_1"/>
@@ -1034,7 +1035,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_26">
-         <graphic url="65412754.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p026.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=HACWCGIIXQDHVCOGMNWBFNJF&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="238,266 2239,266 2239,1311 238,1311" rendition="TextRegion" xml:id="facs_26_tr_1">
             <zone points="1102,329 1133,329 1151,342 1174,337 1189,342 1200,334 1223,334 1220,275 1182,275 1151,265 1133,280 1099,280" rendition="Line" xml:id="facs_26_tr_1_tl_1"/>
@@ -1086,7 +1087,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_27">
-         <graphic url="65412756.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p027.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=QWMOYYLLUNZEGMMOQQCROIWN&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="244,15 2307,15 2307,1299 244,1299" rendition="TextRegion" xml:id="facs_27_tr_2">
             <zone points="255,81 268,81 273,86 315,83 320,88 331,86 344,75 370,78 370,34 351,34 323,26 320,29 310,18 299,21 284,13 250,16" rendition="Line" xml:id="facs_27_tr_2_tl_1"/>
@@ -1140,7 +1141,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_28">
-         <graphic url="65412758.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p028.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=NXOPRQFNMPJZMWHYUDODNKWZ&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="256,266 2310,266 2310,1846 256,1846" rendition="TextRegion" xml:id="facs_28_tr_2">
             <zone points="1191,324 1219,327 1227,335 1262,330 1285,335 1293,327 1311,327 1308,256 1278,256 1262,264 1240,261 1227,276 1189,276" rendition="Line" xml:id="facs_28_tr_2_tl_1"/>
@@ -1185,7 +1186,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_29">
-         <graphic url="65412761.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p029.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=AUIXHPJNXEICKGEMETBUUPUH&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="41,21 2334,21 2334,1284 41,1284" rendition="TextRegion" xml:id="facs_29_tr_2">
             <zone points="26,85 82,85 108,72 123,85 139,85 147,77 154,85 183,85 183,0 26,0" rendition="Line" xml:id="facs_29_tr_2_tl_1"/>
@@ -1233,7 +1234,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_30">
-         <graphic url="65412763.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p030.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=BZYQSIVWLYAEQPGXUPJNGKUG&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="250,6 2236,6 2236,1084 250,1084" rendition="TextRegion" xml:id="facs_30_tr_2">
             <zone points="585,59 598,59 605,69 644,69 646,72 652,67 664,67 669,0 590,0" rendition="Line" xml:id="facs_30_tr_2_tl_1"/>
@@ -1284,7 +1285,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_31">
-         <graphic url="65412766.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p031.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=FMSMRCQLYDUQLTHIUEEORGYQ&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="35,21 2334,21 2334,875 35,875" rendition="TextRegion" xml:id="facs_31_tr_3">
             <zone points="21,85 67,85 75,77 100,77 100,0 21,0" rendition="Line" xml:id="facs_31_tr_3_tl_1"/>
@@ -1333,7 +1334,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_32">
-         <graphic url="65412768.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p032.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=YPAFAEWPVGIZYYORNRDTOEBO&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="38,6 2289,6 2289,947 38,947" rendition="TextRegion" xml:id="facs_32_tr_3">
             <zone points="23,67 118,72 151,59 172,69 218,69 238,61 241,0 26,0" rendition="Line" xml:id="facs_32_tr_3_tl_1"/>
@@ -1380,7 +1381,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_33">
-         <graphic url="65412770.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p033.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=EKQCEZFTIAYFPCUVYWGCCONE&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="271,269 2263,269 2263,941 271,941" rendition="TextRegion" xml:id="facs_33_tr_2">
             <zone points="1114,321 1128,321 1143,334 1235,331 1232,264 1214,269 1193,269 1188,264 1172,277 1156,274 1135,287 1112,287" rendition="Line" xml:id="facs_33_tr_2_tl_1"/>
@@ -1429,7 +1430,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_34">
-         <graphic url="65412771.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p034.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=VKAMVNRGWOCZTAYVTFQPQNRA&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="238,278 2292,278 2292,1257 238,1257" rendition="TextRegion" xml:id="facs_34_tr_3">
             <zone points="1085,339 1103,341 1111,349 1154,349 1162,344 1182,349 1193,341 1206,341 1208,280 1172,285 1141,280 1118,298 1088,298" rendition="Line" xml:id="facs_34_tr_3_tl_1"/>
@@ -1477,7 +1478,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_35">
-         <graphic url="65412774.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p035.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=YXKZHDEAFXWGMEDEHIONKPNL&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="125,3 2289,3 2289,1872 125,1872" rendition="TextRegion" xml:id="facs_35_tr_1">
             <zone points="111,66 129,66 134,71 144,66 179,68 187,61 200,58 195,0 106,0" rendition="Line" xml:id="facs_35_tr_1_tl_1"/>
@@ -1522,7 +1523,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_36">
-         <graphic url="65412776.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p036.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=PDEDETCNRONSLBZTDZGTBRAY&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="247,275 2245,275 2245,1786 247,1786" rendition="TextRegion" xml:id="facs_36_tr_1">
             <zone points="1088,332 1101,332 1119,350 1134,350 1139,345 1159,350 1167,342 1203,342 1208,268 1185,271 1180,266 1159,283 1142,273 1106,306 1088,304" rendition="Line" xml:id="facs_36_tr_1_tl_1"/>
@@ -1566,7 +1567,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_37">
-         <graphic url="65412778.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p037.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=FUAIAIBKYROTHBTTVIXHIDUF&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="107,21 2197,21 2197,968 107,968" rendition="TextRegion" xml:id="facs_37_tr_1">
             <zone points="92,86 126,84 139,71 165,86 199,84 199,0 92,0" rendition="Line" xml:id="facs_37_tr_1_tl_1"/>
@@ -1622,7 +1623,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_38">
-         <graphic url="65412780.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p038.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=FIBBWZPDOMZCNMCWXJGDNXUA&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="274,254 2263,254 2263,1308 274,1308" rendition="TextRegion" xml:id="facs_38_tr_2">
             <zone points="1108,303 1125,303 1141,318 1199,318 1215,316 1222,308 1237,308 1237,244 1202,247 1192,237 1179,237 1143,270 1108,270" rendition="Line" xml:id="facs_38_tr_2_tl_1"/>
@@ -1673,7 +1674,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_39">
-         <graphic url="65412782.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p039.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=BTFKQFZREQPSHPPLKTHVTWVL&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="1095,260 2242,260 2242,466 1095,466" rendition="TextRegion" xml:id="facs_39_tr_3">
             <zone points="1080,325 1103,322 1115,332 1143,335 1158,327 1163,332 1206,327 1201,247 1178,252 1166,264 1140,267 1123,259 1113,269 1077,272" rendition="Line" xml:id="facs_39_tr_3_tl_1"/>
@@ -1726,7 +1727,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_40">
-         <graphic url="65412785.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p040.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=KLPEIJKHRIGFKJBYNYNINXAG&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="265,260 2280,260 2280,1768 265,1768" rendition="TextRegion" xml:id="facs_40_tr_2">
             <zone points="1154,316 1174,316 1182,324 1194,326 1257,324 1264,316 1277,316 1277,258 1234,258 1214,273 1207,268 1197,273 1192,268 1177,283 1154,283" rendition="Line" xml:id="facs_40_tr_2_tl_1"/>
@@ -1754,7 +1755,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_41">
-         <graphic url="65412788.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p041.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=NEIVGWSCLBGSVTGBIMNXQLNZ&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="274,254 2242,254 2242,1254 274,1254" rendition="TextRegion" xml:id="facs_41_tr_2">
             <zone points="1135,317 1159,317 1180,328 1234,325 1245,317 1261,317 1264,247 1221,253 1207,266 1137,266" rendition="Line" xml:id="facs_41_tr_2_tl_1"/>
@@ -1804,7 +1805,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_42">
-         <graphic url="65412790.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p042.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=VMHAOLESUTXQTAXERJVCRIVQ&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="38,18 2283,18 2283,1096 38,1096" rendition="TextRegion" xml:id="facs_42_tr_2">
             <zone points="23,87 64,85 72,77 75,80 87,77 95,80 100,75 129,77 123,0 18,0" rendition="Line" xml:id="facs_42_tr_2_tl_1"/>
@@ -1849,7 +1850,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_43">
-         <graphic url="65412792.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p043.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=GGJPTGZUEUUGGRYDLHHVWSYX&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="268,311 2215,311 2215,1738 268,1738" rendition="TextRegion" xml:id="facs_43_tr_1">
             <zone points="1132,368 1145,368 1173,381 1181,381 1188,373 1199,381 1253,378 1250,306 1212,309 1207,304 1196,314 1178,314 1168,324 1129,324" rendition="Line" xml:id="facs_43_tr_1_tl_1"/>
@@ -1896,7 +1897,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_44">
-         <graphic url="65412794.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p044.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=PMBRITPUYOMZXSEIPOIFINPS&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="250,293 2245,293 2245,1646 250,1646" rendition="TextRegion" xml:id="facs_44_tr_2">
             <zone points="1142,346 1155,348 1168,359 1196,354 1229,359 1259,356 1262,285 1241,285 1236,290 1229,285 1221,290 1208,285 1201,290 1193,287 1173,308 1145,308" rendition="Line" xml:id="facs_44_tr_2_tl_1"/>
@@ -1945,7 +1946,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_45">
-         <graphic url="65412796.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p045.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=KZFICEHJWTFRERSDMIXUBYDT&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="35,33 2364,33 2364,1377 35,1377" rendition="TextRegion" xml:id="facs_45_tr_1">
             <zone points="24,105 65,94 76,97 89,86 102,97 188,94 183,0 16,0" rendition="Line" xml:id="facs_45_tr_1_tl_1"/>
@@ -1995,7 +1996,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_46">
-         <graphic url="65412798.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p046.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=YHHXCCEJENZNRIAHVUADIQDA&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="253,296 2266,296 2266,1278 253,1278" rendition="TextRegion" xml:id="facs_46_tr_3">
             <zone points="1127,372 1140,372 1162,398 1170,398 1211,362 1251,362 1254,291 1223,289 1208,299 1198,296 1190,304 1173,304 1152,317 1129,314" rendition="Line" xml:id="facs_46_tr_3_tl_1"/>
@@ -2036,7 +2037,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_47">
-         <graphic url="65412800.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p047.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=AJTXDZTHKMBNMLSRSJPQZEPB&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="188,33 2263,33 2263,1553 188,1553" rendition="TextRegion" xml:id="facs_47_tr_2">
             <zone points="173,99 201,102 227,92 268,94 268,0 173,0" rendition="Line" xml:id="facs_47_tr_2_tl_1"/>
@@ -2084,7 +2085,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_48">
-         <graphic url="65412802.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p048.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=OMCEQCLSONOJUBLLAXOKTRDL&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="256,251 2346,251 2346,1529 256,1529" rendition="TextRegion" xml:id="facs_48_tr_2">
             <zone points="1126,303 1140,303 1161,319 1213,314 1249,316 1246,264 1208,264 1186,243 1180,248 1175,245 1161,259 1123,259" rendition="Line" xml:id="facs_48_tr_2_tl_1"/>
@@ -2129,7 +2130,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_49">
-         <graphic url="65412804.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p049.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=WMRQHOXBJKGBOYDITQMKJLKW&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="41,281 2337,281 2337,1547 41,1547" rendition="TextRegion" xml:id="facs_49_tr_2">
             <zone points="948,335 961,335 979,348 998,351 1053,346 1064,338 1080,338 1080,293 1040,290 1035,296 1027,293 1022,298 1011,288 948,290" rendition="Line" xml:id="facs_49_tr_2_tl_1"/>
@@ -2170,7 +2171,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_50">
-         <graphic url="65412805.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p050.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=ETLVRRYAAGDWCEZSYXKCLGDF&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="56,36 2191,36 2191,980 56,980" rendition="TextRegion" xml:id="facs_50_tr_3">
             <zone points="41,95 237,100 237,0 41,0" rendition="Line" xml:id="facs_50_tr_3_tl_1"/>
@@ -2213,7 +2214,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_51">
-         <graphic url="65412806.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p051.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=QKUYVOJETBLAVATILPRYTQFS&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="250,275 2277,275 2277,944 250,944" rendition="TextRegion" xml:id="facs_51_tr_3">
             <zone points="1114,328 1127,325 1145,341 1235,341 1232,259 1206,259 1199,264 1186,259 1163,266 1150,279 1112,282" rendition="Line" xml:id="facs_51_tr_3_tl_1"/>
@@ -2260,7 +2261,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_52">
-         <graphic url="65412807.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p052.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=DTNQVICIEGFVCMUHUPAHFWHA&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="41,27 2227,27 2227,959 41,959" rendition="TextRegion" xml:id="facs_52_tr_3">
             <zone points="29,99 81,97 86,89 123,94 115,0 21,0" rendition="Line" xml:id="facs_52_tr_3_tl_1"/>
@@ -2308,7 +2309,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_53">
-         <graphic url="65412808.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p053.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=DLJJIOCFOGDMBQKJYLIUWUHH&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="256,9 2325,9 2325,1392 256,1392" rendition="TextRegion" xml:id="facs_53_tr_2">
             <zone points="501,77 568,69 588,49 606,67 627,69 645,59 665,77 709,80 719,67 737,69 735,0 496,0" rendition="Line" xml:id="facs_53_tr_2_tl_1"/>
@@ -2357,7 +2358,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_54">
-         <graphic url="65412809.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p054.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=CKMEHKKTQHWQKAFQLIGDWATM&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="47,15 2292,15 2292,917 47,917" rendition="TextRegion" xml:id="facs_54_tr_2">
             <zone points="33,85 77,85 87,74 90,77 120,77 120,0 33,0" rendition="Line" xml:id="facs_54_tr_2_tl_1"/>
@@ -2389,7 +2390,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_55">
-         <graphic url="65412810.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p055.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=ORACSIFGEPBADOEXUMBIJHDJ&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="53,15 2277,15 2277,1251 53,1251" rendition="TextRegion" xml:id="facs_55_tr_1">
             <zone points="38,83 63,83 81,76 134,78 157,73 157,0 38,0" rendition="Line" xml:id="facs_55_tr_1_tl_1"/>
@@ -2440,7 +2441,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_56">
-         <graphic url="65412811.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p056.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=LVLAJYTLJTKFGWXGBEEDPMKP&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="152,227 2304,227 2304,995 152,995" rendition="TextRegion" xml:id="facs_56_tr_3">
             <zone points="1079,279 1091,279 1110,293 1180,293 1197,288 1195,225 1163,228 1156,235 1144,233 1132,240 1120,238 1108,247 1076,247" rendition="Line" xml:id="facs_56_tr_3_tl_1"/>
@@ -2497,7 +2498,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_57">
-         <graphic url="65412812.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p057.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=SHQYIFWNWLWYTANSXFIBFPOY&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="358,269 2185,269 2185,1514 358,1514" rendition="TextRegion" xml:id="facs_57_tr_2">
             <zone points="1068,322 1080,322 1101,341 1115,343 1127,336 1144,341 1193,339 1191,275 1155,272 1141,258 1127,275 1110,270 1101,277 1068,277" rendition="Line" xml:id="facs_57_tr_2_tl_1"/>
@@ -2550,7 +2551,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_58">
-         <graphic url="65412813.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p058.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=EWOYNFEETNMDAPGKLJRFSRGX&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="229,9 2283,9 2283,816 229,816" rendition="TextRegion" xml:id="facs_58_tr_3">
             <zone points="216,61 228,61 238,71 255,66 285,71 295,71 300,66 302,69 324,66 322,0 214,0" rendition="Line" xml:id="facs_58_tr_3_tl_1"/>
@@ -2614,7 +2615,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_59">
-         <graphic url="65412814.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p059.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=SUSUVYALNRCFZPJSYOLLLCXY&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="32,24 2307,24 2307,1040 32,1040" rendition="TextRegion" xml:id="facs_59_tr_3">
             <zone points="19,84 91,84 101,74 115,74 125,84 144,84 151,77 158,84 211,86 211,0 19,0" rendition="Line" xml:id="facs_59_tr_3_tl_1"/>
@@ -2670,7 +2671,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_60">
-         <graphic url="65412815.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p060.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=LOLOXEUDEKLIFVQGABAVNTTB&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="35,6 2286,6 2286,926 35,926" rendition="TextRegion" xml:id="facs_60_tr_2">
             <zone points="21,67 33,69 45,81 64,81 84,64 91,69 117,67 124,0 29,0" rendition="Line" xml:id="facs_60_tr_2_tl_1"/>
@@ -2721,7 +2722,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_61">
-         <graphic url="65412816.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p061.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=BQVNDNXQIDALJAQTRSOCVPMS&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="29,27 2358,27 2358,953 29,953" rendition="TextRegion" xml:id="facs_61_tr_3">
             <zone points="13,95 45,98 66,87 106,87 124,79 132,85 148,85 148,0 13,0" rendition="Line" xml:id="facs_61_tr_3_tl_1"/>
@@ -2769,7 +2770,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_62">
-         <graphic url="65412817.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p062.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=AMGAIDACGRGHDTQGPPBNPQKL&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="298,272 2325,272 2325,1872 298,1872" rendition="TextRegion" xml:id="facs_62_tr_1">
             <zone points="963,331 976,331 988,339 996,336 1001,341 1064,341 1072,334 1087,334 1087,270 1064,273 1059,268 1051,270 1041,260 1029,260 998,286 963,286" rendition="Line" xml:id="facs_62_tr_1_tl_1"/>
@@ -2823,7 +2824,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_63">
-         <graphic url="65412818.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p063.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=GDOQCODLJHQGHWKVFOQWCRZR&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="280,302 2197,302 2197,1434 280,1434" rendition="TextRegion" xml:id="facs_63_tr_2">
             <zone points="1140,421 1185,416 1200,401 1212,413 1230,403 1242,411 1255,411 1260,296 1242,296 1220,318 1197,301 1175,318 1145,318" rendition="Line" xml:id="facs_63_tr_2_tl_1"/>
@@ -2869,7 +2870,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_64">
-         <graphic url="65412819.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p064.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=JXMBNDZPADLPBHTDXXYRMWUP&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="47,63 2298,63 2298,1837 47,1837" rendition="TextRegion" xml:id="facs_64_tr_2">
             <zone points="32,132 75,125 105,127 115,117 142,120 147,32 132,32 130,27 122,32 117,27 110,35 92,30 85,37 55,2 40,0" rendition="Line" xml:id="facs_64_tr_2_tl_1"/>
@@ -2913,7 +2914,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_65">
-         <graphic url="65412820.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p065.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=WJVWLTWAZRHFKASFRZPGJQDO&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="286,296 2254,296 2254,1135 286,1135" rendition="TextRegion" xml:id="facs_65_tr_3">
             <zone points="1149,386 1162,386 1180,404 1208,402 1249,361 1270,358 1273,301 1152,301" rendition="Line" xml:id="facs_65_tr_3_tl_1"/>
@@ -2954,7 +2955,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_66">
-         <graphic url="65412821.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p066.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=EBLGGDAEWTLNQVBUQEBJMUDR&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="283,302 2271,302 2271,1902 283,1902" rendition="TextRegion" xml:id="facs_66_tr_1">
             <zone points="1042,360 1070,365 1080,373 1093,370 1114,388 1129,388 1147,370 1168,370 1170,311 1134,311 1119,296 1101,311 1044,316" rendition="Line" xml:id="facs_66_tr_1_tl_1"/>
@@ -2999,7 +3000,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_67">
-         <graphic url="65412822.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p067.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=UCHCLSIKPFDXCZRHAKLELVVD&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="50,272 2224,272 2224,1410 50,1410" rendition="TextRegion" xml:id="facs_67_tr_3">
             <zone points="1051,347 1066,349 1094,380 1115,380 1133,362 1151,365 1164,352 1176,354 1179,272 1143,272 1125,265 1089,293 1053,295" rendition="Line" xml:id="facs_67_tr_3_tl_1"/>
@@ -3047,7 +3048,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_68">
-         <graphic url="65412823.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p068.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=GGAATZXJLHXEVJEMBVBLZBCB&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="29,54 2286,54 2286,1658 29,1658" rendition="TextRegion" xml:id="facs_68_tr_1">
             <zone points="15,127 37,129 50,120 95,112 117,125 127,125 137,115 164,115 172,0 22,0" rendition="Line" xml:id="facs_68_tr_1_tl_1"/>
@@ -3090,7 +3091,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_69">
-         <graphic url="65412824.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p069.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=TUTRXHVZAGCVXGHPPDFZFNIW&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="206,251 2283,251 2283,1735 206,1735" rendition="TextRegion" xml:id="facs_69_tr_1">
             <zone points="1065,303 1078,303 1098,318 1115,321 1131,315 1189,315 1189,268 1176,268 1166,257 1156,268 1138,250 1128,252 1118,245 1093,273 1065,273" rendition="Line" xml:id="facs_69_tr_1_tl_1"/>
@@ -3150,7 +3151,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_70">
-         <graphic url="65412825.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p070.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=CZDFKCKNFNPFDFAHMTEUUMFE&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="50,209 2379,209 2379,1075 50,1075" rendition="TextRegion" xml:id="facs_70_tr_3">
             <zone points="1060,269 1078,269 1083,277 1099,280 1119,280 1132,275 1153,277 1171,267 1187,267 1189,218 1174,215 1153,220 1148,215 1135,215 1119,223 1062,228" rendition="Line" xml:id="facs_70_tr_3_tl_1"/>
@@ -3193,7 +3194,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_71">
-         <graphic url="65412826.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p071.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=HOWDSCQAVCASVZYMMVJRXCUO&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="280,278 2218,278 2218,1183 280,1183" rendition="TextRegion" xml:id="facs_71_tr_3">
             <zone points="1066,348 1079,348 1106,381 1121,381 1157,348 1179,335 1192,335 1194,270 1167,270 1157,280 1139,282 1124,295 1101,290 1089,300 1066,300" rendition="Line" xml:id="facs_71_tr_3_tl_1"/>
@@ -3244,7 +3245,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_72">
-         <graphic url="65412827.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p072.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=YWNUOCFDRMLROPYCZBCFNVDO&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="310,299 2269,299 2269,1308 310,1308" rendition="TextRegion" xml:id="facs_72_tr_2">
             <zone points="1086,370 1119,373 1129,363 1193,365 1233,358 1236,318 1216,318 1211,313 1196,316 1176,296 1161,308 1131,318 1089,321" rendition="Line" xml:id="facs_72_tr_2_tl_1"/>
@@ -3297,7 +3298,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_73">
-         <graphic url="65412828.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p073.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=LMMQBCKMOFKPUNNBRFNSZSXR&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="289,51 2233,51 2233,1711 289,1711" rendition="TextRegion" xml:id="facs_73_tr_1">
             <zone points="375,111 404,111 413,104 420,109 433,109 447,101 459,101 454,0 370,0" rendition="Line" xml:id="facs_73_tr_1_tl_1"/>
@@ -3337,7 +3338,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_74">
-         <graphic url="65412829.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p074.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=CAMMIWBSDLPWDSVHBKGWWGZR&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="304,296 2218,296 2218,1577 304,1577" rendition="TextRegion" xml:id="facs_74_tr_2">
             <zone points="1044,349 1057,349 1079,364 1091,366 1104,361 1109,366 1146,366 1158,354 1171,354 1171,317 1158,317 1131,287 1106,307 1096,309 1087,304 1069,317 1044,317" rendition="Line" xml:id="facs_74_tr_2_tl_1"/>
@@ -3380,7 +3381,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_75">
-         <graphic url="65412830.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p075.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=AMTVLKJTIXTQOMGUVEUMDYWH&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="286,302 2242,302 2242,2034 286,2034" rendition="TextRegion" xml:id="facs_75_tr_2">
             <zone points="1044,364 1056,364 1068,374 1088,372 1101,362 1125,364 1138,374 1158,372 1158,317 1120,317 1113,310 1106,317 1081,317 1076,312 1066,325 1044,325" rendition="Line" xml:id="facs_75_tr_2_tl_1"/>
@@ -3428,7 +3429,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_76">
-         <graphic url="65412831.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p076.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=VBEJRDAANLHWDVWMSKFHHWTA&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="71,290 2218,290 2218,1986 71,1986" rendition="TextRegion" xml:id="facs_76_tr_1">
             <zone points="1035,343 1053,348 1068,364 1078,366 1089,366 1096,359 1124,356 1135,361 1147,353 1160,353 1163,295 1132,300 1122,295 1109,307 1096,302 1083,312 1037,307" rendition="Line" xml:id="facs_76_tr_1_tl_1"/>
@@ -3473,7 +3474,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_77">
-         <graphic url="65412832.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p077.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=YOKWLYCJPXKUGMTTFGCSBOVK&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="322,3 2239,3 2239,959 322,959" rendition="TextRegion" xml:id="facs_77_tr_3">
             <zone points="642,84 654,81 671,93 711,91 718,95 768,88 759,41 735,43 711,33 704,38 671,17 666,26 647,17 630,21" rendition="Line" xml:id="facs_77_tr_3_tl_1"/>
@@ -3512,7 +3513,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_78">
-         <graphic url="65412833.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p078.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=FWZRBJPCLLIUIVFBZUVFPKFO&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="47,18 2263,18 2263,1407 47,1407" rendition="TextRegion" xml:id="facs_78_tr_3">
             <zone points="33,84 66,84 74,76 87,79 125,76 130,0 36,0" rendition="Line" xml:id="facs_78_tr_3_tl_1"/>
@@ -3561,7 +3562,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_79">
-         <graphic url="65412834.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p079.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=TFOWOPOXLGHOMVOXXAZZDLBQ&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="35,-8 2313,-8 2313,1246 35,1246" rendition="TextRegion" xml:id="facs_79_tr_2">
             <zone points="171,45 186,50 201,45 216,55 236,40 241,47 268,52 290,45 300,50 323,47 330,0 179,0" rendition="Line" xml:id="facs_79_tr_2_tl_1"/>
@@ -3606,7 +3607,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_80">
-         <graphic url="65412835.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p080.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=IQHKOEVGBIKBBMVTMJACMFQB&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="1113,18 2286,18 2286,341 1113,341" rendition="TextRegion" xml:id="facs_80_tr_2">
             <zone points="2145,83 2157,83 2164,76 2243,74 2250,83 2280,83 2280,0 2145,0" rendition="Line" xml:id="facs_80_tr_2_tl_1"/>
@@ -3652,7 +3653,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_81">
-         <graphic url="65412836.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p081.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=KDXYBBJLOLZSAQPRNYXAHOVA&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="125,15 2301,15 2301,1893 125,1893" rendition="TextRegion" xml:id="facs_81_tr_2">
             <zone points="2133,82 2153,77 2160,84 2225,87 2249,84 2264,74 2274,82 2294,82 2292,0 2130,0" rendition="Line" xml:id="facs_81_tr_2_tl_1"/>
@@ -3699,7 +3700,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_82">
-         <graphic url="65412837.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p082.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=TRBTXAWNNUZJWRVOXIRHTBXE&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="194,30 2283,30 2283,1275 194,1275" rendition="TextRegion" xml:id="facs_82_tr_2">
             <zone points="180,94 234,94 242,89 247,94 318,99 338,89 353,91 355,47 338,47 316,27 306,35 264,0 244,5 239,0 232,5 227,0 183,0" rendition="Line" xml:id="facs_82_tr_2_tl_1"/>
@@ -3746,7 +3747,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_83">
-         <graphic url="65412838.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p083.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=XBPJMNEIXUJNGCKIKYHRFARL&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="289,278 2307,278 2307,2001 289,2001" rendition="TextRegion" xml:id="facs_83_tr_1">
             <zone points="1100,337 1113,337 1126,350 1141,345 1148,352 1161,350 1169,342 1179,350 1224,347 1224,281 1186,279 1179,271 1158,269 1136,294 1100,294" rendition="Line" xml:id="facs_83_tr_1_tl_1"/>
@@ -3788,7 +3789,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_84">
-         <graphic url="65412839.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p084.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=ADTWIICOFYWWAXERHDFCJUTM&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="32,30 2343,30 2343,968 32,968" rendition="TextRegion" xml:id="facs_84_tr_3">
             <zone points="18,101 59,93 132,101 150,93 209,103 240,101 253,90 266,103 299,103 299,0 18,0" rendition="Line" xml:id="facs_84_tr_3_tl_1"/>
@@ -3833,7 +3834,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_85">
-         <graphic url="65412840.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p085.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=WUINBYCKVXAMXDNEIVVXIKUK&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="298,21 2209,21 2209,1269 298,1269" rendition="TextRegion" xml:id="facs_85_tr_3">
             <zone points="637,66 655,69 677,86 724,84 729,79 736,86 797,84 802,0 642,0" rendition="Line" xml:id="facs_85_tr_3_tl_1"/>
@@ -3878,7 +3879,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_86">
-         <graphic url="65412841.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p086.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=DYPAODZZKBUIAXHJGBVOCQZW&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="29,18 2289,18 2289,1383 29,1383" rendition="TextRegion" xml:id="facs_86_tr_2">
             <zone points="15,82 80,87 90,77 127,75 149,85 167,75 182,77 187,0 20,0" rendition="Line" xml:id="facs_86_tr_2_tl_1"/>
@@ -3924,7 +3925,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_87">
-         <graphic url="65412843.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p087.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=LYLPMKTQROHFRTEMVSTMYSEM&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="47,3 2361,3 2361,1019 47,1019" rendition="TextRegion" xml:id="facs_87_tr_2">
             <zone points="2102,70 2142,83 2154,70 2214,65 2277,63 2297,73 2310,63 2355,68 2355,0 2102,0" rendition="Line" xml:id="facs_87_tr_2_tl_1"/>
@@ -3981,7 +3982,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_88">
-         <graphic url="65412844.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p088.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=KQLIGGKOWOPSTEXWUOMLQJRW&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="29,39 2236,39 2236,834 29,834" rendition="TextRegion" xml:id="facs_88_tr_3">
             <zone points="15,101 94,98 101,91 111,101 185,101 185,0 15,0" rendition="Line" xml:id="facs_88_tr_3_tl_1"/>
@@ -4025,7 +4026,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_89">
-         <graphic url="65412845.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p089.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=KZLNDYPVTCOTMMHWSMAZJJEY&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="83,6 2313,6 2313,941 83,941" rendition="TextRegion" xml:id="facs_89_tr_1">
             <zone points="68,83 93,85 100,93 118,93 151,75 166,78 191,0 100,0" rendition="Line" xml:id="facs_89_tr_1_tl_1"/>
@@ -4076,7 +4077,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_90">
-         <graphic url="65412846.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p090.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=QLSNJINICXLVSGZHDLIEFATO&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="310,272 2301,272 2301,1099 310,1099" rendition="TextRegion" xml:id="facs_90_tr_2">
             <zone points="1159,333 1172,333 1179,340 1199,338 1206,343 1214,338 1249,340 1276,333 1278,263 1249,263 1224,283 1159,281" rendition="Line" xml:id="facs_90_tr_2_tl_1"/>
@@ -4119,7 +4120,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_91">
-         <graphic url="65412847.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p091.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=ACOYAWWEZAQFTBJWBMNBMWZE&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="83,12 2239,12 2239,947 83,947" rendition="TextRegion" xml:id="facs_91_tr_3">
             <zone points="1395,71 1407,71 1412,76 1496,76 1503,69 1515,69 1515,0 1395,0" rendition="Line" xml:id="facs_91_tr_3_tl_1"/>
@@ -4170,7 +4171,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_92">
-         <graphic url="65412848.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p092.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=XZGBMFABIIAKKNAOSWIKLKWJ&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="304,239 2242,239 2242,1974 304,1974" rendition="TextRegion" xml:id="facs_92_tr_1">
             <zone points="1135,296 1152,296 1164,305 1186,308 1241,308 1248,298 1265,298 1263,257 1205,257 1188,240 1169,260 1133,260" rendition="Line" xml:id="facs_92_tr_1_tl_1"/>
@@ -4200,7 +4201,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_93">
-         <graphic url="65412849.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p093.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=ZMEBXXTLVMYULQHYPBWCNRHX&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="304,266 2143,266 2143,1246 304,1246" rendition="TextRegion" xml:id="facs_93_tr_2">
             <zone points="1126,324 1139,321 1156,336 1236,336 1251,331 1243,249 1228,254 1208,279 1186,279 1168,272 1163,272 1158,282 1146,277 1124,279" rendition="Line" xml:id="facs_93_tr_2_tl_1"/>
@@ -4239,7 +4240,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_94">
-         <graphic url="65412850.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p094.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=LZVOPFMMKHZZYMZLIYUKKKNP&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="328,311 2236,311 2236,1583 328,1583" rendition="TextRegion" xml:id="facs_94_tr_2">
             <zone points="1159,366 1174,366 1188,380 1200,380 1207,373 1263,373 1275,363 1294,382 1313,382 1313,308 1267,308 1251,291 1229,310 1159,308" rendition="Line" xml:id="facs_94_tr_2_tl_1"/>
@@ -4279,7 +4280,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_95">
-         <graphic url="65412852.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p095.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=OXKAQEVWOYLHEARVWNINMFAB&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="104,30 2283,30 2283,1460 104,1460" rendition="TextRegion" xml:id="facs_95_tr_2">
             <zone points="90,100 108,100 118,90 158,93 175,83 200,85 200,0 90,0" rendition="Line" xml:id="facs_95_tr_2_tl_1"/>
@@ -4319,7 +4320,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_96">
-         <graphic url="65412853.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p096.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=IMMXQEKICYKMIJQNXWNNDQTO&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="298,248 2301,248 2301,1977 298,1977" rendition="TextRegion" xml:id="facs_96_tr_1">
             <zone points="1132,301 1145,301 1175,318 1205,318 1210,313 1215,318 1242,318 1250,311 1263,311 1265,240 1230,245 1217,235 1195,258 1132,263" rendition="Line" xml:id="facs_96_tr_1_tl_1"/>
@@ -4362,7 +4363,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_97">
-         <graphic url="65412854.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p097.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=ZUVKJSDRJEGTGRQIZTKZLHTH&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="298,257 2298,257 2298,929 298,929" rendition="TextRegion" xml:id="facs_97_tr_3">
             <zone points="1118,315 1131,315 1141,325 1173,320 1178,325 1188,325 1196,318 1203,323 1218,323 1228,313 1241,313 1241,263 1206,263 1191,248 1173,263 1163,260 1153,270 1118,270" rendition="Line" xml:id="facs_97_tr_3_tl_1"/>
@@ -4401,7 +4402,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_98">
-         <graphic url="65412855.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p098.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=WZSLUPQJMWQOCMMUUQXCACST&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="310,260 2418,260 2418,2129 310,2129" rendition="TextRegion" xml:id="facs_98_tr_1">
             <zone points="1138,309 1151,309 1171,324 1205,327 1240,327 1247,319 1262,319 1262,257 1238,257 1225,270 1200,270 1186,260 1173,272 1138,272" rendition="Line" xml:id="facs_98_tr_1_tl_1"/>
@@ -4449,7 +4450,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_99">
-         <graphic url="65412856.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p099.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=XYVRUHBMWZEWTFYAVABPTESP&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="47,18 2254,18 2254,1407 47,1407" rendition="TextRegion" xml:id="facs_99_tr_2">
             <zone points="34,81 54,86 78,83 86,76 105,73 110,78 142,78 147,0 39,0" rendition="Line" xml:id="facs_99_tr_2_tl_1"/>
@@ -4495,7 +4496,7 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_100">
-         <graphic url="65412857.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p100.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=ASRRHMSCJBRBUIIQQHZODBCT&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="310,215 2340,215 2340,1484 310,1484" rendition="TextRegion" xml:id="facs_100_tr_2">
             <zone points="1149,273 1162,273 1180,286 1247,286 1271,281 1271,203 1227,200 1216,210 1149,210" rendition="Line" xml:id="facs_100_tr_2_tl_1"/>
@@ -4533,115 +4534,115 @@
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_101">
-         <graphic url="p101.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p101.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_102">
-         <graphic url="p102.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p102.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_103">
-         <graphic url="p103.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p103.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_104">
-         <graphic url="p104.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p104.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_105">
-         <graphic url="p105.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p105.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_106">
-         <graphic url="p106.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p106.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_107">
-         <graphic url="p107.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p107.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_108">
-         <graphic url="p108.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p108.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_109">
-         <graphic url="p109.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p109.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_110">
-         <graphic url="p110.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p110.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_111">
-         <graphic url="p111.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p111.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_112">
-         <graphic url="p112.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p112.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_113">
-         <graphic url="p113.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p113.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_114">
-         <graphic url="p114.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p114.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_115">
-         <graphic url="p115.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p115.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_116">
-         <graphic url="p116.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p116.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_117">
-         <graphic url="p117.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p117.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_118">
-         <graphic url="p118.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p118.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_119">
-         <graphic url="p119.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p119.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_120">
-         <graphic url="p120.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p120.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_121">
-         <graphic url="p121.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p121.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_122">
-         <graphic url="p122.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p122.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_123">
-         <graphic url="p123.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p123.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_124">
-         <graphic url="p124.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p124.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_125">
-         <graphic url="p125.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p125.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_126">
-         <graphic url="p126.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p126.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_127">
-         <graphic url="p127.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p127.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_128">
-         <graphic url="p128.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p128.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_129">
-         <graphic url="p129.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p129.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_130">
-         <graphic url="p130.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p130.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_131">
-         <graphic url="p131.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p131.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_132">
-         <graphic url="p132.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p132.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_133">
-         <graphic url="p133.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p133.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_134">
-         <graphic url="p134.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p134.jpg" width="2479px" height="3508px"/>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_135">
-         <graphic url="p135.jpg" width="2479px" height="3508px"/>
+         <graphic url="part4_p135.jpg" width="2479px" height="3508px"/>
       </surface>
    </facsimile>
    <text>
       <body>
          <div>
-            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <pb facs="#facs_1" n="part4_p001.jpg" xml:id="img_0001"/>
             <ab facs="#facs_1_r_124">
                <lb facs="#facs_1_r_124_tl_1" n="N001"/>.410
                <lb facs="#facs_1_r_124_tl_2" n="N002"/>So the Protestant education must finally lead to the Protestant, l wouldn't call it
@@ -4663,7 +4664,7 @@
                <lb facs="#facs_1_r_124_tl_18" n="N018"/>ACTUAL QUESTIONS and ANSWERS; 3) the autonomy, which becomes THEOnomy, if it is
                <lb facs="#facs_1_r_124_tl_19" n="N019"/>related to the Ultimate.
             </ab>
-            <pb facs="#facs_2" n="2" xml:id="img_0002"/>
+            <pb facs="#facs_2" n="part4_p002.jpg" xml:id="img_0002"/>
             <ab facs="#facs_2_tr_1">
                <lb facs="#facs_2_tr_1_tl_2" n="N001"/>-471.
                <lb facs="#facs_2_tr_1_tl_4" n="N002"/>Now this think is al weshoukd say here because it is a üttle beyond our subject,
@@ -4688,7 +4689,7 @@
                <lb facs="#facs_2_tr_2_tl_1" n="N001"/>what doyou say?" Andhesaid, "Then ! wasinerror." Now thatiswhat!mean wich heteronomy:
                <lb facs="#facs_2_tr_2_tl_2" n="N002"/>"then Iwasin error." The Protestant would say: "Then the ChüRCh wasinerror" (some laughter
             </ab>
-            <pb facs="#facs_3" n="3" xml:id="img_0003"/>
+            <pb facs="#facs_3" n="part4_p003.jpg" xml:id="img_0003"/>
             <ab facs="#facs_3_tr_1">
                <lb facs="#facs_3_tr_1_tl_3" n="N001"/>-472
                <lb facs="#facs_3_tr_1_tl_4" n="N002"/>AndaProtestant, üheiserüical ACAIUSThinset, woud sav: 1Tsk, asthe Prophetsand jesusand
@@ -4718,7 +4719,7 @@
             <ab facs="#facs_3_tr_2">
                <lb facs="#facs_3_tr_2_tl_1" n="N001"/>here we come to the so-called separation of church and state, which is partly a meaningful, partly
             </ab>
-            <pb facs="#facs_4" n="4" xml:id="img_0004"/>
+            <pb facs="#facs_4" n="part4_p004.jpg" xml:id="img_0004"/>
             <ab facs="#facs_4_tr_1">
                <lb facs="#facs_4_tr_1_tl_1" n="N001"/>-473
                <lb facs="#facs_4_tr_1_tl_2" n="N002"/>meaningless statement. But let me say in one word!: Ina public school, or in aschoolinwhich
@@ -4745,7 +4746,7 @@
                <lb facs="#facs_4_tr_2_tl_3" n="N003"/>but there was also the Gymnastum, acombination of high school and colege: there it was done
                <lb facs="#facs_4_tr_2_tl_4" n="N004"/>only in the RELIGIOUSinstruction hours-which belonged officially to it-but notin the others.
             </ab>
-            <pb facs="#facs_5" n="5" xml:id="img_0005"/>
+            <pb facs="#facs_5" n="part4_p005.jpg" xml:id="img_0005"/>
             <ab facs="#facs_5_tr_2">
                <lb facs="#facs_5_tr_2_tl_1" n="N001"/>- will
                <lb facs="#facs_5_tr_2_tl_2" n="N002"/>And, there, was that conflict between the humanistic and the.introductori. point of view.
@@ -4770,7 +4771,7 @@
                <lb facs="#facs_5_tr_3_tl_8" n="N008"/>education.-Where "religious,” of course, is meant in the largest sense of the word, namely being
                <lb facs="#facs_5_tr_3_tl_9" n="N009"/>ultimately concerned. And here we have the foundations. But to replace this unity in the present
             </ab>
-            <pb facs="#facs_6" n="6" xml:id="img_0006"/>
+            <pb facs="#facs_6" n="part4_p006.jpg" xml:id="img_0006"/>
             <ab facs="#facs_6_tr_3">
                <lb facs="#facs_6_tr_3_tl_1" n="N001"/>-475¬
                <lb facs="#facs_6_tr_3_tl_2" n="N002"/>conflicting situation by many denominal symbolS IN THE l'UBLIC SCHOOL, is something very
@@ -4792,7 +4793,7 @@
                <lb facs="#facs_6_tr_1_tl_10" n="N010"/>with others, in which [encounter] you only become a REAL individual. So be very careful about this;
                <lb facs="#facs_6_tr_1_tl_11" n="N011"/>EVEN PROTESTANTISM cannot live on the basis of individualism! But that is another question.—
             </ab>
-            <pb facs="#facs_7" n="7" xml:id="img_0007"/>
+            <pb facs="#facs_7" n="part4_p007.jpg" xml:id="img_0007"/>
             <ab facs="#facs_7_tr_1">
                <lb facs="#facs_7_tr_1_tl_1" n="N001"/>q. 476
                <lb facs="#facs_7_tr_1_tl_2" n="N002"/>Pr. LECTURE XXXVII, March 15, 956
@@ -4817,7 +4818,7 @@
                <lb facs="#facs_7_tr_2_tl_8" n="N006"/>comparison with 'Christian' is developing. This is a question of the future. I cannot
                <lb facs="#facs_7_tr_2_tl_9" n="N007"/>answer it with Yes and No. But as a Christian theologian, I believe that Christianity is able
             </ab>
-            <pb facs="#facs_8" n="8" xml:id="img_0008"/>
+            <pb facs="#facs_8" n="part4_p008.jpg" xml:id="img_0008"/>
             <ab facs="#facs_8_tr_1">
                <lb facs="#facs_8_tr_1_tl_1" n="N001"/>assi¬
                <lb facs="#facs_8_tr_1_tl_2" n="N002"/>to take into its universal principle, expressed in the classical idea that Jesus the Christ
@@ -4844,7 +4845,7 @@
                <lb facs="#facs_8_tr_2_tl_1" n="N001"/>in essence, to become all-dominant?
                <lb facs="#facs_8_tr_2_tl_2" n="N002"/>PT: 1 don’t know. Can somehow interpret that? I simply don't know what you mean.
             </ab>
-            <pb facs="#facs_9" n="9" xml:id="img_0009"/>
+            <pb facs="#facs_9" n="part4_p009.jpg" xml:id="img_0009"/>
             <ab facs="#facs_9_tr_3">
                <lb facs="#facs_9_tr_3_tl_1" n="N001"/>1478.
                <lb facs="#facs_9_tr_3_tl_2" n="N002"/>The visk in me or Maritain?
@@ -4884,7 +4885,7 @@
                <lb facs="#facs_9_tr_2_tl_13" n="N013"/>de Votre
                <lb facs="#facs_9_tr_2_tl_14" n="N014"/>dʼavoir lʼautre vie de ses
             </ab>
-            <pb facs="#facs_10" n="10" xml:id="img_0010"/>
+            <pb facs="#facs_10" n="part4_p010.jpg" xml:id="img_0010"/>
             <ab facs="#facs_10_tr_2">
                <lb facs="#facs_10_tr_2_tl_1" n="N001"/> Kö¬
                <lb facs="#facs_10_tr_2_tl_2" n="N002"/>was that the University is a community. Universitas, universum, which always means
@@ -4927,7 +4928,7 @@
                <lb facs="#facs_10_tr_1_tl_19" n="N019"/>de Votre
                <lb facs="#facs_10_tr_1_tl_20" n="N020"/>dʼadresse
             </ab>
-            <pb facs="#facs_11" n="11" xml:id="img_0011"/>
+            <pb facs="#facs_11" n="part4_p011.jpg" xml:id="img_0011"/>
             <ab facs="#facs_11_tr_1">
                <lb facs="#facs_11_tr_1_tl_1" n="N001"/>de cette
                <lb facs="#facs_11_tr_1_tl_2" n="N002"/>480-
@@ -4968,7 +4969,7 @@
                <lb facs="#facs_11_tr_2_tl_23" n="N023"/>dʼune manière beaucoup
                <lb facs="#facs_11_tr_2_tl_24" n="N024"/>dʼun autre
             </ab>
-            <pb facs="#facs_12" n="12" xml:id="img_0012"/>
+            <pb facs="#facs_12" n="part4_p012.jpg" xml:id="img_0012"/>
             <ab facs="#facs_12_tr_1">
                <lb facs="#facs_12_tr_1_tl_1" n="N001"/>181-
                <lb facs="#facs_12_tr_1_tl_2" n="N002"/>Fermany-the teaching elementstrongly—bu t the research element predominantly.
@@ -5004,7 +5005,7 @@
                <lb facs="#facs_12_tr_3_tl_9" n="N009"/>de votre beau
                <lb facs="#facs_12_tr_3_tl_10" n="N010"/>sont
             </ab>
-            <pb facs="#facs_13" n="13" xml:id="img_0013"/>
+            <pb facs="#facs_13" n="part4_p013.jpg" xml:id="img_0013"/>
             <ab facs="#facs_13_tr_1">
                <lb facs="#facs_13_tr_1_tl_1" n="N001"/>a-t-elle
                <lb facs="#facs_13_tr_1_tl_2" n="N002"/>482¬
@@ -5043,7 +5044,7 @@
                <lb facs="#facs_13_tr_2_tl_14" n="N014"/>dʼune manière beaucoup dʼaprès-dessus. Cʼest-elle
                <lb facs="#facs_13_tr_2_tl_15" n="N015"/>dʼune manière
             </ab>
-            <pb facs="#facs_14" n="14" xml:id="img_0014"/>
+            <pb facs="#facs_14" n="part4_p014.jpg" xml:id="img_0014"/>
             <ab facs="#facs_14_tr_1">
                <lb facs="#facs_14_tr_1_tl_1" n="N001"/>4838-
                <lb facs="#facs_14_tr_1_tl_2" n="N002"/>national existence.
@@ -5087,7 +5088,7 @@
                <lb facs="#facs_14_tr_3_tl_19" n="N019"/>dʼadresse
                <lb facs="#facs_14_tr_3_tl_20" n="N020"/>de Vous avez
             </ab>
-            <pb facs="#facs_15" n="15" xml:id="img_0015"/>
+            <pb facs="#facs_15" n="part4_p015.jpg" xml:id="img_0015"/>
             <ab facs="#facs_15_tr_1">
                <lb facs="#facs_15_tr_1_tl_1" n="N001"/>ierung
                <lb facs="#facs_15_tr_1_tl_2" n="N002"/>modern art as an expression of this situation, IN JUDGING the political movements and the
@@ -5129,7 +5130,7 @@
                <lb facs="#facs_15_tr_2_tl_16" n="N016"/>dans une lettre
                <lb facs="#facs_15_tr_2_tl_17" n="N017"/>dʼune manière est
             </ab>
-            <pb facs="#facs_16" n="16" xml:id="img_0016"/>
+            <pb facs="#facs_16" n="part4_p016.jpg" xml:id="img_0016"/>
             <ab facs="#facs_16_tr_1">
                <lb facs="#facs_16_tr_1_tl_1" n="N001"/>dʼun autre
                <lb facs="#facs_16_tr_1_tl_2" n="N002"/>- 485-
@@ -5169,7 +5170,7 @@
                <lb facs="#facs_16_tr_2_tl_14" n="N014"/>de Vous avez
                <lb facs="#facs_16_tr_2_tl_15" n="N015"/>des
             </ab>
-            <pb facs="#facs_17" n="17" xml:id="img_0017"/>
+            <pb facs="#facs_17" n="part4_p017.jpg" xml:id="img_0017"/>
             <ab facs="#facs_17_tr_3">
                <lb facs="#facs_17_tr_3_tl_1" n="N001"/>-486-
                <lb facs="#facs_17_tr_3_tl_2" n="N002"/>connection with the university problem, that the Social Democratic party, when it was in power
@@ -5215,7 +5216,7 @@
                <lb facs="#facs_17_tr_2_tl_21" n="N021"/>dʼauteur de
                <lb facs="#facs_17_tr_2_tl_22" n="N022"/>dʼune manière est
             </ab>
-            <pb facs="#facs_18" n="18" xml:id="img_0018"/>
+            <pb facs="#facs_18" n="part4_p018.jpg" xml:id="img_0018"/>
             <ab facs="#facs_18_tr_1">
                <lb facs="#facs_18_tr_1_tl_1" n="N001"/>dans
                <lb facs="#facs_18_tr_1_tl_2" n="N002"/>187.
@@ -5265,7 +5266,7 @@
                <lb facs="#facs_18_tr_2_tl_22" n="N022"/>dʼune manière
                <lb facs="#facs_18_tr_2_tl_23" n="N023"/>cʼest le
             </ab>
-            <pb facs="#facs_19" n="19" xml:id="img_0019"/>
+            <pb facs="#facs_19" n="part4_p019.jpg" xml:id="img_0019"/>
             <ab facs="#facs_19_tr_3">
                <lb facs="#facs_19_tr_3_tl_1" n="N001"/>-488-
                <lb facs="#facs_19_tr_3_tl_2" n="N002"/>This means, further, that theontical element, which partly comes from the collegues
@@ -5317,7 +5318,7 @@
                <lb facs="#facs_19_tr_2_tl_23" n="N023"/>dʼaprès le
                <lb facs="#facs_19_tr_2_tl_24" n="N024"/>de votre beau et de
             </ab>
-            <pb facs="#facs_20" n="20" xml:id="img_0020"/>
+            <pb facs="#facs_20" n="part4_p020.jpg" xml:id="img_0020"/>
             <ab facs="#facs_20_tr_2">
                <lb facs="#facs_20_tr_2_tl_1" n="N001"/>-ü. 489-
                <lb facs="#facs_20_tr_2_tl_2" n="N002"/>to something of ultimate concern, expressed in symbols. And HERE the criterion of truth
@@ -5365,7 +5366,7 @@
                <lb facs="#facs_20_tr_1_tl_24" n="N024"/>de Votre
                <lb facs="#facs_20_tr_1_tl_25" n="N025"/>Monsieur Mounard et
             </ab>
-            <pb facs="#facs_21" n="21" xml:id="img_0021"/>
+            <pb facs="#facs_21" n="part4_p021.jpg" xml:id="img_0021"/>
             <ab facs="#facs_21_tr_1">
                <lb facs="#facs_21_tr_1_tl_1" n="N001"/>-490-
                <lb facs="#facs_21_tr_1_tl_2" n="N002"/>Democrats in Hamburg have asked themselves: Do we need a theological faculty in the context
@@ -5421,7 +5422,7 @@
                <lb facs="#facs_21_tr_2_tl_37" n="N037"/>dʼavoir lʼautre
                <lb facs="#facs_21_tr_2_tl_38" n="N038"/>dans la
             </ab>
-            <pb facs="#facs_22" n="22" xml:id="img_0022"/>
+            <pb facs="#facs_22" n="part4_p022.jpg" xml:id="img_0022"/>
             <ab facs="#facs_22_tr_3">
                <lb facs="#facs_22_tr_3_tl_1" n="N001"/>-49I—
                <lb facs="#facs_22_tr_3_tl_2" n="N002"/>the dimension which is the UITIMATE dimension. Of course this is not ALONE the function “f
@@ -5469,7 +5470,7 @@
                <lb facs="#facs_22_tr_1_tl_26" n="N026"/>dire une lettre
                <lb facs="#facs_22_tr_1_tl_27" n="N027"/>dʼune manière
             </ab>
-            <pb facs="#facs_23" n="23" xml:id="img_0023"/>
+            <pb facs="#facs_23" n="part4_p023.jpg" xml:id="img_0023"/>
             <ab facs="#facs_23_tr_2">
                <lb facs="#facs_23_tr_2_tl_1" n="N001"/>-492-
                <lb facs="#facs_23_tr_2_tl_2" n="N002"/>However the concrete symbol's are which are used for the training of ministers—this is not the
@@ -5487,7 +5488,7 @@
                <lb facs="#facs_23_tr_1_tl_6" n="N006"/>dʼune
                <lb facs="#facs_23_tr_1_tl_7" n="N007"/>dʼune manière
             </ab>
-            <pb facs="#facs_24" n="24" xml:id="img_0024"/>
+            <pb facs="#facs_24" n="part4_p024.jpg" xml:id="img_0024"/>
             <ab facs="#facs_24_tr_1">
                <lb facs="#facs_24_tr_1_tl_1" n="N001"/>* * / * * * ^ * ^ ^ ^ * *
                <lb facs="#facs_24_tr_1_tl_2" n="N002"/>.
@@ -5542,7 +5543,7 @@
                <lb facs="#facs_24_tr_3_tl_26" n="N026"/>dʼune manière
                <lb facs="#facs_24_tr_3_tl_27" n="N027"/>cʼest lʼautre
             </ab>
-            <pb facs="#facs_25" n="25" xml:id="img_0025"/>
+            <pb facs="#facs_25" n="part4_p025.jpg" xml:id="img_0025"/>
             <ab facs="#facs_25_tr_3">
                <lb facs="#facs_25_tr_3_tl_1" n="N001"/>194
                <lb facs="#facs_25_tr_3_tl_2" n="N002"/>a supernatural, mythological story. And in the moment in which the "THIS" is
@@ -5590,7 +5591,7 @@
                <lb facs="#facs_25_tr_1_tl_26" n="N026"/>Monsieur
                <lb facs="#facs_25_tr_1_tl_27" n="N027"/>des
             </ab>
-            <pb facs="#facs_26" n="26" xml:id="img_0026"/>
+            <pb facs="#facs_26" n="part4_p026.jpg" xml:id="img_0026"/>
             <ab facs="#facs_26_tr_1">
                <lb facs="#facs_26_tr_1_tl_1" n="N001"/>-495.
                <lb facs="#facs_26_tr_1_tl_2" n="N002"/>QN: My question is this: In your last lecture you distinguished three type of truths, or truth¬
@@ -5639,7 +5640,7 @@
                <lb facs="#facs_26_tr_2_tl_18" n="N018"/>dʼune manière de
                <lb facs="#facs_26_tr_2_tl_19" n="N019"/>dʼun autre vie de ses
             </ab>
-            <pb facs="#facs_27" n="27" xml:id="img_0027"/>
+            <pb facs="#facs_27" n="part4_p027.jpg" xml:id="img_0027"/>
             <ab facs="#facs_27_tr_2">
                <lb facs="#facs_27_tr_2_tl_1" n="N001"/>de cette
                <lb facs="#facs_27_tr_2_tl_2" n="N002"/>-496-
@@ -5690,7 +5691,7 @@
                <lb facs="#facs_27_tr_1_tl_25" n="N025"/>de vos
                <lb facs="#facs_27_tr_1_tl_26" n="N026"/>: mais
             </ab>
-            <pb facs="#facs_28" n="28" xml:id="img_0028"/>
+            <pb facs="#facs_28" n="part4_p028.jpg" xml:id="img_0028"/>
             <ab facs="#facs_28_tr_2">
                <lb facs="#facs_28_tr_2_tl_1" n="N001"/>-est
                <lb facs="#facs_28_tr_2_tl_2" n="N002"/>And then, this is not a function of the théological faculty itself, this in done in all
@@ -5732,7 +5733,7 @@
                <lb facs="#facs_28_tr_1_tl_17" n="N017"/>Monsieur, que je ne suis
                <lb facs="#facs_28_tr_1_tl_18" n="N018"/>Monsieur M r de
             </ab>
-            <pb facs="#facs_29" n="29" xml:id="img_0029"/>
+            <pb facs="#facs_29" n="part4_p029.jpg" xml:id="img_0029"/>
             <ab facs="#facs_29_tr_2">
                <lb facs="#facs_29_tr_2_tl_1" n="N001"/>Monsieur
                <lb facs="#facs_29_tr_2_tl_2" n="N002"/>- to be
@@ -5777,7 +5778,7 @@
                <lb facs="#facs_29_tr_1_tl_23" n="N023"/>dʼaccembre dʼune manière
                <lb facs="#facs_29_tr_1_tl_24" n="N024"/>Vous avez
             </ab>
-            <pb facs="#facs_30" n="30" xml:id="img_0030"/>
+            <pb facs="#facs_30" n="part4_p030.jpg" xml:id="img_0030"/>
             <ab facs="#facs_30_tr_2">
                <lb facs="#facs_30_tr_2_tl_1" n="N001"/>as a
                <lb facs="#facs_30_tr_2_tl_2" n="N002"/>-i99-
@@ -5825,7 +5826,7 @@
                <lb facs="#facs_30_tr_1_tl_30" n="N030"/>Monsieur, M r de
                <lb facs="#facs_30_tr_1_tl_31" n="N031"/>dʼune
             </ab>
-            <pb facs="#facs_31" n="31" xml:id="img_0031"/>
+            <pb facs="#facs_31" n="part4_p031.jpg" xml:id="img_0031"/>
             <ab facs="#facs_31_tr_3">
                <lb facs="#facs_31_tr_3_tl_1" n="N001"/>dans les
                <lb facs="#facs_31_tr_3_tl_2" n="N002"/>-500-
@@ -5871,7 +5872,7 @@
                <lb facs="#facs_31_tr_2_tl_17" n="N017"/>dans un
                <lb facs="#facs_31_tr_2_tl_18" n="N018"/>G.C.F.P
             </ab>
-            <pb facs="#facs_32" n="32" xml:id="img_0032"/>
+            <pb facs="#facs_32" n="part4_p032.jpg" xml:id="img_0032"/>
             <ab facs="#facs_32_tr_3">
                <lb facs="#facs_32_tr_3_tl_1" n="N001"/>Mais elle est a été dʼadresse avec
                <lb facs="#facs_32_tr_3_tl_2" n="N002"/>- &amp;01
@@ -5915,7 +5916,7 @@
                <lb facs="#facs_32_tr_2_tl_17" n="N017"/>dʼune manière
                <lb facs="#facs_32_tr_2_tl_18" n="N018"/>cʼest le
             </ab>
-            <pb facs="#facs_33" n="33" xml:id="img_0033"/>
+            <pb facs="#facs_33" n="part4_p033.jpg" xml:id="img_0033"/>
             <ab facs="#facs_33_tr_2">
                <lb facs="#facs_33_tr_2_tl_1" n="N001"/>-us¬
                <lb facs="#facs_33_tr_2_tl_2" n="N002"/>and who are taxi divers, although they all have their symbolic expression in the same way, let us say,
@@ -5961,7 +5962,7 @@
                <lb facs="#facs_33_tr_3_tl_20" n="N020"/>dʼadresse à
                <lb facs="#facs_33_tr_3_tl_21" n="N021"/>dʼune manière beaucoup dʼaprès
             </ab>
-            <pb facs="#facs_34" n="34" xml:id="img_0034"/>
+            <pb facs="#facs_34" n="part4_p034.jpg" xml:id="img_0034"/>
             <ab facs="#facs_34_tr_3">
                <lb facs="#facs_34_tr_3_tl_1" n="N001"/>-303
                <lb facs="#facs_34_tr_3_tl_2" n="N002"/>PT: It ALWAVS falls apart, in the view of every fundamentalist. (laughter). That is the presupposition
@@ -6006,7 +6007,7 @@
                <lb facs="#facs_34_tr_1_tl_21" n="N021"/>Monsieur,
                <lb facs="#facs_34_tr_1_tl_22" n="N022"/>dans le
             </ab>
-            <pb facs="#facs_35" n="35" xml:id="img_0035"/>
+            <pb facs="#facs_35" n="part4_p035.jpg" xml:id="img_0035"/>
             <ab facs="#facs_35_tr_1">
                <lb facs="#facs_35_tr_1_tl_1" n="N001"/>dans le
                <lb facs="#facs_35_tr_1_tl_2" n="N002"/>-co4
@@ -6048,7 +6049,7 @@
                <lb facs="#facs_35_tr_2_tl_13" n="N013"/>et je suis
                <lb facs="#facs_35_tr_2_tl_14" n="N014"/>décrire de
             </ab>
-            <pb facs="#facs_36" n="36" xml:id="img_0036"/>
+            <pb facs="#facs_36" n="part4_p036.jpg" xml:id="img_0036"/>
             <ab facs="#facs_36_tr_1">
                <lb facs="#facs_36_tr_1_tl_1" n="N001"/>-505-
                <lb facs="#facs_36_tr_1_tl_2" n="N002"/>QN: Are the Christian symbols by nature superior to any other religious symbolS? You seem to
@@ -6089,7 +6090,7 @@
                <lb facs="#facs_36_tr_3_tl_13" n="N013"/>dans un autre
                <lb facs="#facs_36_tr_3_tl_14" n="N014"/>de votre beau moi que je
             </ab>
-            <pb facs="#facs_37" n="37" xml:id="img_0037"/>
+            <pb facs="#facs_37" n="part4_p037.jpg" xml:id="img_0037"/>
             <ab facs="#facs_37_tr_1">
                <lb facs="#facs_37_tr_1_tl_1" n="N001"/>Monsieur
                <lb facs="#facs_37_tr_1_tl_2" n="N002"/>-306-
@@ -6142,7 +6143,7 @@
                <lb facs="#facs_37_tr_3_tl_24" n="N024"/>dʼune manière beaucoup de vous
                <lb facs="#facs_37_tr_3_tl_25" n="N025"/>décrire de nouveau dans le
             </ab>
-            <pb facs="#facs_38" n="38" xml:id="img_0038"/>
+            <pb facs="#facs_38" n="part4_p038.jpg" xml:id="img_0038"/>
             <ab facs="#facs_38_tr_2">
                <lb facs="#facs_38_tr_2_tl_1" n="N001"/>-507-
                <lb facs="#facs_38_tr_2_tl_2" n="N002"/>QN: What Justification do you have for the term " ultimate concern" as a good expression for
@@ -6190,7 +6191,7 @@
                <lb facs="#facs_38_tr_1_tl_33" n="N033"/>dans cette généralité, et cʼest le
                <lb facs="#facs_38_tr_1_tl_34" n="N034"/>dʼordre pour
             </ab>
-            <pb facs="#facs_39" n="39" xml:id="img_0039"/>
+            <pb facs="#facs_39" n="part4_p039.jpg" xml:id="img_0039"/>
             <ab facs="#facs_39_tr_3">
                <lb facs="#facs_39_tr_3_tl_1" n="N001"/>-q8¬
                <lb facs="#facs_39_tr_3_tl_2" n="N002"/>that is
@@ -6240,7 +6241,7 @@
                <lb facs="#facs_39_tr_2_tl_23" n="N023"/>de lʼadresse.
                <lb facs="#facs_39_tr_2_tl_24" n="N024"/>Je ne suis
             </ab>
-            <pb facs="#facs_40" n="40" xml:id="img_0040"/>
+            <pb facs="#facs_40" n="part4_p040.jpg" xml:id="img_0040"/>
             <ab facs="#facs_40_tr_2">
                <lb facs="#facs_40_tr_2_tl_1" n="N001"/>-309-
                <lb facs="#facs_40_tr_2_tl_2" n="N002"/>and then in all the others, the humanities, etc.
@@ -6265,7 +6266,7 @@
                <lb facs="#facs_40_tr_1_tl_8" n="N008"/>cʼest lʼautre
                <lb facs="#facs_40_tr_1_tl_9" n="N009"/>toutes
             </ab>
-            <pb facs="#facs_41" n="41" xml:id="img_0041"/>
+            <pb facs="#facs_41" n="part4_p041.jpg" xml:id="img_0041"/>
             <ab facs="#facs_41_tr_2">
                <lb facs="#facs_41_tr_2_tl_1" n="N001"/>-510.
                <lb facs="#facs_41_tr_2_tl_2" n="N002"/>LECTURE XXXIX, March 22, 956
@@ -6312,7 +6313,7 @@
                <lb facs="#facs_41_tr_1_tl_31" n="N031"/>dʼune manière
                <lb facs="#facs_41_tr_1_tl_32" n="N032"/>de votre beau
             </ab>
-            <pb facs="#facs_42" n="42" xml:id="img_0042"/>
+            <pb facs="#facs_42" n="part4_p042.jpg" xml:id="img_0042"/>
             <ab facs="#facs_42_tr_2">
                <lb facs="#facs_42_tr_2_tl_1" n="N001"/>sont a
                <lb facs="#facs_42_tr_2_tl_2" n="N002"/>dʼavoir lʼautre
@@ -6354,7 +6355,7 @@
                <lb facs="#facs_42_tr_1_tl_18" n="N018"/>dire une
                <lb facs="#facs_42_tr_1_tl_19" n="N019"/>dʼadresse que je ne lʼai
             </ab>
-            <pb facs="#facs_43" n="43" xml:id="img_0043"/>
+            <pb facs="#facs_43" n="part4_p043.jpg" xml:id="img_0043"/>
             <ab facs="#facs_43_tr_1">
                <lb facs="#facs_43_tr_1_tl_1" n="N001"/>-cl2
                <lb facs="#facs_43_tr_1_tl_2" n="N002"/>andNaziors of a society. This word, however, has received a negative context [i.e. connotation].
@@ -6398,7 +6399,7 @@
                <lb facs="#facs_43_tr_2_tl_20" n="N020"/>de ses
                <lb facs="#facs_43_tr_2_tl_21" n="N021"/>de mon ami
             </ab>
-            <pb facs="#facs_44" n="44" xml:id="img_0044"/>
+            <pb facs="#facs_44" n="part4_p044.jpg" xml:id="img_0044"/>
             <ab facs="#facs_44_tr_2">
                <lb facs="#facs_44_tr_2_tl_1" n="N001"/>-St3.
                <lb facs="#facs_44_tr_2_tl_2" n="N002"/>for that which we have to do here now in class. That's different from the moralbringing which is
@@ -6444,7 +6445,7 @@
                <lb facs="#facs_44_tr_3_tl_19" n="N019"/>dans cette teinte vieuse
                <lb facs="#facs_44_tr_3_tl_20" n="N020"/>dʼune manière aussi
             </ab>
-            <pb facs="#facs_45" n="45" xml:id="img_0045"/>
+            <pb facs="#facs_45" n="part4_p045.jpg" xml:id="img_0045"/>
             <ab facs="#facs_45_tr_1">
                <lb facs="#facs_45_tr_1_tl_1" n="N001"/>cʼest avec
                <lb facs="#facs_45_tr_1_tl_2" n="N002"/>-14
@@ -6491,7 +6492,7 @@
                <lb facs="#facs_45_tr_2_tl_21" n="N021"/>dʼune manière est
                <lb facs="#facs_45_tr_2_tl_22" n="N022"/>qui nous
             </ab>
-            <pb facs="#facs_46" n="46" xml:id="img_0046"/>
+            <pb facs="#facs_46" n="part4_p046.jpg" xml:id="img_0046"/>
             <ab facs="#facs_46_tr_3">
                <lb facs="#facs_46_tr_3_tl_1" n="N001"/>-515¬
                <lb facs="#facs_46_tr_3_tl_2" n="N002"/>awakened to it, and then the problem arises. This problem is the problem of where the concept of
@@ -6529,7 +6530,7 @@
                <lb facs="#facs_46_tr_1_tl_12" n="N012"/>dans mon ami, je
                <lb facs="#facs_46_tr_1_tl_13" n="N013"/>cours de
             </ab>
-            <pb facs="#facs_47" n="47" xml:id="img_0047"/>
+            <pb facs="#facs_47" n="part4_p047.jpg" xml:id="img_0047"/>
             <ab facs="#facs_47_tr_2">
                <lb facs="#facs_47_tr_2_tl_1" n="N001"/>Monsieur,
                <lb facs="#facs_47_tr_2_tl_2" n="N002"/>- i6
@@ -6574,7 +6575,7 @@
                <lb facs="#facs_47_tr_1_tl_29" n="N029"/>dʼavoir lʼautre beaucoup dʼune manié
                <lb facs="#facs_47_tr_1_tl_30" n="N030"/>dʼavoir lʼautre vieux même ses
             </ab>
-            <pb facs="#facs_48" n="48" xml:id="img_0048"/>
+            <pb facs="#facs_48" n="part4_p048.jpg" xml:id="img_0048"/>
             <ab facs="#facs_48_tr_2">
                <lb facs="#facs_48_tr_2_tl_1" n="N001"/>-517.
                <lb facs="#facs_48_tr_2_tl_2" n="N002"/>not as a past story, but as something which happens to us all the time—in degrees, not in one act, but
@@ -6616,7 +6617,7 @@
                <lb facs="#facs_48_tr_1_tl_27" n="N027"/>on a
                <lb facs="#facs_48_tr_1_tl_28" n="N028"/>Monsieur M r de
             </ab>
-            <pb facs="#facs_49" n="49" xml:id="img_0049"/>
+            <pb facs="#facs_49" n="part4_p049.jpg" xml:id="img_0049"/>
             <ab facs="#facs_49_tr_2">
                <lb facs="#facs_49_tr_2_tl_1" n="N001"/>-318-
                <lb facs="#facs_49_tr_2_tl_2" n="N002"/>Now this siudes a lot ofia(i)ical consequence. The first is: the moral imperative
@@ -6654,7 +6655,7 @@
                <lb facs="#facs_49_tr_1_tl_13" n="N013"/>Vous avez
                <lb facs="#facs_49_tr_1_tl_14" n="N014"/>Monsieur
             </ab>
-            <pb facs="#facs_50" n="50" xml:id="img_0050"/>
+            <pb facs="#facs_50" n="part4_p050.jpg" xml:id="img_0050"/>
             <ab facs="#facs_50_tr_3">
                <lb facs="#facs_50_tr_3_tl_1" n="N001"/>sʼil mʼa fait
                <lb facs="#facs_50_tr_3_tl_2" n="N002"/>-ene¬
@@ -6694,7 +6695,7 @@
                <lb facs="#facs_50_tr_1_tl_15" n="N015"/>de vous
                <lb facs="#facs_50_tr_1_tl_16" n="N016"/>Monsieur,
             </ab>
-            <pb facs="#facs_51" n="51" xml:id="img_0051"/>
+            <pb facs="#facs_51" n="part4_p051.jpg" xml:id="img_0051"/>
             <ab facs="#facs_51_tr_3">
                <lb facs="#facs_51_tr_3_tl_1" n="N001"/>-520-
                <lb facs="#facs_51_tr_3_tl_2" n="N002"/>Now the question is: What can we say about this ‘refined” and almost demonic theory?
@@ -6738,7 +6739,7 @@
                <lb facs="#facs_51_tr_2_tl_20" n="N020"/>décrire de
                <lb facs="#facs_51_tr_2_tl_21" n="N021"/>on a
             </ab>
-            <pb facs="#facs_52" n="52" xml:id="img_0052"/>
+            <pb facs="#facs_52" n="part4_p052.jpg" xml:id="img_0052"/>
             <ab facs="#facs_52_tr_3">
                <lb facs="#facs_52_tr_3_tl_1" n="N001"/>cʼest
                <lb facs="#facs_52_tr_3_tl_2" n="N002"/>-521
@@ -6783,7 +6784,7 @@
                <lb facs="#facs_52_tr_2_tl_20" n="N020"/>dʼavoir lʼautre vieuse
                <lb facs="#facs_52_tr_2_tl_21" n="N021"/>des
             </ab>
-            <pb facs="#facs_53" n="53" xml:id="img_0053"/>
+            <pb facs="#facs_53" n="part4_p053.jpg" xml:id="img_0053"/>
             <ab facs="#facs_53_tr_2">
                <lb facs="#facs_53_tr_2_tl_1" n="N001"/>dʼavoir lʼautre
                <lb facs="#facs_53_tr_2_tl_2" n="N002"/>-222-
@@ -6829,7 +6830,7 @@
                <lb facs="#facs_53_tr_1_tl_21" n="N021"/>dans une lettre de
                <lb facs="#facs_53_tr_1_tl_22" n="N022"/>Votre
             </ab>
-            <pb facs="#facs_54" n="54" xml:id="img_0054"/>
+            <pb facs="#facs_54" n="part4_p054.jpg" xml:id="img_0054"/>
             <ab facs="#facs_54_tr_2">
                <lb facs="#facs_54_tr_2_tl_1" n="N001"/>Mais il
                <lb facs="#facs_54_tr_2_tl_2" n="N002"/>-S23.
@@ -6858,7 +6859,7 @@
                <lb facs="#facs_54_tr_1_tl_5" n="N005"/>Vous avez
                <lb facs="#facs_54_tr_1_tl_6" n="N006"/>a-t-elle
             </ab>
-            <pb facs="#facs_55" n="55" xml:id="img_0055"/>
+            <pb facs="#facs_55" n="part4_p055.jpg" xml:id="img_0055"/>
             <ab facs="#facs_55_tr_1">
                <lb facs="#facs_55_tr_1_tl_1" n="N001"/>ou vous
                <lb facs="#facs_55_tr_1_tl_2" n="N002"/>-624
@@ -6906,7 +6907,7 @@
                <lb facs="#facs_55_tr_2_tl_21" n="N021"/>dʼun autre
                <lb facs="#facs_55_tr_2_tl_22" n="N022"/>as a
             </ab>
-            <pb facs="#facs_56" n="56" xml:id="img_0056"/>
+            <pb facs="#facs_56" n="part4_p056.jpg" xml:id="img_0056"/>
             <ab facs="#facs_56_tr_3">
                <lb facs="#facs_56_tr_3_tl_1" n="N001"/>-525
                <lb facs="#facs_56_tr_3_tl_2" n="N002"/>and this means the esthical contents-come? How can we know, in a special moment, what to do?
@@ -6960,7 +6961,7 @@
                <lb facs="#facs_56_tr_1_tl_25" n="N025"/>dʼordre pour les
                <lb facs="#facs_56_tr_1_tl_26" n="N026"/>Monsieur
             </ab>
-            <pb facs="#facs_57" n="57" xml:id="img_0057"/>
+            <pb facs="#facs_57" n="part4_p057.jpg" xml:id="img_0057"/>
             <ab facs="#facs_57_tr_2">
                <lb facs="#facs_57_tr_2_tl_1" n="N001"/>526.
                <lb facs="#facs_57_tr_2_tl_2" n="N002"/>here again, Protestant, or older Catholic tradition; and here again, Puritan or Lutheran
@@ -7010,7 +7011,7 @@
                <lb facs="#facs_57_tr_1_tl_21" n="N021"/>dʼune manière beaucoup
                <lb facs="#facs_57_tr_1_tl_22" n="N022"/>Monsieur Mʼa paru
             </ab>
-            <pb facs="#facs_58" n="58" xml:id="img_0058"/>
+            <pb facs="#facs_58" n="part4_p058.jpg" xml:id="img_0058"/>
             <ab facs="#facs_58_tr_3">
                <lb facs="#facs_58_tr_3_tl_1" n="N001"/>Monsieur
                <lb facs="#facs_58_tr_3_tl_2" n="N002"/>-527-
@@ -7071,7 +7072,7 @@
                <lb facs="#facs_58_tr_1_tl_35" n="N035"/>dʼacquerir
                <lb facs="#facs_58_tr_1_tl_36" n="N036"/>dʼune manière
             </ab>
-            <pb facs="#facs_59" n="59" xml:id="img_0059"/>
+            <pb facs="#facs_59" n="part4_p059.jpg" xml:id="img_0059"/>
             <ab facs="#facs_59_tr_3">
                <lb facs="#facs_59_tr_3_tl_1" n="N001"/>que je suis ai
                <lb facs="#facs_59_tr_3_tl_2" n="N002"/>-ets¬
@@ -7124,7 +7125,7 @@
                <lb facs="#facs_59_tr_2_tl_22" n="N022"/>devenu
                <lb facs="#facs_59_tr_2_tl_23" n="N023"/>Monsieur M r de
             </ab>
-            <pb facs="#facs_60" n="60" xml:id="img_0060"/>
+            <pb facs="#facs_60" n="part4_p060.jpg" xml:id="img_0060"/>
             <ab facs="#facs_60_tr_2">
                <lb facs="#facs_60_tr_2_tl_1" n="N001"/>Vous avez
                <lb facs="#facs_60_tr_2_tl_2" n="N002"/>ou vous en avez
@@ -7172,7 +7173,7 @@
                <lb facs="#facs_60_tr_1_tl_13" n="N013"/>dʼun autre
                <lb facs="#facs_60_tr_1_tl_14" n="N014"/>et de
             </ab>
-            <pb facs="#facs_61" n="61" xml:id="img_0061"/>
+            <pb facs="#facs_61" n="part4_p061.jpg" xml:id="img_0061"/>
             <ab facs="#facs_61_tr_3">
                <lb facs="#facs_61_tr_3_tl_1" n="N001"/>Monsieur,
                <lb facs="#facs_61_tr_3_tl_2" n="N002"/>-530
@@ -7217,7 +7218,7 @@
                <lb facs="#facs_61_tr_1_tl_16" n="N016"/>dʼadresse à
                <lb facs="#facs_61_tr_1_tl_17" n="N017"/>dʼune manière
             </ab>
-            <pb facs="#facs_62" n="62" xml:id="img_0062"/>
+            <pb facs="#facs_62" n="part4_p062.jpg" xml:id="img_0062"/>
             <ab facs="#facs_62_tr_1">
                <lb facs="#facs_62_tr_1_tl_1" n="N001"/>-531-
                <lb facs="#facs_62_tr_1_tl_2" n="N002"/>but a tradition which comes from somewhere else and which is still comparorsively intact.
@@ -7268,7 +7269,7 @@
                <lb facs="#facs_62_tr_2_tl_20" n="N020"/>dʼune manière
                <lb facs="#facs_62_tr_2_tl_21" n="N021"/>de mon frere,
             </ab>
-            <pb facs="#facs_63" n="63" xml:id="img_0063"/>
+            <pb facs="#facs_63" n="part4_p063.jpg" xml:id="img_0063"/>
             <ab facs="#facs_63_tr_2">
                <lb facs="#facs_63_tr_2_tl_1" n="N001"/>-532-
                <lb facs="#facs_63_tr_2_tl_2" n="N002"/>in English, love, but love in the sense of the
@@ -7311,7 +7312,7 @@
                <lb facs="#facs_63_tr_1_tl_15" n="N015"/>dʼune manière
                <lb facs="#facs_63_tr_1_tl_16" n="N016"/>dʼune manière
             </ab>
-            <pb facs="#facs_64" n="64" xml:id="img_0064"/>
+            <pb facs="#facs_64" n="part4_p064.jpg" xml:id="img_0064"/>
             <ab facs="#facs_64_tr_2">
                <lb facs="#facs_64_tr_2_tl_1" n="N001"/>cʼest en
                <lb facs="#facs_64_tr_2_tl_2" n="N002"/>-333.
@@ -7352,7 +7353,7 @@
                <lb facs="#facs_64_tr_1_tl_20" n="N020"/>dʼune manière vieuse
                <lb facs="#facs_64_tr_1_tl_21" n="N021"/>.Ed.
             </ab>
-            <pb facs="#facs_65" n="65" xml:id="img_0065"/>
+            <pb facs="#facs_65" n="part4_p065.jpg" xml:id="img_0065"/>
             <ab facs="#facs_65_tr_3">
                <lb facs="#facs_65_tr_3_tl_1" n="N001"/>-534
                <lb facs="#facs_65_tr_3_tl_2" n="N002"/>reunion with that from which it is separated by its self-relatedness and by the estrangement in our
@@ -7390,7 +7391,7 @@
                <lb facs="#facs_65_tr_1_tl_10" n="N010"/>Monsieur,
                <lb facs="#facs_65_tr_1_tl_11" n="N011"/>Monsieur,
             </ab>
-            <pb facs="#facs_66" n="66" xml:id="img_0066"/>
+            <pb facs="#facs_66" n="part4_p066.jpg" xml:id="img_0066"/>
             <ab facs="#facs_66_tr_1">
                <lb facs="#facs_66_tr_1_tl_1" n="N001"/>-us¬
                <lb facs="#facs_66_tr_1_tl_2" n="N002"/>LECTURE XLI, March 29, 956
@@ -7432,7 +7433,7 @@
                <lb facs="#facs_66_tr_2_tl_11" n="N011"/>dans un toutes
                <lb facs="#facs_66_tr_2_tl_12" n="N012"/>de Vous avez
             </ab>
-            <pb facs="#facs_67" n="67" xml:id="img_0067"/>
+            <pb facs="#facs_67" n="part4_p067.jpg" xml:id="img_0067"/>
             <ab facs="#facs_67_tr_3">
                <lb facs="#facs_67_tr_3_tl_1" n="N001"/>-636-
                <lb facs="#facs_67_tr_3_tl_2" n="N002"/>a silent voice, but a voice which we can hear, if we listen. And this listening is the first work of
@@ -7477,7 +7478,7 @@
                <lb facs="#facs_67_tr_2_tl_14" n="N014"/>Pour Votre
                <lb facs="#facs_67_tr_2_tl_15" n="N015"/>G.C.H.F.P
             </ab>
-            <pb facs="#facs_68" n="68" xml:id="img_0068"/>
+            <pb facs="#facs_68" n="part4_p068.jpg" xml:id="img_0068"/>
             <ab facs="#facs_68_tr_1">
                <lb facs="#facs_68_tr_1_tl_1" n="N001"/>dʼun autre
                <lb facs="#facs_68_tr_1_tl_2" n="N002"/>-537-
@@ -7517,7 +7518,7 @@
                <lb facs="#facs_68_tr_2_tl_21" n="N021"/>Monsieur, il y a
                <lb facs="#facs_68_tr_2_tl_22" n="N022"/>dʼadresse à
             </ab>
-            <pb facs="#facs_69" n="69" xml:id="img_0069"/>
+            <pb facs="#facs_69" n="part4_p069.jpg" xml:id="img_0069"/>
             <ab facs="#facs_69_tr_1">
                <lb facs="#facs_69_tr_1_tl_1" n="N001"/>-la¬
                <lb facs="#facs_69_tr_1_tl_2" n="N002"/>But this principle of justice is not something which stands BES apE love, or AGAINST love.
@@ -7574,7 +7575,7 @@
                <lb facs="#facs_69_tr_3_tl_24" n="N024"/>cʼest en lʼauteur de ses autres
                <lb facs="#facs_69_tr_3_tl_25" n="N025"/>dʼune manière
             </ab>
-            <pb facs="#facs_70" n="70" xml:id="img_0070"/>
+            <pb facs="#facs_70" n="part4_p070.jpg" xml:id="img_0070"/>
             <ab facs="#facs_70_tr_3">
                <lb facs="#facs_70_tr_3_tl_1" n="N001"/>-539.
                <lb facs="#facs_70_tr_3_tl_2" n="N002"/>commandment to love God with all one’s heart, which simply means the conconditional character
@@ -7614,7 +7615,7 @@
                <lb facs="#facs_70_tr_2_tl_10" n="N010"/>Monsieur,
                <lb facs="#facs_70_tr_2_tl_11" n="N011"/>dans la
             </ab>
-            <pb facs="#facs_71" n="71" xml:id="img_0071"/>
+            <pb facs="#facs_71" n="part4_p071.jpg" xml:id="img_0071"/>
             <ab facs="#facs_71_tr_3">
                <lb facs="#facs_71_tr_3_tl_1" n="N001"/>-540-
                <lb facs="#facs_71_tr_3_tl_2" n="N002"/>who resists your attempt to use him as a took, as a means. There is no other point of equally
@@ -7662,7 +7663,7 @@
                <lb facs="#facs_71_tr_2_tl_17" n="N017"/>dans cette teinte vieuse
                <lb facs="#facs_71_tr_2_tl_18" n="N018"/>ne pas
             </ab>
-            <pb facs="#facs_72" n="72" xml:id="img_0072"/>
+            <pb facs="#facs_72" n="part4_p072.jpg" xml:id="img_0072"/>
             <ab facs="#facs_72_tr_2">
                <lb facs="#facs_72_tr_2_tl_1" n="N001"/>-541.
                <lb facs="#facs_72_tr_2_tl_2" n="N002"/>can be identified with a law which in itself is absolute. It is even earlier to apply this to the problem
@@ -7712,7 +7713,7 @@
                <lb facs="#facs_72_tr_1_tl_25" n="N025"/>Vous avez
                <lb facs="#facs_72_tr_1_tl_26" n="N026"/>G.C.F.P
             </ab>
-            <pb facs="#facs_73" n="73" xml:id="img_0073"/>
+            <pb facs="#facs_73" n="part4_p073.jpg" xml:id="img_0073"/>
             <ab facs="#facs_73_tr_1">
                <lb facs="#facs_73_tr_1_tl_1" n="N001"/>des
                <lb facs="#facs_73_tr_1_tl_2" n="N002"/>-542
@@ -7749,7 +7750,7 @@
                <lb facs="#facs_73_tr_2_tl_20" n="N020"/>dʼun autre
                <lb facs="#facs_73_tr_2_tl_21" n="N021"/>Votre très-même pour
             </ab>
-            <pb facs="#facs_74" n="74" xml:id="img_0074"/>
+            <pb facs="#facs_74" n="part4_p074.jpg" xml:id="img_0074"/>
             <ab facs="#facs_74_tr_2">
                <lb facs="#facs_74_tr_2_tl_1" n="N001"/>-543.
                <lb facs="#facs_74_tr_2_tl_2" n="N002"/> history of Christianity-there are many others). But you can also find here that wisdom and
@@ -7789,7 +7790,7 @@
                <lb facs="#facs_74_tr_1_tl_17" n="N017"/>dʼune manière beaucoup
                <lb facs="#facs_74_tr_1_tl_18" n="N018"/>dans le temps
             </ab>
-            <pb facs="#facs_75" n="75" xml:id="img_0075"/>
+            <pb facs="#facs_75" n="part4_p075.jpg" xml:id="img_0075"/>
             <ab facs="#facs_75_tr_2">
                <lb facs="#facs_75_tr_2_tl_1" n="N001"/>-ers
                <lb facs="#facs_75_tr_2_tl_2" n="N002"/>as just developed? This again leads us to the problem of the law. We speak about the moral
@@ -7834,7 +7835,7 @@
                <lb facs="#facs_75_tr_1_tl_27" n="N027"/>dʼadresse
                <lb facs="#facs_75_tr_1_tl_28" n="N028"/>a-t-elle
             </ab>
-            <pb facs="#facs_76" n="76" xml:id="img_0076"/>
+            <pb facs="#facs_76" n="part4_p076.jpg" xml:id="img_0076"/>
             <ab facs="#facs_76_tr_1">
                <lb facs="#facs_76_tr_1_tl_1" n="N001"/>-545.
                <lb facs="#facs_76_tr_1_tl_2" n="N002"/>to be obedient to it, and in this way to be BEYOND the law. Here again a religious dimension
@@ -7876,7 +7877,7 @@
                <lb facs="#facs_76_tr_2_tl_24" n="N024"/>Monsieur M r de
                <lb facs="#facs_76_tr_2_tl_25" n="N025"/>ne sont
             </ab>
-            <pb facs="#facs_77" n="77" xml:id="img_0077"/>
+            <pb facs="#facs_77" n="part4_p077.jpg" xml:id="img_0077"/>
             <ab facs="#facs_77_tr_3">
                <lb facs="#facs_77_tr_3_tl_1" n="N001"/>Monsieur
                <lb facs="#facs_77_tr_3_tl_2" n="N002"/>- O 46
@@ -7912,7 +7913,7 @@
                <lb facs="#facs_77_tr_2_tl_11" n="N011"/>dʼune manière beaucoup
                <lb facs="#facs_77_tr_2_tl_12" n="N012"/>et de
             </ab>
-            <pb facs="#facs_78" n="78" xml:id="img_0078"/>
+            <pb facs="#facs_78" n="part4_p078.jpg" xml:id="img_0078"/>
             <ab facs="#facs_78_tr_3">
                <lb facs="#facs_78_tr_3_tl_1" n="N001"/>décrire
                <lb facs="#facs_78_tr_3_tl_2" n="N002"/>-547.
@@ -7958,7 +7959,7 @@
                <lb facs="#facs_78_tr_2_tl_16" n="N016"/>Monsieur M r de
                <lb facs="#facs_78_tr_2_tl_17" n="N017"/>dʼun autre
             </ab>
-            <pb facs="#facs_79" n="79" xml:id="img_0079"/>
+            <pb facs="#facs_79" n="part4_p079.jpg" xml:id="img_0079"/>
             <ab facs="#facs_79_tr_2">
                <lb facs="#facs_79_tr_2_tl_1" n="N001"/>Monsieur Mounard
                <lb facs="#facs_79_tr_2_tl_2" n="N002"/>pour lui a
@@ -8000,7 +8001,7 @@
                <lb facs="#facs_79_tr_1_tl_18" n="N018"/>dʼune manière est
                <lb facs="#facs_79_tr_1_tl_19" n="N019"/>dʼavoir lʼautre vie de ses autres
             </ab>
-            <pb facs="#facs_80" n="80" xml:id="img_0080"/>
+            <pb facs="#facs_80" n="part4_p080.jpg" xml:id="img_0080"/>
             <ab facs="#facs_80_tr_2">
                <lb facs="#facs_80_tr_2_tl_1" n="N001"/>Monsieur,
                <lb facs="#facs_80_tr_2_tl_2" n="N002"/>-549.
@@ -8043,7 +8044,7 @@
                <lb facs="#facs_80_tr_1_tl_15" n="N015"/>Monsieur
                <lb facs="#facs_80_tr_1_tl_16" n="N016"/>dʼune lettre
             </ab>
-            <pb facs="#facs_81" n="81" xml:id="img_0081"/>
+            <pb facs="#facs_81" n="part4_p081.jpg" xml:id="img_0081"/>
             <ab facs="#facs_81_tr_2">
                <lb facs="#facs_81_tr_2_tl_1" n="N001"/>Monsieur
                <lb facs="#facs_81_tr_2_tl_2" n="N002"/>dans un
@@ -8087,7 +8088,7 @@
                <lb facs="#facs_81_tr_1_tl_25" n="N025"/>de votre beau;
                <lb facs="#facs_81_tr_1_tl_26" n="N026"/>de notre
             </ab>
-            <pb facs="#facs_82" n="82" xml:id="img_0082"/>
+            <pb facs="#facs_82" n="part4_p082.jpg" xml:id="img_0082"/>
             <ab facs="#facs_82_tr_2">
                <lb facs="#facs_82_tr_2_tl_1" n="N001"/>je vous en avez
                <lb facs="#facs_82_tr_2_tl_2" n="N002"/>-551¬
@@ -8131,7 +8132,7 @@
                <lb facs="#facs_82_tr_1_tl_27" n="N027"/>dʼune manière sérieuse, et cʼest le
                <lb facs="#facs_82_tr_1_tl_28" n="N028"/>Votre beau
             </ab>
-            <pb facs="#facs_83" n="83" xml:id="img_0083"/>
+            <pb facs="#facs_83" n="part4_p083.jpg" xml:id="img_0083"/>
             <ab facs="#facs_83_tr_1">
                <lb facs="#facs_83_tr_1_tl_1" n="N001"/>-552¬
                <lb facs="#facs_83_tr_1_tl_2" n="N002"/>in several cases, in many experiences, to be able to be trusted because, very often, what he said or
@@ -8170,7 +8171,7 @@
                <lb facs="#facs_83_tr_2_tl_21" n="N021"/>dire une
                <lb facs="#facs_83_tr_2_tl_22" n="N022"/>dʼavoir lʼautre
             </ab>
-            <pb facs="#facs_84" n="84" xml:id="img_0084"/>
+            <pb facs="#facs_84" n="part4_p084.jpg" xml:id="img_0084"/>
             <ab facs="#facs_84_tr_3">
                <lb facs="#facs_84_tr_3_tl_1" n="N001"/>Monsieur M r de
                <lb facs="#facs_84_tr_3_tl_2" n="N002"/>-us¬
@@ -8212,7 +8213,7 @@
                <lb facs="#facs_84_tr_1_tl_18" n="N018"/>cʼest avec
                <lb facs="#facs_84_tr_1_tl_19" n="N019"/>Monsieur le Comte de lʼéviter
             </ab>
-            <pb facs="#facs_85" n="85" xml:id="img_0085"/>
+            <pb facs="#facs_85" n="part4_p085.jpg" xml:id="img_0085"/>
             <ab facs="#facs_85_tr_3">
                <lb facs="#facs_85_tr_3_tl_1" n="N001"/>de ses
                <lb facs="#facs_85_tr_3_tl_2" n="N002"/>-554
@@ -8254,7 +8255,7 @@
                <lb facs="#facs_85_tr_1_tl_16" n="N016"/>dʼun autre
                <lb facs="#facs_85_tr_1_tl_17" n="N017"/>de votre beau et de
             </ab>
-            <pb facs="#facs_86" n="86" xml:id="img_0086"/>
+            <pb facs="#facs_86" n="part4_p086.jpg" xml:id="img_0086"/>
             <ab facs="#facs_86_tr_2">
                <lb facs="#facs_86_tr_2_tl_1" n="N001"/>-
                <lb facs="#facs_86_tr_2_tl_2" n="N002"/>-555¬
@@ -8297,7 +8298,7 @@
                <lb facs="#facs_86_tr_1_tl_19" n="N019"/>Monsieur Mounard, car cʼest lʼéviter le
                <lb facs="#facs_86_tr_1_tl_20" n="N020"/>dʼune manière
             </ab>
-            <pb facs="#facs_87" n="87" xml:id="img_0087"/>
+            <pb facs="#facs_87" n="part4_p087.jpg" xml:id="img_0087"/>
             <ab facs="#facs_87_tr_2">
                <lb facs="#facs_87_tr_2_tl_1" n="N001"/>dʼavoir lʼétat de
                <lb facs="#facs_87_tr_2_tl_2" n="N002"/>Monsieur
@@ -8351,7 +8352,7 @@
                <lb facs="#facs_87_tr_1_tl_24" n="N024"/>toutes
                <lb facs="#facs_87_tr_1_tl_25" n="N025"/>de votre beau et très-dire
             </ab>
-            <pb facs="#facs_88" n="88" xml:id="img_0088"/>
+            <pb facs="#facs_88" n="part4_p088.jpg" xml:id="img_0088"/>
             <ab facs="#facs_88_tr_3">
                <lb facs="#facs_88_tr_3_tl_1" n="N001"/>dʼun autre
                <lb facs="#facs_88_tr_3_tl_2" n="N002"/>- L 57.
@@ -8392,7 +8393,7 @@
                <lb facs="#facs_88_tr_2_tl_17" n="N017"/>Monsieur
                <lb facs="#facs_88_tr_2_tl_18" n="N018"/>dʼavoir lʼautre sérieuse. Cʼest
             </ab>
-            <pb facs="#facs_89" n="89" xml:id="img_0089"/>
+            <pb facs="#facs_89" n="part4_p089.jpg" xml:id="img_0089"/>
             <ab facs="#facs_89_tr_1">
                <lb facs="#facs_89_tr_1_tl_1" n="N001"/>toutes les
                <lb facs="#facs_89_tr_1_tl_2" n="N002"/>dans les
@@ -8440,7 +8441,7 @@
                <lb facs="#facs_89_tr_2_tl_24" n="N024"/>Votre très obéissant serviteur, de
                <lb facs="#facs_89_tr_2_tl_25" n="N025"/>Pour Votre
             </ab>
-            <pb facs="#facs_90" n="90" xml:id="img_0090"/>
+            <pb facs="#facs_90" n="part4_p090.jpg" xml:id="img_0090"/>
             <ab facs="#facs_90_tr_2">
                <lb facs="#facs_90_tr_2_tl_1" n="N001"/>-959.
                <lb facs="#facs_90_tr_2_tl_2" n="N002"/>of the authority of father or mother which has almost papal or Hitlerite character, and where the
@@ -8480,7 +8481,7 @@
                <lb facs="#facs_90_tr_1_tl_19" n="N019"/>dʼune manière vous
                <lb facs="#facs_90_tr_1_tl_20" n="N020"/>dʼune manière vous
             </ab>
-            <pb facs="#facs_91" n="91" xml:id="img_0091"/>
+            <pb facs="#facs_91" n="part4_p091.jpg" xml:id="img_0091"/>
             <ab facs="#facs_91_tr_3">
                <lb facs="#facs_91_tr_3_tl_1" n="N001"/>..
                <lb facs="#facs_91_tr_3_tl_2" n="N002"/>dʼun autre vie de
@@ -8528,7 +8529,7 @@
                <lb facs="#facs_91_tr_2_tl_20" n="N020"/>a-t-elle
                <lb facs="#facs_91_tr_2_tl_21" n="N021"/>dʼavoir lʼautre beaucoup
             </ab>
-            <pb facs="#facs_92" n="92" xml:id="img_0092"/>
+            <pb facs="#facs_92" n="part4_p092.jpg" xml:id="img_0092"/>
             <ab facs="#facs_92_tr_1">
                <lb facs="#facs_92_tr_1_tl_1" n="N001"/>-ut.
                <lb facs="#facs_92_tr_1_tl_2" n="N002"/>which he puts against other elements in order to break down a fixed authoritarian system.
@@ -8555,7 +8556,7 @@
                <lb facs="#facs_92_tr_2_tl_9" n="N009"/>dʼune manière
                <lb facs="#facs_92_tr_2_tl_10" n="N010"/>dans le
             </ab>
-            <pb facs="#facs_93" n="93" xml:id="img_0093"/>
+            <pb facs="#facs_93" n="part4_p093.jpg" xml:id="img_0093"/>
             <ab facs="#facs_93_tr_2">
                <lb facs="#facs_93_tr_2_tl_1" n="N001"/>-;562-
                <lb facs="#facs_93_tr_2_tl_2" n="N002"/>LECTURE XLIII, April 24, 956
@@ -8591,7 +8592,7 @@
                <lb facs="#facs_93_tr_3_tl_9" n="N009"/>dʼune manière beaucoup
                <lb facs="#facs_93_tr_3_tl_10" n="N010"/>G.C.P.
             </ab>
-            <pb facs="#facs_94" n="94" xml:id="img_0094"/>
+            <pb facs="#facs_94" n="part4_p094.jpg" xml:id="img_0094"/>
             <ab facs="#facs_94_tr_2">
                <lb facs="#facs_94_tr_2_tl_1" n="N001"/>-563-
                <lb facs="#facs_94_tr_2_tl_2" n="N002"/>In contrast to this, the idea became predominant that the individual who did
@@ -8628,7 +8629,7 @@
                <lb facs="#facs_94_tr_1_tl_13" n="N013"/>dʼavoir lʼauteur avec
                <lb facs="#facs_94_tr_1_tl_14" n="N014"/>G.C.F.P.
             </ab>
-            <pb facs="#facs_95" n="95" xml:id="img_0095"/>
+            <pb facs="#facs_95" n="part4_p095.jpg" xml:id="img_0095"/>
             <ab facs="#facs_95_tr_2">
                <lb facs="#facs_95_tr_2_tl_1" n="N001"/>des
                <lb facs="#facs_95_tr_2_tl_2" n="N002"/>-564
@@ -8665,7 +8666,7 @@
                <lb facs="#facs_95_tr_1_tl_8" n="N008"/>dʼavoir lʼautre beaucoup
                <lb facs="#facs_95_tr_1_tl_9" n="N009"/>dʼune manière beaucoup dʼaprès de lʼaresse
             </ab>
-            <pb facs="#facs_96" n="96" xml:id="img_0096"/>
+            <pb facs="#facs_96" n="part4_p096.jpg" xml:id="img_0096"/>
             <ab facs="#facs_96_tr_1">
                <lb facs="#facs_96_tr_1_tl_1" n="N001"/>-Ö65-
                <lb facs="#facs_96_tr_1_tl_2" n="N002"/>two things and give to the essential description the term "conformity" and the directed
@@ -8705,7 +8706,7 @@
                <lb facs="#facs_96_tr_2_tl_22" n="N022"/>dʼune manière
                <lb facs="#facs_96_tr_2_tl_23" n="N023"/>Vous avez
             </ab>
-            <pb facs="#facs_97" n="97" xml:id="img_0097"/>
+            <pb facs="#facs_97" n="part4_p097.jpg" xml:id="img_0097"/>
             <ab facs="#facs_97_tr_3">
                <lb facs="#facs_97_tr_3_tl_1" n="N001"/>-566
                <lb facs="#facs_97_tr_3_tl_2" n="N002"/>had by my very highly daicatnd friend Karl Mannheim, who came as a refugee to England in 1934 and
@@ -8741,7 +8742,7 @@
                <lb facs="#facs_97_tr_1_tl_12" n="N012"/>dʼavoir lʼautre vie de ses
                <lb facs="#facs_97_tr_1_tl_13" n="N013"/>in me.
             </ab>
-            <pb facs="#facs_98" n="98" xml:id="img_0098"/>
+            <pb facs="#facs_98" n="part4_p098.jpg" xml:id="img_0098"/>
             <ab facs="#facs_98_tr_1">
                <lb facs="#facs_98_tr_1_tl_1" n="N001"/>-567-
                <lb facs="#facs_98_tr_1_tl_2" n="N002"/>good works. Now this is not European at all! /little daughter/ In Europe, the state has to do this.
@@ -8786,7 +8787,7 @@
                <lb facs="#facs_98_tr_2_tl_23" n="N023"/>cʼest le
                <lb facs="#facs_98_tr_2_tl_24" n="N024"/>dʼadresse
             </ab>
-            <pb facs="#facs_99" n="99" xml:id="img_0099"/>
+            <pb facs="#facs_99" n="part4_p099.jpg" xml:id="img_0099"/>
             <ab facs="#facs_99_tr_2">
                <lb facs="#facs_99_tr_2_tl_1" n="N001"/>sont a
                <lb facs="#facs_99_tr_2_tl_2" n="N002"/>-1568-
@@ -8829,7 +8830,7 @@
                <lb facs="#facs_99_tr_1_tl_19" n="N019"/>dʼavoir lʼautre beaucoup
                <lb facs="#facs_99_tr_1_tl_20" n="N020"/>cʼest en
             </ab>
-            <pb facs="#facs_100" n="100" xml:id="img_0100"/>
+            <pb facs="#facs_100" n="part4_p100.jpg" xml:id="img_0100"/>
             <ab facs="#facs_100_tr_2">
                <lb facs="#facs_100_tr_2_tl_1" n="N001"/>-569.
                <lb facs="#facs_100_tr_2_tl_2" n="N002"/>become ends without an ultimate end—they all agreed with this—and the Evertisement situation
@@ -8864,41 +8865,41 @@
                <lb facs="#facs_100_tr_1_tl_9" n="N009"/>receu
                <lb facs="#facs_100_tr_1_tl_10" n="N010"/>Votre très-hèque, parce que vous
             </ab>
-            <pb facs="#facs_101" n="101" xml:id="img_0101"/>
-            <pb facs="#facs_102" n="102" xml:id="img_0102"/>
-            <pb facs="#facs_103" n="103" xml:id="img_0103"/>
-            <pb facs="#facs_104" n="104" xml:id="img_0104"/>
-            <pb facs="#facs_105" n="105" xml:id="img_0105"/>
-            <pb facs="#facs_106" n="106" xml:id="img_0106"/>
-            <pb facs="#facs_107" n="107" xml:id="img_0107"/>
-            <pb facs="#facs_108" n="108" xml:id="img_0108"/>
-            <pb facs="#facs_109" n="109" xml:id="img_0109"/>
-            <pb facs="#facs_110" n="110" xml:id="img_0110"/>
-            <pb facs="#facs_111" n="111" xml:id="img_0111"/>
-            <pb facs="#facs_112" n="112" xml:id="img_0112"/>
-            <pb facs="#facs_113" n="113" xml:id="img_0113"/>
-            <pb facs="#facs_114" n="114" xml:id="img_0114"/>
-            <pb facs="#facs_115" n="115" xml:id="img_0115"/>
-            <pb facs="#facs_116" n="116" xml:id="img_0116"/>
-            <pb facs="#facs_117" n="117" xml:id="img_0117"/>
-            <pb facs="#facs_118" n="118" xml:id="img_0118"/>
-            <pb facs="#facs_119" n="119" xml:id="img_0119"/>
-            <pb facs="#facs_120" n="120" xml:id="img_0120"/>
-            <pb facs="#facs_121" n="121" xml:id="img_0121"/>
-            <pb facs="#facs_122" n="122" xml:id="img_0122"/>
-            <pb facs="#facs_123" n="123" xml:id="img_0123"/>
-            <pb facs="#facs_124" n="124" xml:id="img_0124"/>
-            <pb facs="#facs_125" n="125" xml:id="img_0125"/>
-            <pb facs="#facs_126" n="126" xml:id="img_0126"/>
-            <pb facs="#facs_127" n="127" xml:id="img_0127"/>
-            <pb facs="#facs_128" n="128" xml:id="img_0128"/>
-            <pb facs="#facs_129" n="129" xml:id="img_0129"/>
-            <pb facs="#facs_130" n="130" xml:id="img_0130"/>
-            <pb facs="#facs_131" n="131" xml:id="img_0131"/>
-            <pb facs="#facs_132" n="132" xml:id="img_0132"/>
-            <pb facs="#facs_133" n="133" xml:id="img_0133"/>
-            <pb facs="#facs_134" n="134" xml:id="img_0134"/>
-            <pb facs="#facs_135" n="135" xml:id="img_0135"/>
+            <pb facs="#facs_101" n="part4_p101.jpg" xml:id="img_0101"/>
+            <pb facs="#facs_102" n="part4_p102.jpg" xml:id="img_0102"/>
+            <pb facs="#facs_103" n="part4_p103.jpg" xml:id="img_0103"/>
+            <pb facs="#facs_104" n="part4_p104.jpg" xml:id="img_0104"/>
+            <pb facs="#facs_105" n="part4_p105.jpg" xml:id="img_0105"/>
+            <pb facs="#facs_106" n="part4_p106.jpg" xml:id="img_0106"/>
+            <pb facs="#facs_107" n="part4_p107.jpg" xml:id="img_0107"/>
+            <pb facs="#facs_108" n="part4_p108.jpg" xml:id="img_0108"/>
+            <pb facs="#facs_109" n="part4_p109.jpg" xml:id="img_0109"/>
+            <pb facs="#facs_110" n="part4_p110.jpg" xml:id="img_0110"/>
+            <pb facs="#facs_111" n="part4_p111.jpg" xml:id="img_0111"/>
+            <pb facs="#facs_112" n="part4_p112.jpg" xml:id="img_0112"/>
+            <pb facs="#facs_113" n="part4_p113.jpg" xml:id="img_0113"/>
+            <pb facs="#facs_114" n="part4_p114.jpg" xml:id="img_0114"/>
+            <pb facs="#facs_115" n="part4_p115.jpg" xml:id="img_0115"/>
+            <pb facs="#facs_116" n="part4_p116.jpg" xml:id="img_0116"/>
+            <pb facs="#facs_117" n="part4_p117.jpg" xml:id="img_0117"/>
+            <pb facs="#facs_118" n="part4_p118.jpg" xml:id="img_0118"/>
+            <pb facs="#facs_119" n="part4_p119.jpg" xml:id="img_0119"/>
+            <pb facs="#facs_120" n="part4_p120.jpg" xml:id="img_0120"/>
+            <pb facs="#facs_121" n="part4_p121.jpg" xml:id="img_0121"/>
+            <pb facs="#facs_122" n="part4_p122.jpg" xml:id="img_0122"/>
+            <pb facs="#facs_123" n="part4_p123.jpg" xml:id="img_0123"/>
+            <pb facs="#facs_124" n="part4_p124.jpg" xml:id="img_0124"/>
+            <pb facs="#facs_125" n="part4_p125.jpg" xml:id="img_0125"/>
+            <pb facs="#facs_126" n="part4_p126.jpg" xml:id="img_0126"/>
+            <pb facs="#facs_127" n="part4_p127.jpg" xml:id="img_0127"/>
+            <pb facs="#facs_128" n="part4_p128.jpg" xml:id="img_0128"/>
+            <pb facs="#facs_129" n="part4_p129.jpg" xml:id="img_0129"/>
+            <pb facs="#facs_130" n="part4_p130.jpg" xml:id="img_0130"/>
+            <pb facs="#facs_131" n="part4_p131.jpg" xml:id="img_0131"/>
+            <pb facs="#facs_132" n="part4_p132.jpg" xml:id="img_0132"/>
+            <pb facs="#facs_133" n="part4_p133.jpg" xml:id="img_0133"/>
+            <pb facs="#facs_134" n="part4_p134.jpg" xml:id="img_0134"/>
+            <pb facs="#facs_135" n="part4_p135.jpg" xml:id="img_0135"/>
          </div>
       </body>
    </text>

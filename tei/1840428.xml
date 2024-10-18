@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt><title type="main">TRAINING_VALIDATION_SET_English Tillich Type Set</title></titleStmt>
@@ -10,7 +11,7 @@
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
-         <graphic url="65707054.jpg" width="2479px" height="3508px"/>
+         <graphic url="part5_p001.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=EALNOQVWOYGWYROKCPPYWYKN&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="174,360 174,3244 2451,3244 2451,360" rendition="TextRegion" xml:id="facs_1_tr_1">
             <zone points="369,413 961,421 1197,389 1441,417 1443,367 1395,330 956,369 891,332 795,371 721,336 371,360" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
@@ -55,7 +56,7 @@
    <text>
       <body>
          <div>
-            <pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <pb facs="#facs_1" n="part5_p001.jpg" xml:id="img_0001"/>
             <ab facs="#facs_1_tr_1">
                <lb facs="#facs_1_tr_1_tl_1" n="N001"/>. .       .
                <lb facs="#facs_1_tr_1_tl_2" n="N002"/>. .  . .
