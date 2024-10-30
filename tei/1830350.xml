@@ -112,7 +112,6 @@
          <graphic url="part3_p005.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=GYMVUQRQYKHDMZDDVJYYBDNY&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="253,81 2316,81 2316,2073 253,2073" rendition="TextRegion" xml:id="facs_5_tr_1">
-            <zone points="991,170 1009,165 1037,168 1050,160 1058,165 1091,160 1073,85 1060,90 1053,106 986,64 965,67" rendition="Line" xml:id="facs_5_tr_1_tl_1"/>
             <zone points="1148,400 1161,400 1176,415 1275,405 1275,364 1262,364 1254,356 1246,361 1213,356 1197,343 1184,356 1148,356" rendition="Line" xml:id="facs_5_tr_1_tl_2"/>
             <zone points="271,550 2123,570 2250,565 2250,498 271,519" rendition="Line" xml:id="facs_5_tr_1_tl_3"/>
             <zone points="276,702 2131,733 2131,663 1796,640 276,655" rendition="Line" xml:id="facs_5_tr_1_tl_4"/>
@@ -120,13 +119,11 @@
             <zone points="268,1004 2291,1019 2291,960 268,955" rendition="Line" xml:id="facs_5_tr_1_tl_6"/>
             <zone points="261,1151 1974,1192 2270,1164 2270,1107 261,1125" rendition="Line" xml:id="facs_5_tr_1_tl_7"/>
             <zone points="263,1311 578,1316 578,1256 263,1256" rendition="Line" xml:id="facs_5_tr_1_tl_8"/>
-            <zone points="488,1378 800,1427 2141,1388 2074,1324 488,1321" rendition="Line" xml:id="facs_5_tr_1_tl_9"/>
+            <zone points="488,1378 800,1427 2141,1388 2074,1324 488,1321" rendition="Line" xml:id="facs_5_tr_1_tl_9" subtype="paragraph"/>
             <zone points="276,1465 2247,1504 2247,1422 2087,1409 276,1419" rendition="Line" xml:id="facs_5_tr_1_tl_10"/>
             <zone points="240,1610 361,1667 1881,1667 2309,1620 2309,1569 240,1587" rendition="Line" xml:id="facs_5_tr_1_tl_11"/>
             <zone points="263,1785 413,1827 1084,1765 1182,1842 1569,1767 2190,1827 2190,1716 263,1713" rendition="Line" xml:id="facs_5_tr_1_tl_12"/>
-            <zone points="1708,1876 1721,1876 1747,1894 1760,1894 1775,1883 1793,1883 1806,1894 1824,1886 1855,1894 1863,1886 1891,1883 1891,1837 1708,1837" rendition="Line" xml:id="facs_5_tr_1_tl_13"/>
             <zone points="248,1932 573,1956 635,1914 769,1971 1667,1984 1754,1912 1708,1865 1563,1860 248,1881" rendition="Line" xml:id="facs_5_tr_1_tl_14"/>
-            <zone points="1878,1909 1901,1917 1953,1912 1961,1920 2087,1917 2103,1932 2121,1922 2131,1932 2172,1925 2172,1868 2141,1868 2131,1858 2121,1868 1943,1865 1907,1829 1878,1829" rendition="Line" xml:id="facs_5_tr_1_tl_15"/>
             <zone points="248,2061 2270,2069 2270,2015 2147,2007 248,2012" rendition="Line" xml:id="facs_5_tr_1_tl_16"/>
          </zone>
          <zone points="232,2162 2191,2162 2191,3488 232,3488" rendition="TextRegion" xml:id="facs_5_tr_2">
@@ -138,7 +135,6 @@
             <zone points="235,2970 2128,2980 2128,2926 235,2926" rendition="Line" xml:id="facs_5_tr_2_tl_6"/>
             <zone points="227,3124 2051,3142 2165,3132 2165,3078 227,3099" rendition="Line" xml:id="facs_5_tr_2_tl_7"/>
             <zone points="227,3271 2020,3297 2108,3284 2108,3228 227,3246" rendition="Line" xml:id="facs_5_tr_2_tl_8"/>
-            <zone points="217,3483 250,3488 266,3483 273,3488 369,3483 369,3439 294,3444 279,3439 268,3442 263,3437 237,3462 217,3460" rendition="Line" xml:id="facs_5_tr_2_tl_9"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_6">
@@ -151,9 +147,8 @@
             <zone points="271,854 2113,885 2113,805 2043,795 271,810" rendition="Line" xml:id="facs_6_tr_2_tl_4"/>
             <zone points="279,1019 1151,1058 2152,1006 2154,949 281,957" rendition="Line" xml:id="facs_6_tr_2_tl_5"/>
             <zone points="276,1169 1695,1182 1736,1107 276,1122" rendition="Line" xml:id="facs_6_tr_2_tl_6"/>
-            <zone points="472,1308 2185,1349 2185,1241 472,1256" rendition="Line" xml:id="facs_6_tr_2_tl_7"/>
+            <zone points="472,1308 2185,1349 2185,1241 472,1256" rendition="Line" xml:id="facs_6_tr_2_tl_7" subtype="paragraph"/>
             <zone points="263,1458 1112,1509 1195,1455 1336,1502 2332,1414 263,1432" rendition="Line" xml:id="facs_6_tr_2_tl_8"/>
-            <zone points="98,1525 152,1520 201,1525 196,1362 175,1367 116,1429 93,1429" rendition="Line" xml:id="facs_6_tr_2_tl_9"/>
             <zone points="268,1612 2242,1605 2278,1553 268,1566" rendition="Line" xml:id="facs_6_tr_2_tl_10"/>
          </zone>
          <zone points="262,1699 2307,1699 2307,3491 262,3491" rendition="TextRegion" xml:id="facs_6_tr_1">
@@ -162,40 +157,38 @@
             <zone points="261,2103 353,2147 813,2082 1267,2118 1375,2054 2144,2056 2144,1994 263,2025" rendition="Line" xml:id="facs_6_tr_1_tl_3"/>
             <zone points="261,2203 1873,2214 2041,2206 2041,2141 261,2175" rendition="Line" xml:id="facs_6_tr_1_tl_4"/>
             <zone points="268,2358 390,2361 413,2376 433,2356 493,2374 519,2358 699,2356 728,2374 751,2363 751,2304 511,2304 490,2325 467,2304 433,2325 413,2304 343,2304 325,2322 268,2322" rendition="Line" xml:id="facs_6_tr_1_tl_5"/>
-            <zone points="462,2443 2165,2454 2188,2399 462,2410" rendition="Line" xml:id="facs_6_tr_1_tl_6"/>
+            <zone points="462,2443 2165,2454 2188,2399 462,2410" rendition="Line" xml:id="facs_6_tr_1_tl_6" subtype="paragraph"/>
             <zone points="263,2598 1950,2601 2301,2588 2301,2531 263,2541" rendition="Line" xml:id="facs_6_tr_1_tl_7"/>
             <zone points="263,2750 2077,2745 2136,2688 266,2704" rendition="Line" xml:id="facs_6_tr_1_tl_8"/>
             <zone points="261,2908 802,2910 802,2872 761,2848 297,2843 261,2866" rendition="Line" xml:id="facs_6_tr_1_tl_9"/>
-            <zone points="459,2977 2201,2970 2201,2905 459,2918" rendition="Line" xml:id="facs_6_tr_1_tl_10"/>
+            <zone points="459,2977 2201,2970 2201,2905 459,2918" rendition="Line" xml:id="facs_6_tr_1_tl_10" subtype="paragraph"/>
             <zone points="248,3127 1904,3137 2239,3119 2242,3068 248,3099" rendition="Line" xml:id="facs_6_tr_1_tl_11"/>
             <zone points="253,3284 2190,3277 2190,3220 253,3256" rendition="Line" xml:id="facs_6_tr_1_tl_12"/>
-            <zone points="831,3478 857,3480 872,3491 890,3488 895,3493 906,3491 921,3475 939,3478 937,3424 898,3426 867,3421 828,3424" rendition="Line" xml:id="facs_6_tr_1_tl_13"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_7">
          <graphic url="part3_p007.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=XXBRAWBKHEUJKZQMWNTIDHWX&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="74,87 2319,87 2319,1210 74,1210" rendition="TextRegion" xml:id="facs_7_tr_1">
-            <zone points="60,163 1963,165 1963,33 60,28" rendition="Line" xml:id="facs_7_tr_1_tl_1"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XXBRAWBKHEUJKZQMWNTIDHWX&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <zone points="74,87 867,87 2319,87 2319,1210 74,1210" rendition="TextRegion" xml:id="facs_7_tr_1">
             <zone points="1186,435 1198,433 1211,445 1241,443 1246,448 1258,448 1268,438 1286,445 1311,445 1308,383 1246,380 1233,370 1218,385 1183,388" rendition="Line" xml:id="facs_7_tr_1_tl_2"/>
             <zone points="318,598 1711,598 1711,553 1623,533 318,545" rendition="Line" xml:id="facs_7_tr_1_tl_3"/>
-            <zone points="510,730 2134,753 2134,693 510,678" rendition="Line" xml:id="facs_7_tr_1_tl_4"/>
+            <zone points="510,730 2134,753 2134,693 510,678" rendition="Line" xml:id="facs_7_tr_1_tl_4" subtype="paragraph"/>
             <zone points="308,905 2214,908 2211,848 1961,840 305,850" rendition="Line" xml:id="facs_7_tr_1_tl_5"/>
             <zone points="303,1028 2164,1068 2164,1001 303,1003" rendition="Line" xml:id="facs_7_tr_1_tl_6"/>
             <zone points="305,1188 2316,1213 2316,1146 305,1128" rendition="Line" xml:id="facs_7_tr_1_tl_7"/>
          </zone>
          <zone points="298,1278 2277,1278 2277,2111 298,2111" rendition="TextRegion" xml:id="facs_7_tr_3">
-            <zone points="500,1336 2224,1356 2186,1298 500,1293" rendition="Line" xml:id="facs_7_tr_3_tl_1"/>
+            <zone points="500,1336 2224,1356 2186,1298 500,1293" rendition="Line" xml:id="facs_7_tr_3_tl_1" subtype="paragraph"/>
             <zone points="293,1488 2256,1513 2254,1456 2039,1423 293,1433" rendition="Line" xml:id="facs_7_tr_3_tl_2"/>
             <zone points="285,1633 2211,1661 2211,1601 285,1581" rendition="Line" xml:id="facs_7_tr_3_tl_3"/>
             <zone points="288,1781 2261,1813 2211,1751 288,1753" rendition="Line" xml:id="facs_7_tr_3_tl_4"/>
             <zone points="285,1933 568,1958 1011,1946 1011,1896 810,1893 793,1913 773,1893 285,1886" rendition="Line" xml:id="facs_7_tr_3_tl_5"/>
-            <zone points="480,2084 2271,2101 1883,2031 1116,2064 480,2019" rendition="Line" xml:id="facs_7_tr_3_tl_6"/>
+            <zone points="480,2084 2271,2101 1883,2031 1116,2064 480,2019" rendition="Line" xml:id="facs_7_tr_3_tl_6" subtype="paragraph"/>
          </zone>
          <zone points="262,2183 2271,2183 2271,3383 262,3383" rendition="TextRegion" xml:id="facs_7_tr_2">
             <zone points="280,2244 2266,2261 2264,2201 278,2184" rendition="Line" xml:id="facs_7_tr_2_tl_1"/>
             <zone points="273,2396 1471,2404 1471,2351 1408,2346 655,2361 375,2324 273,2359" rendition="Line" xml:id="facs_7_tr_2_tl_2"/>
-            <zone points="465,2536 2164,2574 2164,2496 465,2509" rendition="Line" xml:id="facs_7_tr_2_tl_3"/>
+            <zone points="465,2536 2164,2574 2164,2496 465,2509" rendition="Line" xml:id="facs_7_tr_2_tl_3" subtype="paragraph"/>
             <zone points="265,2686 2094,2709 2094,2649 265,2656" rendition="Line" xml:id="facs_7_tr_2_tl_4"/>
             <zone points="255,2834 2091,2861 2089,2801 253,2809" rendition="Line" xml:id="facs_7_tr_2_tl_5"/>
             <zone points="258,2989 805,3062 1008,2996 2139,3022 2136,2954 255,2939" rendition="Line" xml:id="facs_7_tr_2_tl_6"/>
@@ -217,31 +210,27 @@
          </zone>
          <zone points="283,1418 2271,1418 2271,2461 283,2461" rendition="TextRegion" xml:id="facs_8_tr_2">
             <zone points="285,1485 916,1480 916,1422 285,1422" rendition="Line" xml:id="facs_8_tr_2_tl_1"/>
-            <zone points="457,1547 2267,1549 2267,1487 457,1499" rendition="Line" xml:id="facs_8_tr_2_tl_2"/>
+            <zone points="457,1547 2267,1549 2267,1487 457,1499" rendition="Line" xml:id="facs_8_tr_2_tl_2" subtype="paragraph"/>
             <zone points="278,1703 2224,1701 2242,1646 278,1673" rendition="Line" xml:id="facs_8_tr_2_tl_3"/>
             <zone points="276,1857 2115,1852 2118,1797 278,1807" rendition="Line" xml:id="facs_8_tr_2_tl_4"/>
             <zone points="276,2003 375,2053 2060,2016 2001,1934 276,1959" rendition="Line" xml:id="facs_8_tr_2_tl_5"/>
             <zone points="268,2147 2078,2160 2152,2098 268,2108" rendition="Line" xml:id="facs_8_tr_2_tl_6"/>
             <zone points="273,2301 1467,2316 1492,2254 273,2274" rendition="Line" xml:id="facs_8_tr_2_tl_7"/>
-            <zone points="444,2448 2085,2453 2085,2388 444,2418" rendition="Line" xml:id="facs_8_tr_2_tl_8"/>
+            <zone points="444,2448 2085,2453 2085,2388 444,2418" rendition="Line" xml:id="facs_8_tr_2_tl_8" subtype="paragraph"/>
          </zone>
          <zone points="50,2538 2236,2538 2236,3488 50,3488" rendition="TextRegion" xml:id="facs_8_tr_3">
             <zone points="266,2602 1921,2622 2113,2599 2113,2542 266,2577" rendition="Line" xml:id="facs_8_tr_3_tl_1"/>
             <zone points="266,2761 655,2766 737,2820 1278,2756 1353,2820 1534,2785 1735,2845 1832,2751 2083,2773 2083,2696 1835,2698 1676,2614 1542,2701 266,2713" rendition="Line" xml:id="facs_8_tr_3_tl_2"/>
             <zone points="276,2912 1378,2917 1497,2909 1497,2857 276,2862" rendition="Line" xml:id="facs_8_tr_3_tl_3"/>
-            <zone points="442,3053 2160,3056 2229,3009 444,2999" rendition="Line" xml:id="facs_8_tr_3_tl_4"/>
+            <zone points="442,3053 2160,3056 2229,3009 444,2999" rendition="Line" xml:id="facs_8_tr_3_tl_4" subtype="paragraph"/>
             <zone points="261,3210 1869,3222 2187,3207 2187,3143 261,3158" rendition="Line" xml:id="facs_8_tr_3_tl_5"/>
-            <zone points="37,3490 82,3493 89,3485 134,3485 134,3354 112,3354 97,3346 72,3354 37,3354" rendition="Line" xml:id="facs_8_tr_3_tl_6"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_9">
          <graphic url="part3_p009.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=QPHERZGZLZVZSDMSTWTIKRYW&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="1185,96 2248,96 2248,439 1185,439" rendition="TextRegion" xml:id="facs_9_tr_3">
-            <zone points="2150,150 2166,150 2188,159 2241,157 2224,0 2135,0" rendition="Line" xml:id="facs_9_tr_3_tl_1"/>
-            <zone points="1172,437 1185,434 1201,444 1235,441 1242,446 1250,441 1274,446 1298,441 1293,369 1274,372 1254,364 1247,369 1228,367 1206,391 1172,393" rendition="Line" xml:id="facs_9_tr_3_tl_2"/>
-         </zone>
-         <zone points="83,529 2239,529 2239,1950 83,1950" rendition="TextRegion" xml:id="facs_9_tr_1">
+         <zone points="78,257 2239,251 2239,1950 83,1950" rendition="TextRegion" xml:id="facs_9_tr_1">
+            <zone points="1165,459 1321,459 1321,429 1165,429" rendition="Line" xml:id="facs_9_l"/>
             <zone points="309,593 2176,596 2111,533 1628,514 309,550" rendition="Line" xml:id="facs_9_tr_1_tl_1"/>
             <zone points="297,736 2048,755 2048,695 1843,685 297,692" rendition="Line" xml:id="facs_9_tr_1_tl_2"/>
             <zone points="297,885 379,934 1122,888 1469,938 2176,900 2176,847 297,864" rendition="Line" xml:id="facs_9_tr_1_tl_3"/>
@@ -249,15 +238,14 @@
             <zone points="299,1189 2198,1197 2198,1146 1527,1156 1426,1093 1182,1148 299,1141" rendition="Line" xml:id="facs_9_tr_1_tl_5"/>
             <zone points="292,1337 910,1394 1064,1341 2101,1349 2116,1291 292,1312" rendition="Line" xml:id="facs_9_tr_1_tl_6"/>
             <zone points="292,1491 1703,1498 1667,1440 292,1435" rendition="Line" xml:id="facs_9_tr_1_tl_7"/>
-            <zone points="458,1640 936,1640 1054,1698 1563,1701 1616,1648 1812,1640 2188,1677 2188,1592 458,1590" rendition="Line" xml:id="facs_9_tr_1_tl_8"/>
-            <zone points="68,1739 94,1742 130,1708 176,1718 191,1703 212,1725 253,1720 261,1556 239,1551 183,1595 152,1568 116,1592 75,1592" rendition="Line" xml:id="facs_9_tr_1_tl_9"/>
+            <zone points="458,1640 936,1640 1054,1698 1563,1701 1616,1648 1812,1640 2188,1677 2188,1592 458,1590" rendition="Line" xml:id="facs_9_tr_1_tl_8" subtype="paragraph"/>
             <zone points="285,1795 1846,1805 2140,1797 2140,1747 285,1761" rendition="Line" xml:id="facs_9_tr_1_tl_10"/>
             <zone points="280,1940 1981,1954 2198,1947 2198,1896 280,1911" rendition="Line" xml:id="facs_9_tr_1_tl_11"/>
          </zone>
          <zone points="274,2033 2203,2033 2203,3159 274,3159" rendition="TextRegion" xml:id="facs_9_tr_2">
             <zone points="280,2089 717,2111 1016,2099 1016,2034 943,2053 280,2051" rendition="Line" xml:id="facs_9_tr_2_tl_1"/>
-            <zone points="285,2248 1399,2251 1399,2195 285,2171" rendition="Line" xml:id="facs_9_tr_2_tl_2"/>
-            <zone points="273,2396 1944,2412 2106,2405 2106,2343 273,2362" rendition="Line" xml:id="facs_9_tr_2_tl_3"/>
+            <zone points="285,2248 1399,2251 1399,2195 285,2171" rendition="Line" xml:id="facs_9_tr_2_tl_2" subtype="paragraph"/>
+            <zone points="273,2396 1944,2412 2106,2405 2106,2343 273,2362" rendition="Line" xml:id="facs_9_tr_2_tl_3" subtype="paragraph"/>
             <zone points="282,2550 2041,2557 2137,2550 2137,2495 282,2497" rendition="Line" xml:id="facs_9_tr_2_tl_4"/>
             <zone points="270,2697 2065,2702 2065,2647 270,2666" rendition="Line" xml:id="facs_9_tr_2_tl_5"/>
             <zone points="263,2844 2017,2854 2101,2847 2101,2796 263,2801" rendition="Line" xml:id="facs_9_tr_2_tl_6"/>
@@ -269,15 +257,11 @@
          <graphic url="part3_p010.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=XGZRAVMEQYMYDYVSFDNJMMPV&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="256,26 2379,26 2379,1323 256,1323" rendition="TextRegion" xml:id="facs_10_tr_2">
-            <zone points="256,75 289,78 295,83 300,80 326,101 333,98 346,101 357,0 266,0" rendition="Line" xml:id="facs_10_tr_2_tl_1"/>
-            <zone points="243,158 406,165 398,98 362,96 357,101 336,96 323,101 300,80 282,75 276,80 248,62 235,62" rendition="Line" xml:id="facs_10_tr_2_tl_2"/>
-            <zone points="773,155 866,158 866,0 773,0" rendition="Line" xml:id="facs_10_tr_2_tl_3"/>
-            <zone points="2077,152 2139,160 2157,150 2173,165 2191,165 2214,152 2222,160 2250,160 2276,134 2294,134 2294,0 2077,0" rendition="Line" xml:id="facs_10_tr_2_tl_4"/>
             <zone points="1158,419 1170,419 1191,437 1199,437 1204,431 1212,437 1227,437 1235,429 1243,434 1263,434 1266,362 1253,362 1240,375 1220,372 1207,359 1183,372 1160,369" rendition="Line" xml:id="facs_10_tr_2_tl_5"/>
             <zone points="318,576 2186,587 2033,519 318,509" rendition="Line" xml:id="facs_10_tr_2_tl_6"/>
             <zone points="310,721 2372,749 2369,682 310,664" rendition="Line" xml:id="facs_10_tr_2_tl_7"/>
             <zone points="307,884 731,886 731,824 385,824 362,845 336,819 307,819" rendition="Line" xml:id="facs_10_tr_2_tl_8"/>
-            <zone points="509,1000 2212,1021 2212,956 509,964" rendition="Line" xml:id="facs_10_tr_2_tl_9"/>
+            <zone points="509,1000 2212,1021 2212,956 509,964" rendition="Line" xml:id="facs_10_tr_2_tl_9" subtype="paragraph"/>
             <zone points="300,1158 2152,1173 2152,1114 300,1124" rendition="Line" xml:id="facs_10_tr_2_tl_10"/>
             <zone points="302,1313 2142,1320 2142,1271 1734,1256 302,1276" rendition="Line" xml:id="facs_10_tr_2_tl_11"/>
          </zone>
@@ -301,13 +285,11 @@
          <graphic url="part3_p011.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=IBLFMIBPBZLXKSMHTLJMKCXJ&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="56,99 2236,99 2236,1120 56,1120" rendition="TextRegion" xml:id="facs_11_tr_1">
-            <zone points="43,163 83,163 98,150 113,165 140,165 140,0 43,0" rendition="Line" xml:id="facs_11_tr_1_tl_1"/>
             <zone points="1121,490 1183,503 1243,500 1241,415 1228,415 1203,443 1183,443 1178,448 1118,448" rendition="Line" xml:id="facs_11_tr_1_tl_2"/>
             <zone points="305,640 2229,678 2229,620 2066,600 305,593" rendition="Line" xml:id="facs_11_tr_1_tl_3"/>
             <zone points="295,790 1521,805 1518,750 1468,748 293,758" rendition="Line" xml:id="facs_11_tr_1_tl_4"/>
-            <zone points="1796,910 1851,923 1878,898 1893,913 1921,913 1998,868 2049,870 2076,848 2136,853 2139,820 2096,818 2034,743 1968,748 1943,720 1903,728 1826,795 1806,793" rendition="Line" xml:id="facs_11_tr_1_tl_5"/>
-            <zone points="300,945 1921,978 2124,963 2124,858 1851,923 300,895" rendition="Line" xml:id="facs_11_tr_1_tl_6"/>
-            <zone points="295,1098 1886,1138 2094,1118 2094,1063 293,1043" rendition="Line" xml:id="facs_11_tr_1_tl_7"/>
+            <zone points="300,945 1921,978 2124,963 2124,858 1851,923 300,895" rendition="Line" xml:id="facs_11_tr_1_tl_6" subtype="paragraph"/>
+            <zone points="295,1098 1886,1138 2094,1118 2094,1063 293,1043" rendition="Line" xml:id="facs_11_tr_1_tl_7" subtype="paragraph"/>
          </zone>
          <zone points="277,1188 2257,1188 2257,2326 277,2326" rendition="TextRegion" xml:id="facs_11_tr_2">
             <zone points="285,1243 2149,1263 2149,1208 285,1213" rendition="Line" xml:id="facs_11_tr_2_tl_1"/>
@@ -322,7 +304,6 @@
          <zone points="11,2395 2277,2395 2277,3225 11,3225" rendition="TextRegion" xml:id="facs_11_tr_3">
             <zone points="263,2459 2274,2474 2274,2419 263,2401" rendition="Line" xml:id="facs_11_tr_3_tl_1"/>
             <zone points="263,2659 420,2696 578,2611 1033,2604 1093,2661 2224,2659 2221,2579 2139,2566 605,2564 470,2469 260,2521" rendition="Line" xml:id="facs_11_tr_3_tl_2"/>
-            <zone points="0,2659 28,2661 48,2651 65,2664 93,2646 120,2646 138,2634 150,2646 178,2634 210,2636 223,2526 195,2526 155,2494 138,2504 93,2506 73,2524 33,2539 10,2536" rendition="Line" xml:id="facs_11_tr_3_tl_3"/>
             <zone points="250,2746 2214,2774 2214,2714 250,2701" rendition="Line" xml:id="facs_11_tr_3_tl_4"/>
             <zone points="248,2901 2109,2961 2109,2866 248,2876" rendition="Line" xml:id="facs_11_tr_3_tl_5"/>
             <zone points="245,3107 2189,3109 2189,3022 245,3014" rendition="Line" xml:id="facs_11_tr_3_tl_6"/>
@@ -333,8 +314,6 @@
          <graphic url="part3_p012.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=UMIUBTXLYELGTOUXOAKCYLVA&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="62,75 2251,75 2251,1031 62,1031" rendition="TextRegion" xml:id="facs_12_tr_1">
-            <zone points="51,140 70,147 75,145 97,145 97,147 101,147 121,101 111,97 99,101 89,99 87,101 82,99 77,101 68,97" rendition="Line" xml:id="facs_12_tr_1_tl_1"/>
-            <zone points="48,164 367,164 367,43 259,41 172,126 135,114 114,135 48,133" rendition="Line" xml:id="facs_12_tr_1_tl_2"/>
             <zone points="1174,408 1186,408 1206,420 1225,423 1281,423 1285,418 1298,418 1300,346 1237,346 1211,370 1177,370" rendition="Line" xml:id="facs_12_tr_1_tl_3"/>
             <zone points="307,609 510,677 631,575 1534,599 2112,573 2112,529 536,532 423,476 307,541" rendition="Line" xml:id="facs_12_tr_1_tl_4"/>
             <zone points="309,720 2090,735 2090,677 1880,662 309,689" rendition="Line" xml:id="facs_12_tr_1_tl_5"/>
@@ -342,13 +321,11 @@
             <zone points="307,1027 2245,1032 2245,976 2090,966 307,976" rendition="Line" xml:id="facs_12_tr_1_tl_7"/>
          </zone>
          <zone points="307,1188 2227,1188 2227,2013 307,2013" rendition="TextRegion" xml:id="facs_12_tr_3">
-            <zone points="302,1244 1474,1240 1708,1298 2221,1252 2221,1184 302,1215" rendition="Line" xml:id="facs_12_tr_3_tl_1"/>
+            <zone points="302,1244 1474,1240 1708,1298 2221,1252 2221,1184 302,1215" rendition="Line" xml:id="facs_12_tr_3_tl_1" subtype="paragraph"/>
             <zone points="300,1474 556,1394 619,1445 2170,1401 2170,1336 495,1358 300,1259" rendition="Line" xml:id="facs_12_tr_3_tl_2"/>
             <zone points="300,1546 814,1558 838,1542 875,1556 904,1549 906,1493 785,1508 556,1508 539,1493 478,1525 433,1500 302,1503" rendition="Line" xml:id="facs_12_tr_3_tl_3"/>
-            <zone points="297,1701 2194,1701 1964,1638 778,1670 633,1571 544,1643 297,1638" rendition="Line" xml:id="facs_12_tr_3_tl_4"/>
-            <zone points="715,1822 735,1829 807,1822 855,1829 889,1819 918,1824 918,1774 785,1783 749,1774 735,1788 715,1788" rendition="Line" xml:id="facs_12_tr_3_tl_5"/>
+            <zone points="297,1701 2194,1701 1964,1638 778,1670 633,1571 544,1643 297,1638" rendition="Line" xml:id="facs_12_tr_3_tl_4" subtype="paragraph"/>
             <zone points="894,1853 2056,1868 2216,1853 2216,1805 894,1822" rendition="Line" xml:id="facs_12_tr_3_tl_6"/>
-            <zone points="295,1853 404,1868 643,1853 720,1861 720,1810 295,1812" rendition="Line" xml:id="facs_12_tr_3_tl_7"/>
             <zone points="295,2001 2080,2015 2105,1960 295,1976" rendition="Line" xml:id="facs_12_tr_3_tl_8"/>
          </zone>
          <zone points="298,2093 2182,2093 2182,3222 298,3222" rendition="TextRegion" xml:id="facs_12_tr_2">
@@ -356,11 +333,10 @@
             <zone points="288,2300 2134,2308 2134,2252 288,2257" rendition="Line" xml:id="facs_12_tr_2_tl_2"/>
             <zone points="297,2469 2097,2491 2097,2402 1967,2395 297,2414" rendition="Line" xml:id="facs_12_tr_2_tl_3"/>
             <zone points="285,2610 590,2607 703,2682 2134,2626 2134,2549 285,2564" rendition="Line" xml:id="facs_12_tr_2_tl_4"/>
-            <zone points="283,2682 295,2684 307,2694 333,2687 350,2692 387,2668 401,2670 413,2614 382,2610 343,2614 336,2610 314,2624 297,2622" rendition="Line" xml:id="facs_12_tr_2_tl_5"/>
             <zone points="285,2820 568,2817 609,2786 892,2784 892,2718 865,2706 285,2711" rendition="Line" xml:id="facs_12_tr_2_tl_6"/>
-            <zone points="285,2907 2068,2912 2155,2909 2155,2861 285,2873" rendition="Line" xml:id="facs_12_tr_2_tl_7"/>
+            <zone points="285,2907 2068,2912 2155,2909 2155,2861 285,2873" rendition="Line" xml:id="facs_12_tr_2_tl_7" subtype="paragraph"/>
             <zone points="317,2979 365,2996 399,2991 413,2999 430,2991 454,3006 524,2989 585,2996 585,2938 536,2950 512,2950 493,2933 478,2948 449,2950 404,2950 375,2936 365,2945 317,2945" rendition="Line" xml:id="facs_12_tr_2_tl_8"/>
-            <zone points="290,3069 1964,3069 2177,3061 2177,3008 290,3015" rendition="Line" xml:id="facs_12_tr_2_tl_9"/>
+            <zone points="290,3069 1964,3069 2177,3061 2177,3008 290,3015" rendition="Line" xml:id="facs_12_tr_2_tl_9" subtype="paragraph"/>
             <zone points="285,3216 1914,3221 2119,3211 2119,3158 285,3163" rendition="Line" xml:id="facs_12_tr_2_tl_10"/>
          </zone>
       </surface>
@@ -368,7 +344,6 @@
          <graphic url="part3_p013.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=WMLDMVHCBVBQNKPKSVMAXNMP&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="286,90 2263,90 2263,1383 286,1383" rendition="TextRegion" xml:id="facs_13_tr_2">
-            <zone points="769,164 801,164 809,157 813,164 821,164 833,162 840,154 853,154 860,0 777,0" rendition="Line" xml:id="facs_13_tr_2_tl_1"/>
             <zone points="1090,390 1122,394 1132,404 1215,402 1215,326 1171,326 1152,341 1134,341 1125,350 1090,350" rendition="Line" xml:id="facs_13_tr_2_tl_2"/>
             <zone points="282,541 2247,551 2247,497 2004,468 282,507" rendition="Line" xml:id="facs_13_tr_2_tl_3"/>
             <zone points="284,696 2212,693 2212,637 284,652" rendition="Line" xml:id="facs_13_tr_2_tl_4"/>
@@ -376,18 +351,18 @@
             <zone points="292,997 2097,997 2097,941 292,941" rendition="Line" xml:id="facs_13_tr_2_tl_6"/>
             <zone points="287,1156 2232,1149 2232,1088 287,1125" rendition="Line" xml:id="facs_13_tr_2_tl_7"/>
             <zone points="272,1298 412,1318 642,1303 757,1318 772,1316 772,1252 304,1254 272,1274" rendition="Line" xml:id="facs_13_tr_2_tl_8"/>
-            <zone points="517,1374 2256,1367 2256,1306 517,1318" rendition="Line" xml:id="facs_13_tr_2_tl_9"/>
+            <zone points="517,1374 2256,1367 2256,1306 517,1318" rendition="Line" xml:id="facs_13_tr_2_tl_9" subtype="paragraph"/>
          </zone>
          <zone points="286,1457 2224,1457 2224,3267 286,3267" rendition="TextRegion" xml:id="facs_13_tr_1">
             <zone points="282,1526 1877,1534 2217,1517 2217,1465 282,1499" rendition="Line" xml:id="facs_13_tr_1_tl_1"/>
             <zone points="272,1673 2161,1676 2217,1605 272,1627" rendition="Line" xml:id="facs_13_tr_1_tl_2"/>
             <zone points="279,1825 336,1840 561,1845 696,1830 696,1779 635,1779 615,1762 598,1779 394,1781 377,1798 353,1779 316,1776 279,1798" rendition="Line" xml:id="facs_13_tr_1_tl_3"/>
-            <zone points="517,1904 1085,1955 1159,1899 2210,1894 2210,1828 517,1840" rendition="Line" xml:id="facs_13_tr_1_tl_4"/>
+            <zone points="517,1904 1085,1955 1159,1899 2210,1894 2210,1828 517,1840" rendition="Line" xml:id="facs_13_tr_1_tl_4" subtype="paragraph"/>
             <zone points="282,2060 2058,2053 2190,2046 2190,1989 282,2014" rendition="Line" xml:id="facs_13_tr_1_tl_5"/>
             <zone points="282,2207 2134,2207 2154,2146 282,2161" rendition="Line" xml:id="facs_13_tr_1_tl_6"/>
             <zone points="282,2357 1992,2364 2134,2350 2134,2296 282,2313" rendition="Line" xml:id="facs_13_tr_1_tl_7"/>
             <zone points="279,2511 1485,2519 1801,2501 1803,2452 282,2462" rendition="Line" xml:id="facs_13_tr_1_tl_8"/>
-            <zone points="510,2658 2046,2656 2176,2644 2176,2585 510,2602" rendition="Line" xml:id="facs_13_tr_1_tl_9"/>
+            <zone points="510,2658 2046,2656 2176,2644 2176,2585 510,2602" rendition="Line" xml:id="facs_13_tr_1_tl_9" subtype="paragraph"/>
             <zone points="282,2820 2087,2808 2117,2734 282,2759" rendition="Line" xml:id="facs_13_tr_1_tl_10"/>
             <zone points="272,2957 2119,2957 2119,2893 272,2911" rendition="Line" xml:id="facs_13_tr_1_tl_11"/>
             <zone points="272,3104 2173,3109 2173,3065 272,3080" rendition="Line" xml:id="facs_13_tr_1_tl_12"/>
@@ -402,35 +377,28 @@
             <zone points="278,524 2151,534 2151,402 2037,492 278,484" rendition="Line" xml:id="facs_14_tr_2_tl_2"/>
             <zone points="276,673 2181,686 2181,633 276,646" rendition="Line" xml:id="facs_14_tr_2_tl_3"/>
             <zone points="278,820 494,840 651,825 681,844 703,830 780,837 780,795 745,777 527,775 507,795 487,775 310,775 278,795" rendition="Line" xml:id="facs_14_tr_2_tl_4"/>
-            <zone points="504,902 2158,914 2158,849 504,844" rendition="Line" xml:id="facs_14_tr_2_tl_5"/>
+            <zone points="504,902 2158,914 2158,849 504,844" rendition="Line" xml:id="facs_14_tr_2_tl_5" subtype="paragraph"/>
             <zone points="273,1048 306,1053 323,1068 375,1061 382,1053 447,1070 522,1056 519,1011 445,1013 422,998 343,1006 323,991 273,994" rendition="Line" xml:id="facs_14_tr_2_tl_6"/>
-            <zone points="499,1128 2059,1140 2101,1056 499,1090" rendition="Line" xml:id="facs_14_tr_2_tl_7"/>
+            <zone points="499,1128 2059,1140 2101,1056 499,1090" rendition="Line" xml:id="facs_14_tr_2_tl_7" subtype="paragraph"/>
             <zone points="266,1272 2158,1287 2163,1229 266,1249" rendition="Line" xml:id="facs_14_tr_2_tl_8"/>
             <zone points="268,1431 879,1438 879,1383 268,1381" rendition="Line" xml:id="facs_14_tr_2_tl_9"/>
          </zone>
          <zone points="253,1526 2251,1526 2251,3100 253,3100" rendition="TextRegion" xml:id="facs_14_tr_1">
-            <zone points="266,1577 2119,1597 2119,1528 1761,1552 1719,1510 266,1523" rendition="Line" xml:id="facs_14_tr_1_tl_1"/>
-            <zone points="261,1652 2176,1669 2094,1607 261,1614" rendition="Line" xml:id="facs_14_tr_1_tl_2"/>
+            <zone points="266,1577 2119,1597 2119,1528 1761,1552 1719,1510 266,1523" rendition="Line" xml:id="facs_14_tr_1_tl_1" subtype="paragraph"/>
+            <zone points="261,1652 2176,1669 2094,1607 261,1614" rendition="Line" xml:id="facs_14_tr_1_tl_2" subtype="paragraph"/>
             <zone points="258,1801 2193,1821 2193,1768 1970,1751 258,1778" rendition="Line" xml:id="facs_14_tr_1_tl_3"/>
             <zone points="261,1962 2171,1987 2171,1920 1942,1903 261,1910" rendition="Line" xml:id="facs_14_tr_1_tl_4"/>
             <zone points="251,2101 2178,2116 2131,2052 251,2079" rendition="Line" xml:id="facs_14_tr_1_tl_5"/>
             <zone points="253,2253 1287,2307 2203,2270 2201,2218 2094,2206 251,2213" rendition="Line" xml:id="facs_14_tr_1_tl_6"/>
             <zone points="248,2409 2223,2461 2223,2369 2156,2357 248,2382" rendition="Line" xml:id="facs_14_tr_1_tl_7"/>
             <zone points="251,2563 293,2593 345,2598 407,2576 666,2581 666,2509 251,2509" rendition="Line" xml:id="facs_14_tr_1_tl_8"/>
-            <zone points="251,2633 2248,2648 2248,2581 251,2581" rendition="Line" xml:id="facs_14_tr_1_tl_9"/>
+            <zone points="251,2633 2248,2648 2248,2581 251,2581" rendition="Line" xml:id="facs_14_tr_1_tl_9" subtype="paragraph"/>
             <zone points="243,2784 1870,2804 2228,2792 2228,2722 243,2740" rendition="Line" xml:id="facs_14_tr_1_tl_10"/>
             <zone points="243,2936 1354,2948 1354,2889 243,2891" rendition="Line" xml:id="facs_14_tr_1_tl_11"/>
-            <zone points="238,3082 2124,3102 2066,3035 238,3035" rendition="Line" xml:id="facs_14_tr_1_tl_12"/>
+            <zone points="238,3082 2124,3102 2066,3035 238,3035" rendition="Line" xml:id="facs_14_tr_1_tl_12" subtype="paragraph"/>
          </zone>
          <zone points="32,3198 2068,3198 2068,3491 32,3491" rendition="TextRegion" xml:id="facs_14_tr_3">
             <zone points="231,3251 2064,3333 2062,3231 1051,3269 231,3224" rendition="Line" xml:id="facs_14_tr_3_tl_1"/>
-            <zone points="20,3447 32,3447 52,3462 79,3445 92,3447 102,3440 117,3440 104,3343 57,3343 52,3348 37,3341 7,3343" rendition="Line" xml:id="facs_14_tr_3_tl_2"/>
-            <zone points="956,3457 974,3457 996,3438 1011,3438 1028,3455 1063,3445 1113,3445 1113,3393 954,3388" rendition="Line" xml:id="facs_14_tr_3_tl_3"/>
-            <zone points="554,3462 688,3442 718,3460 748,3438 790,3477 849,3485 884,3447 907,3467 936,3465 936,3413 599,3403 576,3425 554,3425" rendition="Line" xml:id="facs_14_tr_3_tl_4"/>
-            <zone points="348,3487 390,3480 400,3485 450,3445 507,3470 527,3457 541,3465 561,3462 559,3410 536,3413 497,3400 400,3398 345,3413" rendition="Line" xml:id="facs_14_tr_3_tl_5"/>
-            <zone points="171,3485 201,3485 211,3475 224,3485 253,3460 276,3482 306,3485 330,3460 355,3455 355,3380 229,3373 171,3385" rendition="Line" xml:id="facs_14_tr_3_tl_6"/>
-            <zone points="37,3485 62,3487 77,3480 82,3485 102,3482 109,3487 124,3482 142,3485 149,3480 149,3485 174,3485 179,3452 147,3452 129,3462 117,3447 99,3440 89,3450 77,3445 52,3462 40,3462" rendition="Line" xml:id="facs_14_tr_3_tl_7"/>
-            <zone points="432,3485 464,3490 556,3480 581,3487 594,3475 678,3485 678,3445 656,3452 586,3445 574,3452 566,3445 517,3452 504,3445 489,3460 472,3460 452,3442 432,3447" rendition="Line" xml:id="facs_14_tr_3_tl_8"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_15">
@@ -441,9 +409,7 @@
             <zone points="281,535 2158,533 2158,445 2078,405 1894,485 281,492" rendition="Line" xml:id="facs_15_tr_3_tl_2"/>
             <zone points="281,683 2206,688 2239,631 281,636" rendition="Line" xml:id="facs_15_tr_3_tl_3"/>
             <zone points="276,834 2146,837 2148,779 276,804" rendition="Line" xml:id="facs_15_tr_3_tl_4"/>
-            <zone points="726,935 739,935 746,945 766,945 774,952 789,947 879,950 879,894 726,897" rendition="Line" xml:id="facs_15_tr_3_tl_5"/>
             <zone points="824,987 1600,1028 1646,982 2221,982 2221,930 824,965" rendition="Line" xml:id="facs_15_tr_3_tl_6"/>
-            <zone points="279,985 304,997 779,990 779,942 736,937 279,937" rendition="Line" xml:id="facs_15_tr_3_tl_7"/>
             <zone points="276,1123 2055,1133 2073,1075 276,1098" rendition="Line" xml:id="facs_15_tr_3_tl_8"/>
          </zone>
          <zone points="274,1209 2266,1209 2266,2640 274,2640" rendition="TextRegion" xml:id="facs_15_tr_2">
@@ -454,42 +420,24 @@
             <zone points="276,1889 1997,1889 2161,1874 2163,1817 276,1839" rendition="Line" xml:id="facs_15_tr_2_tl_5"/>
             <zone points="266,2028 2131,2033 2163,1975 266,1985" rendition="Line" xml:id="facs_15_tr_2_tl_6"/>
             <zone points="269,2178 1560,2183 1560,2131 269,2153" rendition="Line" xml:id="facs_15_tr_2_tl_7"/>
-            <zone points="487,2332 2118,2357 2121,2271 490,2281" rendition="Line" xml:id="facs_15_tr_2_tl_8"/>
+            <zone points="487,2332 2118,2357 2121,2271 490,2281" rendition="Line" xml:id="facs_15_tr_2_tl_8" subtype="paragraph"/>
             <zone points="269,2490 2193,2523 2193,2425 2128,2417 269,2437" rendition="Line" xml:id="facs_15_tr_2_tl_9"/>
             <zone points="261,2643 352,2693 1090,2693 1198,2631 2058,2633 2080,2573 261,2605" rendition="Line" xml:id="facs_15_tr_2_tl_10"/>
          </zone>
          <zone points="23,2711 2286,2711 2286,3485 23,3485" rendition="TextRegion" xml:id="facs_15_tr_1">
             <zone points="264,2781 2211,2819 2214,2721 264,2739" rendition="Line" xml:id="facs_15_tr_1_tl_1"/>
             <zone points="264,2932 1043,2982 1143,2930 2279,2932 2279,2872 264,2887" rendition="Line" xml:id="facs_15_tr_1_tl_2"/>
-            <zone points="1902,3070 1915,3070 1932,3085 1947,3085 1957,3075 2048,3078 2055,3070 2080,3078 2133,3078 2133,3023 1937,3025 1917,3045 1902,3045" rendition="Line" xml:id="facs_15_tr_1_tl_3"/>
             <zone points="261,3093 1573,3093 1779,3083 1779,3033 261,3040" rendition="Line" xml:id="facs_15_tr_1_tl_4"/>
             <zone points="254,3246 1181,3304 2188,3279 2186,3224 2048,3219 254,3221" rendition="Line" xml:id="facs_15_tr_1_tl_5"/>
-            <zone points="960,3485 982,3482 990,3487 1000,3480 1010,3487 1040,3487 1045,3482 1060,3487 1070,3480 1100,3477 1100,3397 1005,3394 960,3399" rendition="Line" xml:id="facs_15_tr_1_tl_6"/>
-            <zone points="10,3442 38,3452 73,3452 106,3440 201,3442 236,3457 231,3339 8,3339" rendition="Line" xml:id="facs_15_tr_1_tl_7"/>
-            <zone points="291,3460 307,3460 334,3432 372,3452 407,3452 442,3435 495,3472 530,3437 553,3440 555,3387 352,3382 314,3404 291,3404" rendition="Line" xml:id="facs_15_tr_1_tl_8"/>
-            <zone points="666,3477 681,3477 693,3485 709,3485 714,3480 719,3485 766,3485 776,3477 789,3477 789,3397 776,3397 756,3417 736,3399 719,3412 709,3404 693,3417 678,3399 666,3399" rendition="Line" xml:id="facs_15_tr_1_tl_9"/>
-            <zone points="299,3480 319,3475 327,3480 342,3472 359,3485 369,3487 392,3477 384,3445 367,3447 337,3432 324,3435 312,3452 307,3450 291,3455" rendition="Line" xml:id="facs_15_tr_1_tl_10"/>
-            <zone points="28,3485 85,3482 143,3490 181,3482 234,3485 234,3447 214,3450 201,3442 181,3447 156,3440 133,3447 88,3442 65,3452 28,3447" rendition="Line" xml:id="facs_15_tr_1_tl_11"/>
-            <zone points="1093,3485 1108,3485 1128,3467 1146,3470 1156,3460 1178,3457 1178,3394 1093,3394" rendition="Line" xml:id="facs_15_tr_1_tl_12"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_16">
          <graphic url="part3_p016.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=HIJMVRCICFHFXTWIHMMQFPVW&amp;fileType=view" width="2479px" height="3508px"/>
-         <zone points="313,445 2128,445 2128,690 313,690" rendition="TextRegion" xml:id="facs_16_tr_1">
-            <zone points="986,531 1981,513 1981,472 1868,454 987,483" rendition="Line" xml:id="facs_16_tr_1_tl_1"/>
-            <zone points="2011,523 2031,523 2040,514 2087,514 2096,523 2107,519 2125,524 2127,443 2105,443 2080,468 2071,467 2062,475 2038,467 2030,458 2012,460" rendition="Line" xml:id="facs_16_tr_1_tl_2"/>
-            <zone points="315,536 543,523 654,532 656,489 619,478 609,488 543,492 531,479 519,490 499,480 427,493 412,479 380,497 364,480 338,480 317,495" rendition="Line" xml:id="facs_16_tr_1_tl_3"/>
-            <zone points="936,577 1060,577 1060,564 936,564" rendition="Line" xml:id="facs_16_tr_1_tl_4"/>
-            <zone points="631,682 1510,676 1594,668 1595,623 632,642" rendition="Line" xml:id="facs_16_tr_1_tl_5"/>
-            <zone points="307,683 363,678 377,692 400,682 459,679 470,691 581,683 582,641 429,638 419,648 370,647 325,644 308,633" rendition="Line" xml:id="facs_16_tr_1_tl_6"/>
-         </zone>
-         <zone points="202,3392 1043,3392 1043,3488 202,3488" rendition="TextRegion" xml:id="facs_16_tr_2">
-            <zone points="195,3443 218,3452 224,3446 241,3451 252,3441 280,3466 325,3446 342,3460 370,3448 382,3450 379,3365 355,3363 340,3372 293,3372 234,3361 193,3367" rendition="Line" xml:id="facs_16_tr_2_tl_1"/>
-            <zone points="524,3451 542,3452 553,3443 567,3458 577,3458 594,3441 607,3450 636,3456 637,3405 576,3408 568,3403 559,3406 553,3403 526,3410" rendition="Line" xml:id="facs_16_tr_2_tl_2"/>
-            <zone points="957,3442 985,3443 988,3447 997,3443 1000,3446 1004,3442 1027,3465 1040,3467 1039,3425 1026,3423 1012,3411 978,3411 956,3416" rendition="Line" xml:id="facs_16_tr_2_tl_3"/>
-            <zone points="196,3476 208,3475 215,3482 224,3482 230,3476 249,3477 254,3482 265,3482 270,3477 279,3482 302,3482 302,3460 282,3467 264,3451 243,3448 233,3451 218,3442 209,3441 195,3445" rendition="Line" xml:id="facs_16_tr_2_tl_4"/>
-            <zone points="524,3480 566,3482 577,3477 582,3482 609,3482 614,3477 632,3477 631,3451 609,3450 601,3458 586,3457 581,3463 567,3458 553,3446 544,3447 541,3451 523,3452" rendition="Line" xml:id="facs_16_tr_2_tl_5"/>
+         <zone points="253,254 2291,254 2291,765 253,765" rendition="TextRegion" xml:id="facs_16_r">
+            <zone points="1128,388 1272,393 1273,363 1129,358" rendition="Line" xml:id="facs_16_l"/>
+            <zone points="286,550 2147,522 2147,492 285,520" rendition="Line" xml:id="facs_16_l_18"/>
+            <zone points="301,697 1639,679 1638,649 300,667" rendition="Line" xml:id="facs_16_l_25"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_17">
@@ -3190,351 +3138,299 @@
             </ab>
             <pb facs="#facs_5" n="part3_p005.jpg" xml:id="img_0005"/>
             <ab facs="#facs_5_tr_1">
-               <lb facs="#facs_5_tr_1_tl_1" n="N001"/>dʼun autre
-               <lb facs="#facs_5_tr_1_tl_2" n="N002"/>-392-
-               <lb facs="#facs_5_tr_1_tl_3" n="N003"/>encounter it in ourraverage dealing with it as subjects with objects. In this way the religious symbols
-               <lb facs="#facs_5_tr_1_tl_4" n="N004"/>became objects in the world of subject-objectivity. And they became something which lost its
-               <lb facs="#facs_5_tr_1_tl_5" n="N005"/>Coligious power. instead of the Mother of God with a Child, which represents the Pantokrator,
-               <lb facs="#facs_5_tr_1_tl_6" n="N006"/>the Ruler of all—a beautiful human mother-child relationship, etc.— and finally what is lost in religious
-               <lb facs="#facs_5_tr_1_tl_7" n="N007"/>depth is replaced in a sentimental naturalism which we have seen (I hope all of you have seen--with a
-               <lb facs="#facs_5_tr_1_tl_8" n="N008"/>kind of horror.
-               <lb facs="#facs_5_tr_1_tl_9" n="N009"/>This was the result of the falling-down on the level of objectivetion. Now we come
-               <lb facs="#facs_5_tr_1_tl_10" n="N010"/>to the religious symbols in the cognitive realm. We have the samenelopment. They have become
-               <lb facs="#facs_5_tr_1_tl_11" n="N011"/>objects in relationship to which we are subjects: God, a being beside other brings; the Christ, a person
-               <lb facs="#facs_5_tr_1_tl_12" n="N012"/>withselous qualities; the church, a social lub besides others; theology, a description of events
-               <lb facs="#facs_5_tr_1_tl_13" n="N013"/>tempora
-               <lb facs="#facs_5_tr_1_tl_14" n="N014"/>in time and space, which are either supernaturalistically breaking INTO the
-               <lb facs="#facs_5_tr_1_tl_15" n="N015"/>or are simply
-               <lb facs="#facs_5_tr_1_tl_16" n="N016"/>PARTS OF the temporal world. In other words, theVchurches followed the lead of the objectivation
+               <lb facs="#facs_5_tr_1_tl_2" n="N001"/>[392]
+               <lb facs="#facs_5_tr_1_tl_3" n="N002"/>encounter it in our average dealing with it as subjects with objects. In this way the religious symbols
+               <lb facs="#facs_5_tr_1_tl_4" n="N003"/>became objects in the world of subject-objectivity. And they became something which lost its
+               <lb facs="#facs_5_tr_1_tl_5" n="N004"/>religious power. Instead of the Mother of God with a Child, which represents the Pantokrator,
+               <lb facs="#facs_5_tr_1_tl_6" n="N005"/>the Ruler of all--a beautiful human mother-child relationship, etc.--and finally what is lost in religious
+               <lb facs="#facs_5_tr_1_tl_7" n="N006"/>depth is replaced in a sentimental naturalism which we have seen (I hope all of you have seen)--with a
+               <lb facs="#facs_5_tr_1_tl_8" n="N007"/>kind of horror.
+               <lb facs="#facs_5_tr_1_tl_9" n="N008"/>This was the result of the falling-down on the level of objectivation. Now we come
+               <lb facs="#facs_5_tr_1_tl_10" n="N009"/>to the religious symbols in the cognitive realm. We have the same development. They have become
+               <lb facs="#facs_5_tr_1_tl_11" n="N010"/>objects in relationship to which we are subjects: God, a being beside other beings; the Christ, a person
+               <lb facs="#facs_5_tr_1_tl_12" n="N011"/>with miraculous qualities; the church, a social club besides others; theology, a description of events
+               <lb facs="#facs_5_tr_1_tl_14" n="N012"/>in time and space, which are either supernaturalistically breaking INTO the temporal or are simply
+               <lb facs="#facs_5_tr_1_tl_16" n="N013"/>PARTS OF the temporal world. In other words, the churches followed the lead of the objectivation
             </ab>
             <ab facs="#facs_5_tr_2">
                <lb facs="#facs_5_tr_2_tl_1" n="N001"/>process which produced modern society. These who attacked such a religion were not always
-               <lb facs="#facs_5_tr_2_tl_2" n="N002"/>subjectively better than the others—often they were glad to get rid of ultimate which
-               <lb facs="#facs_5_tr_2_tl_3" n="N003"/>determine their lives and which demand conconditional seriousness. But EQUALLY often, they
+               <lb facs="#facs_5_tr_2_tl_2" n="N002"/>subjectively better than the others--often they were glad to get rid of ultimates which
+               <lb facs="#facs_5_tr_2_tl_3" n="N003"/>determine their lives and which demand unconditional seriousness. But EQUALLY often, they
                <lb facs="#facs_5_tr_2_tl_4" n="N004"/>saw that something is wrong with this kind of religion, church and theology, and criticized it.
-               <lb facs="#facs_5_tr_2_tl_5" n="N005"/>And the DEFENDERS were not always wrong. The asherches knew that they defended something
+               <lb facs="#facs_5_tr_2_tl_5" n="N005"/>And the DEFENDERS were not always wrong. The churches knew that they defended something
                <lb facs="#facs_5_tr_2_tl_6" n="N006"/>which is worthwhile being defended, namely a dimension of being which is EXPRESSED in the
-               <lb facs="#facs_5_tr_2_tl_7" n="N007"/>tradition of theVurches—in thought as well as in act. But they were one VRONG because they tried
-               <lb facs="#facs_5_tr_2_tl_8" n="N008"/>to choose the battlefield of their defence—the realm, or better the dimension, in which religion
-               <lb facs="#facs_5_tr_2_tl_9" n="N009"/>uauaadu
+               <lb facs="#facs_5_tr_2_tl_7" n="N007"/>tradition of the churches--in thought as well as in act. But they were WRONG because they tried
+               <lb facs="#facs_5_tr_2_tl_8" n="N008"/>to choose the battlefield of their defense--the realm, or better the dimension, in which religion
             </ab>
             <pb facs="#facs_6" n="part3_p006.jpg" xml:id="img_0006"/>
             <ab facs="#facs_6_tr_2">
-               <lb facs="#facs_6_tr_2_tl_1" n="N001"/>-ß93-
+               <lb facs="#facs_6_tr_2_tl_1" n="N001"/>[393]
                <lb facs="#facs_6_tr_2_tl_2" n="N002"/>cannot be defended at all, namely the dimension of the subject-object structure of reality.
                <lb facs="#facs_6_tr_2_tl_3" n="N003"/>If you defend God as one existing being, you are not only intellectually but also religiously
-               <lb facs="#facs_6_tr_2_tl_4" n="N004"/>INTERIOR to the atheist. And so with all the expressions of the religious dimension: when
+               <lb facs="#facs_6_tr_2_tl_4" n="N004"/>INFERIOR to the atheist. And so with all the expressions of the religious dimension: when
                <lb facs="#facs_6_tr_2_tl_5" n="N005"/>you first bring them down and then try to save them on this level, which is not their level, then
-               <lb facs="#facs_6_tr_2_tl_6" n="N006"/>you do worse than those who want to parish it out of this level completely.
-               <lb facs="#facs_6_tr_2_tl_7" n="N007"/>Now about this we should be very clear, not only with respect to the religious flmbols
-               <lb facs="#facs_6_tr_2_tl_8" n="N008"/>but also with respect to the life of the church. If it is another social lub, protecting social conventions
-               <lb facs="#facs_6_tr_2_tl_9" n="N009"/>&amp;
-               <lb facs="#facs_6_tr_2_tl_10" n="N010"/>especially in groups of the society which areήnclined to support these conventions—then the churches
+               <lb facs="#facs_6_tr_2_tl_6" n="N006"/>you do worse than those who want to push it out of this level completely.
+               <lb facs="#facs_6_tr_2_tl_7" n="N007"/>Now about this we should be very clear, not only with respect to the religious symbols
+               <lb facs="#facs_6_tr_2_tl_8" n="N008"/>but also with respect to the life of the church. If it is another social club, protecting social conventions
+               <lb facs="#facs_6_tr_2_tl_10" n="N009"/>especially in groups of the society which are inclined to support these conventions--then the churches
             </ab>
             <ab facs="#facs_6_tr_1">
-               <lb facs="#facs_6_tr_1_tl_1" n="N001"/>are better abolished or transformed completely into social lubs of a moral character, or actually
-               <lb facs="#facs_6_tr_1_tl_2" n="N002"/>conventional character. But if, on the other hand, you SEE that the church has to say No!
+               <lb facs="#facs_6_tr_1_tl_1" n="N001"/>are better abolished or transformed completely into social clubs of a moral character, or actually
+               <lb facs="#facs_6_tr_1_tl_2" n="N002"/>conventional character. But if, on the other hand, you SEE that the church has to say No!--
                <lb facs="#facs_6_tr_1_tl_3" n="N003"/>not only to say Yes but also and first of all to say No to everything which is in the realm of the
-               <lb facs="#facs_6_tr_1_tl_4" n="N004"/>subject-objectivity-then this world will not tolerate the church but will turn away from it
+               <lb facs="#facs_6_tr_1_tl_4" n="N004"/>subject-objectivity--then this world will not tolerate the church but will turn away from it
                <lb facs="#facs_6_tr_1_tl_5" n="N005"/>and try to push it away.
-               <lb facs="#facs_6_tr_1_tl_6" n="N006"/>Now in this situation, we are. And this is a veryordul situation, and perhaps nobody
-               <lb facs="#facs_6_tr_1_tl_7" n="N007"/>feels this pain more than those who areintionally related to the work of the church. But sometimes
+               <lb facs="#facs_6_tr_1_tl_6" n="N006"/>Now in this situation, we are. And this is a very painful situation, and perhaps nobody
+               <lb facs="#facs_6_tr_1_tl_7" n="N007"/>feels this pain more than those who are vocationally related to the work of the church. But sometimes
                <lb facs="#facs_6_tr_1_tl_8" n="N008"/>there are wise laymen who are not prejudiced by his job and who see the situation even clearer
-               <lb facs="#facs_6_tr_1_tl_9" n="N009"/>than ministers and Priests.
+               <lb facs="#facs_6_tr_1_tl_9" n="N009"/>than ministers and priests.
                <lb facs="#facs_6_tr_1_tl_10" n="N010"/>Religion either has adopted itself to the situation of producing a world above the world,
                <lb facs="#facs_6_tr_1_tl_11" n="N011"/>a world of objects, and adapting man to this world, making him himself an object; or the churches,
                <lb facs="#facs_6_tr_1_tl_12" n="N012"/>did not adapt them but had no weapons of resistance because they resisted on the level which was
-               <lb facs="#facs_6_tr_1_tl_13" n="N013"/>vous avez eu le
             </ab>
             <pb facs="#facs_7" n="part3_p007.jpg" xml:id="img_0007"/>
             <ab facs="#facs_7_tr_1">
-               <lb facs="#facs_7_tr_1_tl_1" n="N001"/>Anhard der Kunst mach T. Brotleme, deutlich!
-               <lb facs="#facs_7_tr_1_tl_2" n="N002"/>-394-
-               <lb facs="#facs_7_tr_1_tl_3" n="N003"/>presheribed by the modern mind and the situation they wanted to deny.
-               <lb facs="#facs_7_tr_1_tl_4" n="N004"/>So we are here in the necessity to make one fundamental statement—l don't want
-               <lb facs="#facs_7_tr_1_tl_5" n="N005"/>to speak about "Religion in the Present Situation of the World" AIALL!"-namely that religion
-               <lb facs="#facs_7_tr_1_tl_6" n="N006"/>comes from one dimension and goes into another, from above to below, from below to above,
-               <lb facs="#facs_7_tr_1_tl_7" n="N007"/>and that IN THIS dimension, it has a Yes and No to theWHOLE of reality, but IS NOT a PART of it!
+               <lb facs="#facs_7_tr_1_tl_2" n="N001"/>[394]
+               <lb facs="#facs_7_tr_1_tl_3" n="N002"/>prescribed by the modern mind and the situation they wanted to deny.
+               <lb facs="#facs_7_tr_1_tl_4" n="N003"/>So we are here in the necessity to make one fundamental statement--l don't want
+               <lb facs="#facs_7_tr_1_tl_5" n="N004"/>to speak about ''Religion in the Present Situation of the World'' AT ALL!--namely that religion
+               <lb facs="#facs_7_tr_1_tl_6" n="N005"/>comes from one dimension and goes into another, from above to below, from below to above,
+               <lb facs="#facs_7_tr_1_tl_7" n="N006"/>and that IN THIS dimension, it has a Yes and No to the WHOLE of reality, but IS NOT a PART of it!
             </ab>
             <ab facs="#facs_7_tr_3">
                <lb facs="#facs_7_tr_3_tl_1" n="N001"/>My whole theological work was directed by early realization of this situation. And the
-               <lb facs="#facs_7_tr_3_tl_2" n="N002"/>situation still prevails—and perhaps in this country a little bit more than in Europe, but in any case,
+               <lb facs="#facs_7_tr_3_tl_2" n="N002"/>situation still prevails--and perhaps in this country a little bit more than in Europe, but in any case,
                <lb facs="#facs_7_tr_3_tl_3" n="N003"/>in the whole Christian world. And so the attempt to liberate religion from the bondage of a level
-               <lb facs="#facs_7_tr_3_tl_4" n="N004"/>of thought and experience to which it does not belong, or only indirectly belugs, is the continuou¬
-               <lb facs="#facs_7_tr_3_tl_5" n="N005"/>ena k of every philosophy of religion.
-               <lb facs="#facs_7_tr_3_tl_6" n="N006"/>How can we fullill this task? It can be fulfilled only with the took which are given to us¬
+               <lb facs="#facs_7_tr_3_tl_4" n="N004"/>of thought and experience to which it does not belong, or only indirectly belongs, is the continuous
+               <lb facs="#facs_7_tr_3_tl_5" n="N005"/>task of every philosophy of religion.
+               <lb facs="#facs_7_tr_3_tl_6" n="N006"/>How can we fulfill this task? It can be fulfilled only with the tools which are given to us--
             </ab>
             <ab facs="#facs_7_tr_2">
-               <lb facs="#facs_7_tr_2_tl_1" n="N001"/>nobody can PRODUCE them. And there are took given to us in the present-day situation, the took
+               <lb facs="#facs_7_tr_2_tl_1" n="N001"/>nobody can PRODUCE them. And there are tools given to us in the present-day situation, the tools
                <lb facs="#facs_7_tr_2_tl_2" n="N002"/>produced by the resistance against the present-day situation.
                <lb facs="#facs_7_tr_2_tl_3" n="N003"/>Let me now talk about the movements of resistance. They are outside of the church,
                <lb facs="#facs_7_tr_2_tl_4" n="N004"/>and partly also inside; outside of theology, and partly inside; but predominantly they come
                <lb facs="#facs_7_tr_2_tl_5" n="N005"/>from a secular world which, so to speak, has broken through the basis on which it was built.
-               <lb facs="#facs_7_tr_2_tl_6" n="N006"/>In our language, in the last ten years, we call this breaking-through-the-carrying-and Iupporting
-               <lb facs="#facs_7_tr_2_tl_7" n="N007"/>foundations, “existentalism.”) But since this word is a clumsy one, and everybody is afraid
-               <lb facs="#facs_7_tr_2_tl_8" n="N008"/>before he even trees to understand what it COUED mean, we might also describe it in other words.
+               <lb facs="#facs_7_tr_2_tl_6" n="N006"/>In our language, in the last ten years, we call this breaking-through-the-carrying-and-supporting
+               <lb facs="#facs_7_tr_2_tl_7" n="N007"/>foundations, ''existentialism.'' But since this word is a clumsy one, and everybody is afraid
+               <lb facs="#facs_7_tr_2_tl_8" n="N008"/>before he even tries to understand what it COULD mean, we might also describe it in other words.
             </ab>
             <pb facs="#facs_8" n="part3_p008.jpg" xml:id="img_0008"/>
             <ab facs="#facs_8_tr_1">
-               <lb facs="#facs_8_tr_1_tl_1" n="N001"/>-395-
-               <lb facs="#facs_8_tr_1_tl_2" n="N002"/>We can simply use the [ennrase] "the experience of brokenness," we can speak of "the expressionistic
-               <lb facs="#facs_8_tr_1_tl_3" n="N003"/>situation" —all these terms mean the same thing. Or we can say "the REGISTING turn of thought
-               <lb facs="#facs_8_tr_1_tl_4" n="N004"/>and experience," "the experience of resistance.” The interesting thing is that this assistance is as
-               <lb facs="#facs_8_tr_1_tl_5" n="N005"/>old as the situation against which it is directed. It 18arts with the 17th century, sometimes even
-               <lb facs="#facs_8_tr_1_tl_6" n="N006"/>the 16th; it goes on through the 18th century as "underground," and it comes to the 19th century
-               <lb facs="#facs_8_tr_1_tl_7" n="N007"/>where it kreaks out in special volcances of themendous power; and it becomes overflooding
+               <lb facs="#facs_8_tr_1_tl_1" n="N001"/>[395]
+               <lb facs="#facs_8_tr_1_tl_2" n="N002"/>We can simply use the [phrase] ''the experience of brokenness,'' we can speak of ''the expressionistic
+               <lb facs="#facs_8_tr_1_tl_3" n="N003"/>situation''--all these terms mean the same thing. Or we can say ''the RESISTING turn of thought
+               <lb facs="#facs_8_tr_1_tl_4" n="N004"/>and experience,'' ''the experience of resistance.'' The interesting thing is that this resistance is as
+               <lb facs="#facs_8_tr_1_tl_5" n="N005"/>old as the situation against which it is directed. It starts with the 17th century, sometimes even
+               <lb facs="#facs_8_tr_1_tl_6" n="N006"/>the 16th; it goes on through the 18th century as ''underground,'' and it comes to the 19th century
+               <lb facs="#facs_8_tr_1_tl_7" n="N007"/>where it breaks out in special volcanoes of tremendous power; and it becomes overflooding
             </ab>
             <ab facs="#facs_8_tr_2">
                <lb facs="#facs_8_tr_2_tl_1" n="N001"/>everything, in the 20th century.
                <lb facs="#facs_8_tr_2_tl_2" n="N002"/>This resistance is also a part of our situation. It has not yet changed the foundations of this
                <lb facs="#facs_8_tr_2_tl_3" n="N003"/>situation, but it has attacked them. Here again I can now refer to those which belong to the second
-               <lb facs="#facs_8_tr_2_tl_4" n="N004"/>and to the fourth group, which I called, with an all-embrading term, style of expression. This
-               <lb facs="#facs_8_tr_2_tl_5" n="N005"/> style of expression belong to the total resistance against the consequences of present-day
-               <lb facs="#facs_8_tr_2_tl_6" n="N006"/>industrial society to make man into an object amongst objects within the dimension of subject¬
-               <lb facs="#facs_8_tr_2_tl_7" n="N007"/>objectirity, within the dimension in which we manage reality.
-               <lb facs="#facs_8_tr_2_tl_8" n="N008"/>Now this resistance has provided the took which it might really be possible to
+               <lb facs="#facs_8_tr_2_tl_4" n="N004"/>and to the fourth group, which I called, with an all-embracing term, style of expression. This
+               <lb facs="#facs_8_tr_2_tl_5" n="N005"/>style of expression belongs to the total resistance against the consequences of present-day
+               <lb facs="#facs_8_tr_2_tl_6" n="N006"/>industrial society to make man into an object amongst objects within the dimension of subject-
+               <lb facs="#facs_8_tr_2_tl_7" n="N007"/>objectivity, within the dimension in which we manage reality.
+               <lb facs="#facs_8_tr_2_tl_8" n="N008"/>Now this resistance has provided the tools which it might really be possible to
             </ab>
             <ab facs="#facs_8_tr_3">
-               <lb facs="#facs_8_tr_3_tl_1" n="N001"/>liberate religion from theselundamental misunderstanding that it is a part of the subject-object
+               <lb facs="#facs_8_tr_3_tl_1" n="N001"/>liberate religion from the fundamental misunderstanding that it is a part of the subject-object
                <lb facs="#facs_8_tr_3_tl_2" n="N002"/>structure of reality. It is not a PART of anything; it is a DIMENSION IN EVERYTHING!
                <lb facs="#facs_8_tr_3_tl_3" n="N003"/>Only if we understand this, do we understand what religion is.
-               <lb facs="#facs_8_tr_3_tl_4" n="N004"/>The movement which I call "the movement of resistance" has shown the human situation
+               <lb facs="#facs_8_tr_3_tl_4" n="N004"/>The movement which I call ''the movement of resistance'' has shown the human situation
                <lb facs="#facs_8_tr_3_tl_5" n="N005"/>in such a way that, so to speak, that which was covered by the process of creating gadgets, means
-               <lb facs="#facs_8_tr_3_tl_6" n="N006"/>-
             </ab>
             <pb facs="#facs_9" n="part3_p009.jpg" xml:id="img_0009"/>
-            <ab facs="#facs_9_tr_3">
-               <lb facs="#facs_9_tr_3_tl_1" n="N001"/>dʼêtre
-               <lb facs="#facs_9_tr_3_tl_2" n="N002"/>-av6-
-            </ab>
             <ab facs="#facs_9_tr_1">
-               <lb facs="#facs_9_tr_1_tl_1" n="N001"/>for ends which are means again, infinitely, which has broken up this situation and shown that
-               <lb facs="#facs_9_tr_1_tl_2" n="N002"/> Sibelow this situation, there is the anxiety of nothingness, the anciety of built, the waiety
-               <lb facs="#facs_9_tr_1_tl_3" n="N003"/>of meaninglessness, the anxiety of death. All this came to the foreground. And in the moment
-               <lb facs="#facs_9_tr_1_tl_4" n="N004"/>in which this happens, the door is open for reinterpretation of religion. And up to this door, only,
-               <lb facs="#facs_9_tr_1_tl_5" n="N005"/>I wanted to lead you in my analysis of the situation, because everything else belong to the realm
-               <lb facs="#facs_9_tr_1_tl_6" n="N006"/>of either theology or church life. But UP to this point, I had to bring you, because we want
-               <lb facs="#facs_9_tr_1_tl_7" n="N007"/>to return to it again and again when we speak about the special levels
-               <lb facs="#facs_9_tr_1_tl_8" n="N008"/>Now this ends, in some way, the analysis of the situation. It may be that, exceptionally
-               <lb facs="#facs_9_tr_1_tl_9" n="N009"/>$
-               <lb facs="#facs_9_tr_1_tl_10" n="N010"/>tyday, you may have some direct questions, because we all are in this situation, and it is not a
+               <lb facs="#facs_9_l" n="N001"/>[396]
+               <lb facs="#facs_9_tr_1_tl_1" n="N002"/>for ends which are means again, infinitely, which has broken up this situation and shown that
+               <lb facs="#facs_9_tr_1_tl_2" n="N003"/>below this situation, there is the anxiety of nothingness, the anxiety of guilt, the anxiety
+               <lb facs="#facs_9_tr_1_tl_3" n="N004"/>of meaninglessness, the anxiety of death. All this came to the foreground. And in the moment
+               <lb facs="#facs_9_tr_1_tl_4" n="N005"/>in which this happens, the door is open for reinterpretation of religion. And up to this door, only,
+               <lb facs="#facs_9_tr_1_tl_5" n="N006"/>I wanted to lead you in my analysis of the situation, because everything else belongs to the realm
+               <lb facs="#facs_9_tr_1_tl_6" n="N007"/>of either theology or church life. But UP to this point, I had to bring you, because we want
+               <lb facs="#facs_9_tr_1_tl_7" n="N008"/>to return to it again and again when we speak about the special levels.
+               <lb facs="#facs_9_tr_1_tl_8" n="N009"/>Now this ends, in some way, the analysis of the situation. It may be that, exceptionally
+               <lb facs="#facs_9_tr_1_tl_10" n="N010"/>today, you may have some direct questions, because we all are in this situation, and it is not a
                <lb facs="#facs_9_tr_1_tl_11" n="N011"/>matter of art or philosophy that some are nearer to it, some are not, but it is a universal situation
             </ab>
             <ab facs="#facs_9_tr_2">
                <lb facs="#facs_9_tr_2_tl_1" n="N001"/>in which EVERYbody finds himself.
-               <lb facs="#facs_9_tr_2_tl_2" n="N002"/>ON: What can we do today to stop these general trends?
-               <lb facs="#facs_9_tr_2_tl_3" n="N003"/>PT: The question was: is there something we can TO about these friends? Now I don't know
+               <lb facs="#facs_9_tr_2_tl_2" n="N002"/>QN: What can we do today to stop these general trends?
+               <lb facs="#facs_9_tr_2_tl_3" n="N003"/>PT: The question was: is there something we can DO about these trends? Now I don't know
                <lb facs="#facs_9_tr_2_tl_4" n="N004"/>whether I told you about a very interesting experience I had 20 years ago when I came to this
-               <lb facs="#facs_9_tr_2_tl_5" n="N005"/>country, and after every lecture,WHATEVER the content was, however far removed from
-               <lb facs="#facs_9_tr_2_tl_6" n="N006"/>reality, the question Rose: "What can we do about it?" I haven't heard thathnintained for
+               <lb facs="#facs_9_tr_2_tl_5" n="N005"/>country, and after every lecture, WHATEVER the content was, however far removed from
+               <lb facs="#facs_9_tr_2_tl_6" n="N006"/>reality, the question arose: ''What can we do about it?'' I haven't heard that maintained for
                <lb facs="#facs_9_tr_2_tl_7" n="N007"/>almost five years. I am very much interested that you ask this question again! Now this question
                <lb facs="#facs_9_tr_2_tl_8" n="N008"/>is of course very much justified in a lecture in which we speak about religion and culture
             </ab>
             <pb facs="#facs_10" n="part3_p010.jpg" xml:id="img_0010"/>
             <ab facs="#facs_10_tr_2">
-               <lb facs="#facs_10_tr_2_tl_1" n="N001"/>ne se
-               <lb facs="#facs_10_tr_2_tl_2" n="N002"/>Monsieur,
-               <lb facs="#facs_10_tr_2_tl_3" n="N003"/>pour la
-               <lb facs="#facs_10_tr_2_tl_4" n="N004"/>Monsieur,
-               <lb facs="#facs_10_tr_2_tl_5" n="N005"/>3.
-               <lb facs="#facs_10_tr_2_tl_6" n="N006"/>because we are in both of them even, if weare in one or the other of them, with a negative sign
-               <lb facs="#facs_10_tr_2_tl_7" n="N007"/>before our being in it. (little daughter) In any case, the question "What to do about the situation?"
-               <lb facs="#facs_10_tr_2_tl_8" n="N008"/>is certainly justified.
-               <lb facs="#facs_10_tr_2_tl_9" n="N009"/>To remain very modest in answers this question, I would say what you can do in an
-               <lb facs="#facs_10_tr_2_tl_10" n="N010"/>ACADEMIC context—and I cannot go beyond this in this moment; perhaps when we come to
-               <lb facs="#facs_10_tr_2_tl_11" n="N011"/>education, politics, etc., which will be the next consideration, I will continually answer you
+               <lb facs="#facs_10_tr_2_tl_5" n="N001"/>[397]
+               <lb facs="#facs_10_tr_2_tl_6" n="N002"/>because we are in both of them even, if we are in one or the other of them, with a negative sign
+               <lb facs="#facs_10_tr_2_tl_7" n="N003"/>before our being in it. <hi style="font-style: italic;">[little daughter]</hi> In any case, the question ''What to do about the situation?''
+               <lb facs="#facs_10_tr_2_tl_8" n="N004"/>is certainly justified.
+               <lb facs="#facs_10_tr_2_tl_9" n="N005"/>To remain very modest in answering this question, I would say what you can do in an
+               <lb facs="#facs_10_tr_2_tl_10" n="N006"/>ACADEMIC context--and I cannot go beyond this in this moment; perhaps when we come to
+               <lb facs="#facs_10_tr_2_tl_11" n="N007"/>education, politics, etc., which will be the next consideration, I will continuously answer you
             </ab>
             <ab facs="#facs_10_tr_1">
-               <lb facs="#facs_10_tr_1_tl_1" n="N001"/>Indirectly. But if I answer it now directly, I can only say: become aware of this situation to a
+               <lb facs="#facs_10_tr_1_tl_1" n="N001"/>INdirectly. But if I answer it now directly, I can only say: become aware of this situation to a
                <lb facs="#facs_10_tr_1_tl_2" n="N002"/>depth in which automatically, so to speak, or spontaneously, resistance powers grew up in you.
                <lb facs="#facs_10_tr_1_tl_3" n="N003"/>And that is actually the only thing I can say here. And I don't want to say more, even if I could,
-               <lb facs="#facs_10_tr_1_tl_4" n="N004"/>because—and this is the danger in your question (and that is why I mentioned this story of myself),
-               <lb facs="#facs_10_tr_1_tl_5" n="N005"/>that before we have analyzed-i.e., experienced, not kanalyzed-- EXPERIANCED the death
+               <lb facs="#facs_10_tr_1_tl_4" n="N004"/>because--and this is the danger in your question (and that is why I mentioned this story of myself),
+               <lb facs="#facs_10_tr_1_tl_5" n="N005"/>that before we have analyzed--i.e., experienced, not analyzed-- EXPERIENCED the depth
                <lb facs="#facs_10_tr_1_tl_6" n="N006"/>of the situation in which we are and look for remedies, then these remedies will be as superficial
-               <lb facs="#facs_10_tr_1_tl_7" n="N007"/>as the experience itself was. If we EXPERIANCE the situation, in its full depth, then it will be
+               <lb facs="#facs_10_tr_1_tl_7" n="N007"/>as the experience itself was. If we EXPERIENCE the situation, in its full depth, then it will be
                <lb facs="#facs_10_tr_1_tl_8" n="N008"/>very hard to find remedies, but then perhaps something happens of which the old medicine often
                <lb facs="#facs_10_tr_1_tl_9" n="N009"/>spoke, namely the healing power which is embodied in nature itself. This is what medicine does
-               <lb facs="#facs_10_tr_1_tl_10" n="N010"/>[has?] in human nature, inungical nature, I can say, if somebody geaches the depth of understanding
+               <lb facs="#facs_10_tr_1_tl_10" n="N010"/>[has?] in human nature, in biological nature. I can say, if somebody reaches the depth of understanding
                <lb facs="#facs_10_tr_1_tl_11" n="N011"/>and of experience, also emotionally, with respect to these things, then he certainly will be able to
                <lb facs="#facs_10_tr_1_tl_12" n="N012"/>develop remedies, forces of healing in himself which will radiate into others. So to this class,
-               <lb facs="#facs_10_tr_1_tl_13" n="N013"/>here and now, in this moment, I would answer your question by saying: EXPERIANCE the things
+               <lb facs="#facs_10_tr_1_tl_13" n="N013"/>here and now, in this moment, I would answer your question by saying: EXPERIENCE the things
             </ab>
             <pb facs="#facs_11" n="part3_p011.jpg" xml:id="img_0011"/>
             <ab facs="#facs_11_tr_1">
-               <lb facs="#facs_11_tr_1_tl_1" n="N001"/>M. de
-               <lb facs="#facs_11_tr_1_tl_2" n="N002"/>-398-
-               <lb facs="#facs_11_tr_1_tl_3" n="N003"/>of which I spoke, and don't do something about them too early, because your remedies then may
-               <lb facs="#facs_11_tr_1_tl_4" n="N004"/>be very fhallow and lead in the long run to deeper Istortions.
-               <lb facs="#facs_11_tr_1_tl_5" n="N005"/>Gesch.
-               <lb facs="#facs_11_tr_1_tl_6" n="N006"/>QN [Owen Thomas] : How do you describe that which transcends the subject-object realm?
-               <lb facs="#facs_11_tr_1_tl_7" n="N007"/>PT: Yes. Now that is of course also a very valid question. It brings us back a little into the
+               <lb facs="#facs_11_tr_1_tl_2" n="N001"/>[398]
+               <lb facs="#facs_11_tr_1_tl_3" n="N002"/>of which I spoke, and don't do something about them too early, because your remedies then may
+               <lb facs="#facs_11_tr_1_tl_4" n="N003"/>be very shallow and lead in the long run to deeper distortions.
+               <lb facs="#facs_11_tr_1_tl_6" n="N004"/>QN [Owen Thomas] : How do you describe that which transcends the subject-object realm?
+               <lb facs="#facs_11_tr_1_tl_7" n="N005"/>PT: Yes. Now that is of course also a very valid question. It brings us back a little into the
             </ab>
             <ab facs="#facs_11_tr_2">
                <lb facs="#facs_11_tr_2_tl_1" n="N001"/>first lectures of the first semester. I would describe it as the dimension of ultimate concern, or
-               <lb facs="#facs_11_tr_2_tl_2" n="N002"/>of the December with the holy. The interesting thing in the encounter with the Holy is that if
-               <lb facs="#facs_11_tr_2_tl_3" n="N003"/>we encounter it, either within in the so-called "sacred" realm or outside of it, wherever that
-               <lb facs="#facs_11_tr_2_tl_4" n="N004"/>may be--in a man, in nature, or everything in which it can be encounterd--that then this holy can
+               <lb facs="#facs_11_tr_2_tl_2" n="N002"/>of the encounter with the holy. The interesting thing in the encounter with the Holy is that if
+               <lb facs="#facs_11_tr_2_tl_3" n="N003"/>we encounter it, either within in the so-called ''sacred'' realm or outside of it, wherever that
+               <lb facs="#facs_11_tr_2_tl_4" n="N004"/>may be--in a man, in nature, or everything in which it can be encountered--that then this holy can
                <lb facs="#facs_11_tr_2_tl_5" n="N005"/>never be transformed into an object which you can handle. Of course you can do even this, and
-               <lb facs="#facs_11_tr_2_tl_6" n="N006"/>often priests do just this—they can transform it into astachanized process which can behandled;
-               <lb facs="#facs_11_tr_2_tl_7" n="N007"/>especially in some theories this is the case. But the holy rends against it. You feel, if you do this,
-               <lb facs="#facs_11_tr_2_tl_8" n="N008"/>that you il. So the encounter with the holy, or with the ultimate, however you want to call it,
+               <lb facs="#facs_11_tr_2_tl_6" n="N006"/>often priests do just this--they can transform it into mechanized process which can be handled;
+               <lb facs="#facs_11_tr_2_tl_7" n="N007"/>especially in some theories this is the case. But the holy reacts against it. You feel, if you do this,
+               <lb facs="#facs_11_tr_2_tl_8" n="N008"/>that you abuse it. So the encounter with the holy, or with the ultimate, however you want to call it,
             </ab>
             <ab facs="#facs_11_tr_3">
-               <lb facs="#facs_11_tr_3_tl_1" n="N001"/>has powers which make the objectivationäscheme impossible. They areiensting powers in themselves.
-               <lb facs="#facs_11_tr_3_tl_2" n="N002"/>In a prayer—I often used that example—God is never object without being at the same time subject.
-               <lb facs="#facs_11_tr_3_tl_3" n="N003"/>G.H.P
-               <lb facs="#facs_11_tr_3_tl_4" n="N004"/> Therefore the ordinary prayer, which is done so easily, is only a symptom of the religious weakness
-               <lb facs="#facs_11_tr_3_tl_5" n="N005"/>of religion being drawn down to the level of objectivation. But any SERIOUS prayer elevates
-               <lb facs="#facs_11_tr_3_tl_6" n="N006"/>you BEYOND the subject-object encounter into that which is ITSELF beyond subject and object,
-               <lb facs="#facs_11_tr_3_tl_7" n="N007"/>namely the holy, the ground of being out of which both come. This experience can be called
+               <lb facs="#facs_11_tr_3_tl_1" n="N001"/>has powers which make the objectivation scheme impossible. They are resisting powers in themselves.
+               <lb facs="#facs_11_tr_3_tl_2" n="N002"/>In a prayer--I often used that example--God is never object without being at the same time subject.
+               <lb facs="#facs_11_tr_3_tl_4" n="N003"/>Therefore the ordinary prayer, which is done so easily, is only a symptom of the religious weakness
+               <lb facs="#facs_11_tr_3_tl_5" n="N004"/>of religion being drawn down to the level of objectivation. But any SERIOUS prayer elevates
+               <lb facs="#facs_11_tr_3_tl_6" n="N005"/>you BEYOND the subject-object encounter into that which is ITSELF beyond subject and object,
+               <lb facs="#facs_11_tr_3_tl_7" n="N006"/>namely the holy, the ground of being out of which both come. This experience can be called
             </ab>
             <pb facs="#facs_12" n="part3_p012.jpg" xml:id="img_0012"/>
             <ab facs="#facs_12_tr_1">
-               <lb facs="#facs_12_tr_1_tl_1" n="N001"/>peuil
-               <lb facs="#facs_12_tr_1_tl_2" n="N002"/>cʼest lʼétat de ses
-               <lb facs="#facs_12_tr_1_tl_3" n="N003"/>-399.
-               <lb facs="#facs_12_tr_1_tl_4" n="N004"/>mystical, but then you must have a lecture of two semesters only in order to remove all the
-               <lb facs="#facs_12_tr_1_tl_5" n="N005"/>nonsense from the connotation of the word "mystical." But what I mean here is just this,
-               <lb facs="#facs_12_tr_1_tl_6" n="N006"/>nothing else but this, nothing irrational, nothing AGAINST reason, but simply the experience of
-               <lb facs="#facs_12_tr_1_tl_7" n="N007"/>the holy which grasps you, anderslates you,, and makes you transcend the subject-object situation.
+               <lb facs="#facs_12_tr_1_tl_3" n="N001"/>[399]
+               <lb facs="#facs_12_tr_1_tl_4" n="N002"/>mystical, but then you must have a lecture of two semesters only in order to remove all the
+               <lb facs="#facs_12_tr_1_tl_5" n="N003"/>nonsense from the connotation of the word ''mystical.'' But what I mean here is just this,
+               <lb facs="#facs_12_tr_1_tl_6" n="N004"/>nothing else but this, nothing irrational, nothing AGAINST reason, but simply the experience of
+               <lb facs="#facs_12_tr_1_tl_7" n="N005"/>the holy which grasps you, and elevates you, and makes you transcend the subject-object situation.
             </ab>
             <ab facs="#facs_12_tr_3">
-               <lb facs="#facs_12_tr_3_tl_1" n="N001"/>QN: What would be the difference between what you say—" encounter with the holy"—and what
-               <lb facs="#facs_12_tr_3_tl_2" n="N002"/>Buber says: “encounter with the eternal Thou”? What you say is the subject-object world and
-               <lb facs="#facs_12_tr_3_tl_3" n="N003"/>what he calls the world of "it"
-               <lb facs="#facs_12_tr_3_tl_4" n="N004"/>PT: What he calls "it," I call the realm of objects. Now his ego-Thou is different from my own
-               <lb facs="#facs_12_tr_3_tl_5" n="N005"/>encounter
-               <lb facs="#facs_12_tr_3_tl_6" n="N006"/>with the holy insofar as I believe the more adequate this ego-Thou
-               <lb facs="#facs_12_tr_3_tl_7" n="N007"/>interpretation of the
-               <lb facs="#facs_12_tr_3_tl_8" n="N008"/>encounter with God is, the more the separation of ego and thou is overcome by God acting
+               <lb facs="#facs_12_tr_3_tl_1" n="N001"/>QN: What would be the difference between what you say--''encounter with the holy''--and what
+               <lb facs="#facs_12_tr_3_tl_2" n="N002"/>Buber says: ''encounter with the eternal Thou''? What you say is the subject-object world and
+               <lb facs="#facs_12_tr_3_tl_3" n="N003"/>what he calls the world of ''it''
+               <lb facs="#facs_12_tr_3_tl_4" n="N004"/>PT: What he calls ''it,'' I call the realm of objects. Now his ego-Thou is different from my own
+               <lb facs="#facs_12_tr_3_tl_6" n="N005"/>interpretation of the encounter with the holy insofar as I believe the more adequate this ego-Thou
+               <lb facs="#facs_12_tr_3_tl_8" n="N006"/>encounter with God is, the more the separation of ego and Thou is overcome by God acting
             </ab>
             <ab facs="#facs_12_tr_2">
-               <lb facs="#facs_12_tr_2_tl_1" n="N001"/>[N us, in His [his?] encounter with himself [Himself?], so that, so to speak, there are not
+               <lb facs="#facs_12_tr_2_tl_1" n="N001"/>IN us, in His [his?] encounter with himself [Himself?], so that, so to speak, there are not
                <lb facs="#facs_12_tr_2_tl_2" n="N002"/>two individuals separated by different bodies, or by space or anything like that, but there is a
-               <lb facs="#facs_12_tr_2_tl_3" n="N003"/>power grasping us which has both personal and supra-personal character. And if for "supra¬
-               <lb facs="#facs_12_tr_2_tl_4" n="N004"/>personal" you say "mystical," then this is another way of speaking about the mystic, but it is
-               <lb facs="#facs_12_tr_2_tl_5" n="N005"/>de
-               <lb facs="#facs_12_tr_2_tl_6" n="N006"/>by no means the anti-rational.
-               <lb facs="#facs_12_tr_2_tl_7" n="N007"/>QN: Do you think that ours is the first period of history in which such great objectivetion has
-               <lb facs="#facs_12_tr_2_tl_8" n="N008"/>taken place?
-               <lb facs="#facs_12_tr_2_tl_9" n="N009"/>PT: This is a very Bey justified question, whether our period is the first in which such objectivation
-               <lb facs="#facs_12_tr_2_tl_10" n="N010"/>has taken place. I have learned about the whole thing only by studying the history of Greek
+               <lb facs="#facs_12_tr_2_tl_3" n="N003"/>power grasping us which has both personal and supra-personal character. And if for ''supra-
+               <lb facs="#facs_12_tr_2_tl_4" n="N004"/>personal'' you say ''mystical,'' then this is another way of speaking about the mystic, but it is
+               <lb facs="#facs_12_tr_2_tl_6" n="N005"/>by no means the anti-rational.
+               <lb facs="#facs_12_tr_2_tl_7" n="N006"/>QN: Do you think that ours is the first period of history in which such great objectivation has
+               <lb facs="#facs_12_tr_2_tl_8" n="N007"/>taken place?
+               <lb facs="#facs_12_tr_2_tl_9" n="N008"/>PT: This is a very justified question, whether our period is the first in which such objectivation
+               <lb facs="#facs_12_tr_2_tl_10" n="N009"/>has taken place. I have learned about the whole thing only by studying the history of Greek
             </ab>
             <pb facs="#facs_13" n="part3_p013.jpg" xml:id="img_0013"/>
             <ab facs="#facs_13_tr_2">
-               <lb facs="#facs_13_tr_2_tl_1" n="N001"/>de
-               <lb facs="#facs_13_tr_2_tl_2" n="N002"/>400.
-               <lb facs="#facs_13_tr_2_tl_3" n="N003"/>thought. You remember I showed you some archaic gods and goddesses in which the divine power,
-               <lb facs="#facs_13_tr_2_tl_4" n="N004"/>in the mystical smile which looks not as an object in time and space but as as an "I" which looks at
-               <lb facs="#facs_13_tr_2_tl_5" n="N005"/>"you, "encounters you, at the end of the temple; you must GO to it, you cannot go around it.
-               <lb facs="#facs_13_tr_2_tl_6" n="N006"/>You must kneel down before these gods and goddesses, because they represent the presence
-               <lb facs="#facs_13_tr_2_tl_7" n="N007"/>of ultimate reality; and that was the reason for their religious power over the minds of the people,
-               <lb facs="#facs_13_tr_2_tl_8" n="N008"/>if they took itussously.
-               <lb facs="#facs_13_tr_2_tl_9" n="N009"/>Then came the classical period, which is analogous to what I said about Giotto and some
+               <lb facs="#facs_13_tr_2_tl_2" n="N001"/>[400]
+               <lb facs="#facs_13_tr_2_tl_3" n="N002"/>thought. You remember I showed you some archaic gods and goddesses in which the divine power,
+               <lb facs="#facs_13_tr_2_tl_4" n="N003"/>in the mystical smile which looks not as an object in time and space but an ''I'' which looks at
+               <lb facs="#facs_13_tr_2_tl_5" n="N004"/>''you,'' encounters you, at the end of the temple; you must GO to it, you cannot go around it.
+               <lb facs="#facs_13_tr_2_tl_6" n="N005"/>You must kneel down before these gods and goddesses, because they represent the presence
+               <lb facs="#facs_13_tr_2_tl_7" n="N006"/>of ultimate reality; and that was the reason for their religious power over the minds of the people,
+               <lb facs="#facs_13_tr_2_tl_8" n="N007"/>if they took it seriously.
+               <lb facs="#facs_13_tr_2_tl_9" n="N008"/>Then came the classical period, which is analogous to what I said about Giotto and some
             </ab>
             <ab facs="#facs_13_tr_1">
                <lb facs="#facs_13_tr_1_tl_1" n="N001"/>early Renaissance people, in which the substance was still present but was already reduced into an
-               <lb facs="#facs_13_tr_1_tl_2" n="N002"/>idealized human figure around which you can go. But still some of the divine Majesty was left, in
+               <lb facs="#facs_13_tr_1_tl_2" n="N002"/>idealized human figure around which you can go. But still some of the divine majesty was left, in
                <lb facs="#facs_13_tr_1_tl_3" n="N003"/>the classical period.
                <lb facs="#facs_13_tr_1_tl_4" n="N004"/>Then came the naturalistic period, in which wonderfully naturalistic movements were
                <lb facs="#facs_13_tr_1_tl_5" n="N005"/>given to the human bodies, even to those of the gods. But they were in no way divine any more.
-               <lb facs="#facs_13_tr_1_tl_6" n="N006"/>Aphrodite was a beautiful woman, and Apollo a beautiful lad—that's all. And you could enjoy
-               <lb facs="#facs_13_tr_1_tl_7" n="N007"/>their movements, their temsions, their beauty, you could study Gymnastics from them /little
-               <lb facs="#facs_13_tr_1_tl_8" n="N008"/> daughter), but you couldn’t do that from the goddesses and gods of the past.
-               <lb facs="#facs_13_tr_1_tl_9" n="N009"/>So we have a similar thing in the Greek sevelopment, and it is very interesting to see
-               <lb facs="#facs_13_tr_1_tl_10" n="N010"/>how in the religious period which Marts about 100 years before Christ and goes on for about
-               <lb facs="#facs_13_tr_1_tl_11" n="N011"/>500 years, not only in Christianity, in the paintings of the cave, but also in the pagan world,
-               <lb facs="#facs_13_tr_1_tl_12" n="N012"/>on theNaziures of the sarcophagi, [where] you find a return to the non-naturalistic archaism,
-               <lb facs="#facs_13_tr_1_tl_13" n="N013"/>archaic style, which now, since it is a repetition, could be called archaistic in contrast to archaic¬
+               <lb facs="#facs_13_tr_1_tl_6" n="N006"/>Aphrodite was a beautiful woman, and Apollo a beautiful lad--that's all. And you could enjoy
+               <lb facs="#facs_13_tr_1_tl_7" n="N007"/>their movements, their tensions, their beauty, you could study gymnastics from them <hi style="font-style: italic;">[little</hi>
+               <lb facs="#facs_13_tr_1_tl_8" n="N008"/><hi style="font-style: italic;">laughter]</hi>, but you couldn’t do that from the goddesses and gods of the past.
+               <lb facs="#facs_13_tr_1_tl_9" n="N009"/>So we have a similar thing in the Greek development, and it is very interesting to see
+               <lb facs="#facs_13_tr_1_tl_10" n="N010"/>how in the religious period which starts about 100 years before Christ and goes on for about
+               <lb facs="#facs_13_tr_1_tl_11" n="N011"/>500 years, not only in Christianity, in the paintings of the caves, but also in the pagan world,
+               <lb facs="#facs_13_tr_1_tl_12" n="N012"/>on the sculptures of the sarcophagi, [where] you find a return to the non-naturalistic archaism,
+               <lb facs="#facs_13_tr_1_tl_13" n="N013"/>archaic style, which now, since it is a repetition, could be called archaistic in contrast to archaic
             </ab>
             <pb facs="#facs_14" n="part3_p014.jpg" xml:id="img_0014"/>
             <ab facs="#facs_14_tr_2">
-               <lb facs="#facs_14_tr_2_tl_1" n="N001"/>-w01-
+               <lb facs="#facs_14_tr_2_tl_1" n="N001"/>[401]
                <lb facs="#facs_14_tr_2_tl_2" n="N002"/>it is not originally archaic any more, but it is archaistic, it is a return. And this return gives the
-               <lb facs="#facs_14_tr_2_tl_3" n="N003"/>ennigions power back to these figures. They become mostly two-dimensional, i.e., they are taken
+               <lb facs="#facs_14_tr_2_tl_3" n="N003"/>religious power back to these figures. They become mostly two-dimensional, i.e., they are taken
                <lb facs="#facs_14_tr_2_tl_4" n="N004"/>out of the natural space.
-               <lb facs="#facs_14_tr_2_tl_5" n="N005"/>Now then from there the new real archaic period of the Byzamine and early Middle
+               <lb facs="#facs_14_tr_2_tl_5" n="N005"/>Now then from there the new real archaic period of the Byzantine and early Middle
                <lb facs="#facs_14_tr_2_tl_6" n="N006"/>ages began.
                <lb facs="#facs_14_tr_2_tl_7" n="N007"/>And it might be that our expressionistic art in the large sense of the word, which
                <lb facs="#facs_14_tr_2_tl_8" n="N008"/>now is lasting for 50 years, will be an analogy with the return of the archaic in the archaistic
                <lb facs="#facs_14_tr_2_tl_9" n="N009"/>art of the later ancient period.
             </ab>
             <ab facs="#facs_14_tr_1">
-               <lb facs="#facs_14_tr_1_tl_1" n="N001"/>QN: I wonder if you could say something about what these volcances were, more specifically.
-               <lb facs="#facs_14_tr_1_tl_2" n="N002"/>PT: 1 didn’t want to name them because I have written so often about them. You can read them
-               <lb facs="#facs_14_tr_1_tl_3" n="N003"/>in The courage to Be, I meant the great existentialists of the 19th century. I meant Kierkegaard
+               <lb facs="#facs_14_tr_1_tl_1" n="N001"/>QN: I wonder if you could say something about what these volcanoes were, more specifically.
+               <lb facs="#facs_14_tr_1_tl_2" n="N002"/>PT: I didn’t want to name them because I have written so often about them. You can read them
+               <lb facs="#facs_14_tr_1_tl_3" n="N003"/>in <hi style="font-style: italic;">The Courage to Be</hi>, I meant the great existentialists of the 19th century. I meant Kierkegaard
                <lb facs="#facs_14_tr_1_tl_4" n="N004"/>in the religious realm, Marx in the social realm, Nietzsche in the realm of the vital, Schopenhauer
-               <lb facs="#facs_14_tr_1_tl_5" n="N005"/>before him. Then toward the end of the century, Cézanne and Van Gogh in lpainting; people like
+               <lb facs="#facs_14_tr_1_tl_5" n="N005"/>before him. Then toward the end of the century, Cézanne and Van Gogh in painting; people like
                <lb facs="#facs_14_tr_1_tl_6" n="N006"/>Rimbaud and Beaudelaire in poetry; people like Strindberg and, before him, Dostoievsky in drama
                <lb facs="#facs_14_tr_1_tl_7" n="N007"/>and novel. These are volcanoes in the 19th century. And they were the father of all existentialism
                <lb facs="#facs_14_tr_1_tl_8" n="N008"/>in the 20th century.
                <lb facs="#facs_14_tr_1_tl_9" n="N009"/>QN: You mentioned that the foundations of the present structure were still intact, although blooded
                <lb facs="#facs_14_tr_1_tl_10" n="N010"/>by the existentialist attack. How do you account for the fact that they are so fully intact after such
-               <lb facs="#facs_14_tr_1_tl_11" n="N011"/>a themendous onslaught of the first half of the century?
+               <lb facs="#facs_14_tr_1_tl_11" n="N011"/>a tremendous onslaught of the first half of the century?
                <lb facs="#facs_14_tr_1_tl_12" n="N012"/>PT: You mean the foundations of the objectifying structure? This is a very interesting question
             </ab>
             <ab facs="#facs_14_tr_3">
                <lb facs="#facs_14_tr_3_tl_1" n="N001"/>and is really a part of my autobiography, namely in the early twenties immediately after the
-               <lb facs="#facs_14_tr_3_tl_2" n="N002"/>en lisant
-               <lb facs="#facs_14_tr_3_tl_3" n="N003"/>ou vous avez eu le
-               <lb facs="#facs_14_tr_3_tl_4" n="N004"/>dʼune manière beaucoup de nouveau
-               <lb facs="#facs_14_tr_3_tl_5" n="N005"/>dʼune manière beaucoup
-               <lb facs="#facs_14_tr_3_tl_6" n="N006"/>dʼune manière
-               <lb facs="#facs_14_tr_3_tl_7" n="N007"/>dʼadresse à
-               <lb facs="#facs_14_tr_3_tl_8" n="N008"/>dʼauteur dʼune manière
             </ab>
             <pb facs="#facs_15" n="part3_p015.jpg" xml:id="img_0015"/>
             <ab facs="#facs_15_tr_3">
-               <lb facs="#facs_15_tr_3_tl_1" n="N001"/>4o—
-               <lb facs="#facs_15_tr_3_tl_2" n="N002"/>First World War we believed, in Europe, that now the kziros, the right time, has arrived for the
-               <lb facs="#facs_15_tr_3_tl_3" n="N003"/> breaking of the eternal into the temporal—I will speak about this whole thing when we come to the
-               <lb facs="#facs_15_tr_3_tl_4" n="N004"/>social and economic realm—but it was only a break through the Iouds, and theilouds became
-               <lb facs="#facs_15_tr_3_tl_5" n="N005"/>toward
-               <lb facs="#facs_15_tr_3_tl_6" n="N006"/>the end of the twenties, before Hitler came, I often anticipated the
-               <lb facs="#facs_15_tr_3_tl_7" n="N007"/>thicker and thicker, and
-               <lb facs="#facs_15_tr_3_tl_8" n="N008"/>total jaestruction of Germany—as it then happened, actually, on the basis of the réactionary
+               <lb facs="#facs_15_tr_3_tl_1" n="N001"/>[402]
+               <lb facs="#facs_15_tr_3_tl_2" n="N002"/>First World War we believed, in Europe, that now the <hi style="font-style: italic;">kairos</hi>, the right time, has arrived for the
+               <lb facs="#facs_15_tr_3_tl_3" n="N003"/>breaking of the eternal into the temporal--I will speak about this whole thing when we come to the
+               <lb facs="#facs_15_tr_3_tl_4" n="N004"/>social and economic realm--but it was only a break through the clouds, and the clouds became
+               <lb facs="#facs_15_tr_3_tl_6" n="N005"/>thicker and thicker, and toward the end of the twenties, before Hitler came, I often anticipated the
+               <lb facs="#facs_15_tr_3_tl_8" n="N006"/>total destruction of Germany--as it then happened, actually, on the basis of the reactionary
             </ab>
             <ab facs="#facs_15_tr_2">
-               <lb facs="#facs_15_tr_2_tl_1" n="N001"/>power which destroyed the possibility of the breaking in of the new at that time. Then it happened
-               <lb facs="#facs_15_tr_2_tl_2" n="N002"/>that the movement of the two volcanoes (to repeat my symbol) of the 19th century—which were
+               <lb facs="#facs_15_tr_2_tl_1" n="N001"/>powers which destroyed the possibility of the breaking in of the new at that time. Then it happened
+               <lb facs="#facs_15_tr_2_tl_2" n="N002"/>that the movement of the two volcanoes (to repeat my symbol) of the 19th century--which were
                <lb facs="#facs_15_tr_2_tl_3" n="N003"/>probably most volcanic of all--namely Marx and Nietzsche, produced systems in the 20th century
                <lb facs="#facs_15_tr_2_tl_4" n="N004"/>which were just the opposite of that for which they were fighting. Nietzsche, although not directly
-               <lb facs="#facs_15_tr_2_tl_5" n="N005"/>responsible, has lNdirectly helped to give to Naxism and Fascism ideological foundations. And
+               <lb facs="#facs_15_tr_2_tl_5" n="N005"/>responsible, has INdirectly helped to give to Nazism and Fascism ideological foundations. And
                <lb facs="#facs_15_tr_2_tl_6" n="N006"/>Marx, although not directly responsible either, has helped, very much helped, to give rise to the
                <lb facs="#facs_15_tr_2_tl_7" n="N007"/>dehumanizing system which we today call the Communistic East.
-               <lb facs="#facs_15_tr_2_tl_8" n="N008"/>Now these bevelopments are amongst the most tragic things because both of these
-               <lb facs="#facs_15_tr_2_tl_9" n="N009"/>men tried to liberate the human mind-and indirectly religion-from the bondage of objectivation
+               <lb facs="#facs_15_tr_2_tl_8" n="N008"/>Now these developments are amongst the most tragic things because both of these
+               <lb facs="#facs_15_tr_2_tl_9" n="N009"/>men tried to liberate the human mind--and indirectly religion--from the bondage of objectivation
                <lb facs="#facs_15_tr_2_tl_10" n="N010"/>and dehumanization, and mechanization. And what they created, in the dialectics of world
             </ab>
             <ab facs="#facs_15_tr_1">
-               <lb facs="#facs_15_tr_1_tl_1" n="N001"/>iistory, was almost 100% the opposite: they produced the most dehumanizing systeme AGAINST
-               <lb facs="#facs_15_tr_1_tl_2" n="N002"/>their will, by the tragic of world history. This is a partial answer. today we are in the same situation,
-               <lb facs="#facs_15_tr_1_tl_3" n="N003"/>which was
-               <lb facs="#facs_15_tr_1_tl_4" n="N004"/>and we don’t know whether the same development will take place, that that
-               <lb facs="#facs_15_tr_1_tl_5" n="N005"/>thought as an onslaught against the structure of industrial society, will be used finally by the lead
-               <lb facs="#facs_15_tr_1_tl_6" n="N006"/>dʼune manière
-               <lb facs="#facs_15_tr_1_tl_7" n="N007"/>cʼest avec vous
-               <lb facs="#facs_15_tr_1_tl_8" n="N008"/>dans cette général, que je mʼai
-               <lb facs="#facs_15_tr_1_tl_9" n="N009"/>dʼun autre
-               <lb facs="#facs_15_tr_1_tl_10" n="N010"/>dʼune
-               <lb facs="#facs_15_tr_1_tl_11" n="N011"/>dʼune manière beaucoup
-               <lb facs="#facs_15_tr_1_tl_12" n="N012"/>Monsieur
+               <lb facs="#facs_15_tr_1_tl_1" n="N001"/>history, was almost 100% the opposite: they produced the most dehumanizing systems AGAINST
+               <lb facs="#facs_15_tr_1_tl_2" n="N002"/>their will, by the tragic of world history. This is a partial answer. Today we are in the same situation,
+               <lb facs="#facs_15_tr_1_tl_4" n="N003"/>and we don’t know whether the same development will take place, that that which was
+               <lb facs="#facs_15_tr_1_tl_5" n="N004"/>thought as an onslaught against the structure of industrial society, will be used finally by the leaders
             </ab>
             <pb facs="#facs_16" n="part3_p016.jpg" xml:id="img_0016"/>
-            <ab facs="#facs_16_tr_1">
-               <lb facs="#facs_16_tr_1_tl_1" n="N001"/>sses unconsciously, as a too! to preserve it. This is
-               <lb facs="#facs_16_tr_1_tl_2" n="N002"/>[ task]
-               <lb facs="#facs_16_tr_1_tl_3" n="N003"/>of industrial societ
-               <lb facs="#facs_16_tr_1_tl_4" n="N004"/>(V.3.) og Kosten.
-               <lb facs="#facs_16_tr_1_tl_5" n="N005"/>On. Our generation failed. Perhaps yours will not
-               <lb facs="#facs_16_tr_1_tl_6" n="N006"/>for your gener.
-            </ab>
-            <ab facs="#facs_16_tr_2">
-               <lb facs="#facs_16_tr_2_tl_1" n="N001"/>mais je nʼai
-               <lb facs="#facs_16_tr_2_tl_2" n="N002"/>de lʼhonneur, et
-               <lb facs="#facs_16_tr_2_tl_3" n="N003"/>cʼest en
-               <lb facs="#facs_16_tr_2_tl_4" n="N004"/>dans une lettre
-               <lb facs="#facs_16_tr_2_tl_5" n="N005"/>Vous avez
+            <ab facs="#facs_16_r">
+               <lb facs="#facs_16_l" n="N001"/>[403]
+               <lb facs="#facs_16_l_18" n="N002"/>of industrial society, and by the masses unconsciously, as a tool to preserve it. This is a [task] 
+               <lb facs="#facs_16_l_25" n="N003"/>for your generation. Our generation failed. Perhaps yours will not.
             </ab>
             <pb facs="#facs_17" n="part3_p017.jpg" xml:id="img_0017"/>
             <ab facs="#facs_17_tr_3">

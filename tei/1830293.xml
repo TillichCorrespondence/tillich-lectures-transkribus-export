@@ -12,7 +12,7 @@
    <facsimile>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
          <graphic url="part2_p001.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=JDUPNIBOIVVVIGSLZSDVIUIO&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=JDUPNIBOIVVVIGSLZSDVIUIO&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="235,290 2179,290 2356,3397 149,3445" rendition="TextRegion" xml:id="facs_1_tr_3">
             <zone points="1034,341 1067,357 1126,359 1167,341 1195,367 1213,357 1249,357 1244,249 1203,264 1162,310 1147,310 1118,287 1075,285 1044,313 1031,313" rendition="Line" xml:id="facs_1_tr_3_tl_1"/>
             <zone points="580,539 1457,526 1501,508 1503,454 1413,480 1329,457 1298,487 1257,454 1157,487 1106,457 1054,487 1029,459 944,462 846,498 800,464 685,503 659,475 616,500 582,477" rendition="Line" xml:id="facs_1_tr_3_tl_2" subtype="heading"/>
@@ -58,7 +58,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
          <graphic url="part2_p002.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=QQEZEKDNHGWVPKFDILCPQNMR&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=QQEZEKDNHGWVPKFDILCPQNMR&amp;amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="188,245 1865,245 1865,783 188,783" rendition="TextRegion" xml:id="facs_2_tr_2">
             <zone points="989,295 1002,295 1020,308 1035,311 1110,311 1107,254 1071,254 1066,259 1053,254 1038,254 1033,259 1025,254 1012,267 989,267" rendition="Line" xml:id="facs_2_tr_2_tl_1"/>
             <zone points="175,452 1731,437 1734,357 175,393" rendition="Line" xml:id="facs_2_tr_2_tl_2"/>
@@ -187,7 +187,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_5">
          <graphic url="part2_p005.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=WZFUVUEBLPQWRJVDLUUPZELJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WZFUVUEBLPQWRJVDLUUPZELJ&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="208,284 2224,284 2224,1281 208,1281" rendition="TextRegion" xml:id="facs_5_tr_3">
             <zone points="1011,334 1025,336 1043,349 1080,352 1112,352 1128,344 1141,344 1144,291 1107,291 1101,286 1083,289 1072,281 1051,299 1014,297" rendition="Line" xml:id="facs_5_tr_3_tl_1"/>
             <zone points="193,530 2107,474 2110,397 196,482" rendition="Line" xml:id="facs_5_tr_3_tl_2"/>
@@ -217,7 +217,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_6">
          <graphic url="part2_p006.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=GRSHSUGJYFJPIGDBTRGFDQIE&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=GRSHSUGJYFJPIGDBTRGFDQIE&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="35,45 2152,45 2152,819 35,819" rendition="TextRegion" xml:id="facs_6_tr_3">
             <zone points="1073,330 1086,330 1106,348 1199,346 1196,284 1135,287 1119,274 1106,287 1071,287" rendition="Line" xml:id="facs_6_tr_3_tl_2"/>
             <zone points="182,548 2128,479 2128,425 389,466 325,417 182,479" rendition="Line" xml:id="facs_6_tr_3_tl_4"/>
@@ -301,7 +301,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_9">
          <graphic url="part2_p009.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=PWQOPROCCSJMAJWMHXMTUDVM&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=PWQOPROCCSJMAJWMHXMTUDVM&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="173,278 2286,278 2286,2159 173,2159" rendition="TextRegion" xml:id="facs_9_tr_1">
             <zone points="1028,337 1041,340 1052,351 1111,351 1132,340 1145,340 1148,284 1116,281 1108,289 1100,289 1084,273 1068,289 1030,286" rendition="Line" xml:id="facs_9_tr_1_tl_1"/>
             <zone points="383,490 2162,490 2162,444 1999,412 942,455 383,412" rendition="Line" xml:id="facs_9_tr_1_tl_2" subtype="paragraph"/>
@@ -358,7 +358,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_11">
          <graphic url="part2_p011.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=ZDOBVBEHGNVMKBAQGLPBNZWL&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZDOBVBEHGNVMKBAQGLPBNZWL&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="191,248 2277,248 2277,1001 191,1001" rendition="TextRegion" xml:id="facs_11_tr_3">
             <zone points="1033,302 1046,302 1061,317 1080,312 1095,320 1100,315 1134,317 1147,307 1160,307 1163,247 1147,247 1121,263 1108,263 1090,242 1064,265 1033,265" rendition="Line" xml:id="facs_11_tr_3_tl_1"/>
             <zone points="190,468 2203,460 2271,408 190,427" rendition="Line" xml:id="facs_11_tr_3_tl_2"/>
@@ -492,7 +492,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_16">
          <graphic url="part2_p016.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=GZFDDWOUQBJYSGZMTTQNAYBZ&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=GZFDDWOUQBJYSGZMTTQNAYBZ&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="220,281 2298,281 2298,1111 220,1111" rendition="TextRegion" xml:id="facs_16_tr_3">
             <zone points="1063,336 1082,336 1090,347 1137,347 1145,352 1183,350 1183,295 1150,295 1139,284 1129,292 1101,295 1063,292" rendition="Line" xml:id="facs_16_tr_3_tl_1"/>
             <zone points="208,486 2249,503 2249,432 2085,426 208,440" rendition="Line" xml:id="facs_16_tr_3_tl_2"/>
@@ -521,7 +521,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_17">
          <graphic url="part2_p017.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=NLUDIWPDGQHPCSZOFHVYQXPO&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=NLUDIWPDGQHPCSZOFHVYQXPO&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="271,272 2286,272 2286,1246 271,1246" rendition="TextRegion" xml:id="facs_17_tr_2">
             <zone points="1147,331 1163,331 1173,341 1242,341 1250,333 1268,336 1273,268 1260,265 1218,276 1213,268 1205,270 1200,265 1163,297 1150,297" rendition="Line" xml:id="facs_17_tr_2_tl_1"/>
             <zone points="270,480 2210,501 2210,444 2118,420 270,420" rendition="Line" xml:id="facs_17_tr_2_tl_2"/>
@@ -548,7 +548,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_18">
          <graphic url="part2_p018.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=YJQWHFSJUJEDZVQLCSKBXOPL&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=YJQWHFSJUJEDZVQLCSKBXOPL&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="244,290 2322,290 2322,1422 244,1422" rendition="TextRegion" xml:id="facs_18_tr_2">
             <zone points="1114,347 1132,347 1140,355 1163,355 1176,360 1210,355 1231,358 1233,306 1215,306 1200,290 1184,298 1174,288 1153,306 1148,301 1140,306 1117,306" rendition="Line" xml:id="facs_18_tr_2_tl_1"/>
             <zone points="244,508 2122,503 2205,451 244,472" rendition="Line" xml:id="facs_18_tr_2_tl_2"/>
@@ -575,7 +575,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_19">
          <graphic url="part2_p019.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=UUCDQVNVADVWASYKFNSTTCKO&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=UUCDQVNVADVWASYKFNSTTCKO&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="262,272 2355,272 2355,1404 262,1404" rendition="TextRegion" xml:id="facs_19_tr_3">
             <zone points="1128,329 1143,329 1156,342 1245,342 1248,266 1211,271 1198,261 1159,292 1130,292" rendition="Line" xml:id="facs_19_tr_3_tl_1"/>
             <zone points="253,493 2177,501 2271,418 253,457" rendition="Line" xml:id="facs_19_tr_3_tl_2"/>
@@ -605,7 +605,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_20">
          <graphic url="part2_p020.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=LSGRFDIJXPJUEZYHCIKCYJPR&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LSGRFDIJXPJUEZYHCIKCYJPR&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="280,290 2310,290 2310,1093 280,1093" rendition="TextRegion" xml:id="facs_20_tr_3">
             <zone points="1148,348 1163,348 1170,358 1264,358 1267,289 1229,294 1221,287 1211,297 1196,294 1186,302 1150,300" rendition="Line" xml:id="facs_20_tr_3_tl_1"/>
             <zone points="457,487 2171,477 2082,396 658,447 457,409" rendition="Line" xml:id="facs_20_tr_3_tl_2" subtype="paragraph"/>
@@ -662,7 +662,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_22">
          <graphic url="part2_p022.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=RJEZUGTODNMWIQEEPUDMOIKQ&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RJEZUGTODNMWIQEEPUDMOIKQ&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="122,281 2328,281 2328,1114 122,1114" rendition="TextRegion" xml:id="facs_22_tr_3">
             <zone points="1113,335 1126,335 1146,350 1159,353 1172,348 1190,350 1198,343 1203,348 1239,345 1237,268 1172,271 1144,296 1110,296" rendition="Line" xml:id="facs_22_tr_3_tl_1"/>
             <zone points="415,502 2208,489 2246,435 415,464" rendition="Line" xml:id="facs_22_tr_3_tl_2" subtype="paragraph"/>
@@ -692,7 +692,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_23">
          <graphic url="part2_p023.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=DVYNASDEZJEHICWYPGXLSARG&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DVYNASDEZJEHICWYPGXLSARG&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="232,251 2400,251 2400,1547 232,1547" rendition="TextRegion" xml:id="facs_23_tr_2">
             <zone points="1095,308 1109,308 1125,319 1217,314 1214,260 1176,260 1155,238 1146,241 1130,260 1092,260" rendition="Line" xml:id="facs_23_tr_2_tl_1"/>
             <zone points="395,473 638,546 1341,465 2231,454 2233,408 1966,368 1922,411 395,438" rendition="Line" xml:id="facs_23_tr_2_tl_2" subtype="paragraph"/>
@@ -751,7 +751,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_25">
          <graphic url="part2_p025.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=OTQZKIXVNWWHAIKASTQCTRFF&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=OTQZKIXVNWWHAIKASTQCTRFF&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="235,254 2242,254 2242,1311 235,1311" rendition="TextRegion" xml:id="facs_25_tr_2">
             <zone points="1094,316 1107,316 1117,326 1145,326 1167,324 1175,316 1217,314 1217,264 1182,264 1167,251 1150,266 1137,264 1124,274 1094,274" rendition="Line" xml:id="facs_25_tr_2_tl_1"/>
             <zone points="221,479 2179,454 2194,387 221,447" rendition="Line" xml:id="facs_25_tr_2_tl_2"/>
@@ -867,7 +867,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_29">
          <graphic url="part2_p029.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=RBPQSQWCIEERRLTPQLKGZOTH&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RBPQSQWCIEERRLTPQLKGZOTH&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="23,272 2274,272 2274,1260 23,1260" rendition="TextRegion" xml:id="facs_29_tr_2">
             <zone points="1136,327 1149,327 1164,340 1201,338 1227,343 1247,333 1263,333 1263,286 1227,288 1211,270 1193,265 1169,288 1136,288" rendition="Line" xml:id="facs_29_tr_2_tl_1"/>
             <zone points="247,491 2227,489 2227,439 2079,421 1253,447 1169,364 995,439 247,426" rendition="Line" xml:id="facs_29_tr_2_tl_2"/>
@@ -3241,32 +3241,32 @@
                <lb facs="#facs_1_l_165" n="N010"/>PSYCHOLOGY OF ART (1950)
                <lb facs="#facs_1_l_176" n="N011"/>*<rs type="person" key=", tillich_person_id__2989">Maritain, J. </rs>and
                <lb facs="#facs_1_l_183" n="N012"/><rs type="person" key=", tillich_person_id__2990">Cocteau</rs> CREATIVE INTUITION IN ART AND POETRY
-               <lb facs="#facs_1_l_190" n="N013"/>Wilder, A. MODERN POETRY AND CHRISTIAN TRADITION
+               <lb facs="#facs_1_l_190" n="N013"/><rs type="person" key=", tillich_person_id__2991">Wilder, A.</rs> MODERN POETRY AND CHRISTIAN TRADITION
                <lb facs="#facs_1_l_197" n="N014"/>SPIRITUAL ASPECTS OF THE NEW POETRY
-               <lb facs="#facs_1_l_204" n="N015"/>Watkin, W. PLANNING THE MODERN CHURCH
-               <lb facs="#facs_1_l_211" n="N016"/>*Tillich "Theology and the Modern Church" (Architectural Forum, Dec. 1955)
-               <lb facs="#facs_1_l_218" n="N017"/>Eastman RELIGIOUS DRAMA
-               <lb facs="#facs_1_l_225" n="N018"/>Bailey THE ARTS AND RELIGION
-               <lb facs="#facs_1_l_232" n="N019"/>6. Total analysis of the present situation in the light of preceding periods.
-               <lb facs="#facs_1_l_239" n="N020"/>Berdyaev, N. THE FAITH OF MAN IN THE MODERN WORLD
+               <lb facs="#facs_1_l_204" n="N015"/><rs type="person" key=", tillich_person_id__2992">Watkin, W. </rs>PLANNING THE MODERN CHURCH
+               <lb facs="#facs_1_l_211" n="N016"/><rs type="person" key=", tillich_person_id__1928">*Tillich </rs>"Theology and the Modern Church" (Architectural Forum, Dec. 1955)
+               <lb facs="#facs_1_l_218" n="N017"/><rs type="person" key=", tillich_person_id__2993">Eastman RELIGIOUS DRAMA</rs>
+               <lb facs="#facs_1_l_225" n="N018"/><rs type="person" key=", tillich_person_id__2994">Bailey THE ARTS AND RELIGION</rs>
+               <lb facs="#facs_1_l_232" n="N019"/>6. Total analysis of the present situaion [sic.] in the light of preceding periods.
+               <lb facs="#facs_1_l_239" n="N020"/><rs type="person" key=", tillich_person_id__188">Berdyaev, N. </rs>THE FAITH OF MAN IN THE MODERN WORLD
                <lb facs="#facs_1_l_246" n="N021"/>*<rs type="person" key=", tillich_person_id__1757">Schweitzer, A</rs>. THE DECAY AND RESTORATION OF CIVILIZATION
-               <lb facs="#facs_1_l_253" n="N022"/>Sorokin, P. THE CRISIS OF OUR AGE
+               <lb facs="#facs_1_l_253" n="N022"/><rs type="person" key=", tillich_person_id__2995">Sorokin, P. </rs>THE CRISIS OF OUR AGE
                <lb facs="#facs_1_l_260" n="N023"/><rs type="person" key=", tillich_person_id__1390">Niebuhr,</rs> Reinhold DOES CIVILIZATION NEED RELIGION?
                <lb facs="#facs_1_l_267" n="N024"/>*<rs type="person" key=", tillich_person_id__1826">Spengler,</rs> O. THE DECLINE OF THE WEST
                <lb facs="#facs_1_l_274" n="N025"/>*<rs type="person" key=", tillich_person_id__1948">Toynbee, A</rs>. CIVILIZATION ON TRIAL
-               <lb facs="#facs_1_l_281" n="N026"/>*Tillich, P. THE RELIGIOUS SITUATION
-               <lb facs="#facs_1_l_288" n="N027"/>Tillich, P. "The World Situation," in THE CHRISTIAN ANSWER, ed. H. P. Van Dusen
+               <lb facs="#facs_1_l_281" n="N026"/>*<rs type="person" key=", tillich_person_id__1928">Tillich, P.</rs> THE RELIGIOUS SITUATION
+               <lb facs="#facs_1_l_288" n="N027"/><rs type="person" key=", tillich_person_id__1928">Tillich, P.</rs> "The World Situation," in THE CHRISTIAN ANSWER, ed. H. P. Van Dusen
                <lb facs="#facs_1_l_295" n="N028"/><rs type="person" key=", tillich_person_id__972">Jaspers, K.</rs> MAN IN THE MODERN AGE
                <lb facs="#facs_1_l_302" n="N029"/>7. Continuation of the analysis of present day industrial society. Its relation to religion.
                <lb facs="#facs_1_l_309" n="N030"/><rs type="person" key=", tillich_person_id__1255">Mannheim, K.</rs> DIAGNOSIS OF OUR TIME
-               <lb facs="#facs_1_l_316" n="N031"/>*Mumford, L. TECHNICS AND CIVILIZATION
+               <lb facs="#facs_1_l_316" n="N031"/>*<rs type="person" key=", tillich_person_id__2996">Mumford, L</rs>. TECHNICS AND CIVILIZATION
                <lb facs="#facs_1_l_323" n="N032"/>8. Religion and Education. The meaning of education (the wherefrom and the whereto)
                <lb facs="#facs_1_l_330" n="N033"/>9. The meaning and method of religious education. (Question and answer. Symbols and interpretation.)
-               <lb facs="#facs_1_l_337" n="N034"/>*Ulich HISTORY OF EDUCATIONAL THOUGHT
+               <lb facs="#facs_1_l_337" n="N034"/>*<rs type="person" key=", tillich_person_id__1965">Ulich</rs> HISTORY OF EDUCATIONAL THOUGHT
                <lb facs="#facs_1_l_344" n="N035"/>*THE MEANING OF EDUCATION
                <lb facs="#facs_1_l_351" n="N036"/>CRISIS AND HOPE IN AMERICAN EDUCATION
-               <lb facs="#facs_1_l_358" n="N037"/>*Sherill, L. THE STRUGGLE OF THE SOUL
-               <lb facs="#facs_1_l_365" n="N038"/>Smart, J. THE TEACHING MINISTRY OF THE CHURCH
+               <lb facs="#facs_1_l_358" n="N037"/>*<rs type="person" key=", tillich_person_id__2997">Sherill, L. </rs>THE STRUGGLE OF THE SOUL
+               <lb facs="#facs_1_l_365" n="N038"/><rs type="person" key=", tillich_person_id__2998">Smart, J</rs>. THE TEACHING MINISTRY OF THE CHURCH
                <lb facs="#facs_1_l_372" n="N039"/>--------------------
                <lb facs="#facs_1_l_379" n="N040"/>* Names with asterisk refer to books involved in exam topics. -Ed.
             </ab>
@@ -3274,50 +3274,50 @@
             <ab facs="#facs_2_tr_2">
                <lb facs="#facs_2_tr_2_tl_1" n="N001"/>[282]
                <lb facs="#facs_2_tr_2_tl_2" n="N002"/>10. Religion and the University. (The possible function of a theological faculty)
-               <lb facs="#facs_2_tr_2_tl_3" n="N003"/>*Moberly, Sir W. THE CRISIS IN THE UNIVERSITY
-               <lb facs="#facs_2_tr_2_tl_5" n="N004"/>Nash, A. THE UNIVERSITY AND THE MODERN WORLD
+               <lb facs="#facs_2_tr_2_tl_3" n="N003"/>*<rs type="person" key=", tillich_person_id__1334">Moberly, Sir W. </rs>THE CRISIS IN THE UNIVERSITY
+               <lb facs="#facs_2_tr_2_tl_5" n="N004"/><rs type="person" key=", tillich_person_id__1375">Nash, A.</rs> THE UNIVERSITY AND THE MODERN WORLD
                <lb facs="#facs_2_tr_2_tl_7" n="N005"/>RELIGIOUS PERSPECTIVES IN COLLEGE TEACHING
-               <lb facs="#facs_2_tr_2_tl_8" n="N006"/>Jaspers, K. THE IDEA OF THE UNIVERSITY
-               <lb facs="#facs_2_tr_2_tl_10" n="N007"/>*Thomas, G. RELIGION IN AN AGE OF SECULARISM
+               <lb facs="#facs_2_tr_2_tl_8" n="N006"/><rs type="person" key=", tillich_person_id__972">Jaspers, K.</rs> THE IDEA OF THE UNIVERSITY
+               <lb facs="#facs_2_tr_2_tl_10" n="N007"/>*<rs type="person" key=", tillich_person_id__2999">Thomas, G.</rs> RELIGION IN AN AGE OF SECULARISM
             </ab>
             <ab facs="#facs_2_tr_1">
                <lb facs="#facs_2_tr_1_tl_1" n="N001"/>11. Religion and Ethics: General (Formal ethics). The source of the moral "ought" and the source
                <lb facs="#facs_2_tr_1_tl_2" n="N002"/>of the content. The unconditional character and the question of guilt.
                <lb facs="#facs_2_tr_1_tl_3" n="N003"/>12. Ethical relativism, love and kairos.
                <lb facs="#facs_2_tr_1_tl_4" n="N004"/>13. Ethics of being and ethics of law (ought to be)- (law, grace and depth psychology, demonic structure)
-               <lb facs="#facs_2_tr_1_tl_5" n="N005"/>*Tillich, P. "Ethics in a Changing World," in THE PROTESTANT ERA
-               <lb facs="#facs_2_tr_1_tl_7" n="N006"/>Ramsey, P. BASIC CHRISTIAN ETHICS
-               <lb facs="#facs_2_tr_1_tl_10" n="N007"/>*Bonhoeffer, D. ethics
-               <lb facs="#facs_2_tr_1_tl_11" n="N008"/>*Niebuhr, R. THE INTERPRETATION OF CHRISTIAN ETHICS
-               <lb facs="#facs_2_tr_1_tl_13" n="N009"/>*Tillich, P. LOVE, POWER AND JUSTICE
-               <lb facs="#facs_2_tr_1_tl_15" n="N010"/>*Kant, I. THE CRITIQUE OF PRACTICAL REASON
-               <lb facs="#facs_2_tr_1_tl_17" n="N011"/>*Nietzsche THE WILL TO POWER
-               <lb facs="#facs_2_tr_1_tl_19" n="N012"/>Menninger, K. LOVE AGAINST HATE
-               <lb facs="#facs_2_tr_1_tl_21" n="N013"/>*Tillich, P. THE COURAGE TO BE [possibly]
+               <lb facs="#facs_2_tr_1_tl_5" n="N005"/><rs type="person" key=", tillich_person_id__1928">*Tillich, P. </rs>"Ethics in a Changing World," in THE PROTESTANT ERA
+               <lb facs="#facs_2_tr_1_tl_7" n="N006"/><rs type="person" key=", tillich_person_id__3000">Ramsey, P. </rs>BASIC CHRISTIAN ETHICS
+               <lb facs="#facs_2_tr_1_tl_10" n="N007"/>*<rs type="person" key=", tillich_person_id__250">Bonhoeffer, D.</rs> ethics
+               <lb facs="#facs_2_tr_1_tl_11" n="N008"/>*<rs type="person" key=", tillich_person_id__1390">Niebuhr, R.</rs> THE INTERPRETATION OF CHRISTIAN ETHICS
+               <lb facs="#facs_2_tr_1_tl_13" n="N009"/>*<rs type="person" key=", tillich_person_id__1928">Tillich, P. </rs>LOVE, POWER AND JUSTICE
+               <lb facs="#facs_2_tr_1_tl_15" n="N010"/>*<rs type="person" key=", tillich_person_id__1020">Kant, I.</rs> THE CRITIQUE OF PRACTICAL REASON
+               <lb facs="#facs_2_tr_1_tl_17" n="N011"/><rs type="person" key=", tillich_person_id__1394">*Nietzsche </rs>THE WILL TO POWER
+               <lb facs="#facs_2_tr_1_tl_19" n="N012"/><rs type="person" key=", tillich_person_id__1309">Menninger, K.</rs> LOVE AGAINST HATE
+               <lb facs="#facs_2_tr_1_tl_21" n="N013"/><rs type="person" key=", tillich_person_id__1928">*Tillich, P. </rs>THE COURAGE TO BE [possibly]
                <lb facs="#facs_2_tr_1_tl_23" n="N014"/>14. The ethical subject: The idea and the ideal of personality. (The autonomous and the theonomous
                <lb facs="#facs_2_tr_1_tl_24" n="N015"/>personality)
-               <lb facs="#facs_2_tr_1_tl_25" n="N016"/>*Jung, C. G. MODERN MAN IN SEARCH OF A SOUL
-               <lb facs="#facs_2_tr_1_tl_27" n="N017"/>May, R. MAN'S SEARCH FOR HIMSELF
-               <lb facs="#facs_2_tr_1_tl_29" n="N018"/>* Fromm, E. MAN FOR HIMSELF
-               <lb facs="#facs_2_tr_1_tl_31" n="N019"/>*Buber, M. I AND THOU
-               <lb facs="#facs_2_tr_1_tl_33" n="N020"/>Tillich "Psychotherapy and a Christian Interpretation of Human Nature," Rev. of Religion
+               <lb facs="#facs_2_tr_1_tl_25" n="N016"/><rs type="person" key=", tillich_person_id__1006">*Jung, C. G. </rs>MODERN MAN IN SEARCH OF A SOUL
+               <lb facs="#facs_2_tr_1_tl_27" n="N017"/><rs type="person" key=", tillich_person_id__1285">May, R. </rs>MAN'S SEARCH FOR HIMSELF
+               <lb facs="#facs_2_tr_1_tl_29" n="N018"/>*<rs type="person" key=", tillich_person_id__647"> Fromm, E.</rs> MAN FOR HIMSELF
+               <lb facs="#facs_2_tr_1_tl_31" n="N019"/>*<rs type="person" key=", tillich_person_id__306">Buber, M.</rs> I AND THOU
+               <lb facs="#facs_2_tr_1_tl_33" n="N020"/><rs type="person" key=", tillich_person_id__1928">Tillich</rs> "Psychotherapy and a Christian Interpretation of Human Nature," Rev. of Religion
                <lb facs="#facs_2_tr_1_tl_35" n="N021"/>March 1943.
                <lb facs="#facs_2_tr_1_tl_37" n="N022"/>15. Community and collective. We-consciousness, conformity, patternization: The non-personal
                <lb facs="#facs_2_tr_1_tl_38" n="N023"/>character of the group (non-conformism).
-               <lb facs="#facs_2_tr_1_tl_39" n="N024"/>*Ortega y Gasset THE REVOLT OF THE MASSES
-               <lb facs="#facs_2_tr_1_tl_41" n="N025"/>Mumford, L. THE CULTURE OF CITIES
-               <lb facs="#facs_2_tr_1_tl_43" n="N026"/>*Riesman, D. THE LONELY CROWD
-               <lb facs="#facs_2_tr_1_tl_45" n="N027"/>Eliot, T. S. THE IDEA OF A CHRISTIAN SOCIETY
-               <lb facs="#facs_2_tr_1_tl_47" n="N028"/>Pope, L. RELIGION AND CLASS STRUCTURE
-               <lb facs="#facs_2_tr_1_tl_49" n="N029"/>*Schumpeter, I. IMPERIALISM AND SOCIAL CLASSES
+               <lb facs="#facs_2_tr_1_tl_39" n="N024"/>*<rs type="person" key=", tillich_person_id__3001">Ortega y Gasset</rs> THE REVOLT OF THE MASSES
+               <lb facs="#facs_2_tr_1_tl_41" n="N025"/><rs type="person" key=", tillich_person_id__2996">Mumford, L.</rs> THE CULTURE OF CITIES
+               <lb facs="#facs_2_tr_1_tl_43" n="N026"/>*<rs type="person" key=", tillich_person_id__1606">Riesman, D. </rs>THE LONELY CROWD
+               <lb facs="#facs_2_tr_1_tl_45" n="N027"/><rs type="person" key=", tillich_person_id__523">Eliot, T. S.</rs> THE IDEA OF A CHRISTIAN SOCIETY
+               <lb facs="#facs_2_tr_1_tl_47" n="N028"/><rs type="person" key=", tillich_person_id__3002">Pope, L.</rs> RELIGION AND CLASS STRUCTURE
+               <lb facs="#facs_2_tr_1_tl_49" n="N029"/><rs type="person" key=", tillich_person_id__3003">*Schumpeter, I</rs>. IMPERIALISM AND SOCIAL CLASSES
                <lb facs="#facs_2_tr_1_tl_51" n="N030"/>*World Council of Churches Symposium: MAN'S DISORDER &amp; GOD'S DESIGN -- chap. by
-               <lb facs="#facs_2_tr_1_tl_52" n="N031"/>P. Tillich, "The Disintegration of Society in Christian Countries"
+               <lb facs="#facs_2_tr_1_tl_52" n="N031"/><rs type="person" key=", tillich_person_id__1928">P. Tillich,</rs> "The Disintegration of Society in Christian Countries"
                <lb facs="#facs_2_tr_1_tl_53" n="N032"/>16. Types of authority and the meaning of religious authority.
-               <lb facs="#facs_2_tr_1_tl_54" n="N033"/>*Schweitzer, A. CIVILIZATION AND ETHICS
-               <lb facs="#facs_2_tr_1_tl_56" n="N034"/>Fromm, E. ESCAPE FROM FREEDOM
-               <lb facs="#facs_2_tr_1_tl_58" n="N035"/>* Barth, K. THE WORD OF GOD AND THE WORD OF MAN
-               <lb facs="#facs_2_tr_1_tl_60" n="N036"/>*Berdyaev, N. FREEDOM AND SLAVERY
-               <lb facs="#facs_2_tr_1_tl_62" n="N037"/>*Loewe, A. THE PRICE OF LIBERTY
+               <lb facs="#facs_2_tr_1_tl_54" n="N033"/><rs type="person" key=", tillich_person_id__1757">*Schweitzer, A. </rs>CIVILIZATION AND ETHICS
+               <lb facs="#facs_2_tr_1_tl_56" n="N034"/><rs type="person" key=", tillich_person_id__647">Fromm, E. </rs>ESCAPE FROM FREEDOM
+               <lb facs="#facs_2_tr_1_tl_58" n="N035"/>*<rs type="person" key=", tillich_person_id__137"> Barth, K.</rs> THE WORD OF GOD AND THE WORD OF MAN
+               <lb facs="#facs_2_tr_1_tl_60" n="N036"/><rs type="person" key=", tillich_person_id__188">*Berdyaev, N.</rs> FREEDOM AND SLAVERY
+               <lb facs="#facs_2_tr_1_tl_62" n="N037"/>*<rs type="person" key=", tillich_person_id__1209">Loewe, A.</rs> THE PRICE OF LIBERTY
             </ab>
             <pb facs="#facs_3" n="part2_p003.jpg" xml:id="img_0003"/>
             <ab facs="#facs_3_tr_1">
@@ -3396,14 +3396,14 @@
                <lb facs="#facs_5_tr_3_tl_2" n="N002"/>activity, theoretical or practical, or aesthetic, is based on a hidden or open <ultimate_concern>ultimate concern</ultimate_concern>, and,
                <lb facs="#facs_5_tr_3_tl_3" n="N003"/>in this sense, on a religious attitude, on an element of <Faith>faith</Faith>. On this basis we want to proceed in this
                <lb facs="#facs_5_tr_3_tl_4" n="N004"/>semester as we did in the first.
-               <lb facs="#facs_5_tr_3_tl_5" n="N005"/>Now on this basis I then fought against mistaken interpretations of the concept of faith
-               <lb facs="#facs_5_tr_3_tl_6" n="N006"/>as meaning belief in some hardly believable things, or as assuring things for which there is no evidence,
+               <lb facs="#facs_5_tr_3_tl_5" n="N005"/>Now on this basis I then fought against mistaken interpretations of the concept of <Faith>faith</Faith>
+               <lb facs="#facs_5_tr_3_tl_6" n="N006"/>as meaning <Belief>belief</Belief> in some hardly believable things, or as assuring things for which there is no evidence,
                <lb facs="#facs_5_tr_3_tl_7" n="N007"/>in terms of religious authorities. All these definitions of religion and faith were rejected and, instead
             </ab>
             <ab facs="#facs_5_tr_2">
-               <lb facs="#facs_5_tr_2_tl_1" n="N001"/>of that, the fundamental definition was the fundamental criterion: Religion is the state of ultimate
-               <lb facs="#facs_5_tr_2_tl_2" n="N002"/>concern in every realm of cultural creativity. I expressed that in another way by saying: Religion
-               <lb facs="#facs_5_tr_2_tl_3" n="N003"/>is the substance of culture, and culture is the form of religion---whereby "substance" means that it
+               <lb facs="#facs_5_tr_2_tl_1" n="N001"/>of that, the fundamental definition was the fundamental criterion: <Religion>Religion</Religion> is the state of <ultimate_concern>ultimate
+               <lb break="no" facs="#facs_5_tr_2_tl_2" n="N002"/>concern </ultimate_concern>in every realm of cultural creativity. I expressed that in another way by saying: Religion
+               <lb facs="#facs_5_tr_2_tl_3" n="N003"/>is the<Substance> substance </Substance>of culture, and culture is the <Form>form </Form>of religion---whereby "substance" means that it
                <lb facs="#facs_5_tr_2_tl_4" n="N004"/>gives ultimate meaning, and "form" means that it gives the expression. Therefore we can analyze
                <lb facs="#facs_5_tr_2_tl_5" n="N005"/>every cultural reality according to its power to express ultimate concern. Whether it is a political
                <lb facs="#facs_5_tr_2_tl_6" n="N006"/>system or a scientific method or an artistic creation, or anything else, in every case there is behind it
@@ -3420,47 +3420,47 @@
             <pb facs="#facs_6" n="part2_p006.jpg" xml:id="img_0006"/>
             <ab facs="#facs_6_tr_3">
                <lb facs="#facs_6_tr_3_tl_2" n="N001"/>[286]
-               <lb facs="#facs_6_tr_3_tl_4" n="N002"/>with that which makes man man, namely with the power of language. Our first discussion dealt
-               <lb facs="#facs_6_tr_3_tl_5" n="N003"/>with religion and language, with the distinction of ordinary language which grasps finite
-               <lb facs="#facs_6_tr_3_tl_7" n="N004"/>reality, and symbolic language in which ultimate concern expresses itself. We tried to show WHY
+               <lb facs="#facs_6_tr_3_tl_4" n="N002"/>with that which makes man man, namely with the<language> power of language. </language>Our first discussion dealt
+               <lb facs="#facs_6_tr_3_tl_5" n="N003"/>with religion and language, with the distinction of ordinary language which grasps <Finitude>finite</Finitude>
+               <lb facs="#facs_6_tr_3_tl_7" n="N004"/>reality, and symbolic language in which <ultimate_concern>ultimate concern</ultimate_concern> expresses itself. We tried to show WHY
             </ab>
             <ab facs="#facs_6_tr_2">
-               <lb facs="#facs_6_tr_2_tl_1" n="N001"/>language makes man man, namely because language moves in universals, and universals liberate
+               <lb facs="#facs_6_tr_2_tl_1" n="N001"/>language makes man man, namely because language moves in <Universal_category>universals</Universal_category>, and universals liberate
                <lb facs="#facs_6_tr_2_tl_2" n="N002"/>from the given situation to which all other beings are subjected. Being in bondage of their given
                <lb facs="#facs_6_tr_2_tl_3" n="N003"/>nature means being subject to the concrete situation, and the problem of the concrete situation
                <lb facs="#facs_6_tr_2_tl_4" n="N004"/>with which plants as well as animals have to deal all their lives. Man is able, in the power of language,
                <lb facs="#facs_6_tr_2_tl_5" n="N005"/>to transcend the given situation, to abstract or universalize (therefore the terms "abstractions"
                <lb facs="#facs_6_tr_2_tl_6" n="N006"/>or "universals") from the given situation, and in this way to overcome the bondage to it. Man's
-               <lb facs="#facs_6_tr_2_tl_7" n="N007"/>freedom is a function of his language, and man's language is a function of his freedom. Therefore
+               <lb facs="#facs_6_tr_2_tl_7" n="N007"/>freedom is a function of his <Freedom>language</Freedom>, and man's language is a function of his freedom. Therefore
                <lb facs="#facs_6_tr_2_tl_8" n="N008"/>you can never teach a NON-human being language, because you cannot transform him, or it,
                <lb facs="#facs_6_tr_2_tl_9" n="N009"/>into something which has the nature of freedom. This was our first consideration.
             </ab>
             <ab facs="#facs_6_tr_1">
                <lb facs="#facs_6_tr_1_tl_1" n="N001"/>The second consideration dealt with the first way in which man transcends the given reality,
                <lb facs="#facs_6_tr_1_tl_2" n="N002"/>as what is traditionally called <hi style="font-style: italic;">homo faber</hi>, man who fabricates, man who produces tools and transforms
-               <lb facs="#facs_6_tr_1_tl_3" n="N003"/>the given reality with the help of tools into another reality, into the reality of the technical realm,
+               <lb facs="#facs_6_tr_1_tl_3" n="N003"/>the given reality with the help of tools into another reality, into the reality of the <Technology>technical realm</Technology>,
                <lb facs="#facs_6_tr_1_tl_4" n="N004"/>the realm which is now the dominant realm of most of our daily life. Then we discussed the relationship
                <lb facs="#facs_6_tr_1_tl_5" n="N005"/>of religion to the technical realm, what it does for us and in how far it is dangerous for the
-               <lb facs="#facs_6_tr_1_tl_6" n="N006"/>question of ultimacy, because it produces means and hides ends. The question of ultimate concern
+               <lb facs="#facs_6_tr_1_tl_6" n="N006"/>question of <Ultimacy>ultimacy</Ultimacy>, because it produces means and hides ends. The question of ultimate concern
             </ab>
             <pb facs="#facs_7" n="part2_p007.jpg" xml:id="img_0007"/>
             <ab facs="#facs_7_tr_2">
                <lb facs="#facs_7_tr_2_tl_1" n="N001"/>[287]
                <lb facs="#facs_7_tr_2_tl_2" n="N002"/>is the question of the ultimate end, the meaning of our existence.
-               <lb facs="#facs_7_tr_2_tl_3" n="N003"/>After this we went into the realm of science, and here my main interest was natural
+               <lb facs="#facs_7_tr_2_tl_3" n="N003"/>After this we went into the realm of <Science>science,</Science> and here my main interest was natural
                <lb facs="#facs_7_tr_2_tl_4" n="N004"/>sciences, in history, later on in psychology, to try to show that there is no necessary conflict
-               <lb facs="#facs_7_tr_2_tl_5" n="N005"/>between scientific method and the symbols of ultimate concern because they lie not on one and
+               <lb facs="#facs_7_tr_2_tl_5" n="N005"/>between scientific method and the symbols of <ultimate_concern>ultimate concern</ultimate_concern> because they lie not on one and
                <lb facs="#facs_7_tr_2_tl_6" n="N006"/>the same level or dimension. They lie in DlFFERENT dimensions, the one in the dimension
-               <lb facs="#facs_7_tr_2_tl_7" n="N007"/>of finite relations and the other in the realm of ultimate concern. In connection with these lectures
+               <lb facs="#facs_7_tr_2_tl_7" n="N007"/>of <Finitude>finite</Finitude> relations and the other in the realm of ultimate concern. In connection with these lectures
                <lb facs="#facs_7_tr_2_tl_8" n="N008"/>I had a very interesting evening with some representatives of the department of physics and astronomy
-               <lb facs="#facs_7_tr_2_tl_9" n="N009"/>in Harvard, and we discussed for hours and hours the relation of religion and physics, and one point
+               <lb facs="#facs_7_tr_2_tl_9" n="N009"/>in <rs type="place">Harvard</rs>, and we discussed for hours and hours the relation of <Religion>religion</Religion> and <Physics>physics</Physics>, and one point
                <lb facs="#facs_7_tr_2_tl_10" n="N010"/>came out which, according to these colleagues, I had not emphasized sufficiently in my
             </ab>
             <ab facs="#facs_7_tr_1">
                <lb facs="#facs_7_tr_1_tl_2" n="N001"/>introductory presentation, which was very similar to what I gave in the lectures here, namely the
                <lb facs="#facs_7_tr_1_tl_3" n="N002"/>point that INDIRECTLY, sciences can be the bearers of symbols of ultimate concern.
-               <lb facs="#facs_7_tr_1_tl_4" n="N003"/>INdirectly [sic.], but not directly. "Directly" would mean that science can argue for or against the truth
-               <lb facs="#facs_7_tr_1_tl_5" n="N004"/>of religion. This I consistently denied, and in this I think, as far as I understood the situation,
+               <lb facs="#facs_7_tr_1_tl_4" n="N003"/>INdirectly [sic.], but not directly. "Directly" would mean that science can argue for or against the <Truth_of_faith>truth
+               <lb break="no" facs="#facs_7_tr_1_tl_5" n="N004"/>of religion</Truth_of_faith>. This I consistently denied, and in this I think, as far as I understood the situation,
                <lb facs="#facs_7_tr_1_tl_6" n="N005"/>the colleagues of this department agreed [with]. But then they missed one point, namely that
                <lb facs="#facs_7_tr_1_tl_7" n="N006"/>indirectly the consideration of the universe, or the interpretation of the microcosm, the subatomic
                <lb facs="#facs_7_tr_1_tl_8" n="N007"/>reality, is able to produce religious experiences---and I have no doubt about it, I completely agreed
@@ -3471,24 +3471,24 @@
                <lb facs="#facs_8_tr_3_tl_1" n="N001"/>[288]
                <lb facs="#facs_8_tr_3_tl_2" n="N002"/>theology has been plagued for centuries now, was something quite different. It was the problem of mutual
                <lb facs="#facs_8_tr_3_tl_3" n="N003"/>interference, of interference in terms of religious authorities which denied scientific hypotheses, [such]
-               <lb facs="#facs_8_tr_3_tl_4" n="N004"/>as the Copernican or Darwinistic, or the depth-psychological, or historical-research about sources of biblical
-               <lb facs="#facs_8_tr_3_tl_6" n="N005"/>religion. When these interferences happened, all sciences---natural sciences as well as sociology, psychology
+               <lb facs="#facs_8_tr_3_tl_4" n="N004"/>as the <rs type="person" key=", tillich_person_id__1082">Copernican </rs>or <rs type="person" key=", tillich_person_id__428">Darwinistic,</rs> or the <Depth_psychology>depth-psychological,</Depth_psychology> or <Historical_research>historical-research</Historical_research> about sources of biblical
+               <lb facs="#facs_8_tr_3_tl_6" n="N005"/>religion. When these interferences happened, all <Science>sciences-</Science>--natural sciences as well as sociology, psychology
             </ab>
             <ab facs="#facs_8_tr_2">
-               <lb facs="#facs_8_tr_2_tl_1" n="N001"/>and history---revolted against religion. The main interest and emphasis of my whole life's work was to show
+               <lb facs="#facs_8_tr_2_tl_1" n="N001"/>and history---revolted against <Religion>religion</Religion>. The main interest and emphasis of my whole life's work was to show
                <lb facs="#facs_8_tr_2_tl_2" n="N002"/>that these conflicts are based on a confusion of dimensions. The dimension in which religious symbols are
                <lb facs="#facs_8_tr_2_tl_3" n="N003"/>real is NOT the dimension in which scientific research is done. Religious authorities have no right to forbid
                <lb facs="#facs_8_tr_2_tl_4" n="N004"/>any scientific probability, or even vague hypothesis, to be expressed if there are elements of evidence for it.
                <lb facs="#facs_8_tr_2_tl_5" n="N005"/>They cannot interfere with it in the name of religion. No historical criticism---this was discussed later---
-               <lb facs="#facs_8_tr_2_tl_6" n="N006"/>can undercut the dimension of ultimate concern as expressed in the symbols of the Christian tradition.
-               <lb facs="#facs_8_tr_2_tl_7" n="N007"/>In the same way, no depth psychology can undercut the truth of the symbols of religion, even if psycho-
-               <lb facs="#facs_8_tr_2_tl_8" n="N008"/>analytic psychology tries to show that symbols such as "God" or "the Christ" are projections. They
+               <lb facs="#facs_8_tr_2_tl_6" n="N006"/>can undercut the dimension of <ultimate_concern>ultimate concern</ultimate_concern> as expressed in the <Symbols>symbols</Symbols> of the Christian tradition.
+               <lb facs="#facs_8_tr_2_tl_7" n="N007"/>In the same way, no depth psychology can undercut the truth of the symbols of religion, even if <Depth_psychology>psycho-
+               <lb break="no" facs="#facs_8_tr_2_tl_8" n="N008"/>analytic psychology</Depth_psychology> tries to show that symbols such as "God" or "the Christ" are projections. They
                <lb facs="#facs_8_tr_2_tl_9" n="N009"/>are projections in their content; they are not projections IN THAT ON WHICH THEY PROJECT these
             </ab>
             <ab facs="#facs_8_tr_1">
                <lb facs="#facs_8_tr_1_tl_1" n="N001"/>images, namely the experience of ultimate concern. In this way, and in many other discussions, we
                <lb facs="#facs_8_tr_1_tl_2" n="N002"/>came through the different realms of man's creativity, and finally we ended the last semester by discussing
-               <lb facs="#facs_8_tr_1_tl_3" n="N003"/>problems of the doctrine of man. This was one of the bridges to this semester because man of course
+               <lb facs="#facs_8_tr_1_tl_3" n="N003"/>problems of the <Doctrine_of_man>doctrine of man.</Doctrine_of_man> This was one of the bridges to this semester because man of course
                <lb facs="#facs_8_tr_1_tl_4" n="N004"/>is in both realms. We discussed the problem of the relationship of body and soul, and many other
                <lb facs="#facs_8_tr_1_tl_5" n="N005"/>problems of this kind which are connected with the special nature of man as man.
             </ab>
@@ -3500,7 +3500,7 @@
                <lb facs="#facs_9_tr_1_tl_4" n="N004"/>But before saying something about the position of man's artistic creation, I will give you an outline of the
                <lb facs="#facs_9_tr_1_tl_5" n="N005"/>whole semester in terms of hours. Unfortunately, there will be one hour missing because of another
                <lb facs="#facs_9_tr_1_tl_6" n="N006"/>mystical holiday! -- but there will remain 22 or 23 hours. Next Tuesday I will speak on the problem of
-               <lb facs="#facs_9_tr_1_tl_7" n="N007"/>the relation between artistic and religious symbols. In the third hour I will speak about the four levels of
+               <lb facs="#facs_9_tr_1_tl_7" n="N007"/>the relation between <Art>artistic </Art>and <Religion>religious</Religion> <Symbols>symbols</Symbols>. In the third hour I will speak about the four levels of
                <lb facs="#facs_9_tr_1_tl_8" n="N008"/>the relationship of art and religion. In the fourth, I will give examples in the visual arts for those four
                <lb facs="#facs_9_tr_1_tl_9" n="N009"/>levels, from the slides taken from the Fogg Museum. In the fifth hour I will discuss this whole realm of
                <lb facs="#facs_9_tr_1_tl_10" n="N010"/>problems and begin something which could have been done at the beginning of last semester, but which
@@ -3513,18 +3513,18 @@
                <lb facs="#facs_9_tr_2_tl_2" n="N002"/>of religion in it. This will be a third transition, so to speak, from the theoretical to the practical,
                <lb facs="#facs_9_tr_2_tl_3" n="N003"/>and another way of orienting ourselves about the present situation in which we discuss the problem
                <lb facs="#facs_9_tr_2_tl_4" n="N004"/>of religion and culture. Then I go to the different realms.
-               <lb facs="#facs_9_tr_2_tl_5" n="N005"/>As the first one, I take religion and education---the meaning of education, FROM what one is educated
+               <lb facs="#facs_9_tr_2_tl_5" n="N005"/>As the first one, I take religion and <Education>education</Education>---the meaning of education, FROM what one is educated
                <lb facs="#facs_9_tr_2_tl_6" n="N006"/>and we always forget the problem "INTO what?" Then the problem of religious education, where we again
             </ab>
             <pb facs="#facs_10" n="part2_p010.jpg" xml:id="img_0010"/>
             <ab facs="#facs_10_tr_1">
                <lb facs="#facs_10_tr_1_tl_1" n="N001"/>[290]
                <lb facs="#facs_10_tr_1_tl_2" n="N002"/>return to the meaning of symbols. Finally I want to DISCUSS with you the problem of religion in the
-               <lb facs="#facs_10_tr_1_tl_3" n="N003"/>whole of the university, the question which is so much alive at Harvard today, and radiating from
-               <lb facs="#facs_10_tr_1_tl_4" n="N004"/>Harvard into the whole country---<hi style="font-style: italic;">[some laughter]</hi> (that sounds very proud!)---the function of the theological
+               <lb facs="#facs_10_tr_1_tl_3" n="N003"/>whole of the university, the question which is so much alive at <rs type="place">Harvard</rs> today, and radiating from
+               <lb facs="#facs_10_tr_1_tl_4" n="N004"/><rs type="place">Harvard</rs> into the whole country---<hi style="font-style: italic;">[some laughter]</hi> (that sounds very proud!)---the function of the theological
                <lb facs="#facs_10_tr_1_tl_6" n="N005"/>faculty within the whole of the university life. (But I can [provide] evidence for my pride, from
                <lb facs="#facs_10_tr_1_tl_7" n="N006"/>traveling very much.)
-               <lb facs="#facs_10_tr_1_tl_8" n="N007"/>From the educational we come to the ethical realm. Here we have two main considerations,
+               <lb facs="#facs_10_tr_1_tl_8" n="N007"/>From the educational we come to the <Ethics>ethical </Ethics>realm. Here we have two main considerations,
                <lb facs="#facs_10_tr_1_tl_10" n="N008"/>a general one which I would call formal ethics: where does the moral ought-to-be come from? Where do
             </ab>
             <ab facs="#facs_10_tr_3">
@@ -3550,13 +3550,13 @@
                <lb facs="#facs_11_tr_3_tl_3" n="N003"/>the question of authority generally, the different types of it---here again psychology, theology and ethics
                <lb facs="#facs_11_tr_3_tl_4" n="N004"/>work together and often against each other. Then very special problems of social ethics: family relations
                <lb facs="#facs_11_tr_3_tl_5" n="N005"/>and sex relations.
-               <lb facs="#facs_11_tr_3_tl_6" n="N006"/>After ethics we come to economics, the meaning of economy in, for instance, a term like
+               <lb facs="#facs_11_tr_3_tl_6" n="N006"/>After ethics we come to <Economy>economics,</Economy> the meaning of economy in, for instance, a term like
             </ab>
             <ab facs="#facs_11_tr_2">
                <lb facs="#facs_11_tr_2_tl_1" n="N001"/>economic materialism. This leads immediately to the problems of religion and the social gospel,
                <lb facs="#facs_11_tr_2_tl_2" n="N002"/>religion and religious socialism; the basic ideas which have developed in many periods of history---their
                <lb facs="#facs_11_tr_2_tl_3" n="N003"/>limitations and their meaning.
-               <lb facs="#facs_11_tr_2_tl_4" n="N004"/>We then come to the political realm, but first in a more fundamental way, and I repeat the title of
+               <lb facs="#facs_11_tr_2_tl_4" n="N004"/>We then come to the <Politics>political</Politics> realm, but first in a more fundamental way, and I repeat the title of
                <lb facs="#facs_11_tr_2_tl_5" n="N005"/>a book of mine, only in the opposite order: Justice, Power and Love---the question of the law-school
                <lb facs="#facs_11_tr_2_tl_6" n="N006"/>problems in relationship to theology.
                <lb facs="#facs_11_tr_2_tl_7" n="N007"/>Then come the last lectures, religion and the political systems: democracy, totalitarianism,
@@ -3574,18 +3574,18 @@
             <ab facs="#facs_12_tr_2">
                <lb facs="#facs_12_tr_2_tl_1" n="N001"/>[292]
                <lb facs="#facs_12_tr_2_tl_2" n="N002"/>You will receive one or two books [i.e. book titles] for each of these subjects. I wanted to
-               <lb facs="#facs_12_tr_2_tl_3" n="N003"/>cover, if possible, all realms of study at a university ---at least the larger realms; of course one cannot
+               <lb facs="#facs_12_tr_2_tl_3" n="N003"/>cover, if possible, all realms of study at a university ---at least the larger realms; or [sic.] course one cannot
                <lb facs="#facs_12_tr_2_tl_4" n="N004"/>go into every specialty.
                <lb facs="#facs_12_tr_2_tl_5" n="N005"/>QN: <hi style="font-style: italic;">[On medicine]</hi> ---
                <lb facs="#facs_12_tr_2_tl_6" n="N006"/>PT: Yes, but I discussed it at the end of last semester in the connection of the problem of healing.
                <lb facs="#facs_12_tr_2_tl_7" n="N007"/>QN: But it was too short!
                <lb facs="#facs_12_tr_2_tl_8" n="N008"/>PT: I accept this criticism wholeheartedly, and I will see what can be done about it. Please keep
                <lb facs="#facs_12_tr_2_tl_9" n="N009"/>reminding me of it. . . A group of medical students have invited me to discuss with them. . .
-               <lb facs="#facs_12_tr_2_tl_10" n="N010"/>Any other question? Of course these things should be existential, ie., [sic.] they should concern your
+               <lb facs="#facs_12_tr_2_tl_10" n="N010"/>Any other question? Of course these things should be existential, ie. [sic.], they should concern your
                <lb facs="#facs_12_tr_2_tl_11" n="N011"/>real academic existence.
             </ab>
             <ab facs="#facs_12_tr_3">
-               <lb facs="#facs_12_tr_3_tl_1" n="N001"/>Let me say a few words in the last two minutes. The artistic realm belongs in one sense to
+               <lb facs="#facs_12_tr_3_tl_1" n="N001"/>Let me say a few words in the last two minutes. The <Art>artistic </Art>realm belongs in one sense to
                <lb facs="#facs_12_tr_3_tl_2" n="N002"/>the realm of RECEIVING reality. I had many discussions in philosophical groups how much cognitive
                <lb facs="#facs_12_tr_3_tl_3" n="N003"/>elements are in arts. And I believe there are some; reality is grasped in a dimension which is different,
                <lb facs="#facs_12_tr_3_tl_4" n="N004"/>of course, from the other cognitive realms. But that is only the one side of art; there are two more.
@@ -3616,11 +3616,11 @@
             <ab facs="#facs_14_tr_1">
                <lb facs="#facs_14_tr_1_tl_3" n="N001"/>[294]
                <lb facs="#facs_14_tr_1_tl_5" n="N002"/>LECTURE XXIV, Feb. 7, 1956
-               <lb facs="#facs_14_tr_1_tl_6" n="N003"/>At the end of Thursday's lecture I spoke about three artistic functions, and I will go back
+               <lb facs="#facs_14_tr_1_tl_6" n="N003"/>At the end of Thursday's lecture I spoke about three <Art>artistic </Art>functions, and I will go back
                <lb facs="#facs_14_tr_1_tl_7" n="N004"/>to this because I think it's not only helpful to understand the different theories of art but also important
-               <lb facs="#facs_14_tr_1_tl_8" n="N005"/>for the valuation of a special work of art. These three functions were the cognitive, the anticipatory, and
-               <lb facs="#facs_14_tr_1_tl_9" n="N006"/>the expressive, and I will speak about the three of them in this order.
-               <lb facs="#facs_14_tr_1_tl_10" n="N007"/>THE COGNITIVE FUNCTION: If you understand "cognitive" in terms of what is usually
+               <lb facs="#facs_14_tr_1_tl_8" n="N005"/>for the valuation of a special work of art. These three functions were the<Cognitive_Function> cognitive,</Cognitive_Function> the <Anticipatory_function>anticipatory</Anticipatory_function>, and
+               <lb facs="#facs_14_tr_1_tl_9" n="N006"/>the <Expressive_function>expressive</Expressive_function>, and I will speak about the three of them in this order.
+               <lb facs="#facs_14_tr_1_tl_10" n="N007"/>THE <Cognitive_Function>COGNITIVE FUNCTION</Cognitive_Function>: If you understand "cognitive" in terms of what is usually
                <lb facs="#facs_14_tr_1_tl_11" n="N008"/>called cognitive in the scientific realm and also in history and philosophy, and psychology and sociology,
                <lb facs="#facs_14_tr_1_tl_12" n="N009"/>then of course the word cognitive shouldn't be used at all for the realm of art. If, however, the word
             </ab>
@@ -3636,12 +3636,13 @@
             <ab facs="#facs_14_tr_2">
                <lb facs="#facs_14_tr_2_tl_1" n="N001"/>In music, the situation seems to be more difficult, but even there we discover possibilities
                <lb facs="#facs_14_tr_2_tl_2" n="N002"/>of self-revelation in reality through the different instruments, including the human voice, or as the
-               <lb facs="#facs_14_tr_2_tl_3" n="N003"/>old Pythagoreans called it, we discover the numbers which are the basis for musical reception and understanding
+               <lb facs="#facs_14_tr_2_tl_3" n="N003"/>old <Pythagorean_School>Pythagoreans</Pythagorean_School> called it, we discover the numbers which are the basis for musical reception and understanding
             </ab>
             <pb facs="#facs_15" n="part2_p015.jpg" xml:id="img_0015"/>
             <ab facs="#facs_15_tr_2">
                <lb facs="#facs_15_tr_2_tl_1" n="N001"/>[295]
-               <lb facs="#facs_15_tr_2_tl_2" n="N002"/>In all these cases, it's NOT only a matter of emotion but it's also a matter of receiving adimension
+               <lb facs="#facs_15_tr_2_tl_2" n="N002"/>In all these cases, it's NOT only a matter of emotion but it's also a matter of receiving adimension [sic.]
+
                <lb facs="#facs_15_tr_2_tl_3" n="N003"/>of reality. This reception could be covered with the word "cognitive." But I am very liberal in this respect,
                <lb facs="#facs_15_tr_2_tl_4" n="N004"/>as we have to be liberal with respect to language today, because it is so distorted that we have almost to
                <lb facs="#facs_15_tr_2_tl_5" n="N005"/>save every word before we can use it, from these distortions. In any case, if you tell me I am used to using
@@ -3654,44 +3655,44 @@
                <lb facs="#facs_15_tr_1_tl_2" n="N002"/>realities, or their dimensions, are used. That is the first point I want to make so that no criticism comes
                <lb facs="#facs_15_tr_1_tl_3" n="N003"/>from a mere semantic problem, namely the word cognitive.
                <lb facs="#facs_15_tr_1_tl_4" n="N004"/>This element of grasping reality in artistic forms is expressed in a special type of art which we
-               <lb facs="#facs_15_tr_1_tl_5" n="N005"/>usually call naturalistic. Naturalistic means trying to give, in the artistic expression---be it by words,
+               <lb facs="#facs_15_tr_1_tl_5" n="N005"/>usually call <Naturalism>naturalistic</Naturalism>. Naturalistic means trying to give, in the artistic expression---be it by words,
                <lb facs="#facs_15_tr_1_tl_6" n="N006"/>colors and lines, dance, music---something which is nearer to the ordinary encounter with reality in our
                <lb facs="#facs_15_tr_1_tl_7" n="N007"/>daily life, or what some philosophers have called natural worldview.
                <lb facs="#facs_15_tr_1_tl_8" n="N008"/>Naturalism has a very interesting tension in itself. Take the naturalistic novels of the
-               <lb facs="#facs_15_tr_1_tl_9" n="N009"/>19th century, people like Zola in France, or similar people following this school in presentday America.
+               <lb facs="#facs_15_tr_1_tl_9" n="N009"/>19th century, people like <rs type="person" key=", tillich_person_id__2125">Zola</rs> in France, or similar people following this school in presentday America.
                <lb facs="#facs_15_tr_1_tl_10" n="N010"/>What do you find there? You find a description of realities, in nature and society and soul---soul especially
                <lb facs="#facs_15_tr_1_tl_11" n="N011"/>in the 20th century psychological novel, for instance---which gives empirical reality. But it is not a
             </ab>
             <pb facs="#facs_16" n="part2_p016.jpg" xml:id="img_0016"/>
             <ab facs="#facs_16_tr_3">
                <lb facs="#facs_16_tr_3_tl_1" n="N001"/>[296]
-               <lb facs="#facs_16_tr_3_tl_2" n="N002"/>scientific work; it is a work of art. And by the work of art, if it is really a work of ART---and there are
+               <lb facs="#facs_16_tr_3_tl_2" n="N002"/>scientific work; it is a work of <Art>art</Art>. And by the work of art, if it is really a work of ART---and there are
                <lb facs="#facs_16_tr_3_tl_3" n="N003"/>great works of art in the naturalistic line---it becomes something else. This "something else" is the
                <lb facs="#facs_16_tr_3_tl_4" n="N004"/>discovery of the artistic dimension, about which I will speak later.
-               <lb facs="#facs_16_tr_3_tl_5" n="N005"/>The naturalistic art has the predominant emphasis on the cognitive element of art,
+               <lb facs="#facs_16_tr_3_tl_5" n="N005"/>The <Naturalism>naturalisti</Naturalism>c <Art>art</Art> has the predominant emphasis on the <Cognitive>cognitive</Cognitive> element of art,
                <lb facs="#facs_16_tr_3_tl_6" n="N006"/>on grasping reality, and fog forgets (this is the criticism which has often been made against it---and rightly)
             </ab>
             <ab facs="#facs_16_tr_2">
                <lb facs="#facs_16_tr_2_tl_1" n="N001"/>that the ARTISTIC form of grasping reality is not the ordinary form of scientific or daily-life approach
                <lb facs="#facs_16_tr_2_tl_2" n="N002"/>but is another one, which is determined and should be determined by the artistic dimension. Now what this is
                <lb facs="#facs_16_tr_2_tl_3" n="N003"/>I will discuss later when I come to artistic symbols.
-               <lb facs="#facs_16_tr_2_tl_4" n="N004"/>The second function of art is the anticipatory one. This is the idealistic form, which has taken
+               <lb facs="#facs_16_tr_2_tl_4" n="N004"/>The second function of <Art>art</Art> is the <Anticipatory_function>anticipatory </Anticipatory_function>one. This is the idealistic form, which has taken
                <lb facs="#facs_16_tr_2_tl_6" n="N005"/>this element as the predominant one. What does that mean? The sharpest expression of this was given in the
-               <lb facs="#facs_16_tr_2_tl_8" n="N006"/>Neo-Kantian school of the 19th century, which is the classical school of bourgeois idealism
+               <lb facs="#facs_16_tr_2_tl_8" n="N006"/><Neo-Kantian_school>Neo-Kantian school </Neo-Kantian_school>of the 19th century, which is the classical school of bourgeois idealism
                <lb facs="#facs_16_tr_2_tl_9" n="N007"/>and was predominant in all the Continental universities at least since the second half of the 19th century.
             </ab>
             <ab facs="#facs_16_tr_1">
-               <lb facs="#facs_16_tr_1_tl_1" n="N001"/>In this school, the following construction was made. From Kant one learned that there is theoretical reason---
+               <lb facs="#facs_16_tr_1_tl_1" n="N001"/>In this school, the following construction was made. From <rs type="person" key=", tillich_person_id__1020">Kant</rs> one learned that there is theoretical reason---
                <lb facs="#facs_16_tr_1_tl_2" n="N002"/>describing the laws of nature; it has nothing to do with the other side: practical reason---describing the
                <lb facs="#facs_16_tr_1_tl_3" n="N003"/>unconditional demand of the moral or, as he called it, the categorical, imperative. Then there was a third,
-               <lb facs="#facs_16_tr_1_tl_4" n="N004"/>and this one was Kant's critique of judgment, power of judgment, in which he deals with some realities
-               <lb facs="#facs_16_tr_1_tl_5" n="N005"/>in which the purely theoretical, namely the world as seen by Newton and Descartes, is reconciled with the
+               <lb facs="#facs_16_tr_1_tl_4" n="N004"/>and this one was <rs type="person" key=", tillich_person_id__1020">Kant</rs>'s critique of judgment, power of judgment, in which he deals with some realities
+               <lb facs="#facs_16_tr_1_tl_5" n="N005"/>in which the purely theoretical, namely the world as seen by <rs type="person" key=", tillich_person_id__1384">Newton</rs> and <rs type="person" key=", tillich_person_id__452">Descartes</rs>, is reconciled with the
                <lb facs="#facs_16_tr_1_tl_6" n="N006"/>ethical realm, namely man's unconditional responsibility for his action under the categorical imperative.
             </ab>
             <pb facs="#facs_17" n="part2_p017.jpg" xml:id="img_0017"/>
             <ab facs="#facs_17_tr_2">
                <lb facs="#facs_17_tr_2_tl_1" n="N001"/>[297]
-               <lb facs="#facs_17_tr_2_tl_2" n="N002"/>The world was split in[to] these two realms. Kant himself didn't feel able to overcome definitively
+               <lb facs="#facs_17_tr_2_tl_2" n="N002"/>The world was split in[to] these two realms. <rs type="person" key=", tillich_person_id__1020">Kant</rs> himself didn't feel able to overcome definitively
                <lb facs="#facs_17_tr_2_tl_3" n="N003"/>this fundamental split, which expresses our whole situation in industrial society---I will return to this.
                <lb facs="#facs_17_tr_2_tl_4" n="N004"/>But he said there are at least possible ideas, postulates, which may indicate possible reconciliations.
                <lb facs="#facs_17_tr_2_tl_5" n="N005"/>The one is the organic matter: in organisms, in nature, there is an element of meaning in spite of
@@ -3699,37 +3700,37 @@
                <lb facs="#facs_17_tr_2_tl_8" n="N007"/>and 20th centuries, and we have it today in biology as the fight between those who approach biology
             </ab>
             <ab facs="#facs_17_tr_1">
-               <lb facs="#facs_17_tr_1_tl_1" n="N001"/>in terms of mechanical equations and those who approach it in terms of a gestalt biology and psychology---
+               <lb facs="#facs_17_tr_1_tl_1" n="N001"/>in terms of mechanical equations and those who approach it in terms of a <Gestalt>gestalt</Gestalt> biology and psychology---
                <lb facs="#facs_17_tr_1_tl_3" n="N002"/><hi style="font-style: italic;">Gestalt</hi> = living structure, a living whole, but the word "gestalt" is usually in English also.
                <lb facs="#facs_17_tr_1_tl_5" n="N003"/>This is the one realm, in which mechanical necessity and ethical freedom and meaning are
-               <lb facs="#facs_17_tr_1_tl_6" n="N004"/>partly united. Kant didn't say they ARE; his criticism was much too cautious to make a dogmatic
+               <lb facs="#facs_17_tr_1_tl_6" n="N004"/>partly united.<rs type="person" key=", tillich_person_id__1020"> Kant</rs> didn't say they ARE; his criticism was much too cautious to make a dogmatic
                <lb facs="#facs_17_tr_1_tl_7" n="N005"/>statement about it, but he says they can be considered AS IF they were a reconciliation.
-               <lb facs="#facs_17_tr_1_tl_8" n="N006"/>The other realm, in which he saw this reconciliation, was the artistic. In the artistic
+               <lb facs="#facs_17_tr_1_tl_8" n="N006"/>The other realm, in which he saw this reconciliation, was the <Art>artistic</Art>. In the artistic
                <lb facs="#facs_17_tr_1_tl_9" n="N007"/>realm there is also empirical reality, experience of our world in all its finitude, which is subjected
                <lb facs="#facs_17_tr_1_tl_10" n="N008"/>to the laws of nature, which is used in order to express meaning. And that is what art does; therefore
                <lb facs="#facs_17_tr_1_tl_11" n="N009"/>a work of art has the same character as a living being: in them, purpose is actualized (or as we would
                <lb facs="#facs_17_tr_1_tl_12" n="N010"/>say today, better, meaning is actualized). It is the union of the theoretical and the practical.
-               <lb facs="#facs_17_tr_1_tl_13" n="N011"/>Now this was the idea of the Neo-Kantian school, which derived from this its theories of art.
+               <lb facs="#facs_17_tr_1_tl_13" n="N011"/>Now this was the idea of the <Neo-Kantian_school>Neo-Kantian school,</Neo-Kantian_school> which derived from this its theories of art.
                <lb facs="#facs_17_tr_1_tl_14" n="N012"/>These theories are thoroughly idealistic---also a word which needs different ways of salvation!---
             </ab>
             <pb facs="#facs_18" n="part2_p018.jpg" xml:id="img_0018"/>
             <ab facs="#facs_18_tr_2">
                <lb facs="#facs_18_tr_2_tl_1" n="N001"/>[298]
-               <lb facs="#facs_18_tr_2_tl_2" n="N002"/>one way is not enough, so distorted is it. But in the Neo-Kantian school it can be used in the sense
+               <lb facs="#facs_18_tr_2_tl_2" n="N002"/>one way is not enough, so distorted is it. But in the <Neo-Kantian_school>Neo-Kantian school</Neo-Kantian_school> it can be used in the sense
                <lb facs="#facs_18_tr_2_tl_3" n="N003"/>of anticipation of true essential reality---and "essence" is the right translation of the Platonic word "idea.”
-               <lb facs="#facs_18_tr_2_tl_4" n="N004"/>Ideas are essences; therefore idealism is the theory which believes that we are able to produce essential
-               <lb facs="#facs_18_tr_2_tl_5" n="N005"/>reality, reality as it essentially is and therefore ought to be. In art such a reality is anticipated; otherwise
+               <lb facs="#facs_18_tr_2_tl_4" n="N004"/>Ideas are essences; therefore <Idealism>idealism</Idealism> is the theory which believes that we are able to produce essential
+               <lb facs="#facs_18_tr_2_tl_5" n="N005"/>reality, reality as it essentially is and therefore ought to be. In<Art> art </Art>such a reality is anticipated; otherwise
                <lb facs="#facs_18_tr_2_tl_6" n="N006"/>it can [can't?] be found, because nature is subjected to the laws of nature, which are mechanical,
                <lb facs="#facs_18_tr_2_tl_7" n="N007"/>and the moral imperative is in opposition to everything [that is] nature in man and outside of man,
                <lb facs="#facs_18_tr_2_tl_8" n="N008"/>but reconciliation does exist only in art. I remember I myself still lived in the period in which Neo-
             </ab>
             <ab facs="#facs_18_tr_3">
                <lb facs="#facs_18_tr_3_tl_1" n="N001"/>Kantianism was still at its top in philosophy as well as theology, and I remember one sentence
-               <lb facs="#facs_18_tr_3_tl_2" n="N002"/>written by the Neo-Kantian Windelband, who wrote the still best history of philosophy, which I
+               <lb facs="#facs_18_tr_3_tl_2" n="N002"/>written by the Neo-Kantian <rs type="person" key=", tillich_person_id__2082">Windelband</rs>, who wrote the still best history of philosophy, which I
                <lb facs="#facs_18_tr_3_tl_3" n="N003"/>always recommend---thanks Heaven it is translated!---it is the history of PROBLEMS of philosophy,
                <lb facs="#facs_18_tr_3_tl_4" n="N004"/>and not what nonsense this philosopher said against which another philosopher said something else.
                <lb facs="#facs_18_tr_3_tl_5" n="N005"/>This kind of textbook history of philosophy is itself nonsense. But a real history of philosophy is
-               <lb facs="#facs_18_tr_3_tl_6" n="N006"/>to show the development of the problems, and that is what Windelband did and what all these Neo-
+               <lb facs="#facs_18_tr_3_tl_6" n="N006"/>to show the development of the problems, and that is what <rs type="person" key=", tillich_person_id__2082">Windelband</rs> did and what all these Neo-
                <lb facs="#facs_18_tr_3_tl_7" n="N007"/>Kantians were aware [of]---they did it in a wonderful way, mostly. --- Now there I read the
                <lb facs="#facs_18_tr_3_tl_8" n="N008"/>sentence: "to rest our head, burdened by problems, in the lap of art." This was the idealistic
                <lb facs="#facs_18_tr_3_tl_9" n="N009"/>expression of interpretation of art. It is rest because here the reconciliation is reached which is NOT
@@ -3739,13 +3740,13 @@
             <pb facs="#facs_19" n="part2_p019.jpg" xml:id="img_0019"/>
             <ab facs="#facs_19_tr_3">
                <lb facs="#facs_19_tr_3_tl_1" n="N001"/>[299]
-               <lb facs="#facs_19_tr_3_tl_2" n="N002"/>anticipatory reconciliation. Now this is the reason for the idealistic art, and although for ecclesiastical
+               <lb facs="#facs_19_tr_3_tl_2" n="N002"/>anticipatory reconciliation. Now this is the reason for the <Idealism>idealistic</Idealism> <Art>art</Art>, and although for ecclesiastical
                <lb facs="#facs_19_tr_3_tl_3" n="N003"/>reasons I have to fight against this art most vehemently, because they believe that this is religious art---
                <lb facs="#facs_19_tr_3_tl_4" n="N004"/>which is not, as I will show later on---I must say there is ALSO TRUTH in this understanding of art.
-               <lb facs="#facs_19_tr_3_tl_5" n="N005"/>If you experience the infinite beauty of artistic expressions in the idealistic period---for instance the
-               <lb facs="#facs_19_tr_3_tl_6" n="N006"/>great painting of the early and high Renaissance---then you can say: here something is fulfilling of
-               <lb facs="#facs_19_tr_3_tl_7" n="N007"/>human potentialitiesby [sic.] by artistic anticipation which cannot be fulfilled in reality. It is anticipation.
-               <lb facs="#facs_19_tr_3_tl_8" n="N008"/>I just heard a few days ago again Mozart's <hi style="font-style: italic;">Don Juan</hi>, and here again I had the feeling it is dance in Heaven,
+               <lb facs="#facs_19_tr_3_tl_5" n="N005"/>If you experience the infinite <Beauty>beauty </Beauty>of artistic expressions in the idealistic period---for instance the
+               <lb facs="#facs_19_tr_3_tl_6" n="N006"/>great painting of the early and high <Renaissance>Renaissance</Renaissance>---then you can say: here something is fulfilling of
+               <lb facs="#facs_19_tr_3_tl_7" n="N007"/>human potentialitiesby [sic.] by artistic anticipation which cannot be fulfilled in reality. It is <Anticipatory_function>anticipation</Anticipatory_function>.
+               <lb facs="#facs_19_tr_3_tl_8" n="N008"/>I just heard a few days ago again <rs type="person" key=", tillich_person_id__1355">Mozart</rs>'s <hi style="font-style: italic;">Don Juan</hi>, and here again I had the feeling it is dance in Heaven,
             </ab>
             <ab facs="#facs_19_tr_2">
                <lb facs="#facs_19_tr_2_tl_1" n="N001"/>so to speak: the melodies are transcending the empirical possibilities of existence; it is a reality in these
@@ -3753,7 +3754,7 @@
                <lb facs="#facs_19_tr_2_tl_3" n="N003"/>day before a lecture! Now this shows the truth of the idealistic interpretation of art: the element of
                <lb facs="#facs_19_tr_2_tl_4" n="N004"/>anticipation. And this element is in all art; no naturalistic work of art is a work of art if there is not
                <lb facs="#facs_19_tr_2_tl_5" n="N005"/>this element, which is usually called beauty. Now we must be very cautious today with the word
-               <lb facs="#facs_19_tr_2_tl_6" n="N006"/>beauty, and I realize that not only I myself but most people avoid it carefully, because
+               <lb facs="#facs_19_tr_2_tl_6" n="N006"/><Beauty>beauty, </Beauty>and I realize that not only I myself but most people avoid it carefully, because
                <lb facs="#facs_19_tr_2_tl_7" n="N007"/>the word is one of those which have been deteriorized to cheap beauty, to a beautified naturalism
                <lb facs="#facs_19_tr_2_tl_8" n="N008"/>which is the worst distortion of what art really is. Nevertheless the word beauty---In Greek <hi style="font-style: italic;">kalos</hi>,
                <lb facs="#facs_19_tr_2_tl_9" n="N009"/>which is always identified with <hi style="font-style: italic;">agathos</hi>, with good---this shows there is an inner relationship between
@@ -3766,58 +3767,58 @@
             <pb facs="#facs_20" n="part2_p020.jpg" xml:id="img_0020"/>
             <ab facs="#facs_20_tr_3">
                <lb facs="#facs_20_tr_3_tl_1" n="N001"/>[300]
-               <lb facs="#facs_20_tr_3_tl_2" n="N002"/>This is the second function of art. Now I come to the third and fundamental, which is
-               <lb facs="#facs_20_tr_3_tl_3" n="N003"/>embracing and decisive, namely the expressive function. Art "expresses" reality. The word expression
-               <lb facs="#facs_20_tr_3_tl_4" n="N004"/>can be used in a very large metaphysical sense. If this is done, we can do what Spinoza did
-               <lb facs="#facs_20_tr_3_tl_6" n="N005"/>who said that the substance of reality is expressed in the modes. The substance---of course, for him,
+               <lb facs="#facs_20_tr_3_tl_2" n="N002"/>This is the second function of <Art>art</Art>. Now I come to the third and fundamental, which is
+               <lb facs="#facs_20_tr_3_tl_3" n="N003"/>embracing and decisive, namely the e<Expressive_function>xpressive function</Expressive_function>. Art "expresses" reality. The word expression
+               <lb facs="#facs_20_tr_3_tl_4" n="N004"/>can be used in a very large metaphysical sense. If this is done, we can do what <rs type="person" key=", tillich_person_id__1832">Spinoza </rs>did
+               <lb facs="#facs_20_tr_3_tl_6" n="N005"/>who said that the <Substance>substance</Substance> of reality is expressed in the modes. The substance---of course, for him,
                <lb facs="#facs_20_tr_3_tl_8" n="N006"/>the divine ground of everything, which has several attributes; and then there are the modes: all the
             </ab>
             <ab facs="#facs_20_tr_2">
                <lb facs="#facs_20_tr_2_tl_1" n="N001"/>finite things in the world. In this philosophy, which theologians sometimes dismiss with the left hand
-               <lb facs="#facs_20_tr_2_tl_2" n="N002"/>with the word "pantheism" without giving a meaningful definition of this word! --- then perhaps the
-               <lb facs="#facs_20_tr_2_tl_3" n="N003"/>left hand wouldn't be enough! --- in any case, in this great philosophy which Spinoza represents,
+               <lb facs="#facs_20_tr_2_tl_2" n="N002"/>with the word "<Pantheism>pantheism</Pantheism>" without giving a meaningful definition of this word! --- then perhaps the
+               <lb facs="#facs_20_tr_2_tl_3" n="N003"/>left hand wouldn't be enough! --- in any case, in this great philosophy which <rs type="person" key=", tillich_person_id__1832">Spinoza</rs> represents,
                <lb facs="#facs_20_tr_2_tl_4" n="N004"/>we can say we have a system of expression, namely expressing the divine ground of [or] substance
-               <lb facs="#facs_20_tr_2_tl_5" n="N005"/>of reality in everything finite, and therefore everything finite---as already in Aristotle---is in a drive
-               <lb facs="#facs_20_tr_2_tl_6" n="N006"/>back towards the infinite ground, a drive which Spinoza calls the "intellectual love" which becomes
+               <lb facs="#facs_20_tr_2_tl_5" n="N005"/>of reality in everything finite, and therefore everything finite---as already in <rs type="person" key=", tillich_person_id__80">Aristotle</rs>---is in a drive
+               <lb facs="#facs_20_tr_2_tl_6" n="N006"/>back towards the infinite ground, a drive which <rs type="person" key=", tillich_person_id__1832">Spinoza </rs>calls the "intellectual love" which becomes
                <lb facs="#facs_20_tr_2_tl_7" n="N007"/>actual only in man.
-               <lb facs="#facs_20_tr_2_tl_8" n="N008"/>Now this doctrine of expression can be applied to art. It is a kind of ontological background
-               <lb facs="#facs_20_tr_2_tl_9" n="N009"/>of an understanding of this third function of art, namely to express reality.
-               <lb facs="#facs_20_tr_2_tl_10" n="N010"/>What is expressed? Three things. First, objectively: the material of the finite, of the
+               <lb facs="#facs_20_tr_2_tl_8" n="N008"/>Now this doctrine of expression can be applied to <Art>art</Art>. It is a kind of ontological background
+               <lb facs="#facs_20_tr_2_tl_9" n="N009"/>of an understanding of this third function of art, namely to <Expressive_function>express</Expressive_function> reality.
+               <lb facs="#facs_20_tr_2_tl_10" n="N010"/>What is <Expressive_function>expressed</Expressive_function>? Three things. First, objectively: the material of the finite, of the
             </ab>
             <ab facs="#facs_20_tr_1">
                <lb facs="#facs_20_tr_1_tl_1" n="N001"/>finite reality in time and space, which is used---in words or pictures or musical sounds or other
                <lb facs="#facs_20_tr_1_tl_2" n="N002"/>expressions. Secondly, the expression of the encounter of him who creates, or in hearing and
                <lb facs="#facs_20_tr_1_tl_3" n="N003"/>seeing recreates, the expression of subjectivity. And the third---and for this reason I brought
-               <lb facs="#facs_20_tr_1_tl_4" n="N004"/>Spinoza's philosophy in---the expression of ULTIMATE reality. And the way in which ULTIMATE
+               <lb facs="#facs_20_tr_1_tl_4" n="N004"/><rs type="person" key=", tillich_person_id__1832">Spinoza</rs>'s philosophy in---the expression of <Ultimacy>ULTIMATE</Ultimacy> reality. And the way in which ULTIMATE
             </ab>
             <pb facs="#facs_21" n="part2_p021.jpg" xml:id="img_0021"/>
             <ab facs="#facs_21_tr_2">
                <lb facs="#facs_21_tr_2_tl_1" n="N001"/>[301]
-               <lb facs="#facs_21_tr_2_tl_2" n="N002"/>reality is expressed is the STYLE of a work of art. I will come to this; style is of fundamental
+               <lb facs="#facs_21_tr_2_tl_2" n="N002"/><Ultimacy>reality</Ultimacy> is expressed is the <Style>STYLE</Style> of a work of <Art>art</Art>. I will come to this; style is of fundamental
                <lb facs="#facs_21_tr_2_tl_5" n="N003"/>importance. The style of a work of art is an expression of the encounter of the artist with ultimate
                <lb facs="#facs_21_tr_2_tl_6" n="N004"/>reality, even if he expresses ultimate reality in atheistic terms.
-               <lb facs="#facs_21_tr_2_tl_7" n="N005"/>Now in this sense we can say, in this third function---to express---we have reached, more than
+               <lb facs="#facs_21_tr_2_tl_7" n="N005"/>Now in this sense we can say, in this third function---<Expressive_function>to express</Expressive_function>---we have reached, more than
                <lb facs="#facs_21_tr_2_tl_8" n="N006"/>in the two others, the heart of the artistic function. Its greatness is its expressive power, and the basis
                <lb facs="#facs_21_tr_2_tl_9" n="N007"/>of its expressive power is the encounter between the creative artist and the reality which he encounters.
                <lb facs="#facs_21_tr_2_tl_10" n="N008"/>This is the first consideration which I want to make. Now I come on this basis to the way
-               <lb facs="#facs_21_tr_2_tl_11" n="N009"/>in which the expression is done. This is SYMBOL. I have already spoken last semester about religious
+               <lb facs="#facs_21_tr_2_tl_11" n="N009"/>in which the expression is done. This is <Symbols>SYMBOL</Symbols>. I have already spoken last semester about religious
             </ab>
             <ab facs="#facs_21_tr_1">
                <lb facs="#facs_21_tr_1_tl_1" n="N001"/>symbols. We have to come back to them if we relate them to artistic ones. But I didn't speak
-               <lb facs="#facs_21_tr_1_tl_2" n="N002"/>about artistic symbols and their relation to religious ones. That is the next thing we must do,
-               <lb facs="#facs_21_tr_1_tl_3" n="N003"/>especially if we agree that the expressive function of art is its basic function and its most
+               <lb facs="#facs_21_tr_1_tl_2" n="N002"/>about <Art>artistic</Art> symbols and their relation to religious ones. That is the next thing we must do,
+               <lb facs="#facs_21_tr_1_tl_3" n="N003"/>especially if we agree that the <Expressive_function>expressive function</Expressive_function> of art is its basic function and its most
                <lb facs="#facs_21_tr_1_tl_6" n="N004"/>characteristic and innermost function.
-               <lb facs="#facs_21_tr_1_tl_7" n="N005"/>Let me say a little about symbols generally. There are, first, two groups of symbols,
+               <lb facs="#facs_21_tr_1_tl_7" n="N005"/>Let me say a little about<Symbols> symbols </Symbols>generally. There are, first, two groups of symbols,
                <lb facs="#facs_21_tr_1_tl_8" n="N006"/>the one which should be called signs, but since we cannot do this---the linguistic development has
                <lb facs="#facs_21_tr_1_tl_9" n="N007"/>ruined the word symbol as [it has] most other words, and we must walk all the time through this
                <lb facs="#facs_21_tr_1_tl_10" n="N008"/>slum of a ruined language which we must move in, in modern times---for very different reasons,
-               <lb facs="#facs_21_tr_1_tl_11" n="N009"/>which we will explain later. Since this is so, we must speak of reflective symbols, psychological
-               <lb facs="#facs_21_tr_1_tl_12" n="N010"/>symbols, and, most important, of representative symbols.
+               <lb facs="#facs_21_tr_1_tl_11" n="N009"/>which we will explain later. Since this is so, we must speak of <Symbols_reflective>reflective symbols</Symbols_reflective>, <Symbols_psychological>psychological
+               <lb break="no" facs="#facs_21_tr_1_tl_12" n="N010"/>symbols</Symbols_psychological>, and, most important, of <Symbols_representative>representative symbols</Symbols_representative>.
             </ab>
             <pb facs="#facs_22" n="part2_p022.jpg" xml:id="img_0022"/>
             <ab facs="#facs_22_tr_3">
                <lb facs="#facs_22_tr_3_tl_1" n="N001"/>[302]
-               <lb facs="#facs_22_tr_3_tl_2" n="N002"/>Reflective symbols are symbols used in our reflexive <hi style="font-style: italic;">[sic] </hi>and dealing with empirical reality.
+               <lb facs="#facs_22_tr_3_tl_2" n="N002"/><Symbols_reflective>Reflective symbols </Symbols_reflective>are symbols used in our reflexive <hi style="font-style: italic;">[sic] </hi>and dealing with empirical reality.
                <lb facs="#facs_22_tr_3_tl_4" n="N003"/>This can be, in the technical realm---red or green light at the corner of the street; it can be in language---
                <lb facs="#facs_22_tr_3_tl_5" n="N004"/>words which are so much defined that they have only one meaning; letters which we use in order to write
                <lb facs="#facs_22_tr_3_tl_6" n="N005"/>words; mathematical signs, which are called "symbols" with a special emphasis, and often with a kind
@@ -3826,9 +3827,9 @@
             <ab facs="#facs_22_tr_2">
                <lb facs="#facs_22_tr_2_tl_1" n="N001"/>when I first learned at school about the root of minus one, which is of course an impossible and
                <lb facs="#facs_22_tr_2_tl_2" n="N002"/>very mysterious thing! But it is nothing but the definition the mathematician gives to it; it is not
-               <lb facs="#facs_22_tr_2_tl_3" n="N003"/>a representative symbol for the mystical depth of reality, but is a reflective symbol to calculating
+               <lb facs="#facs_22_tr_2_tl_3" n="N003"/>a <Symbols_representative>representative symbol</Symbols_representative> for the mystical depth of reality, but is a reflective symbol to calculating
                <lb facs="#facs_22_tr_2_tl_5" n="N004"/>a higher mathematics.
-               <lb facs="#facs_22_tr_2_tl_6" n="N005"/>Then the word is used very much for psychological symbols. I would also call them
+               <lb facs="#facs_22_tr_2_tl_6" n="N005"/>Then the words [sic.] is used very much for <Symbols_psychological>psychological symbols</Symbols_psychological>. I would also call them
                <lb facs="#facs_22_tr_2_tl_9" n="N006"/>signs and not symbols, i.e. the contents of dreams, the contents of the unconscious which comes
                <lb facs="#facs_22_tr_2_tl_10" n="N007"/>out in the associations of the room of the psychoanalyst. These are called symbols-of-the-unconscious.
                <lb facs="#facs_22_tr_2_tl_11" n="N008"/>They use material of the conscious world, but they express something else than what these things mean,
@@ -3838,13 +3839,13 @@
                <lb facs="#facs_22_tr_1_tl_1" n="N001"/>of despair, of fear, etc. They mean something which in their reality they don't mean at all, where
                <lb facs="#facs_22_tr_1_tl_2" n="N002"/>only some slight connotations abuse [?] this character. They are signs for the state of the unconscious.
                <lb facs="#facs_22_tr_1_tl_3" n="N003"/>But they do not represent anything else than the state of the unconscious. Therefore I would suggest---
-               <lb facs="#facs_22_tr_1_tl_4" n="N004"/>but hopelessly, and so I had better not do it!---that they shouldn't be called symbols either,
+               <lb facs="#facs_22_tr_1_tl_4" n="N004"/>but hopelessly, and so I had better not do it!--- that they shouldn't be called symbols either,
                <lb facs="#facs_22_tr_1_tl_5" n="N005"/>they should be signs of the unconscious, and nothing else.
             </ab>
             <pb facs="#facs_23" n="part2_p023.jpg" xml:id="img_0023"/>
             <ab facs="#facs_23_tr_2">
                <lb facs="#facs_23_tr_2_tl_1" n="N001"/>[303]
-               <lb facs="#facs_23_tr_2_tl_2" n="N002"/>The third group are representative symbols. Here we come to the real realm of the symbolic.
+               <lb facs="#facs_23_tr_2_tl_2" n="N002"/>The third group are <Symbols_representative>representative symbols</Symbols_representative>. Here we come to the real realm of the symbolic.
                <lb facs="#facs_23_tr_2_tl_3" n="N003"/>They can be divided into (1) linguistic symbols---words can be only signs, but as we shall see,
                <lb facs="#facs_23_tr_2_tl_4" n="N004"/>in poetry they can become also symbols by a special process. Then (2) artistic symbols; (3) historical-
                <lb facs="#facs_23_tr_2_tl_5" n="N005"/>political (or briefly, political) symbols; and (4) religious symbols. In these cases the symbols are not
@@ -3854,7 +3855,7 @@
                <lb facs="#facs_23_tr_2_tl_9" n="N009"/>with a real horse. Therefore it can be exchanged for other psychological signs of the state of the unconscious.
             </ab>
             <ab facs="#facs_23_tr_3">
-               <lb facs="#facs_23_tr_3_tl_1" n="N001"/>Representative symbols, however, cannot be exchanged. Now this is clear first in language.
+               <lb facs="#facs_23_tr_3_tl_1" n="N001"/><Symbols_representative>Representative symbols</Symbols_representative>, however, cannot be exchanged. Now this is clear first in language.
                <lb facs="#facs_23_tr_3_tl_2" n="N002"/>If words were nothing but well defined mathematical signs, as some logical positivists want to make
                <lb facs="#facs_23_tr_3_tl_3" n="N003"/>them into, then of course they would belong to signs of reflective symbols and not to representative
                <lb facs="#facs_23_tr_3_tl_4" n="N004"/>symbols. But no word in the living language of man has this character. Every word has almost
@@ -3883,7 +3884,7 @@
                <lb facs="#facs_24_tr_1_tl_3" n="N003"/>Then I come to a political---or if you want, the historical-political---symbols, mostly persons
                <lb facs="#facs_24_tr_1_tl_4" n="N004"/>and outstanding events. They are subject-matter in themselves. They are empirical. And they could
                <lb facs="#facs_24_tr_1_tl_5" n="N005"/>be photographed, psychographed, phonographed in every moment of their existence. But they wouldn't
-               <lb facs="#facs_24_tr_1_tl_6" n="N006"/>change the situation if they have become symbols. A figure like Lincoln in this country is an
+               <lb facs="#facs_24_tr_1_tl_6" n="N006"/>change the situation if they have become symbols. A figure like <rs type="person" key=", tillich_person_id__1183">Lincoln</rs> in this country is an
                <lb facs="#facs_24_tr_1_tl_7" n="N007"/>empirical figure, with whom all this could have been done. But he is much more than this. He is
                <lb facs="#facs_24_tr_1_tl_8" n="N008"/>representative for one of the fundamental meanings of the existence of this country, and, I personally
                <lb facs="#facs_24_tr_1_tl_10" n="N009"/>would feel, for the BEST meaning of this country. Now this is symbolic and goes far beyond what can
@@ -3903,13 +3904,13 @@
                <lb facs="#facs_25_tr_2_tl_5" n="N005"/>battle in which Western culture was saved for more than a thousand years. Therefore, far
                <lb facs="#facs_25_tr_2_tl_6" n="N006"/>beyond the empirical events, this battle represents the existence of Western society. This is a political
                <lb facs="#facs_25_tr_2_tl_7" n="N007"/>symbol.
-               <lb facs="#facs_25_tr_2_tl_8" n="N008"/>Now I don't need to go into this; you understand immediately that these representative
+               <lb facs="#facs_25_tr_2_tl_8" n="N008"/>Now I don't need to go into this; you understand immediately that these <Symbols_representative>representative</Symbols_representative>
             </ab>
             <ab facs="#facs_25_tr_3">
-               <lb facs="#facs_25_tr_3_tl_1" n="N001"/>symbols are not only signs; they participate in the power of that which they represent and which has
+               <lb facs="#facs_25_tr_3_tl_1" n="N001"/><Symbols_representative>symbols</Symbols_representative> are not only signs; they participate in the power of that which they represent and which has
                <lb facs="#facs_25_tr_3_tl_2" n="N002"/>happened.
-               <lb facs="#facs_25_tr_3_tl_3" n="N003"/>The same is true of religious synbo symbols, and at the time when we spoke about them I said
-               <lb facs="#facs_25_tr_3_tl_4" n="N004"/>that they are the ONLY in which we can speak about that which is ultimate and transcends the
+               <lb facs="#facs_25_tr_3_tl_3" n="N003"/>The same is true of religious synbo [sic.] symbols, and at the time when we spoke about them I said
+               <lb facs="#facs_25_tr_3_tl_4" n="N004"/>that they are the ONLY in which we can speak about that which is <Ultimacy>ultimate</Ultimacy> and transcends the
                <lb facs="#facs_25_tr_3_tl_5" n="N005"/>material reality, the subject-matter which is used IN ORDER to symbolize the ultimate. All these
                <lb facs="#facs_25_tr_3_tl_6" n="N006"/>symbols are taken from persons and events and qualities and acts which happen in time and space.
                <lb facs="#facs_25_tr_3_tl_7" n="N007"/>But they all, if they are used to symbolize the ultimate, get a quite different meaning.
@@ -3917,8 +3918,8 @@
             </ab>
             <ab facs="#facs_25_tr_1">
                <lb facs="#facs_25_tr_1_tl_1" n="N001"/>double nature, pointing-beyond-itself---namely the relationship of a social group to the ultimate---
-               <lb facs="#facs_25_tr_1_tl_2" n="N002"/>which cannot be expressed in any other way.
-               <lb facs="#facs_25_tr_1_tl_3" n="N003"/>These are the common characteristics of all symbols of the last type, the representative type,
+               <lb facs="#facs_25_tr_1_tl_2" n="N002"/>which cannot be expressed in anyother [sic.] way.
+               <lb facs="#facs_25_tr_1_tl_3" n="N003"/>These are the common characteristics of all <Symbols_representative>symbols</Symbols_representative> of the last type, the representative type,
                <lb facs="#facs_25_tr_1_tl_4" n="N004"/>which are not signs but genuine symbols. To this realm belong the artistic symbols, and I will speak
                <lb facs="#facs_25_tr_1_tl_6" n="N005"/>more about them next time.
             </ab>
@@ -3930,11 +3931,11 @@
                <lb facs="#facs_26_tr_2_tl_4" n="N004"/>non-representative, symbols (the reflective symbols), and also in contrast to the psychological
                <lb facs="#facs_26_tr_2_tl_5" n="N005"/>symbols which are actually signs and not symbols---they are, so to speak, symptoms (symptom means
                <lb facs="#facs_26_tr_2_tl_6" n="N006"/>sign, not symbol). Therefore we concentrate on the representative symbols. I gave you characteristics
-               <lb facs="#facs_26_tr_2_tl_7" n="N007"/>of these symbols which appear in language, in history, and in religion, and also in the arts. I didn't
+               <lb facs="#facs_26_tr_2_tl_7" n="N007"/>of these symbols which appear in language, in history, and in religion, and also in the <Art>arts</Art>. I didn't
             </ab>
             <ab facs="#facs_26_tr_3">
                <lb facs="#facs_26_tr_3_tl_3" n="N001"/>speak about the latter ones because they are the subject of today's lecture.
-               <lb facs="#facs_26_tr_3_tl_4" n="N002"/>Let us go into thespecial [sic.] character of the artistic symbols. I had a long time of hesitation
+               <lb facs="#facs_26_tr_3_tl_4" n="N002"/>Let us go into thespecial [sic.] character of the <Symbols_artistic>artistic symbols</Symbols_artistic>. I had a long time of hesitation
                <lb facs="#facs_26_tr_3_tl_5" n="N003"/>before I decided to speak of artistic symbols at all, for the reason which those of you who know
                <lb facs="#facs_26_tr_3_tl_6" n="N004"/>a little about history of art will immediately understand. There is such a thing as intentionally symbolic
                <lb facs="#facs_26_tr_3_tl_7" n="N005"/>art, for instance produced by the so-called pre-Raphaelites at the end of the 19th century in England.
@@ -3955,10 +3956,10 @@
                <lb facs="#facs_27_tr_1_tl_2" n="N002"/>itself--not at all visible. You are in it, but you don't go beyond it. And if you go beyond it to
                <lb facs="#facs_27_tr_1_tl_3" n="N003"/>something else, as in symbolistic art, then it is bad art.
                <lb facs="#facs_27_tr_1_tl_4" n="N004"/>This was the second reason. But both reasons fell down in the course of more intensive
-               <lb facs="#facs_27_tr_1_tl_5" n="N005"/>reflection and of discussions in mutual seminars at Columbia University which I had together with
-               <lb facs="#facs_27_tr_1_tl_6" n="N006"/>my friend and philosophical critic Jack Randall [John H. Randall, Jr.] whom some of you know.
+               <lb facs="#facs_27_tr_1_tl_5" n="N005"/>reflection and of discussions in mutual seminars at <rs type="place">Columbia University</rs> which I had together with
+               <lb facs="#facs_27_tr_1_tl_6" n="N006"/>my friend and philosophical critic <rs type="person" key=", tillich_person_id__1556">Jack Randall</rs> [John H. Randall, Jr.], whom some of you know.
                <lb facs="#facs_27_tr_1_tl_7" n="N007"/>In these discussions, which lasted for several semesters, I finally was convinced that the
-               <lb facs="#facs_27_tr_1_tl_8" n="N008"/>definition of symbol as I gave it to you last Tuesday (the pointing-beyond-itself, the figurative
+               <lb facs="#facs_27_tr_1_tl_8" n="N008"/>definition of <Symbols>symbol</Symbols> as I gave it to you last Tuesday (the pointing-beyond-itself, the figurative
                <lb facs="#facs_27_tr_1_tl_9" n="N009"/>character, the participation in the power of that which IS symbolized, the opening up of a reality
                <lb facs="#facs_27_tr_1_tl_10" n="N010"/>which otherwise is not opened up but closed, the opening up of levels of the soul)---that all these
                <lb facs="#facs_27_tr_1_tl_11" n="N011"/>characteristics also fit the artistic realm, so that my hesitation could be overcome. Now the first
@@ -3968,8 +3969,8 @@
                <lb facs="#facs_27_tr_3_tl_2" n="N002"/>symbolic character, it is INDEED bad art to invent special symbols which immediately bring you
                <lb facs="#facs_27_tr_3_tl_3" n="N003"/>OUT of the real realm of reality which is the material for every symbolism. So that argument
                <lb facs="#facs_27_tr_3_tl_4" n="N004"/>didn't stand. The other argument didn't stand either: if we define sharply what it means,
-               <lb facs="#facs_27_tr_3_tl_5" n="N005"/>"pointing beyond," "going beyond"---and this analysis I will now give you I will start with that
-               <lb facs="#facs_27_tr_3_tl_6" n="N006"/>art which is more my hobby, the visual arts, and especially painting. I know certainly that this is not
+               <lb facs="#facs_27_tr_3_tl_5" n="N005"/>"pointing beyond," "going beyond"---and this analysis I will now give youI [sic.] will start with that
+               <lb facs="#facs_27_tr_3_tl_6" n="N006"/><Art>art</Art> which is more my hobby, the visual arts, and especially painting. I know certainly that this is not
                <lb facs="#facs_27_tr_3_tl_7" n="N007"/>the hobby of Americans, especially Protestant Americans, where especially music and poetry are
                <lb facs="#facs_27_tr_3_tl_8" n="N008"/>predominant. Nevertheless, just for this reason it is good that I try to use the visual arts as my main
             </ab>
@@ -3983,7 +3984,7 @@
                <lb facs="#facs_28_tr_2_tl_6" n="N006"/>clouds, beautiful sky usually, rivers, old mills, or whatever it may be. But I mean now a GOOD
             </ab>
             <ab facs="#facs_28_tr_1">
-               <lb facs="#facs_28_tr_1_tl_1" n="N001"/>picture, by [Jacob van] Ruisdael [1628-1682], or some other great painter. Now what happens
+               <lb facs="#facs_28_tr_1_tl_1" n="N001"/>picture, by <rs type="person" key=", tillich_person_id__3008">[Jacob van] Ruisdael </rs>[1628-1682], or some other great painter. Now what happens
                <lb facs="#facs_28_tr_1_tl_2" n="N002"/>if you look at such a picture? Do you say this is a good, desirable place to take a walk?---or as the
                <lb facs="#facs_28_tr_1_tl_3" n="N003"/>Americans would say, to drive in and read the New York Times? <hi style="font-style: italic;">[laughter]</hi>. Or is there something
                <lb facs="#facs_28_tr_1_tl_4" n="N004"/>else which is happening? I think if we analyze ourselves, we immediately are clear: there is something
@@ -4012,14 +4013,14 @@
                <lb facs="#facs_29_tr_4_tl_1" n="N001"/>artistic revelation." Therefore one rightly speaks of the "revelatory" character of great art; if the
                <lb facs="#facs_29_tr_4_tl_2" n="N002"/>word revelatory here is removed from its genuinely religious sense and simply means opening up a
                <lb facs="#facs_29_tr_4_tl_3" n="N003"/>dimension of reality which is otherwise closed.
-               <lb facs="#facs_29_tr_4_tl_4" n="N004"/>When I spoke about symbols generally, I said that this is not only the case with respect
+               <lb facs="#facs_29_tr_4_tl_4" n="N004"/>When I spoke about <Symbols>symbols</Symbols> generally, I said that this is not only the case with respect
                <lb facs="#facs_29_tr_4_tl_5" n="N005"/>to the encountered reality but also with respect to the encountering soul---if you allow me to use this
                <lb facs="#facs_29_tr_4_tl_6" n="N006"/>German romantic word "soul," which now must be translated by the word "psychological," although
             </ab>
             <ab facs="#facs_29_tr_1">
-               <lb facs="#facs_29_tr_1_tl_1" n="N001"/><hi style="font-style: italic;">psyche</hi> originally meant "soul," but since we now have psychology without soul, the word soul
+               <lb facs="#facs_29_tr_1_tl_1" n="N001"/><hi style="font-style: italic;">psychē</hi> originally meant "soul," but since we now have psychology without soul, the word soul
                <lb facs="#facs_29_tr_1_tl_2" n="N002"/>cannot be used any more. I KNOW ! I mean the total personality in all its different dimensions, levels
-               <lb facs="#facs_29_tr_1_tl_3" n="N003"/>and functions. And when I mean this---the centered life process, as the word <hi style="font-style: italic;">psyche</hi> originally me8t [sic.]
+               <lb facs="#facs_29_tr_1_tl_3" n="N003"/>and functions. And when I mean this---the centered life process, as the word <hi style="font-style: italic;">psychē</hi> originally me8t [sic.]
                <lb facs="#facs_29_tr_1_tl_4" n="N004"/>meant in Greek---now if I speak about this, then I would say: there are levels or dimensions in our total
                <lb facs="#facs_29_tr_1_tl_5" n="N005"/>being---in our soul, if you allow me that word---which cannot be opened up in any other way than by art.
                <lb facs="#facs_29_tr_1_tl_6" n="N006"/>Now everybody would agree with this. Those of you who are musical can easiest agree with me because
@@ -4031,7 +4032,7 @@
                <lb facs="#facs_30_tr_3_tl_2" n="N002"/>("great" always means simply "artistic" here)---I don't want to graduate the artists, but there is
                <lb facs="#facs_30_tr_3_tl_3" n="N003"/>so much nonsense or [pomp] in the SO-CALLED "artistic" realm that I must use an adjective, either
                <lb facs="#facs_30_tr_3_tl_4" n="N004"/>"genuine" or "great", or I should simply say, in an academic lecture, "artistic," and then the word is
-               <lb facs="#facs_30_tr_3_tl_5" n="N005"/>really defined. What's REALLY art? If you listen to such a piece of music, something happens to you
+               <lb facs="#facs_30_tr_3_tl_5" n="N005"/>really defined. What's REALLY <Art>art</Art>? If you listen to such a piece of music, something happens to you
                <lb facs="#facs_30_tr_3_tl_6" n="N006"/>which is very badly characterized by the word "emotion." Of course emotion is everywhere,
                <lb facs="#facs_30_tr_3_tl_7" n="N007"/>in everything we do, even sometimes when I give a lecture! But emotion in itself is nothing if it is
             </ab>
@@ -4039,11 +4040,11 @@
                <lb facs="#facs_30_tr_2_tl_1" n="N001"/>not impregnated with meaning. And it is emotion united with meaning, with the experience of meaning.
                <lb facs="#facs_30_tr_2_tl_2" n="N002"/>It is an encounter with one's own being and the being of one's world, which happens if you listen
                <lb facs="#facs_30_tr_2_tl_3" n="N003"/>to this music. Certainly there is emotion in it, but emotion doesn't define it.
-               <lb facs="#facs_30_tr_2_tl_4" n="N004"/>So we have in the artistic symbols the characteristics of symbol generally. They point
+               <lb facs="#facs_30_tr_2_tl_4" n="N004"/>So we have in the artistic symbols the characteristics of <Symbols>symbol </Symbols>generally. They point
                <lb facs="#facs_30_tr_2_tl_5" n="N005"/>beyond themselves, they open up levels of reality which otherwise are closed, they open up levels
                <lb facs="#facs_30_tr_2_tl_6" n="N006"/>of the soul which otherwise are not conscious. And also the last point, which I didn't mention yet:
                <lb facs="#facs_30_tr_2_tl_7" n="N007"/>participation in the power of that which they symbolize. I expressed that when I said this realm
-               <lb facs="#facs_30_tr_2_tl_8" n="N008"/>which is opened up by a landscape of Ruisdael is not something BESIDE the painted landscape,
+               <lb facs="#facs_30_tr_2_tl_8" n="N008"/>which is opened up by a landscape of <rs type="person" key=", tillich_person_id__3008">Ruisdael</rs> is not something BESIDE the painted landscape,
                <lb facs="#facs_30_tr_2_tl_9" n="N009"/>but it is in it, with it, and under it; it is inseparably united with it, so that a landscape participates
                <lb facs="#facs_30_tr_2_tl_10" n="N010"/>in the power of that which it represents in itself.
             </ab>

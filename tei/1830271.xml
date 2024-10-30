@@ -5528,7 +5528,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_173">
          <graphic url="part1_p173.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=UYURSCHFQSRQBWGOQTPMSPUZ&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=UYURSCHFQSRQBWGOQTPMSPUZ&amp;amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="298,216 298,3463 2319,3463 2319,216" rendition="TextRegion" xml:id="facs_173_tr_3">
             <zone points="1148,300 1174,300 1179,305 1194,305 1196,310 1237,310 1249,300 1262,300 1262,227 1237,230 1224,242 1209,237 1196,242 1148,242" rendition="Line" xml:id="facs_173_tr_3_tl_1"/>
             <zone points="487,452 593,517 1179,500 1340,444 2239,444 2239,394 1863,381 487,414" rendition="Line" xml:id="facs_173_tr_3_tl_2" subtype="paragraph"/>
@@ -5579,7 +5579,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_175">
          <graphic url="part1_p175.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=YGLBYCAIFQOZQSDGYQFUXYPP&amp;amp;amp;amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=YGLBYCAIFQOZQSDGYQFUXYPP&amp;amp;amp;amp;amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="32,244 32,3481 2397,3481 2397,244" rendition="TextRegion" xml:id="facs_175_tr_1">
             <zone points="1122,299 1144,304 1157,317 1168,317 1176,309 1184,317 1194,317 1202,309 1216,317 1240,317 1240,224 1186,229 1160,251 1122,248" rendition="Line" xml:id="facs_175_tr_1_tl_1"/>
             <zone points="259,467 2176,461 2176,411 1493,413 1448,368 1384,413 259,427" rendition="Line" xml:id="facs_175_tr_1_tl_2"/>
@@ -6281,7 +6281,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_203">
          <graphic url="part1_p203.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=UEEETCMJMQHFQKKSRBKGIJZH&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=UEEETCMJMQHFQKKSRBKGIJZH&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="220,189 220,3484 2355,3484 2355,189" rendition="TextRegion" xml:id="facs_203_tr_1">
             <zone points="1137,264 1164,269 1172,277 1206,280 1241,280 1262,269 1262,192 1238,194 1209,186 1203,192 1187,189 1177,197 1137,197" rendition="Line" xml:id="facs_203_tr_1_tl_1"/>
             <zone points="216,445 2090,423 2090,365 1906,341 216,394" rendition="Line" xml:id="facs_203_tr_1_tl_2"/>
@@ -6308,7 +6308,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_204">
          <graphic url="part1_p204.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=FTXWAKXQDIKYTHBEWGFFZJBV&amp;amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=FTXWAKXQDIKYTHBEWGFFZJBV&amp;amp;amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="32,227 32,3492 2382,3492 2382,227" rendition="TextRegion" xml:id="facs_204_tr_1">
             <zone points="1272,285 1290,285 1309,295 1350,295 1355,301 1379,293 1386,285 1399,285 1399,233 1368,231 1350,241 1337,238 1322,225 1309,238 1272,238" rendition="Line" xml:id="facs_204_tr_1_tl_1"/>
             <zone points="363,446 710,417 2270,474 2267,422 358,337" rendition="Line" xml:id="facs_204_tr_1_tl_2"/>
@@ -6522,7 +6522,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_213">
          <graphic url="part1_p213.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=LTDDOTEQWPGMNBSNAWHGWGHW&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LTDDOTEQWPGMNBSNAWHGWGHW&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="26,216 26,3479 2355,3479 2355,216" rendition="TextRegion" xml:id="facs_213_tr_1">
             <zone points="1099,279 1112,279 1131,293 1199,293 1207,285 1223,285 1223,219 1184,219 1176,211 1160,208 1139,224 1099,224" rendition="Line" xml:id="facs_213_tr_1_tl_1"/>
             <zone points="206,488 258,456 366,446 883,448 886,385 662,398 638,374 366,377 301,361 261,322 208,322" rendition="Line" xml:id="facs_213_tr_1_tl_2" subtype="heading"/>
@@ -6702,7 +6702,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_220">
          <graphic url="part1_p220.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=CBYROGDLSLUSSRYRSHLCLQNB&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=CBYROGDLSLUSSRYRSHLCLQNB&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="47,212 47,3477 2343,3477 2343,212" rendition="TextRegion" xml:id="facs_220_tr_1">
             <zone points="1256,276 1277,276 1287,286 1376,286 1374,217 1361,217 1343,235 1323,227 1313,237 1300,225 1292,230 1254,230" rendition="Line" xml:id="facs_220_tr_1_tl_1"/>
             <zone points="342,419 1601,434 1767,470 2107,444 2107,398 1887,396 1800,312 1726,391 340,370" rendition="Line" xml:id="facs_220_tr_1_tl_2"/>
@@ -6777,7 +6777,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_223">
          <graphic url="part1_p223.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=HPQDDWXFXFQHHVJGSQWNOSBL&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=HPQDDWXFXFQHHVJGSQWNOSBL&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="247,184 247,3491 2307,3491 2307,184" rendition="TextRegion" xml:id="facs_223_tr_2">
             <zone points="1201,263 1213,263 1226,275 1256,273 1261,278 1274,275 1281,281 1297,278 1307,268 1319,270 1324,192 1286,195 1279,190 1256,195 1244,207 1206,210" rendition="Line" xml:id="facs_223_tr_2_tl_1"/>
             <zone points="265,425 958,420 1021,468 1709,457 1762,420 2232,450 2297,412 2257,354 1825,369 1749,291 1628,369 1491,331 1446,374 1410,339 1375,372 265,389" rendition="Line" xml:id="facs_223_tr_2_tl_2"/>
@@ -6828,7 +6828,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_225">
          <graphic url="part1_p225.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=CEKGEZFTHDNPDJGICEWEMECA&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=CEKGEZFTHDNPDJGICEWEMECA&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="17,216 17,3473 2319,3473 2319,216" rendition="TextRegion" xml:id="facs_225_tr_1">
             <zone points="1147,294 1164,294 1172,301 1261,299 1261,223 1225,223 1212,210 1182,230 1147,230" rendition="Line" xml:id="facs_225_tr_1_tl_1"/>
             <zone points="294,440 2116,443 2071,385 1380,397 1321,357 1258,400 1215,364 1180,400 294,405" rendition="Line" xml:id="facs_225_tr_1_tl_2"/>
@@ -6853,7 +6853,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_226">
          <graphic url="part1_p226.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=YHYGLUOGWSLCXRMUHGYBESSJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=YHYGLUOGWSLCXRMUHGYBESSJ&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="50,197 50,3495 2316,3495 2316,197" rendition="TextRegion" xml:id="facs_226_tr_1">
             <zone points="1168,268 1193,268 1208,278 1282,278 1282,214 1255,214 1240,207 1230,212 1223,209 1218,214 1203,209 1186,226 1168,226" rendition="Line" xml:id="facs_226_tr_1_tl_1"/>
             <zone points="354,416 2064,423 2108,467 2248,428 2248,369 2162,310 2103,369 354,374" rendition="Line" xml:id="facs_226_tr_1_tl_2"/>
@@ -6879,7 +6879,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_227">
          <graphic url="part1_p227.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=AEDCHQDFDAOMWZLBAGPHMGMW&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AEDCHQDFDAOMWZLBAGPHMGMW&amp;amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="277,201 277,3441 2337,3441 2337,201" rendition="TextRegion" xml:id="facs_227_tr_2">
             <zone points="1038,274 1051,274 1069,294 1089,289 1113,294 1120,286 1164,286 1166,225 1136,225 1128,233 1107,235 1089,215 1072,228 1041,228" rendition="Line" xml:id="facs_227_tr_2_tl_1"/>
             <zone points="263,450 1378,432 1355,381 266,412" rendition="Line" xml:id="facs_227_tr_2_tl_2"/>
@@ -8421,26 +8421,26 @@
                <lb facs="#facs_3_tr_1_tl_7" n="N002"/>Religion and Culture
                <lb facs="#facs_3_tr_1_tl_8" n="N003"/>Humanities 127
                <lb facs="#facs_3_tr_1_tl_9" n="N004"/>Select and discuss three of the following problems:
-               <lb facs="#facs_3_tr_1_tl_10" n="N005"/>1. Artistic and religious symbols,
+               <lb facs="#facs_3_tr_1_tl_10" n="N005"/>1. Artistic and religious <Symbols>symbols</Symbols>,
                <lb facs="#facs_3_tr_1_tl_11" n="N006"/>2. The religious meaning of the artistic movements since the 19th century.
-               <lb facs="#facs_3_tr_1_tl_12" n="N007"/>3. The perversion of means and ends in industrial society.
-               <lb facs="#facs_3_tr_1_tl_13" n="N008"/>4. Churches in industrial society, adaptation and resistance.
+               <lb facs="#facs_3_tr_1_tl_12" n="N007"/>3. The perversion of means and ends in <Industrialism>industrial </Industrialism>society.
+               <lb facs="#facs_3_tr_1_tl_13" n="N008"/>4. Churches in <Industrialism>industrial society</Industrialism>, adaptation and resistance.
                <lb facs="#facs_3_tr_1_tl_14" n="N009"/>5. Types of educational ideals.
-               <lb facs="#facs_3_tr_1_tl_15" n="N010"/>6. Questions and answers in religious education.
-               <lb facs="#facs_3_tr_1_tl_16" n="N011"/>7. The three functions of the university.
-               <lb facs="#facs_3_tr_1_tl_17" n="N012"/>8. The position of the theological faculty within the university.
-               <lb facs="#facs_3_tr_1_tl_18" n="N013"/>9. The unconditional character of the moral imperative.
-               <lb facs="#facs_3_tr_1_tl_19" n="N014"/>10. Natural law and the source of the ethical command.
-               <lb facs="#facs_3_tr_1_tl_20" n="N015"/>11. The universality of love and the particular ethical situation.
+               <lb facs="#facs_3_tr_1_tl_15" n="N010"/>6. Questions and answers in <Religious_Education>religious education</Religious_Education>.
+               <lb facs="#facs_3_tr_1_tl_16" n="N011"/>7. The three functions of the <University>university</University>.
+               <lb facs="#facs_3_tr_1_tl_17" n="N012"/>8. The position of the<Theology_Faculty> theological faculty</Theology_Faculty> within the university.
+               <lb facs="#facs_3_tr_1_tl_18" n="N013"/>9. The <Unconditioned_the>unconditional</Unconditioned_the> character of the moral imperative.
+               <lb facs="#facs_3_tr_1_tl_19" n="N014"/>10. <Natural_Law>Natural law</Natural_Law> and the source of the ethical command.
+               <lb facs="#facs_3_tr_1_tl_20" n="N015"/>11. The universality of <Love>love </Love>and the particular ethical situation.
                <lb facs="#facs_3_tr_1_tl_23" n="N016"/>12. Ethics of being and the ethics of law.
-               <lb facs="#facs_3_tr_1_tl_26" n="N017"/>13. Demonic structures in individual and social life.
-               <lb facs="#facs_3_tr_1_tl_29" n="N018"/>14. The ideal of personality and its dangers.
-               <lb facs="#facs_3_tr_1_tl_30" n="N019"/>15. Different concepts of individuality.
-               <lb facs="#facs_3_tr_1_tl_31" n="N020"/>16. Authority in fact and authority in principle.
-               <lb facs="#facs_3_tr_1_tl_32" n="N021"/>17. Conformism and patternization.
-               <lb facs="#facs_3_tr_1_tl_33" n="N022"/>18. Pragmatic politics and ultimate principles.
-               <lb facs="#facs_3_tr_1_tl_34" n="N023"/>19. Political movements and the Christian message.
-               <lb facs="#facs_3_tr_1_tl_35" n="N024"/>20. The problem of authority in state and church.
+               <lb facs="#facs_3_tr_1_tl_26" n="N017"/>13. <Demonic>Demonic </Demonic>structures in individual and social life.
+               <lb facs="#facs_3_tr_1_tl_29" n="N018"/>14. The ideal of <Personality>personality </Personality>and its dangers.
+               <lb facs="#facs_3_tr_1_tl_30" n="N019"/>15. Different concepts of <Individuality>individuality</Individuality>.
+               <lb facs="#facs_3_tr_1_tl_31" n="N020"/>16. <Authority>Authority </Authority>in fact and authority in principle.
+               <lb facs="#facs_3_tr_1_tl_32" n="N021"/>17. <Conformism>Conformism </Conformism>and patternization.
+               <lb facs="#facs_3_tr_1_tl_33" n="N022"/>18. <Pragmatism>Pragmatic </Pragmatism>politics and ultimate principles.
+               <lb facs="#facs_3_tr_1_tl_34" n="N023"/>19. <Political_Movement>Political movements</Political_Movement> and the Christian message.
+               <lb facs="#facs_3_tr_1_tl_35" n="N024"/>20. The problem of authority in <State>state </State>and <Church>church</Church>.
             </ab>
             <pb facs="#facs_4" n="part1_p004.jpg" xml:id="img_0004"/>
             <p facs="#facs_4_tr_2">
@@ -13369,12 +13369,12 @@
             <pb facs="#facs_173" n="part1_p173.jpg" xml:id="img_0173"/>
             <ab facs="#facs_173_tr_3">
                <lb facs="#facs_173_tr_3_tl_1" n="N001"/>[169]
-               <lb facs="#facs_173_tr_3_tl_2" n="N002"/>The <truth_of_faith>truth of faith</truth_of_faith> and <truth_philosophical>philosophical truth</truth_philosophical>---that is our next subject. I am sorry we must
+               <lb facs="#facs_173_tr_3_tl_2" n="N002"/>The<Truth_of_faith> truth of faith</Truth_of_faith> and <Truth_philosophical>philosophical truth</Truth_philosophical>---that is our next subject. I am sorry we must
                <lb facs="#facs_173_tr_3_tl_3" n="N003"/>wait for a whole week before we can go on, after I give the initial statements today, but this also is
                <lb facs="#facs_173_tr_3_tl_4" n="N004"/>historical destiny! <hi style="font-style: italic;">[smiling, referring to the Thanksgiving recess---slight laughter]</hi>. Now we have
-               <lb facs="#facs_173_tr_3_tl_5" n="N005"/>seen that neither <Science>s<Truth_scientific>cientific</Truth_scientific></Science> n<Historical_research>or <truth_historical>historical truth </truth_historical></Historical_research>can affirm or negate the <truth_of_faith>truth of<Faith> faith</Faith></truth_of_faith>. If it could,
-               <lb facs="#facs_173_tr_3_tl_6" n="N006"/>it wouldn't be <truth_of_faith>truth of faith</truth_of_faith>, but would be probability of scientific research. And the <truth_of_faith>truth of
-               <lb break="no" facs="#facs_173_tr_3_tl_7" n="N007"/>faith</truth_of_faith> can neither affirm nor negate scientific or historical truth. No statement of faith can guarantee
+               <lb facs="#facs_173_tr_3_tl_5" n="N005"/>seen that neither <Science>s<Truth_scientific>cientific</Truth_scientific></Science> nor <Historical_research>historical</Historical_research> <Truth_historical>truth</Truth_historical> can affirm or negate the<Truth_of_faith> truth</Truth_of_faith> of<Faith> faith</Faith>. If it could,
+               <lb facs="#facs_173_tr_3_tl_6" n="N006"/>it wouldn't be <Truth_of_faith>truth of faith</Truth_of_faith>, but would be probability of scientific research. And the truth of
+               <lb facs="#facs_173_tr_3_tl_7" n="N007"/>faith can neither affirm nor negate scientific or historical truth. No statement of faith can guarantee
                <lb facs="#facs_173_tr_3_tl_8" n="N008"/>any scientific statement or can guarantee any historical statement---about that, I just spoke. Now
                <lb facs="#facs_173_tr_3_tl_9" n="N009"/>perhaps here I should make one more remark.
                <lb facs="#facs_173_tr_3_tl_10" n="N010"/>If someone says, "Now is it not a <History>historical statement </History>if you say something has happened
@@ -13391,19 +13391,19 @@
             <pb facs="#facs_174" n="part1_p174.jpg" xml:id="img_0174"/>
             <ab facs="#facs_174_tr_1">
                <lb facs="#facs_174_tr_1_tl_1" n="N001"/>[170]
-               <lb facs="#facs_174_tr_1_tl_2" n="N002"/>Now from this follows (and I repeat this): no <Truth_scientific>scientific</Truth_scientific> or <truth_historical>historical truth</truth_historical> can affirm
-               <lb facs="#facs_174_tr_1_tl_3" n="N003"/>or negate the <truth_of_faith>truth of faith</truth_of_faith>. And the truth of faith can neither affirm nor negate scientific or
+               <lb facs="#facs_174_tr_1_tl_2" n="N002"/>Now from this follows (and I repeat this): no <Truth_scientific>scientific</Truth_scientific> or <Truth_historical>historical truth</Truth_historical> can affirm
+               <lb facs="#facs_174_tr_1_tl_3" n="N003"/>or negate the<Truth_of_faith> truth of faith</Truth_of_faith>. And the truth of faith can neither affirm nor negate scientific or
                <lb facs="#facs_174_tr_1_tl_4" n="N004"/>historical truth. This is the presupposition of the existence of <Faith>faith </Faith>at all. In the moment in which
                <lb facs="#facs_174_tr_1_tl_5" n="N005"/>one of these statements is wrong, then we have to give up faith, or we have to give up the
                <lb facs="#facs_174_tr_1_tl_6" n="N006"/>scientific or historical truth. I am not inclined to give up the one or the other; l believe---and this is
                <lb facs="#facs_174_tr_1_tl_7" n="N007"/>ITSELF a matter of my faith---that Providence has put man into this situation of different dimensions
                <lb facs="#facs_174_tr_1_tl_8" n="N008"/>of knowledge, and that he has to STAND this, and not to escape it by one of the wrong alternatives
                <lb facs="#facs_174_tr_1_tl_9" n="N009"/>which I just described.
-               <lb facs="#facs_174_tr_1_tl_10" n="N010"/>But now the question arises whether <truth_philosophical>philosophical truth</truth_philosophical> has the same relation to the <truth_of_faith>truth
-               <lb break="no" facs="#facs_174_tr_1_tl_11" n="N011"/>of faith,</truth_of_faith> or whether the relation is more complex. I don't hesitate to say that it is more complex.
+               <lb facs="#facs_174_tr_1_tl_10" n="N010"/>But now the question arises whether <Truth_philosophical>philosophical truth</Truth_philosophical> has the same relation to the <Truth_of_faith>truth
+               <lb break="no" facs="#facs_174_tr_1_tl_11" n="N011"/>of faith</Truth_of_faith>, or whether the relation is more complex. I don't hesitate to say that it is more complex.
                <lb facs="#facs_174_tr_1_tl_12" n="N012"/>Even something else follows from this greater complexity of the relation of philosophical and religious
-               <lb facs="#facs_174_tr_1_tl_13" n="N013"/>truth, namely if <truth_philosophical>philosophical truth</truth_philosophical> has a very complex relationship to the truth of faith, then this
-               <lb facs="#facs_174_tr_1_tl_14" n="N014"/>also makes the relation to <Truth_scientific>scientific</Truth_scientific> and<truth_historical> historical truth </truth_historical>more complex because there is philosophical
+               <lb facs="#facs_174_tr_1_tl_13" n="N013"/>truth, namely if <Truth_philosophical>philosophical truth</Truth_philosophical> has a very complex relationship to the truth of faith, then this
+               <lb facs="#facs_174_tr_1_tl_14" n="N014"/>also makes the relation to <Truth_scientific>scientific</Truth_scientific> and <Truth_historical>historical truth </Truth_historical>more complex because there is philosophical
                <lb facs="#facs_174_tr_1_tl_16" n="N015"/>truth in both of them; philosophy is the all-embracing element in all cognitive endeavor, and therefore
                <lb facs="#facs_174_tr_1_tl_18" n="N016"/>if the problem "<Philosophy_of_Philosophy>philosophy of religion"</Philosophy_of_Philosophy> is asked, then here ALSO the difficulty (or complexity, let us
                <lb facs="#facs_174_tr_1_tl_19" n="N017"/>better say) is greater.
@@ -13419,7 +13419,7 @@
                <lb facs="#facs_175_tr_1_tl_4" n="N004"/>escape, and therefore a problem everybody wants to escape, because the problems which we CANNOT
                <lb facs="#facs_175_tr_1_tl_5" n="N005"/>escape are at the same time those problems which are so hard that we would LIKE to escape them.
                <lb facs="#facs_175_tr_1_tl_9" n="N006"/>One of the ways to escape them is that one shares in the opinion which is very popular, that <Philosophy>philosophy</Philosophy>
-               <lb facs="#facs_175_tr_1_tl_10" n="N007"/>and <Faith>faith</Faith>, philosophy and <RELIGION>religion,</RELIGION> are enemies and destroy each other. The trouble is that such a
+               <lb facs="#facs_175_tr_1_tl_10" n="N007"/>and <Faith>faith</Faith>, philosophy and <Religion>religion</Religion>, are enemies and destroy each other. The trouble is that such a
                <lb facs="#facs_175_tr_1_tl_11" n="N008"/>popular escape---which we don’t mind because the popular mind is not predisposed to find a solution
                <lb facs="#facs_175_tr_1_tl_12" n="N009"/>to such problems: they have to find the solution to OTHER problems, in which these problems are
                <lb facs="#facs_175_tr_1_tl_13" n="N010"/>IMplicit, but not EXplicit---but if theologians do the SAME thing and do it AFTER they have used
@@ -13430,7 +13430,7 @@
                <lb facs="#facs_175_tr_1_tl_19" n="N015"/>using concepts which are produced by philosophy in order to reject philosophy in the theological endeavor.
                <lb facs="#facs_175_tr_1_tl_20" n="N016"/>That is something which I would call irresponsible.
                <lb facs="#facs_175_tr_1_tl_21" n="N017"/>Now if someone comes to me and says, "l don’t see that l use <Concept>philosophical concepts</Concept>, l use
-               <lb facs="#facs_175_tr_1_tl_22" n="N018"/>only <Concept><Bible>biblical </Bible>concepts,</Concept>" then he might be excused insofar as he doesn't know very much about the
+               <lb facs="#facs_175_tr_1_tl_22" n="N018"/>only <Bible>biblical</Bible> <Concept>concepts,</Concept>" then he might be excused insofar as he doesn't know very much about the
                <lb facs="#facs_175_tr_1_tl_23" n="N019"/>Bible---and ignorance always can be excused---but if he reads the Bible with KNOWLEDGE, then he
                <lb facs="#facs_175_tr_1_tl_24" n="N020"/>will find that even the <rs type="person" key=", tillich_person_id__1468">Pauline</rs> letters are full of <Stoicism>Stoic ethics, f</Stoicism>ull of <Neoplatonism>Neoplatonic</Neoplatonism> concepts, and
             </ab>
@@ -13502,20 +13502,20 @@
             <pb facs="#facs_179" n="part1_p179.jpg" xml:id="img_0179"/>
             <ab facs="#facs_179_tr_2">
                <lb facs="#facs_179_tr_2_tl_1" n="N001"/>[175]
-               <lb facs="#facs_179_tr_2_tl_2" n="N002"/>is presupposed, then the relation of <truth_philosophical>philosophical truth</truth_philosophical> and the <truth_of_faith>truth of faith</truth_of_faith> can be determined.
-               <lb facs="#facs_179_tr_2_tl_3" n="N003"/>Then <truth_philosophical>philosophical truth</truth_philosophical> is truth about the <Structure_of_Being>structure of being-</Structure_of_Being>--which of course includes the structure
+               <lb facs="#facs_179_tr_2_tl_2" n="N002"/>is presupposed, then the relation of <Truth_philosophical>philosophical truth</Truth_philosophical> and the <Truth_of_faith>truth of faith</Truth_of_faith> can be determined.
+               <lb facs="#facs_179_tr_2_tl_3" n="N003"/>Then <Truth_philosophical>philosophical truth </Truth_philosophical>is truth about the <Structure_of_Being>structure of being-</Structure_of_Being>--which of course includes the structure
                <lb facs="#facs_179_tr_2_tl_4" n="N004"/>of knowing, which is a special part of being; or the structure of history, the structure of all categories,
                <lb facs="#facs_179_tr_2_tl_5" n="N005"/>of existence, the essential, and what not. All this is included. But in any case we can sum it all up
                <lb facs="#facs_179_tr_2_tl_6" n="N006"/>when we say "The structure of being."
                <lb facs="#facs_179_tr_2_tl_7" n="N007"/>The truth of being is truth about our <ultimate_concern>ultimate concern</ultimate_concern>. So we now have two preliminary
-               <lb facs="#facs_179_tr_2_tl_8" n="N008"/>answers: <truth_philosophical>philosophical truth</truth_philosophical> is truth about the s<Structure_of_Being>tructure of being</Structure_of_Being>; r<truth_of_faith>eligious truth</truth_of_faith> is truth about our
-               <lb facs="#facs_179_tr_2_tl_9" n="N009"/><ultimate_concern>ultimate concern.</ultimate_concern>
-               <lb facs="#facs_179_tr_2_tl_10" n="N010"/>Up to this point, the relation seems to be very similar to that between the <truth_of_faith>truth of
-               <lb break="no" facs="#facs_179_tr_2_tl_11" n="N011"/>faith </truth_of_faith>and <Truth_scientific>SCIENTIFIC truth.</Truth_scientific> But there is a difference. There is a point of identity between the
-               <lb facs="#facs_179_tr_2_tl_12" n="N012"/><truth_of_faith>truth of faith </truth_of_faith>and <truth_philosophical>philosophical truth</truth_philosophical> which is only indirectly in the scientific realm. There are
+               <lb facs="#facs_179_tr_2_tl_8" n="N008"/>answers: <Truth_philosophical>philosophical truth</Truth_philosophical> is truth about the s<Structure_of_Being>tructure of being</Structure_of_Being>; <Truth_of_faith>religious truth</Truth_of_faith> is truth about our
+               <lb facs="#facs_179_tr_2_tl_9" n="N009"/>ultimate concern.
+               <lb facs="#facs_179_tr_2_tl_10" n="N010"/>Up to this point, the relation seems to be very similar to that between the<Truth_of_faith> truth of
+               <lb break="no" facs="#facs_179_tr_2_tl_11" n="N011"/>faith</Truth_of_faith> and <Truth_scientific>SCIENTIFIC truth.</Truth_scientific> But there is a difference. There is a point of identity between the
+               <lb facs="#facs_179_tr_2_tl_12" n="N012"/>truth of faith and <Truth_philosophical>philosophical truth </Truth_philosophical>which is only indirectly in the scientific realm. There are
                <lb facs="#facs_179_tr_2_tl_13" n="N013"/>two ultimates here. The <Philosophy>philosophica</Philosophy>l question asks the question of ultimate reality and its
-               <lb facs="#facs_179_tr_2_tl_14" n="N014"/><Structure_of_Being>structure</Structure_of_Being>, which is in every special reality; and <RELIGION>religion</RELIGION> asks the question <ultimate_concern>of what concerns us
-               <lb break="no" facs="#facs_179_tr_2_tl_15" n="N015"/>ultimately</ultimate_concern>, which certainly ALSO must be ultimately real, otherwise it wouldn’t concern us,
+               <lb facs="#facs_179_tr_2_tl_14" n="N014"/><Structure_of_Being>structure</Structure_of_Being>, which is in every special reality; and <Religion>religion</Religion> asks the question of what concerns us
+               <lb facs="#facs_179_tr_2_tl_15" n="N015"/><ultimate_concern>ultimately</ultimate_concern>, which certainly ALSO must be ultimately real, otherwise it wouldn’t concern us,
                <lb facs="#facs_179_tr_2_tl_16" n="N016"/>ultimately. Only <Ultimacy>ULTIMATE</Ultimacy> reality can concern us ultimately. The transitory things cannot
                <lb facs="#facs_179_tr_2_tl_17" n="N017"/>concern us ultimately.
                <lb facs="#facs_179_tr_2_tl_18" n="N018"/>So we are here in the problem of two <Ultimacy>ultimates</Ultimacy>: the philosophical and the theological.
@@ -13526,8 +13526,8 @@
             <pb facs="#facs_180" n="part1_p180.jpg" xml:id="img_0180"/>
             <ab facs="#facs_180_tr_1">
                <lb facs="#facs_180_tr_1_tl_1" n="N001"/>[176]
-               <lb facs="#facs_180_tr_1_tl_2" n="N002"/><truth_philosophical>Philosophical truth</truth_philosophical> consists in true <Concept><Truth_conceptual>concepts</Truth_conceptual> </Concept>concerning the manifestation of the ultimate
-               <lb facs="#facs_180_tr_1_tl_3" n="N003"/>in the universe. The <truth_of_faith>truth of faith</truth_of_faith> consists in true <Symbols><Truth_symbolic>symbols</Truth_symbolic> </Symbols>concerning our existential RELATION
+               <lb facs="#facs_180_tr_1_tl_2" n="N002"/><Truth_philosophical>Philosophical truth</Truth_philosophical> consists in true <Concept><Truth_conceptual>concepts</Truth_conceptual> </Concept>concerning the manifestation of the ultimate
+               <lb facs="#facs_180_tr_1_tl_3" n="N003"/>in the universe. The <Truth_of_faith>truth of faith</Truth_of_faith> consists in true <Symbols><Truth_symbolic>symbols</Truth_symbolic> </Symbols>concerning our existential RELATION
                <lb facs="#facs_180_tr_1_tl_4" n="N004"/>to the ultimate.
                <lb facs="#facs_180_tr_1_tl_5" n="N005"/>Now here we are in the center of the problem. The relation between these two is the
                <lb facs="#facs_180_tr_1_tl_6" n="N006"/>problem with which we have to deal; the relation between these two is the problem which has
@@ -13570,7 +13570,7 @@
             <pb facs="#facs_182" n="part1_p182.jpg" xml:id="img_0182"/>
             <ab facs="#facs_182_tr_1">
                <lb facs="#facs_182_l_773" n="N001"/>[177]
-               <lb facs="#facs_182_tr_1_tl_1" n="N002"/>The theologian, if he speaks of r<religious_language>eligious language,</religious_language> speaks of the divine love forgiving the sinner,
+               <lb facs="#facs_182_tr_1_tl_1" n="N002"/>The theologian, if he speaks of <Religious_language>religious language</Religious_language>, speaks of the divine love forgiving the sinner,
                <lb facs="#facs_182_tr_1_tl_2" n="N003"/>or of the divine grace giving power-of-being to those who are in despair, etc. Now this is the
                <lb facs="#facs_182_tr_1_tl_3" n="N004"/>fundamental difference, but both speak of<Ultimacy> ultimate</Ultimacy> reality because only that which is the ultimate,
                <lb facs="#facs_182_tr_1_tl_4" n="N005"/>the ground of being and meaning, can be the ground of everything that is, and can be our ultimate
@@ -13579,7 +13579,7 @@
                <lb facs="#facs_182_tr_1_tl_8" n="N008"/>difficulty arises which is very simple to state, but very difficult to describe. The difficulty is that
                <lb facs="#facs_182_tr_1_tl_9" n="N009"/>the philosopher is a human being and the theologian is a man who has the possibility of thinking.
                <lb facs="#facs_182_tr_1_tl_10" n="N010"/>That makes all the difference. THEY BOTH ARE MEN; they both participate in human existence;
-               <lb facs="#facs_182_tr_1_tl_11" n="N011"/>they both have <ultimate_concern>ultimate concern;</ultimate_concern> and they both ask the question of the <Structure_of_Being>structure of being, </Structure_of_Being>because
+               <lb facs="#facs_182_tr_1_tl_11" n="N011"/>they both have <ultimate_concern>ultimate concern</ultimate_concern>; and they both ask the question of the <Structure_of_Being>structure of being, </Structure_of_Being>because
                <lb facs="#facs_182_tr_1_tl_12" n="N012"/>no human being can completely escape these two realities which belong to human nature.
                <lb facs="#facs_182_tr_1_tl_13" n="N013"/>As I said in another place, every human being philosophizes and theologizes, [just] as every human
                <lb facs="#facs_182_tr_1_tl_14" n="N014"/>being moralizes and politicizes. These categories are functions of the human mind in which everybody
@@ -13605,7 +13605,7 @@
                <lb facs="#facs_183_tr_3_tl_13" n="N011"/>This is certainly necessary, is an important endeavor, and justified. But partly it doesn’t cover the
                <lb facs="#facs_183_tr_3_tl_14" n="N012"/>whole of it what has been called philosophy. And beyond this, if it is MORE than this, in the
                <lb facs="#facs_183_tr_3_tl_15" n="N013"/>moment in which it makes criticisms of other philosophers, of theologians, it becomes philosophy
-               <lb facs="#facs_183_tr_3_tl_16" n="N014"/>itself and shows an <ultimate_concern>ultimate concern</ultimate_concern>. It shows an interpretation of being by relating language to
+               <lb facs="#facs_183_tr_3_tl_16" n="N014"/>itself and shows an <ultimate_concern>ultimate concern.</ultimate_concern> It shows an interpretation of being by relating language to
                <lb facs="#facs_183_tr_3_tl_17" n="N015"/>reality, semantics to that to which the <hi style="font-style: italic;">seimata</hi>, the signs, point. And in the moment in which they
                <lb facs="#facs_183_tr_3_tl_18" n="N016"/>do this, in which the logical positivists or epistemologists speak about reality at all---and they do it
                <lb facs="#facs_183_tr_3_tl_19" n="N017"/>more and more today---in the same moment they become sons of classical philosophy, and their
@@ -13631,7 +13631,7 @@
             <ab facs="#facs_185_tr_1">
                <lb facs="#facs_185_tr_1_tl_1" n="N001"/>[181]
                <lb facs="#facs_185_tr_1_tl_2" n="N002"/>LECTURE XVI, Nov. 29, 1955
-               <lb facs="#facs_185_tr_1_tl_3" n="N003"/>We began the discussion of <RELIGION>religion</RELIGION> and <Philosophy>philosophy</Philosophy>, and the first thing I discussed last time
+               <lb facs="#facs_185_tr_1_tl_3" n="N003"/>We began the discussion of <Religion>religion</Religion> and <Philosophy>philosophy</Philosophy>, and the first thing I discussed last time
                <lb facs="#facs_185_tr_1_tl_4" n="N004"/>was the difficulty in giving a definition of what philosophy is, because this is usually the expression of
                <lb facs="#facs_185_tr_1_tl_5" n="N005"/>a special philosophy, and every philosopher who has a special vision of reality gives a different definition,
                <lb facs="#facs_185_tr_1_tl_6" n="N006"/>when it comes to an exact definition. But instead of that, l gave a more general description, pointing
@@ -13644,10 +13644,10 @@
                <lb facs="#facs_185_tr_1_tl_13" n="N013"/>by the <hi style="font-style: italic;">eros</hi> toward <hi style="font-style: italic;">sophia</hi>, meaning wisdom <hi style="font-style: italic;">(sapientia)</hi>, or as the medieval philosophers defined it,
                <lb facs="#facs_185_tr_1_tl_14" n="N014"/>the knowledge of principles. And "principle" meant the <Structure_of_Being>structures of being </Structure_of_Being>and of the good.
                <lb facs="#facs_185_tr_1_tl_15" n="N015"/>Now this general meaning presupposes a type of human being who is driven, on the
-               <lb facs="#facs_185_tr_1_tl_16" n="N016"/>one hand, by an ultimate passion---called <eros>"eros" </eros>by <rs type="person" key=", tillich_person_id__1510">Plato</rs>. That for which they were struggling
-               <lb facs="#facs_185_tr_1_tl_17" n="N017"/>and for which they often became martyrs was a matter of<ultimate_concern> ultimate concern</ultimate_concern> for them. In this
+               <lb facs="#facs_185_tr_1_tl_16" n="N016"/>one hand, by an ultimate passion---called "<Eros>eros</Eros>" by <rs type="person" key=", tillich_person_id__1510">Plato</rs>. That for which they were struggling
+               <lb facs="#facs_185_tr_1_tl_17" n="N017"/>and for which they often became martyrs was a matter of <ultimate_concern>ultimate concern</ultimate_concern> for them. In this
                <lb facs="#facs_185_tr_1_tl_18" n="N018"/>sense, they were religious---if religion is "being ultimately concerned." On the other hand,
-               <lb facs="#facs_185_tr_1_tl_19" n="N019"/>they wanted to fulfill this <eros>eros</eros> towards the really real, towards true being, in terms of clear and
+               <lb facs="#facs_185_tr_1_tl_19" n="N019"/>they wanted to fulfill this <Eros>eros</Eros> towards the really real, towards true being, in terms of clear and
                <lb facs="#facs_185_tr_1_tl_20" n="N020"/>detached observation and description. They tried to go into the discussion of the structure of reality
             </ab>
             <pb facs="#facs_186" n="part1_p186.jpg" xml:id="img_0186"/>
@@ -13655,7 +13655,7 @@
                <lb facs="#facs_186_tr_1_tl_1" n="N001"/>[182]
                <lb facs="#facs_186_tr_1_tl_2" n="N002"/>in terms of that attitude which later developed as the scientific attitude.
                <lb facs="#facs_186_tr_1_tl_4" n="N003"/>So there are two elements in every philosopher, an element of <ultimate_concern>ultimate concern</ultimate_concern> which
-               <lb facs="#facs_186_tr_1_tl_5" n="N004"/>gives the passion, the <eros>eros,</eros> the driving power, to the philosopher; and at the same time, the <Detached_observation>detached
+               <lb facs="#facs_186_tr_1_tl_5" n="N004"/>gives the passion, the<Eros> eros, </Eros>the driving power, to the philosopher; and at the same time, the <Detached_observation>detached
                <lb break="no" facs="#facs_186_tr_1_tl_6" n="N005"/>attitude</Detached_observation>, the coldness of observation and of adequate description. In this polarity and this tension,
                <lb facs="#facs_186_tr_1_tl_8" n="N006"/>all great philosophers were living. And you can observe how these two elements supported each other -
 
@@ -13774,7 +13774,7 @@
                <lb facs="#facs_191_tr_2_tl_7" n="N006"/>understanding of human nature. In the moment in which a historical work implicitly or explicitly
                <lb facs="#facs_191_tr_2_tl_8" n="N007"/>gives assertions about the meaning of historical events for human existence, then the PHILOSOPHICAL
                <lb facs="#facs_191_tr_2_tl_9" n="N008"/>presuppositions of history are evident. Again, where there is <Philosophy>philosophy</Philosophy>, there is expression of an
-               <lb facs="#facs_191_tr_2_tl_10" n="N009"/><ultimate_concern>ultimate concern, </ultimate_concern>there is an element of <Faith>faith; </Faith>however hidden it may be, there is passion for
+               <lb facs="#facs_191_tr_2_tl_10" n="N009"/><ultimate_concern>ultimate concern</ultimate_concern>, there is an element of <Faith>faith; </Faith>however hidden it may be, there is passion for
                <lb facs="#facs_191_tr_2_tl_11" n="N010"/>something ultimate BESIDE the JUSTIFIED and NECESSARY passion of the historian for pure facts.
                <lb facs="#facs_191_tr_2_tl_12" n="N011"/>Now I think these considerations show the unity of human nature in all these functions. These
                <lb facs="#facs_191_tr_2_tl_14" n="N012"/>functions are within each other; they are not BESIDE each other, and if we better understood this
@@ -13789,7 +13789,7 @@
             <pb facs="#facs_192" n="part1_p192.jpg" xml:id="img_0192"/>
             <ab facs="#facs_192_tr_1">
                <lb facs="#facs_192_tr_1_tl_1" n="N001"/>[188]
-               <lb facs="#facs_192_tr_1_tl_2" n="N002"/><truth_philosophical>philosophical truth</truth_philosophical> and the <truth_of_faith>truth of faith</truth_of_faith>. Further, the term seems to indicate that there is ONE
+               <lb facs="#facs_192_tr_1_tl_2" n="N002"/><Truth_philosophical>philosophical truth</Truth_philosophical> and the <Truth_of_faith>truth of faith.</Truth_of_faith> Further, the term seems to indicate that there is ONE
                <lb facs="#facs_192_tr_1_tl_3" n="N003"/><Philosophical_faith>philosophical faith</Philosophical_faith>---as one has often called it, the <hi style="font-style: italic;">philosophie perennis</hi>, the "perennial philosophy."
                <lb facs="#facs_192_tr_1_tl_4" n="N004"/>Now this is a very QUESTIONABLE term, and I would join all the historians who would tell us how
                <lb facs="#facs_192_tr_1_tl_5" n="N005"/>much NON-perennial things always happen in the history of philosophy! And I would say, instead
@@ -13802,12 +13802,12 @@
                <lb facs="#facs_192_tr_1_tl_13" n="N012"/>which makes the mistake of connecting philosophy and religion in a way which makes the difference
                <lb facs="#facs_192_tr_1_tl_14" n="N013"/>impossible.
                <lb facs="#facs_192_tr_1_tl_15" n="N014"/>Now we had said (and this is the result of these considerations so far) that there is <ultimate_concern>ultimate
-               <lb break="no" facs="#facs_192_tr_1_tl_16" n="N015"/>concern-</ultimate_concern>-and that means <Faith>faith, </Faith>or <RELIGION>religion</RELIGION>---in every creative philosophy, in every philosopher who is
+               <lb break="no" facs="#facs_192_tr_1_tl_16" n="N015"/>concern</ultimate_concern>--and that means <Faith>faith, </Faith>or <Religion>religion</Religion>---in every creative philosophy, in every philosopher who is
                <lb facs="#facs_192_tr_1_tl_17" n="N016"/>passionately concerned about being itself and not only a special section of being. But the
-               <lb facs="#facs_192_tr_1_tl_18" n="N017"/>opposite is also true: there is <truth_philosophical>philosophical truth</truth_philosophical> in the <truth_of_faith>truth of faith</truth_of_faith>, although they are never identical.
-               <lb facs="#facs_192_tr_1_tl_19" n="N018"/>We have seen that the <truth_of_faith>truth of faith </truth_of_faith>is expressed in <Symbols>symbols</Symbols>, while the <truth_philosophical>truth of philosoph</truth_philosophical>y is expressed
-               <lb facs="#facs_192_tr_1_tl_20" n="N019"/>in <Concept>concepts,</Concept> and the whole problem now comes down to the problem of the relationship of <Concept><Symbols>concepts</Symbols>
-               <lb break="no" facs="#facs_192_tr_1_tl_21" n="N020"/><Symbols>and symbols.</Symbols></Concept>
+               <lb facs="#facs_192_tr_1_tl_18" n="N017"/>opposite is also true: there is <Truth_philosophical>philosophical truth</Truth_philosophical> in the <Truth_of_faith>truth of faith,</Truth_of_faith> although they are never identical.
+               <lb facs="#facs_192_tr_1_tl_19" n="N018"/>We have seen that the truth of faith is expressed in <Symbols>symbols</Symbols>, while the truth of philosophy is expressed
+               <lb facs="#facs_192_tr_1_tl_20" n="N019"/>in <Concept>concepts,</Concept> and the whole problem now comes down to the problem of the relationship of concepts
+               <lb facs="#facs_192_tr_1_tl_21" n="N020"/>and symbols.
             </ab>
             <pb facs="#facs_193" n="part1_p193.jpg" xml:id="img_0193"/>
             <ab facs="#facs_193_tr_1">
@@ -13860,7 +13860,7 @@
                <lb facs="#facs_195_tr_2_tl_1" n="N001"/>[191]
                <lb facs="#facs_195_tr_2_tl_2" n="N002"/>In other words, philosophy is implied in <Symbols>every symbol </Symbols>of <Faith>faith. </Faith>But this does not
                <lb facs="#facs_195_tr_2_tl_3" n="N003"/>determine the movement of philosophical thought, just as philosophy does not determine the
-               <lb facs="#facs_195_tr_2_tl_4" n="N004"/>character of one's <ultimate_concern>ultimate concern</ultimate_concern>. Symbols of faith can open the eyes of the philosopher for
+               <lb facs="#facs_195_tr_2_tl_4" n="N004"/>character of one's <ultimate_concern>ultimate concern.</ultimate_concern> Symbols of faith can open the eyes of the philosopher for
                <lb facs="#facs_195_tr_2_tl_5" n="N005"/>qualities of the universe which otherwise would not be recognized by him. But faith, religion,
                <lb facs="#facs_195_tr_2_tl_9" n="N006"/>does never command a definite philosophy. The <Myth>myths </Myth>and their conceptual elements can be
                <lb facs="#facs_195_tr_2_tl_10" n="N007"/>understood in many different philosophies, and these philosophies have to fight with each other
@@ -13916,9 +13916,9 @@
                <lb facs="#facs_197_tr_3_tl_12" n="N012"/>implied in<Myth> myth,</Myth> to which I have referred today.
                <lb facs="#facs_197_tr_3_tl_13" n="N013"/>Now this is the situation in more general terms. This leads to different, more concrete
                <lb facs="#facs_197_tr_3_tl_14" n="N014"/>problems with which I will deal next time. One of them is the problem whether philosophy BY ITSELF
-               <lb facs="#facs_197_tr_3_tl_15" n="N015"/>can produce answers to the problem of human existence, to the problem of our <ultimate_concern>ultimate concern.</ultimate_concern>
+               <lb facs="#facs_197_tr_3_tl_15" n="N015"/>can produce answers to the problem of human existence, to the problem of our <ultimate_concern>ultimate concern</ultimate_concern>.
                <lb facs="#facs_197_tr_3_tl_16" n="N016"/>It is the famous question of <Natural_theology>natural theology.</Natural_theology> "Natural theology" means that there are some
-               <lb facs="#facs_197_tr_3_tl_17" n="N017"/>realms of our knowledge of the ultimate---of <truth_of_faith>truth of faith</truth_of_faith>---within which it is possible to
+               <lb facs="#facs_197_tr_3_tl_17" n="N017"/>realms of our knowledge of the ultimate---of <Truth_of_faith>truth of faith--</Truth_of_faith>-within which it is possible to
                <lb facs="#facs_197_tr_3_tl_18" n="N018"/>reach contents by a mere philosophical procedure. Now how this is possible is one of the problems
                <lb facs="#facs_197_tr_3_tl_19" n="N019"/>which are especially discussed today between Roman Catholicism and Protestantism,
             </ab>
@@ -13932,7 +13932,7 @@
                <lb facs="#facs_198_tr_1_tl_6" n="N006"/>realism, static and dynamic philosophy, etc.)---how in the solutions given by the philosophers to
                <lb facs="#facs_198_tr_1_tl_7" n="N007"/>these mere philosophical problems the two elements which l have distinguished in the beginning of
                <lb facs="#facs_198_tr_1_tl_8" n="N008"/>this lecture, APPEAR, ARE MANIFEST, and can be seen, namely the element of <Detached_observation>detached observation,</Detached_observation>
-               <lb facs="#facs_198_tr_1_tl_9" n="N009"/>in [the] special sense <Philosophy>philosophical</Philosophy> element, and on the other hand the element of <ultimate_concern>ultimate concern</ultimate_concern>,
+               <lb facs="#facs_198_tr_1_tl_9" n="N009"/>in [the] special sense <Philosophy>philosophical</Philosophy> element, and on the other hand the element of <ultimate_concern>ultimate concern,</ultimate_concern>
                <lb facs="#facs_198_tr_1_tl_10" n="N010"/>the element of <Faith>faith. </Faith>Now l believe that it is possible, almost page by page, to analyze a philosopher
                <lb facs="#facs_198_tr_1_tl_11" n="N011"/>from the point of view of this distinction.
                <lb facs="#facs_198_tr_1_tl_12" n="N012"/>I will close with a personal experience. When I first read <rs type="person" key=", tillich_person_id__457">John Dewey,</rs> l was told, "Now here
@@ -13943,7 +13943,7 @@
             <ab facs="#facs_199_tr_2">
                <lb facs="#facs_199_tr_2_tl_1" n="N001"/>[195]
                <lb facs="#facs_199_tr_2_tl_2" n="N002"/>LECTURE XVII, Thurs., Dec. 1, 1955
-               <lb facs="#facs_199_tr_2_tl_3" n="N003"/>Tuesday I started the discussion of <RELIGION>religion</RELIGION> and <Philosophy>philosophy </Philosophy>and gave as the basic solution
+               <lb facs="#facs_199_tr_2_tl_3" n="N003"/>Tuesday I started the discussion of <Religion>religion </Religion>and <Philosophy>philosophy </Philosophy>and gave as the basic solution
                <lb facs="#facs_199_tr_2_tl_4" n="N004"/>that the philosopher, as human being, has an <ultimate_concern>ultimate concern</ultimate_concern> which expresses itself in his philosophy;
                <lb facs="#facs_199_tr_2_tl_5" n="N005"/>and that the theologian, as dealing with the <hi style="font-style: italic;">logos</hi>, uses the categories and <Structure_of_Being>structures of being</Structure_of_Being> as they are
                <lb facs="#facs_199_tr_2_tl_6" n="N006"/>developed by the philosopher.
@@ -13993,7 +13993,7 @@
                <lb facs="#facs_201_tr_1_tl_4" n="N004"/>other ways, of <rs type="person" key=", tillich_person_id__1510">Plato</rs> or <rs type="person" key=", tillich_person_id__80">Aristotle,</rs> or of the <rs type="person" key=", tillich_person_id__100">Augustinians </rs>of the old school (<rs type="person" key=", tillich_person_id__249">Bonaventura</rs>) and the
                <lb facs="#facs_201_tr_1_tl_5" n="N005"/>Augustinians of the later school (<rs type="person" key=", tillich_person_id__2074">Ockham</rs>).
                <lb facs="#facs_201_tr_1_tl_6" n="N006"/>Now this discussion isnot [sic.] a play of <Concept>concepts</Concept> and is not only a matter of arguments in the
-               <lb facs="#facs_201_tr_1_tl_7" n="N007"/>realm of philosophical analysis, but behind it is also an <ultimate_concern>ultimate concern,</ultimate_concern> and from the point of view
+               <lb facs="#facs_201_tr_1_tl_7" n="N007"/>realm of philosophical analysis, but behind it is also an <ultimate_concern>ultimate concern</ultimate_concern>, and from the point of view
                <lb facs="#facs_201_tr_1_tl_8" n="N008"/>of this lecture, where l am not supposed to go into this discussion as my real subject, l have to do
                <lb facs="#facs_201_tr_1_tl_9" n="N009"/>at least ONE thing: one must try to show that in this discussion, philosophical arguments and
                <lb facs="#facs_201_tr_1_tl_10" n="N010"/>expressions of ultimate concern are always mixed with each other, and that it is important for every
@@ -14051,7 +14051,7 @@
                <lb facs="#facs_203_tr_1_tl_18" n="N017"/>Now we come to the theological problem implied in this discussion between <Logical_Positivism>positivism</Logical_Positivism> and
                <lb facs="#facs_203_tr_1_tl_19" n="N018"/><Ontology>ontology.</Ontology> In ontology there is not only the acceptance of the <Universal_category>universals</Universal_category> as <Power_of_Being>powers of being</Power_of_Being>, which always
                <lb facs="#facs_203_tr_1_tl_20" n="N019"/>determine that a tree becomes a tree, but there is MORE involved, namely that experience OF power-of-
-               <lb facs="#facs_203_tr_1_tl_21" n="N020"/>being itself. And THAT experience is a matter of <ultimate_concern>ultimate concern.</ultimate_concern> I have often been criticized from
+               <lb facs="#facs_203_tr_1_tl_21" n="N020"/>being itself. And THAT experience is a matter of <ultimate_concern>ultimate concern</ultimate_concern>. I have often been criticized from
                <lb facs="#facs_203_tr_1_tl_22" n="N021"/><Nominalism>nominalistic</Nominalism> theologians who of course wouldn't call themselves nominalistic---they call themselves
             </ab>
             <pb facs="#facs_204" n="part1_p204.jpg" xml:id="img_0204"/>
@@ -14067,7 +14067,7 @@
                <lb facs="#facs_204_tr_1_tl_10" n="N009"/>in every moment threatened by innumerable forms of nonbeing, of destruction of the <Structure_of_Being>structure of
                <lb break="no" facs="#facs_204_tr_1_tl_11" n="N010"/>being.</Structure_of_Being> Therefore <Ontology>ontology</Ontology> is on the ONE hand a philosophical decision, to be defended with philosophical
                <lb facs="#facs_204_tr_1_tl_12" n="N011"/>arguments on the basis of the meaning of <Universal_category>universals; i</Universal_category>t is on the OTHER hand an expression of <ultimate_concern>ultimate
-               <lb break="no" facs="#facs_204_tr_1_tl_13" n="N012"/>concern </ultimate_concern>about one's participation in <Power_of_Being>the power of being itself.</Power_of_Being>
+               <lb break="no" facs="#facs_204_tr_1_tl_13" n="N012"/>concern</ultimate_concern> about one's participation in <Power_of_Being>the power of being itself.</Power_of_Being>
                <lb facs="#facs_204_tr_1_tl_14" n="N013"/>And then the opposition. The opposition comes from a special power of being which
                <lb facs="#facs_204_tr_1_tl_15" n="N014"/>in some way transcends all others, namely the <Power_of_Being>power of being which we call "personal."</Power_of_Being> Here the
                <lb facs="#facs_204_tr_1_tl_16" n="N015"/><Nominalism>nominalist</Nominalism> argument receives its religious dimension, namely that the bearer of <ultimate_concern>ultimate concern</ultimate_concern> can
@@ -14114,7 +14114,7 @@
                <lb facs="#facs_206_tr_1_tl_12" n="N012"/>a point where you can show him that his concept of being is non-dynamic and non-personal,
                <lb facs="#facs_206_tr_1_tl_13" n="N013"/>is sub-personal, but that since he himself HAS being, he neglects the dimension WHICH HE HIMSELF
                <lb facs="#facs_206_tr_1_tl_14" n="N014"/>IS, and that this is not a matter of philosophical argument alone, but that it is also a matter of
-               <lb facs="#facs_206_tr_1_tl_15" n="N015"/><ultimate_concern>ultimate concern. </ultimate_concern>And here then we would come to the great differences between East and West:
+               <lb facs="#facs_206_tr_1_tl_15" n="N015"/><ultimate_concern>ultimate concern</ultimate_concern>. And here then we would come to the great differences between East and West:
                <lb facs="#facs_206_tr_1_tl_16" n="N016"/>the valuation of the person, which was MAINTAINED BY the <Nominalism>nominalistic</Nominalism> development in the
                <lb facs="#facs_206_tr_1_tl_17" n="N017"/>Middle Ages, and the loss of this as we find it in many Asiatic religions and cultures.
                <lb facs="#facs_206_tr_1_tl_18" n="N018"/>Now what I wanted to give to you was tools for discussions with philosophers or, if you
@@ -14170,7 +14170,7 @@
             <ab facs="#facs_209_tr_1">
                <lb facs="#facs_209_tr_1_tl_1" n="N001"/>[205]
                <lb facs="#facs_209_tr_1_tl_2" n="N002"/>But now, there is a dimension in which this whole discussion is transcended, and here
-               <lb facs="#facs_209_tr_1_tl_3" n="N003"/>the problem of<ultimate_concern> ultimate concern </ultimate_concern>comes into the picture. <Naturalism>Naturalism</Naturalism> doesn't see that there is a
+               <lb facs="#facs_209_tr_1_tl_3" n="N003"/>the problem of <ultimate_concern>ultimate concern</ultimate_concern> comes into the picture. <Naturalism>Naturalism</Naturalism> doesn't see that there is a
                <lb facs="#facs_209_tr_1_tl_4" n="N004"/>dimension of the essential over against what actually is. That's the reason why I said medieval
                <lb facs="#facs_209_tr_1_tl_5" n="N005"/><Realism>realism </Realism>is very much the same as what today is called <Idealism>idealism</Idealism>. Naturalism is monistic in its
                <lb facs="#facs_209_tr_1_tl_6" n="N006"/>tendencies: everything is nature. But if everything is nature, the fundamental distinction between
@@ -14184,7 +14184,7 @@
                <lb facs="#facs_209_tr_1_tl_17" n="N014"/>inner-philosophical realm; they reach the theological dimension. And the decisive thing we must do,
                <lb facs="#facs_209_tr_1_tl_18" n="N015"/>which is always to be done again---and what l give you here is not a medical prescription: you cannot
                <lb facs="#facs_209_tr_1_tl_19" n="N016"/>apply it, simply, but you can use it perhaps in such discussions in order to show where the
-               <lb facs="#facs_209_tr_1_tl_20" n="N017"/>dimension of the <ultimate_concern>ultimate </ultimate_concern>comes into the picture <unconscious>UNCONSCIOUSLY</unconscious> in both groups.
+               <lb facs="#facs_209_tr_1_tl_20" n="N017"/>dimension of the <Ultimacy>ultimate </Ultimacy>comes into the picture <unconscious>UNCONSCIOUSLY </unconscious>in both groups.
                <lb facs="#facs_209_tr_1_tl_21" n="N018"/>I know that in many theological groups <Idealism>idealism</Idealism> is almost identified with religion.
                <lb facs="#facs_209_tr_1_tl_22" n="N019"/>If this happens, I take, almost unambiguously, the side of <Naturalism>naturalism</Naturalism> and
             </ab>
@@ -14217,7 +14217,7 @@
                <lb facs="#facs_211_tr_2_tl_2" n="N002"/>forgetting that there is an essential nature of man which is distorted, in our existential structure.
                <lb facs="#facs_211_tr_2_tl_3" n="N003"/>What kind of statement was this? (It was in a philosophical seminar.) It was a RELIGIOUS
                <lb facs="#facs_211_tr_2_tl_4" n="N004"/>EXCLAMATION, but not a philosophical argument. And that is the distinction l want you
-               <lb facs="#facs_211_tr_2_tl_5" n="N005"/>to make: where are we in the realm of <ultimate_concern>ultimate concern,</ultimate_concern> in these discussions? [and] where are
+               <lb facs="#facs_211_tr_2_tl_5" n="N005"/>to make: where are we in the realm of <ultimate_concern>ultimate concern</ultimate_concern>, in these discussions? [and] where are
                <lb facs="#facs_211_tr_2_tl_6" n="N006"/>we in the realm of philosophical arguments? You will find many philosophers who may make such
                <lb facs="#facs_211_tr_2_tl_7" n="N007"/>statements. You may find, also, some who would say: the world is as it is, as <Existentialism>existentialism</Existentialism> has
                <lb facs="#facs_211_tr_2_tl_8" n="N008"/>described it, a matter of more evil than good. And l know how many young people today feel like this;
@@ -14238,7 +14238,7 @@
                <lb facs="#facs_212_tr_2_tl_1" n="N001"/>[208]
                <lb facs="#facs_212_tr_2_tl_3" n="N002"/>more than after any other lecture, NOT TO BE SATISFIED with these examples, but to get
                <lb facs="#facs_212_tr_2_tl_5" n="N003"/>more of them and, in your work as philosophers or economists or psychologists or anthropologists
-               <lb facs="#facs_212_tr_2_tl_6" n="N004"/>or whatever you study, to try to find out where the dimension of the <ultimate_concern>ultimate</ultimate_concern> appears, makes itself
+               <lb facs="#facs_212_tr_2_tl_6" n="N004"/>or whatever you study, to try to find out where the dimension of the <Ultimacy>ultimate</Ultimacy> appears, makes itself
                <lb facs="#facs_212_tr_2_tl_7" n="N005"/>felt, and where therefore these realms themselves have entered the dimension of ultimate concern.
             </ab>
             <pb facs="#facs_213" n="part1_p213.jpg" xml:id="img_0213"/>
@@ -14261,7 +14261,7 @@
                <lb facs="#facs_213_tr_1_tl_16" n="N016"/>better, Calvinistic) attitude towards reality---the distance-from-the-ultimate of the surface of existence
                <lb facs="#facs_213_tr_1_tl_17" n="N017"/>in which we are moving----produces his form of positivism. That doesn’t take away in any way the
                <lb facs="#facs_213_tr_1_tl_18" n="N018"/>weight of the positivistic argument---certainly not---but it takes away the belief that in a skeptic like <rs type="person">Hume,</rs>
-               <lb facs="#facs_213_tr_1_tl_19" n="N019"/>or in a positivist like <rs type="person">Hume,</rs> the <ultimate_concern>ultimate concern is</ultimate_concern> absent. It is in no way absent, and it shows itself
+               <lb facs="#facs_213_tr_1_tl_19" n="N019"/>or in a positivist like <rs type="person">Hume,</rs> the <ultimate_concern>ultimate concern</ultimate_concern> is absent. It is in no way absent, and it shows itself
             </ab>
             <pb facs="#facs_214" n="part1_p214.jpg" xml:id="img_0214"/>
             <ab facs="#facs_214_tr_2">
@@ -14403,21 +14403,21 @@
             <pb facs="#facs_220" n="part1_p220.jpg" xml:id="img_0220"/>
             <ab facs="#facs_220_tr_1">
                <lb facs="#facs_220_tr_1_tl_1" n="N001"/>[216]
-               <lb facs="#facs_220_tr_1_tl_2" n="N002"/>QN: You said that the <truth_philosophical>truths of philosophy</truth_philosophical> are conceptual, and the <truth_of_faith>truths of theology </truth_of_faith>are
+               <lb facs="#facs_220_tr_1_tl_2" n="N002"/>QN: You said that the <Truth_philosophical>truths of philosophy</Truth_philosophical> are conceptual, and the <Truth_of_faith>truths of theolog</Truth_of_faith>y are
                <lb facs="#facs_220_tr_1_tl_3" n="N003"/>symbolic, truths. Are you not implying that some truths are truer than others, that there are
                <lb facs="#facs_220_tr_1_tl_4" n="N004"/>some approaches to ultimate reality that contain more validity than others?
                <lb facs="#facs_220_tr_1_tl_5" n="N005"/>PT: The question was: what is the relation of truth of <Concept>truth-of-concept </Concept>and <Symbols>truth-of-symbols</Symbols>, and
-               <lb facs="#facs_220_tr_1_tl_6" n="N006"/>whether there are forms of approach to <Ultimacy>ultimate reality</Ultimacy> which are better than others. Now this
+               <lb facs="#facs_220_tr_1_tl_6" n="N006"/>whether there are <Form>forms</Form> of approach to <Ultimacy>ultimate reality</Ultimacy> which are better than others. Now this
                <lb facs="#facs_220_tr_1_tl_7" n="N007"/>question leads me actually to what I wanted to present today, and l will perhaps use this question
                <lb facs="#facs_220_tr_1_tl_8" n="N008"/>to go a little bit into it now. But before doing it, let me answer your question directly.
                <lb facs="#facs_220_tr_1_tl_9" n="N009"/>I would say EVERY knowledge, as <rs type="person" key=", tillich_person_id__1912">Thomas Aquinas </rs>knew, is a knowledge of God because
                <lb facs="#facs_220_tr_1_tl_10" n="N010"/>everything which is, expresses divine creativity. In this sense l can say that the truth which is
                <lb facs="#facs_220_tr_1_tl_11" n="N011"/>developed in symbolic logic says something about God. But it says something about God insofar as
                <lb facs="#facs_220_tr_1_tl_12" n="N012"/>He is expressed in the structure of creation and of the human mind. There is another way, and this
-               <lb facs="#facs_220_tr_1_tl_13" n="N013"/>way is the way of <ultimate_concern>ultimate concern,</ultimate_concern> which is subjective and objective at the same time, where we
+               <lb facs="#facs_220_tr_1_tl_13" n="N013"/>way is the way of <ultimate_concern>ultimate concern</ultimate_concern>, which is subjective and objective at the same time, where we
                <lb facs="#facs_220_tr_1_tl_14" n="N014"/>are in a direct relationship WITH the ultimate. And here ALL these ways and methods---whether
-               <lb facs="#facs_220_tr_1_tl_15" n="N015"/>they are scientific or intuitive are not valid---here the only way which is valid is existential participation
-               <lb facs="#facs_220_tr_1_tl_16" n="N016"/>expressing itself in symbols. So in this sense l would say there is only one direct way of expressing
+               <lb facs="#facs_220_tr_1_tl_15" n="N015"/>they are scientific or intuitive are not valid---here the only way which is valid is <Participation>existential participation</Participation>
+               <lb facs="#facs_220_tr_1_tl_16" n="N016"/>expressing itself in <Symbols>symbols</Symbols>. So in this sense l would say there is only one direct way of expressing
                <lb facs="#facs_220_tr_1_tl_17" n="N017"/>the ultimate, namely the way of expressing our relationship to the ultimate, and this can be done only in
                <lb facs="#facs_220_tr_1_tl_18" n="N018"/>symbolic forms---whereby "only" is not a devaluating concept but, on the contrary, a praising concept!
                <lb facs="#facs_220_tr_1_tl_19" n="N019"/>Now some of you may have other questions, but I will follow this question up now to what
@@ -14427,14 +14427,14 @@
             <ab facs="#facs_221_tr_3">
                <lb facs="#facs_221_tr_3_tl_1" n="N001"/>[217]
                <lb facs="#facs_221_tr_3_tl_2" n="N002"/>it to <Science>science</Science>, <History>history</History> and <Philosophy>philosophy.</Philosophy>
-               <lb facs="#facs_221_tr_3_tl_3" n="N003"/>In which sense can one speak of the <truth_of_faith>truth of faith,</truth_of_faith> or of religion, if the truth of faith
+               <lb facs="#facs_221_tr_3_tl_3" n="N003"/>In which sense can one speak of the <Truth_of_faith>truth of faith</Truth_of_faith>, or of religion, if the truth of faith
                <lb facs="#facs_221_tr_3_tl_4" n="N004"/>cannot be judged by any other kind of truth, neither scientific nor historical nor philosophical?
                <lb facs="#facs_221_tr_3_tl_5" n="N005"/>The whole argument of the last two weeks was to remove the possibility of conflict, or of a judgment
-               <lb facs="#facs_221_tr_3_tl_8" n="N006"/>of the religious truth by scientific <truth_historical>historical</truth_historical> or <truth_philosophical>philosophical truth.</truth_philosophical>
-               <lb facs="#facs_221_tr_3_tl_9" n="N007"/>But then the question is: what kind of truth IS the <truth_of_faith>truth of faith?</truth_of_faith> The answer follows
+               <lb facs="#facs_221_tr_3_tl_8" n="N006"/>of the religious truth by scientific <Truth_historical>historical </Truth_historical>or <Truth_philosophical>philosophical truth</Truth_philosophical>.
+               <lb facs="#facs_221_tr_3_tl_9" n="N007"/>But then the question is: what kind of truth IS the <Truth_of_faith>truth of faith?</Truth_of_faith> The answer follows
                <lb facs="#facs_221_tr_3_tl_10" n="N008"/>from the nature of faith as the state of being <ultimate_concern>ultimately concerned</ultimate_concern>. It has, like the term "concern"
                <lb facs="#facs_221_tr_3_tl_11" n="N009"/>itself, a subjective and an objective side. The truth of faith must be considered both from the subjective
-               <lb facs="#facs_221_tr_3_tl_12" n="N010"/>and the objective side. From the subjective side, one must say that faith is true insofar as it expresses
+               <lb facs="#facs_221_tr_3_tl_12" n="N010"/>and the objective side. From the subjective side, one must say that <Faith>faith</Faith> is true insofar as it expresses
                <lb facs="#facs_221_tr_3_tl_13" n="N011"/>adequately an <ultimate_concern>ultimate concern. </ultimate_concern>Faith is true insofar as it expresses adequately an ultimate concern.
                <lb facs="#facs_221_tr_3_tl_14" n="N012"/>This means, from the subjective side, that one must say that faith is true insofar as its content is the
                <lb facs="#facs_221_tr_3_tl_15" n="N013"/>really ultimate truth. The first answer, from the subjective side, acknowledges that it is true insofar
@@ -14456,7 +14456,7 @@
                <lb break="no" facs="#facs_222_tr_2_tl_7" n="N007"/>OF RELIGION, </History_of_Religion>INCLUDING CHRISTIANITY, IS JUDGED. But being judged does not mean being
                <lb facs="#facs_222_tr_2_tl_8" n="N008"/>rejected. Judging somebody or something means saying Yes and No to him or it. So we have two
                <lb facs="#facs_222_tr_2_tl_9" n="N009"/>criteria: the criterion of <Adequacy>adequacy </Adequacy>and the criterion of<Ultimacy> real ultimacy.</Ultimacy> Where these criteria come
-               <lb facs="#facs_222_tr_2_tl_10" n="N010"/>together, we have<truth_of_faith> truth of faith</truth_of_faith> in the perfect sense. Where the first remains alone, we have truth
+               <lb facs="#facs_222_tr_2_tl_10" n="N010"/>together, we have <Truth_of_faith>truth of faith </Truth_of_faith>in the perfect sense. Where the first remains alone, we have truth
                <lb facs="#facs_222_tr_2_tl_11" n="N011"/>of faith, but it may be distorted idolatrously.
                <lb facs="#facs_222_tr_2_tl_12" n="N012"/>Faith has truth insofar as it expresses an <ultimate_concern>ultimate concern</ultimate_concern> adequately. Now what does
                <lb facs="#facs_222_tr_2_tl_13" n="N013"/><Adequacy>"adequacy" </Adequacy>mean? This word is very important because ordinarily, when we speak about truth,
@@ -14476,7 +14476,7 @@
                <lb facs="#facs_223_tr_2_tl_6" n="N006"/>They still have a REALITY, and this reality shows that it is in all FOLLOWING religion, including
                <lb facs="#facs_223_tr_2_tl_7" n="N007"/>our religion today. <rs type="person" key=", tillich_person_id__69">Apollo</rs> and <rs type="person" key=", tillich_person_id__473">Dionysius</rs> are still present, but they are no longer present as
                <lb facs="#facs_223_tr_2_tl_8" n="N008"/>independent symbols; they have lost their power to create reaction, action, and community.
-               <lb facs="#facs_223_tr_2_tl_9" n="N009"/><Symbols>Symbols</Symbols> which for a certain period, on a certain place, for a certain group express <truth_of_faith>truth of faith,</truth_of_faith>
+               <lb facs="#facs_223_tr_2_tl_9" n="N009"/><Symbols>Symbols</Symbols> which for a certain period, on a certain place, for a certain group express <Truth_of_faith>truth of faith</Truth_of_faith>,
                <lb facs="#facs_223_tr_2_tl_10" n="N010"/>now only remind us [as] historians of the faith of the past. One of the ways in which this often
                <lb facs="#facs_223_tr_2_tl_11" n="N011"/>happens is that they are used <Poetry>poetically</Poetry>. The Greek gods were still alive in the Homeric period,
                <lb facs="#facs_223_tr_2_tl_12" n="N012"/>but <rs type="person" key=", tillich_person_id__926">Homer</rs> also represents the transition from their <Adequacy>adequacy</Adequacy> to a period in which they no longer
@@ -14484,7 +14484,7 @@
                <lb facs="#facs_223_tr_2_tl_14" n="N014"/>ever since: when you come into a theater in <rs type="place">New York</rs> and look at the ceiling or curtain,
                <lb facs="#facs_223_tr_2_tl_15" n="N015"/>you usually find, in most cases, the whole [pantheon of] Olympus represented there. But
                <lb facs="#facs_223_tr_2_tl_16" n="N016"/>none of these gods or figures has power over you in the religious sense, although if it is well
-               <lb facs="#facs_223_tr_2_tl_17" n="N017"/>painted you may STILL feel them---as the people of the Renaissance did---as great <Poetry>poetic symbols.</Poetry>
+               <lb facs="#facs_223_tr_2_tl_17" n="N017"/>painted you may STILL feel them---as the people of the Renaissance did---as great poetic symbols.
                <lb facs="#facs_223_tr_2_tl_18" n="N018"/>But this is quite a change---their truth is no longer the religious truth but an artistic
                <lb facs="#facs_223_tr_2_tl_19" n="N019"/>truth, if it is at all, which is not the case with ALL curtains in ALL theaters today! <hi style="font-style: italic;">[little laughter]</hi>.
                <lb facs="#facs_223_tr_2_tl_20" n="N020"/>Now they have lost their truth. And there is a very interesting question, because in Protestant
@@ -14505,7 +14505,7 @@
                <lb facs="#facs_224_tr_1_tl_12" n="N012"/>FOR THE TIME BEING they have lost their power, and there is one possibility that they will never
                <lb facs="#facs_224_tr_1_tl_14" n="N013"/>gain it again, in that historical continuity in which they once have died.
                <lb facs="#facs_224_tr_1_tl_16" n="N014"/>If we look from this point of view at the <History>history of faith</History>, including our own period,
-               <lb facs="#facs_224_tr_1_tl_17" n="N015"/>then the criterion of the <truth_of_faith>truth of faith</truth_of_faith> is ITS BEING ALIVE---THE <Symbols>SYMBOLS</Symbols> BEING ALIVE.
+               <lb facs="#facs_224_tr_1_tl_17" n="N015"/>then the criterion of the <Truth_of_faith>truth of faith</Truth_of_faith> is ITS BEING ALIVE---THE <Symbols>SYMBOLS</Symbols> BEING ALIVE.
                <lb facs="#facs_224_tr_1_tl_18" n="N016"/>This certainly is not an exact criterion in any scientific sense, but we can call it a pragmatic
                <lb facs="#facs_224_tr_1_tl_19" n="N017"/>criterion, one which we can easily apply to the past---we KNOW the symbols which have no power
                <lb facs="#facs_224_tr_1_tl_20" n="N018"/>any more over anybody today, or of us today---we know the stream of obviously dead symbols.
@@ -14521,17 +14521,17 @@
                <lb facs="#facs_225_tr_1_tl_7" n="N006"/>ALL of those which are preserved in Protestantism---which are very few in comparison with
                <lb facs="#facs_225_tr_1_tl_8" n="N007"/><Roman_Catholicism>Catholicism-</Roman_Catholicism>--can THEY become alive again? Can the <Sacrament>sacraments </Sacrament>become alive again?":
                <lb facs="#facs_225_tr_1_tl_9" n="N008"/>---ALL - - OPEN - - QUESTIONS!
-               <lb facs="#facs_225_tr_1_tl_11" n="N009"/>But this is not the problem of our lectures here. The problem is the<truth_of_faith> truth of faith,</truth_of_faith>
+               <lb facs="#facs_225_tr_1_tl_11" n="N009"/>But this is not the problem of our lectures here. The problem is the <Truth_of_faith>truth of faith</Truth_of_faith>,
                <lb facs="#facs_225_tr_1_tl_12" n="N010"/>and the truth of faith is the<Adequacy> adequacy</Adequacy> and the living power of a symbol.
                <lb facs="#facs_225_tr_1_tl_13" n="N011"/>Now this was in contrast to an ultimate criterion, to the criterion of <Ultimacy>ultimacy, </Ultimacy>as I called it.
                <lb facs="#facs_225_tr_1_tl_14" n="N012"/>This was the criterion of <Adequacy>adequacy.</Adequacy> Let us say a few words about what the criterion of <Ultimacy>ultimacy </Ultimacy>says:
-               <lb facs="#facs_225_tr_1_tl_15" n="N013"/>A <truth_of_faith>truth of faith </truth_of_faith>must express that ultimate which is REALLY ultimate; or, negatively
+               <lb facs="#facs_225_tr_1_tl_15" n="N013"/>A <Truth_of_faith>truth of faith</Truth_of_faith> must express that ultimate which is REALLY ultimate; or, negatively
                <lb facs="#facs_225_tr_1_tl_16" n="N014"/>expressed, it must not be <Idolatrous>idolatrous</Idolatrous>, because every symbol which doesn't express the ultimate that is
-               <lb facs="#facs_225_tr_1_tl_17" n="N015"/>really ultimate is <Idolatrous>idolatrous.</Idolatrous>
+               <lb facs="#facs_225_tr_1_tl_17" n="N015"/>really ultimate is idolatrous.
                <lb facs="#facs_225_tr_1_tl_18" n="N016"/>In the light of this criterion, the history of faith AS A WHOLE, the <History_of_Religion>history of religion,</History_of_Religion>
                <lb facs="#facs_225_tr_1_tl_19" n="N017"/>including Christianity, stands under a severe judgment. It belongs to the weaknesses OF ALL faith
                <lb facs="#facs_225_tr_1_tl_20" n="N018"/>that it becomes <Idolatrous>idolatrous,</Idolatrous> that means, that it elevates a finite element to unconditional validity.
-               <lb facs="#facs_225_tr_1_tl_21" n="N019"/>And this is not only so in polytheism, where we often use the word <Idolatrous>"idolatrous"</Idolatrous> easily, but it is
+               <lb facs="#facs_225_tr_1_tl_21" n="N019"/>And this is not only so in polytheism, where we often use the word "idolatrous" easily, but it is
             </ab>
             <pb facs="#facs_226" n="part1_p226.jpg" xml:id="img_0226"/>
             <ab facs="#facs_226_tr_1">
@@ -14539,7 +14539,7 @@
                <lb facs="#facs_226_tr_1_tl_2" n="N002"/>ALSO so in Christianity, in Judaism, in Islam---in the monotheistic religions which have criticized
                <lb facs="#facs_226_tr_1_tl_3" n="N003"/>to a certain extent <Idolatrous>idolatrous</Idolatrous> elements in the religions in which they appeared; but this criticism
                <lb facs="#facs_226_tr_1_tl_4" n="N004"/>is not strong enough.
-               <lb facs="#facs_226_tr_1_tl_5" n="N005"/>The weakness of all faith is, as <rs type="person" key=", tillich_person_id__354">Calvin</rs> said, that the human mind is a continuously-working
+               <lb facs="#facs_226_tr_1_tl_5" n="N005"/>The weakness of all <Faith>faith</Faith> is, as <rs type="person" key=", tillich_person_id__354">Calvin</rs> said, that the human mind is a continuously-working
                <lb facs="#facs_226_tr_1_tl_6" n="N006"/>f<Idolatrous>actory of idols.</Idolatrous> We all produce idols continuously. Sometimes our work becomes an idol,
                <lb facs="#facs_226_tr_1_tl_7" n="N007"/>sometimes a beloved one becomes an idol, sometimes a religious dogma, a sacrament---and the
                <lb facs="#facs_226_tr_1_tl_8" n="N008"/>human mind never escapes this: it is always creating ultimates which are not REALLY ultimate.
@@ -14549,19 +14549,19 @@
                <lb facs="#facs_226_tr_1_tl_12" n="N012"/>We cannot have the really ultimate as something which we can grasp---then it wouldn't be
                <lb facs="#facs_226_tr_1_tl_13" n="N013"/>ultimate at all. <Ultimacy>Ultimacy</Ultimacy> includes transcendence beyond anything relative, and our language,
                <lb facs="#facs_226_tr_1_tl_14" n="N014"/>and everything we would say about the ultimate, IS relative.
-               <lb facs="#facs_226_tr_1_tl_15" n="N015"/>Therefore I said: the ONLY real ultimate is<Sacrifice> that finite which sacrifices itself AS
-               <lb break="no" facs="#facs_226_tr_1_tl_16" n="N016"/>finit</Sacrifice>e. I referred this to the Messiah who, against all expectations, instead of bringing a new
+               <lb facs="#facs_226_tr_1_tl_15" n="N015"/>Therefore I said: the ONLY real ultimate is that finite which sacrifices itself AS
+               <lb facs="#facs_226_tr_1_tl_16" n="N016"/><Finitude>finite.</Finitude> I referred this to the Messiah who, against all expectations, instead of bringing a new
                <lb facs="#facs_226_tr_1_tl_17" n="N017"/>period of history, was crucified by the OLD period of history. Then I got from many of you the
-               <lb facs="#facs_226_tr_1_tl_18" n="N018"/>question, "Now there are so MANY martyrs; <Sacrifice>self-sacrific</Sacrifice>e canNOT be a criterion, because in
-               <lb facs="#facs_226_tr_1_tl_19" n="N019"/>every very<Idolatrous> idolatrous</Idolatrous> or quasi-religious movement, there are people who <Sacrifice>sacrifice themselves."</Sacrifice>
+               <lb facs="#facs_226_tr_1_tl_18" n="N018"/>question, "Now there are so MANY martyrs; <Sacrifice>self-sacrifice</Sacrifice> canNOT be a criterion, because in
+               <lb facs="#facs_226_tr_1_tl_19" n="N019"/>every very<Idolatrous> idolatrous</Idolatrous> or quasi-religious movement, there are people who sacrifice themselves."
                <lb facs="#facs_226_tr_1_tl_20" n="N020"/>Now this was a misunderstanding, for which I am responsible, and therefore I am glad that
             </ab>
             <pb facs="#facs_227" n="part1_p227.jpg" xml:id="img_0227"/>
             <ab facs="#facs_227_tr_2">
                <lb facs="#facs_227_tr_2_tl_1" n="N001"/>[223]
                <lb facs="#facs_227_tr_2_tl_2" n="N002"/>I can express myself sharper, after all the other lectures.
-               <lb facs="#facs_227_tr_2_tl_3" n="N003"/>I didn't speak of personal <Sacrifice>sacrifice </Sacrifice>as an ethical act of a person sacrificing himself, but
-               <lb facs="#facs_227_tr_2_tl_4" n="N004"/>I spoke of the content of his finite message which, with all the finite elements in his religious
+               <lb facs="#facs_227_tr_2_tl_3" n="N003"/>I didn't speak of <Sacrifice>personal sacrifice </Sacrifice>as an ethical act of a person sacrificing himself, but
+               <lb facs="#facs_227_tr_2_tl_4" n="N004"/>I spoke of the content of his <Finitude>finite </Finitude>message which, with all the finite elements in his religious
                <lb facs="#facs_227_tr_2_tl_5" n="N005"/>life, are negated by him in the moment in which the Disciples wanted to make them absolute---
                <lb facs="#facs_227_tr_2_tl_6" n="N006"/>THAT was the idea. And this idea means that the Jesus of the Gospels is the greatest enemy of
                <lb facs="#facs_227_tr_2_tl_7" n="N007"/>theological "Jesu-ology"---a theology of Jesus---THAT's what He denied radically, in His fights with
@@ -14679,9 +14679,9 @@
                <lb facs="#facs_232_tr_1_tl_18" n="N013"/>From this follows another question, namely if in every philosophy there is an <ultimate_concern>ultimate
                <lb break="no" facs="#facs_232_tr_1_tl_19" n="N014"/>concern, and this ultimate concern</ultimate_concern> has been expressed in the symbols of classical religions
                <lb facs="#facs_232_tr_1_tl_20" n="N015"/>(for instance Christianity), then the question can arise, and has arisen and is much discussed:
-               <lb facs="#facs_232_tr_1_tl_21" n="N016"/>can there be a Christian philosophy? Some people say we SHOULD have a <Christian_philosophy>Christian philosophy;</Christian_philosophy>
+               <lb facs="#facs_232_tr_1_tl_21" n="N016"/>can there be a <Christian_philosophy>Christian philosophy?</Christian_philosophy> Some people say we SHOULD have a Christian philosophy;
                <lb facs="#facs_232_tr_1_tl_22" n="N017"/>others say---and I belong to the second group---there should NOT be Christian philosophy. Now
-               <lb facs="#facs_232_tr_1_tl_23" n="N018"/>what does this word mean? <Christian_philosophy>"Christian philosophy" i</Christian_philosophy>s a term which can have two meanings:
+               <lb facs="#facs_232_tr_1_tl_23" n="N018"/>what does this word mean? "Christian philosophy" is a term which can have two meanings:
                <lb facs="#facs_232_tr_1_tl_24" n="N019"/>philosophy arising on the cultural soil which is cultivated for thousands of years by the Christian
             </ab>
             <pb facs="#facs_233" n="part1_p233.jpg" xml:id="img_0233"/>
@@ -14723,7 +14723,7 @@
                <lb facs="#facs_234_tr_2_tl_14" n="N013"/>lecture [course] on the Renaissance I very often gave in former years, I showed, point by point,
                <lb facs="#facs_234_tr_2_tl_15" n="N014"/>philosophy by philosophy, how the GREEK attitude was turned around by the Renaissance
                <lb facs="#facs_234_tr_2_tl_16" n="N015"/>philosophers who called themselves Platonists or Aristotelians or Neo-Stoics in a way which was
-               <lb facs="#facs_234_tr_2_tl_17" n="N016"/>determined by the fundamental Christian idea of creation---which made the fundamental difference
+               <lb facs="#facs_234_tr_2_tl_17" n="N016"/>determined by the fundamental Christian idea of <Creation>creation</Creation>---which made the fundamental difference
                <lb facs="#facs_234_tr_2_tl_18" n="N017"/>between the feeling toward the world on Greek soil, on the soil formed by <rs type="person" key=", tillich_person_id__69">Apollo</rs> and <rs type="person" key=", tillich_person_id__473">Dionysius</rs>
                <lb facs="#facs_234_tr_2_tl_19" n="N018"/>--and on the Christian soil. The presupposition for this is that I take <rs type="person" key=", tillich_person_id__69">Apollo </rs>and <rs type="person" key=", tillich_person_id__473">Dionysius </rs>seriously,
                <lb facs="#facs_234_tr_2_tl_20" n="N019"/>that I believe they are gods, and they are STILL gods--they are, as the Bible describes it, in
@@ -14738,7 +14738,7 @@
                <lb facs="#facs_235_tr_2_tl_5" n="N005"/>in the Western world is Christian, whether it tries to return to <rs type="person" key=", tillich_person_id__69">Apollo</rs> and <rs type="person" key=", tillich_person_id__473">Dionysius </rs>or not.
                <lb facs="#facs_235_tr_2_tl_6" n="N006"/>BUT I STAND STRONGLY against a<Christian_philosophy> Christian philosophy</Christian_philosophy> which is INTENTIONALLY
                <lb facs="#facs_235_tr_2_tl_7" n="N007"/>Christian. If l make a research into the problem of causality and have in mind the necessity to make
-               <lb facs="#facs_235_tr_2_tl_8" n="N008"/>this analysis of causality so that it fits a special Augustinian or Calvinistic theology, then l betray
+               <lb facs="#facs_235_tr_2_tl_8" n="N008"/>this analysis of causality so that it fits a special <rs type="person" key=", tillich_person_id__100">Augustinian </rs>or <rs type="person" key=", tillich_person_id__354">Calvinistic </rs>theology, then l betray
                <lb facs="#facs_235_tr_2_tl_9" n="N009"/>my being a philosopher, then the scientific honesty is taken away---exactly as if I try to make
                <lb facs="#facs_235_tr_2_tl_10" n="N010"/>a research and, in order to fulfill demands of a religion which has intimate relation to history---
                <lb facs="#facs_235_tr_2_tl_11" n="N011"/>([such] as Judaism and Christianity)---my research is prejudiced. You can say this. But you cannot
@@ -14758,9 +14758,9 @@
                <lb facs="#facs_236_tr_1_tl_3" n="N003"/>has religious substance, it simply IS.
                <lb facs="#facs_236_tr_1_tl_4" n="N004"/>The other is the intention to make a <Christian_philosophy>Christian philosophy, </Christian_philosophy>and there we must say
                <lb facs="#facs_236_tr_1_tl_5" n="N005"/>UNAMBIGUOUSLY: THIS SHOULD NOT BE! But another question arises here. Cannot philosophy
-               <lb facs="#facs_236_tr_1_tl_6" n="N006"/>directly contribute to the <truth_of_faith>theological truth, to the truth of religion? </truth_of_faith>This problem is the very old and
+               <lb facs="#facs_236_tr_1_tl_6" n="N006"/>directly contribute to the <Truth_of_faith>theological truth, to the truth of religion? </Truth_of_faith>This problem is the very old and
                <lb facs="#facs_236_tr_1_tl_7" n="N007"/>very important problem of <Naturalism>natural theology. </Naturalism>Natural theology would mean philosophical arguments
-               <lb facs="#facs_236_tr_1_tl_8" n="N008"/>which, as merely philosophical arguments, confirm the <truth_of_faith>truth of faith. </truth_of_faith>The endeavor of natural theology
+               <lb facs="#facs_236_tr_1_tl_8" n="N008"/>which, as merely philosophical arguments, confirm the <Truth_of_faith>truth of faith</Truth_of_faith>. The endeavor of natural theology
                <lb facs="#facs_236_tr_1_tl_9" n="N009"/>has been carried through since the Greeks, the whole Middle Ages, in Protestant Orthodoxy, and even
                <lb facs="#facs_236_tr_1_tl_10" n="N010"/>in anti-metaphysical liberal theology of the 19th century. Nevertheless, there always was a RESISTANCE
                <lb facs="#facs_236_tr_1_tl_11" n="N011"/>against it, a feeling that such an enterprise is impossible. The concrete discussion in which these two

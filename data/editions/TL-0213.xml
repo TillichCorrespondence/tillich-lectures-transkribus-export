@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_213">
          <graphic url="TL-0213.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=LTDDOTEQWPGMNBSNAWHGWGHW&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LTDDOTEQWPGMNBSNAWHGWGHW&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="26,216 26,3479 2355,3479 2355,216" rendition="TextRegion" xml:id="facs_213_tr_1">
             <zone points="1099,279 1112,279 1131,293 1199,293 1207,285 1223,285 1223,219 1184,219 1176,211 1160,208 1139,224 1099,224" rendition="Line" xml:id="facs_213_tr_1_tl_1"/>
             <zone points="206,488 258,456 366,446 883,448 886,385 662,398 638,374 366,377 301,361 261,322 208,322" rendition="Line" xml:id="facs_213_tr_1_tl_2" subtype="heading"/>
@@ -115,7 +115,7 @@
                <lb facs="#facs_213_tr_1_tl_16" n="N016"/>better, Calvinistic) attitude towards reality---the distance-from-the-ultimate of the surface of existence
                <lb facs="#facs_213_tr_1_tl_17" n="N017"/>in which we are moving----produces his form of positivism. That doesn’t take away in any way the
                <lb facs="#facs_213_tr_1_tl_18" n="N018"/>weight of the positivistic argument---certainly not---but it takes away the belief that in a skeptic like <rs type="person">Hume,</rs>
-               <lb facs="#facs_213_tr_1_tl_19" n="N019"/>or in a positivist like <rs type="person">Hume,</rs> the <ultimate_concern>ultimate concern is</ultimate_concern> absent. It is in no way absent, and it shows itself
+               <lb facs="#facs_213_tr_1_tl_19" n="N019"/>or in a positivist like <rs type="person">Hume,</rs> the <ultimate_concern>ultimate concern</ultimate_concern> is absent. It is in no way absent, and it shows itself
             </p>
             
         </div>
