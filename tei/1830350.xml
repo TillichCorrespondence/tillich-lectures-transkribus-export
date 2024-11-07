@@ -445,19 +445,18 @@
          <graphic url="https://files.transkribus.eu/Get?id=AXWHBDGYUGSQASXZPXYCOULL&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="289,317 2385,317 2385,1138 289,1138" rendition="TextRegion" xml:id="facs_17_tr_3">
             <zone points="1078,368 1112,373 1120,381 1154,381 1164,373 1174,381 1185,381 1195,371 1208,371 1208,303 1146,300 1141,305 1122,305 1109,295 1078,295" rendition="Line" xml:id="facs_17_tr_3_tl_1"/>
-            <zone points="274,504 853,517 966,509 966,457 702,446 671,470 634,433 564,433 525,470 491,436 392,433 331,436 274,472" rendition="Line" xml:id="facs_17_tr_3_tl_2"/>
-            <zone points="514,639 1817,621 1772,551 971,595 514,561" rendition="Line" xml:id="facs_17_tr_3_tl_3"/>
-            <zone points="287,765 2218,757 2221,684 290,702" rendition="Line" xml:id="facs_17_tr_3_tl_4"/>
+            <zone points="274,504 853,517 966,509 966,457 702,446 671,470 634,433 564,433 525,470 491,436 392,433 331,436 274,472" rendition="Line" xml:id="facs_17_tr_3_tl_2" subtype="heading"/>
+            <zone points="514,639 1817,621 1772,551 971,595 514,561" rendition="Line" xml:id="facs_17_tr_3_tl_3" subtype="paragraph"/>
+            <zone points="287,765 2218,757 2221,684 290,702" rendition="Line" xml:id="facs_17_tr_3_tl_4" subtype="paragraph"/>
             <zone points="282,882 384,900 449,887 480,903 538,887 569,893 598,887 598,822 519,840 441,840 431,830 420,840 313,835 282,851" rendition="Line" xml:id="facs_17_tr_3_tl_5"/>
-            <zone points="282,1010 658,1010 720,1062 947,1005 2198,997 2117,934 282,934" rendition="Line" xml:id="facs_17_tr_3_tl_6"/>
+            <zone points="282,1010 658,1010 720,1062 947,1005 2198,997 2117,934 282,934" rendition="Line" xml:id="facs_17_tr_3_tl_6" subtype="paragraph"/>
             <zone points="284,1135 2378,1117 2378,1062 284,1104" rendition="Line" xml:id="facs_17_tr_3_tl_7"/>
          </zone>
          <zone points="286,1183 2269,1183 2269,2398 286,2398" rendition="TextRegion" xml:id="facs_17_tr_2">
             <zone points="284,1258 2109,1250 2221,1245 2221,1188 284,1203" rendition="Line" xml:id="facs_17_tr_2_tl_1"/>
             <zone points="287,1391 2072,1381 2255,1373 2258,1313 287,1355" rendition="Line" xml:id="facs_17_tr_2_tl_2"/>
             <zone points="271,1511 472,1535 532,1509 1094,1511 1094,1459 313,1467 271,1488" rendition="Line" xml:id="facs_17_tr_2_tl_3"/>
-            <zone points="501,1634 2127,1629 2239,1582 504,1603" rendition="Line" xml:id="facs_17_tr_2_tl_4"/>
-            <zone points="1323,1754 2216,1757 2234,1704 1464,1694 1323,1723" rendition="Line" xml:id="facs_17_tr_2_tl_5"/>
+            <zone points="501,1634 2127,1629 2239,1582 504,1603" rendition="Line" xml:id="facs_17_tr_2_tl_4" subtype="paragraph"/>
             <zone points="282,1770 436,1783 783,1762 924,1790 927,1712 812,1710 788,1730 754,1707 282,1717" rendition="Line" xml:id="facs_17_tr_2_tl_6"/>
             <zone points="284,1897 2122,1884 2265,1835 284,1837" rendition="Line" xml:id="facs_17_tr_2_tl_7"/>
             <zone points="271,2010 2002,2012 2200,1994 2200,1942 271,1986" rendition="Line" xml:id="facs_17_tr_2_tl_8"/>
@@ -469,16 +468,11 @@
             <zone points="277,2524 2007,2508 2158,2498 2161,2451 277,2474" rendition="Line" xml:id="facs_17_tr_1_tl_1"/>
             <zone points="277,2644 1973,2639 2130,2628 2130,2573 277,2618" rendition="Line" xml:id="facs_17_tr_1_tl_2"/>
             <zone points="271,2769 1879,2769 1931,2699 271,2746" rendition="Line" xml:id="facs_17_tr_1_tl_3"/>
-            <zone points="480,2894 1963,2900 2187,2884 2187,2824 480,2842" rendition="Line" xml:id="facs_17_tr_1_tl_4"/>
+            <zone points="480,2894 1963,2900 2187,2884 2187,2824 480,2842" rendition="Line" xml:id="facs_17_tr_1_tl_4" subtype="paragraph"/>
             <zone points="282,2957 352,2973 368,2957 543,2955 543,2900 444,2900 423,2921 392,2921 381,2910 371,2921 321,2921 311,2910 300,2921 282,2921" rendition="Line" xml:id="facs_17_tr_1_tl_5"/>
-            <zone points="277,3022 457,3080 2065,3022 2213,3007 2213,2957 277,2978" rendition="Line" xml:id="facs_17_tr_1_tl_6"/>
+            <zone points="277,3022 457,3080 2065,3022 2213,3007 2213,2957 277,2978" rendition="Line" xml:id="facs_17_tr_1_tl_6" subtype="paragraph"/>
             <zone points="271,3161 2294,3142 2294,3080 274,3129" rendition="Line" xml:id="facs_17_tr_1_tl_7"/>
             <zone points="271,3218 2132,3213 2292,3195 2294,3145 271,3197" rendition="Line" xml:id="facs_17_tr_1_tl_8"/>
-            <zone points="1308,3484 1480,3487 1493,3474 1527,3487 1579,3458 1629,3469 1673,3453 1678,3333 1412,3328 1313,3343" rendition="Line" xml:id="facs_17_tr_1_tl_9"/>
-            <zone points="1151,3477 1167,3477 1174,3484 1201,3484 1214,3471 1229,3474 1237,3338 1219,3338 1211,3346 1198,3343 1195,3338 1159,3338" rendition="Line" xml:id="facs_17_tr_1_tl_10"/>
-            <zone points="378,3487 499,3458 538,3492 929,3484 950,3477 953,3317 381,3328" rendition="Line" xml:id="facs_17_tr_1_tl_11"/>
-            <zone points="39,3492 86,3490 110,3466 159,3471 201,3453 271,3466 326,3453 326,3349 102,3341 39,3349" rendition="Line" xml:id="facs_17_tr_1_tl_12"/>
-            <zone points="170,3492 214,3490 222,3495 230,3492 266,3492 264,3456 240,3456 238,3453 235,3456 232,3453 222,3461 214,3461 206,3453 198,3453 193,3458 167,3456" rendition="Line" xml:id="facs_17_tr_1_tl_13"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_18">
@@ -489,17 +483,16 @@
             <zone points="282,511 2189,503 2212,458 1892,402 1749,458 282,473" rendition="Line" xml:id="facs_18_tr_1_tl_2"/>
             <zone points="277,572 1981,577 2151,564 2151,514 277,544" rendition="Line" xml:id="facs_18_tr_1_tl_3"/>
             <zone points="277,638 1864,646 2146,631 2146,580 277,600" rendition="Line" xml:id="facs_18_tr_1_tl_4"/>
-            <zone points="1579,694 2024,686 2232,709 2232,651 2179,638 2024,656 1948,636 1688,638 1579,664" rendition="Line" xml:id="facs_18_tr_1_tl_5"/>
             <zone points="277,707 1431,704 1482,694 1482,643 277,666" rendition="Line" xml:id="facs_18_tr_1_tl_6"/>
             <zone points="282,778 2103,760 2141,712 282,730" rendition="Line" xml:id="facs_18_tr_1_tl_7"/>
             <zone points="275,824 2070,821 1973,768 1632,758 275,788" rendition="Line" xml:id="facs_18_tr_1_tl_8"/>
             <zone points="282,885 1960,887 2136,875 2138,829 285,854" rendition="Line" xml:id="facs_18_tr_1_tl_9"/>
             <zone points="277,956 1851,948 1889,887 277,903" rendition="Line" xml:id="facs_18_tr_1_tl_10"/>
-            <zone points="277,1070 1958,1078 2118,1063 2118,1009 277,1025" rendition="Line" xml:id="facs_18_tr_1_tl_11"/>
+            <zone points="277,1070 1958,1078 2118,1063 2118,1009 277,1025" rendition="Line" xml:id="facs_18_tr_1_tl_11" subtype="paragraph"/>
             <zone points="272,1198 2067,1198 2176,1190 2176,1136 272,1170" rendition="Line" xml:id="facs_18_tr_1_tl_12"/>
             <zone points="272,1325 2108,1317 2108,1259 272,1294" rendition="Line" xml:id="facs_18_tr_1_tl_13"/>
             <zone points="272,1452 898,1454 898,1398 272,1403" rendition="Line" xml:id="facs_18_tr_1_tl_14"/>
-            <zone points="498,1510 1976,1518 2161,1500 2161,1447 498,1457" rendition="Line" xml:id="facs_18_tr_1_tl_15"/>
+            <zone points="498,1510 1976,1518 2161,1500 2161,1447 498,1457" rendition="Line" xml:id="facs_18_tr_1_tl_15" subtype="paragraph"/>
             <zone points="270,1635 1777,1648 2309,1592 270,1609" rendition="Line" xml:id="facs_18_tr_1_tl_16"/>
             <zone points="277,1767 2133,1757 2133,1691 277,1719" rendition="Line" xml:id="facs_18_tr_1_tl_17"/>
             <zone points="267,1889 1790,1907 2082,1879 2082,1831 267,1846" rendition="Line" xml:id="facs_18_tr_1_tl_18"/>
@@ -515,8 +508,6 @@
             <zone points="267,2896 2199,2878 2199,2804 267,2865" rendition="Line" xml:id="facs_18_tr_2_tl_8"/>
             <zone points="267,3026 1871,3020 2187,3005 2187,2952 267,2972" rendition="Line" xml:id="facs_18_tr_2_tl_9"/>
             <zone points="267,3155 2169,3143 2187,3082 270,3107" rendition="Line" xml:id="facs_18_tr_2_tl_10"/>
-            <zone points="1548,3483 1561,3481 1571,3491 1587,3488 1604,3463 1612,3471 1625,3468 1594,3275 1569,3277 1559,3270 1553,3277 1515,3277" rendition="Line" xml:id="facs_18_tr_2_tl_11"/>
-            <zone points="135,3486 193,3491 224,3476 244,3491 308,3491 358,3468 386,3473 384,3270 132,3272" rendition="Line" xml:id="facs_18_tr_2_tl_12"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_19">
@@ -530,8 +521,8 @@
             <zone points="268,882 2065,880 2153,877 2153,824 268,839" rendition="Line" xml:id="facs_19_tr_2_tl_5"/>
             <zone points="268,1008 2201,993 2166,943 268,960" rendition="Line" xml:id="facs_19_tr_2_tl_6"/>
             <zone points="265,1132 875,1147 966,1135 966,1077 872,1099 809,1072 432,1087 415,1105 394,1087 265,1089" rendition="Line" xml:id="facs_19_tr_2_tl_7"/>
-            <zone points="265,1264 384,1269 399,1261 407,1269 480,1269 503,1264 503,1216 463,1218 452,1208 420,1216 412,1208 404,1216 329,1218 318,1206 306,1218 293,1206 281,1218 265,1218" rendition="Line" xml:id="facs_19_tr_2_tl_8"/>
-            <zone points="490,1383 2146,1380 2169,1292 490,1317" rendition="Line" xml:id="facs_19_tr_2_tl_9"/>
+            <zone points="265,1264 384,1269 399,1261 407,1269 480,1269 503,1264 503,1216 463,1218 452,1208 420,1216 412,1208 404,1216 329,1218 318,1206 306,1218 293,1206 281,1218 265,1218" rendition="Line" xml:id="facs_19_tr_2_tl_8" subtype="heading"/>
+            <zone points="490,1383 2146,1380 2169,1292 490,1317" rendition="Line" xml:id="facs_19_tr_2_tl_9" subtype="paragraph"/>
          </zone>
          <zone points="268,1436 2295,1436 2295,2899 268,2899" rendition="TextRegion" xml:id="facs_19_tr_1">
             <zone points="263,1509 1956,1509 2093,1501 2093,1443 263,1463" rendition="Line" xml:id="facs_19_tr_1_tl_1"/>
@@ -542,7 +533,7 @@
             <zone points="260,2164 2204,2126 2204,2073 260,2085" rendition="Line" xml:id="facs_19_tr_1_tl_6"/>
             <zone points="263,2265 1994,2282 2207,2252 2207,2194 263,2219" rendition="Line" xml:id="facs_19_tr_1_tl_7"/>
             <zone points="263,2399 1112,2388 1112,2340 263,2351" rendition="Line" xml:id="facs_19_tr_1_tl_8"/>
-            <zone points="488,2517 2255,2512 2257,2439 490,2452" rendition="Line" xml:id="facs_19_tr_1_tl_9"/>
+            <zone points="488,2517 2255,2512 2257,2439 490,2452" rendition="Line" xml:id="facs_19_tr_1_tl_9" subtype="paragraph"/>
             <zone points="258,2649 2176,2636 2176,2573 258,2616" rendition="Line" xml:id="facs_19_tr_1_tl_10"/>
             <zone points="258,2765 2277,2758 2277,2692 258,2720" rendition="Line" xml:id="facs_19_tr_1_tl_11"/>
             <zone points="255,2891 2207,2871 2179,2811 258,2848" rendition="Line" xml:id="facs_19_tr_1_tl_12"/>
@@ -551,32 +542,23 @@
             <zone points="260,3023 2045,3005 2143,3000 2143,2952 263,2977" rendition="Line" xml:id="facs_19_tr_3_tl_1"/>
             <zone points="250,3142 1979,3142 2118,3127 2118,3071 250,3099" rendition="Line" xml:id="facs_19_tr_3_tl_2"/>
             <zone points="356,3296 950,3329 1218,3311 1238,3248 612,3255 591,3276 442,3238 356,3258" rendition="Line" xml:id="facs_19_tr_3_tl_3"/>
-            <zone points="1335,3460 1423,3460 1461,3427 1494,3445 1544,3430 1582,3458 1610,3458 1607,3250 1329,3248" rendition="Line" xml:id="facs_19_tr_3_tl_4"/>
-            <zone points="642,3483 695,3480 741,3450 768,3470 837,3442 862,3458 938,3432 1016,3485 1150,3483 1153,3402 766,3402 645,3420" rendition="Line" xml:id="facs_19_tr_3_tl_5"/>
-            <zone points="66,3485 126,3470 147,3485 258,3488 301,3468 318,3485 478,3485 528,3445 564,3448 569,3384 404,3389 270,3422 230,3455 101,3442 71,3420" rendition="Line" xml:id="facs_19_tr_3_tl_6"/>
-            <zone points="68,3445 111,3445 129,3460 147,3442 164,3453 185,3442 212,3442 227,3458 253,3435 268,3437 273,3324 174,3326 157,3319 109,3326 96,3336 73,3334" rendition="Line" xml:id="facs_19_tr_3_tl_7"/>
-            <zone points="907,3478 920,3478 928,3473 933,3475 938,3485 948,3485 958,3478 966,3480 968,3485 993,3485 998,3450 978,3453 968,3448 958,3435 943,3437 935,3432 933,3435 910,3435" rendition="Line" xml:id="facs_19_tr_3_tl_8"/>
-            <zone points="1471,3478 1501,3475 1511,3465 1524,3470 1532,3470 1537,3465 1547,3465 1552,3470 1570,3470 1570,3442 1557,3442 1542,3432 1529,3435 1514,3430 1501,3442 1491,3442 1486,3437 1471,3437" rendition="Line" xml:id="facs_19_tr_3_tl_9"/>
-            <zone points="511,3478 531,3485 652,3485 655,3430 612,3430 569,3445 548,3445 543,3440 528,3448 513,3442" rendition="Line" xml:id="facs_19_tr_3_tl_10"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_20">
          <graphic url="part3_p020.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=OYVPSWYGUDZSGFUNQOYMXYYK&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=OYVPSWYGUDZSGFUNQOYMXYYK&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="292,54 2254,54 2254,1320 292,1320" rendition="TextRegion" xml:id="facs_20_tr_1">
-            <zone points="890,118 907,118 912,113 929,113 936,118 985,116 983,66 961,66 954,59 936,57 931,52 924,52 899,29 887,29" rendition="Line" xml:id="facs_20_tr_1_tl_1"/>
             <zone points="1145,356 1180,364 1194,376 1219,371 1248,376 1258,366 1273,366 1273,297 1236,300 1229,295 1207,317 1145,319" rendition="Line" xml:id="facs_20_tr_1_tl_2"/>
-            <zone points="499,492 1956,494 2072,482 2074,413 501,457" rendition="Line" xml:id="facs_20_tr_1_tl_3"/>
+            <zone points="499,492 1956,494 2072,482 2074,413 501,457" rendition="Line" xml:id="facs_20_tr_1_tl_3" subtype="paragraph"/>
             <zone points="278,617 1651,646 2192,605 2195,548 280,570" rendition="Line" xml:id="facs_20_tr_1_tl_4"/>
             <zone points="285,754 2199,732 2199,678 285,695" rendition="Line" xml:id="facs_20_tr_1_tl_5"/>
             <zone points="278,865 307,880 501,880 504,823 315,823 295,843 280,840" rendition="Line" xml:id="facs_20_tr_1_tl_6"/>
-            <zone points="511,931 2187,934 2187,867 511,882" rendition="Line" xml:id="facs_20_tr_1_tl_7"/>
+            <zone points="511,931 2187,934 2187,867 511,882" rendition="Line" xml:id="facs_20_tr_1_tl_7" subtype="paragraph"/>
             <zone points="285,1067 1737,1069 2212,1044 2214,993 285,1012" rendition="Line" xml:id="facs_20_tr_1_tl_8"/>
             <zone points="278,1187 2217,1180 2217,1126 278,1160" rendition="Line" xml:id="facs_20_tr_1_tl_9"/>
             <zone points="278,1315 2023,1310 2249,1300 2249,1246 278,1285" rendition="Line" xml:id="facs_20_tr_1_tl_10"/>
          </zone>
          <zone points="286,1365 2283,1365 2283,2637 286,2637" rendition="TextRegion" xml:id="facs_20_tr_3">
-            <zone points="1280,1477 1615,1474 1656,1435 1710,1477 2109,1477 2145,1443 2276,1460 2276,1379 1583,1366 1280,1403" rendition="Line" xml:id="facs_20_tr_3_tl_1"/>
             <zone points="278,1465 1175,1477 1246,1408 1153,1376 737,1393 698,1364 641,1393 457,1384 278,1416" rendition="Line" xml:id="facs_20_tr_3_tl_2"/>
             <zone points="278,1558 2025,1565 2180,1558 2180,1502 278,1516" rendition="Line" xml:id="facs_20_tr_3_tl_3"/>
             <zone points="275,1696 2133,1678 2160,1619 275,1651" rendition="Line" xml:id="facs_20_tr_3_tl_4"/>
@@ -584,23 +566,17 @@
             <zone points="288,1949 2118,1924 2111,1870 290,1870" rendition="Line" xml:id="facs_20_tr_3_tl_6"/>
             <zone points="275,2059 2121,2062 2195,2052 2195,1995 275,2037" rendition="Line" xml:id="facs_20_tr_3_tl_7"/>
             <zone points="275,2190 575,2199 575,2145 501,2148 479,2138 388,2148 378,2138 369,2148 275,2148" rendition="Line" xml:id="facs_20_tr_3_tl_8"/>
-            <zone points="506,2305 2096,2276 2199,2246 2199,2177 506,2219" rendition="Line" xml:id="facs_20_tr_3_tl_9"/>
+            <zone points="506,2305 2096,2276 2199,2246 2199,2177 506,2219" rendition="Line" xml:id="facs_20_tr_3_tl_9" subtype="paragraph"/>
             <zone points="278,2374 2185,2374 2256,2313 280,2330" rendition="Line" xml:id="facs_20_tr_3_tl_10"/>
             <zone points="273,2507 1315,2502 1315,2448 273,2480" rendition="Line" xml:id="facs_20_tr_3_tl_11"/>
-            <zone points="499,2627 1664,2637 2111,2612 2113,2548 499,2600" rendition="Line" xml:id="facs_20_tr_3_tl_12"/>
+            <zone points="499,2627 1664,2637 2111,2612 2113,2548 499,2600" rendition="Line" xml:id="facs_20_tr_3_tl_12" subtype="paragraph"/>
          </zone>
          <zone points="155,2675 2209,2675 2209,3485 155,3485" rendition="TextRegion" xml:id="facs_20_tr_2">
             <zone points="273,2752 1715,2740 1762,2787 2057,2787 2059,2684 275,2703" rendition="Line" xml:id="facs_20_tr_2_tl_1"/>
             <zone points="273,2885 924,2920 1806,2861 2175,2915 2197,2811 273,2856" rendition="Line" xml:id="facs_20_tr_2_tl_2"/>
             <zone points="275,3015 437,3033 550,3006 981,3013 1071,3006 1074,2961 275,2971" rendition="Line" xml:id="facs_20_tr_2_tl_3"/>
-            <zone points="496,3069 2202,3055 2202,2993 496,3020" rendition="Line" xml:id="facs_20_tr_2_tl_4"/>
+            <zone points="496,3069 2202,3055 2202,2993 496,3020" rendition="Line" xml:id="facs_20_tr_2_tl_4" subtype="paragraph"/>
             <zone points="265,3195 2116,3182 2155,3123 265,3173" rendition="Line" xml:id="facs_20_tr_2_tl_5"/>
-            <zone points="1253,3465 1300,3485 1330,3485 1342,3472 1366,3485 1384,3470 1398,3485 1514,3477 1516,3298 1256,3300" rendition="Line" xml:id="facs_20_tr_2_tl_6"/>
-            <zone points="592,3465 622,3465 644,3448 654,3458 691,3440 725,3438 742,3264 698,3264 683,3271 649,3266 636,3278 614,3276" rendition="Line" xml:id="facs_20_tr_2_tl_7"/>
-            <zone points="769,3468 833,3487 858,3470 951,3485 973,3468 1000,3485 1032,3453 1086,3477 1148,3460 1150,3323 772,3327" rendition="Line" xml:id="facs_20_tr_2_tl_8"/>
-            <zone points="143,3482 211,3477 233,3455 280,3458 307,3433 344,3450 477,3443 479,3350 238,3342 229,3352 145,3357" rendition="Line" xml:id="facs_20_tr_2_tl_9"/>
-            <zone points="221,3480 312,3485 324,3475 339,3487 364,3487 393,3475 428,3480 450,3468 477,3477 477,3443 452,3450 418,3445 408,3453 383,3443 374,3453 344,3453 334,3440 307,3433 283,3455 241,3440 221,3443" rendition="Line" xml:id="facs_20_tr_2_tl_10"/>
-            <zone points="607,3482 632,3485 639,3477 644,3482 659,3482 666,3475 686,3482 735,3477 735,3433 720,3431 713,3438 700,3436 676,3450 656,3455 634,3438 624,3443 607,3440" rendition="Line" xml:id="facs_20_tr_2_tl_11"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_21">
@@ -609,7 +585,7 @@
          <zone points="286,278 2251,278 2251,1231 286,1231" rendition="TextRegion" xml:id="facs_21_tr_2">
             <zone points="1157,341 1181,341 1189,348 1206,348 1231,341 1255,344 1265,334 1278,334 1278,299 1258,299 1238,279 1211,277 1203,279 1191,292 1157,292" rendition="Line" xml:id="facs_21_tr_2_tl_1"/>
             <zone points="282,470 1478,465 1661,534 1708,487 1826,499 1826,400 282,435" rendition="Line" xml:id="facs_21_tr_2_tl_2"/>
-            <zone points="509,593 2207,588 2207,531 509,544" rendition="Line" xml:id="facs_21_tr_2_tl_3"/>
+            <zone points="509,593 2207,588 2207,531 509,544" rendition="Line" xml:id="facs_21_tr_2_tl_3" subtype="paragraph"/>
             <zone points="279,724 2172,717 2175,655 279,672" rendition="Line" xml:id="facs_21_tr_2_tl_4"/>
             <zone points="279,845 2244,838 2244,783 279,801" rendition="Line" xml:id="facs_21_tr_2_tl_5"/>
             <zone points="279,979 2204,974 2204,917 279,932" rendition="Line" xml:id="facs_21_tr_2_tl_6"/>
@@ -630,36 +606,26 @@
             <zone points="272,2348 2145,2343 2187,2288 274,2306" rendition="Line" xml:id="facs_21_tr_1_tl_1"/>
             <zone points="277,2484 2130,2469 2130,2419 1987,2402 279,2422" rendition="Line" xml:id="facs_21_tr_1_tl_2"/>
             <zone points="274,2605 1404,2605 1572,2595 1574,2545 277,2560" rendition="Line" xml:id="facs_21_tr_1_tl_3"/>
-            <zone points="497,2731 1913,2726 2076,2716 2076,2654 497,2674" rendition="Line" xml:id="facs_21_tr_1_tl_4"/>
+            <zone points="497,2731 1913,2726 2076,2716 2076,2654 497,2674" rendition="Line" xml:id="facs_21_tr_1_tl_4" subtype="paragraph"/>
             <zone points="272,2859 1866,2869 2236,2837 2236,2785 272,2830" rendition="Line" xml:id="facs_21_tr_1_tl_5"/>
             <zone points="272,2980 895,3010 2061,2966 2091,2919 272,2958" rendition="Line" xml:id="facs_21_tr_1_tl_6"/>
             <zone points="269,3114 2123,3099 2123,3040 269,3082" rendition="Line" xml:id="facs_21_tr_1_tl_7"/>
             <zone points="267,3262 1253,3287 2194,3237 2194,3176 267,3237" rendition="Line" xml:id="facs_21_tr_1_tl_8"/>
-            <zone points="754,3450 818,3477 860,3440 895,3477 1003,3484 1043,3452 1065,3465 1112,3433 1201,3470 1206,3383 828,3388 756,3410" rendition="Line" xml:id="facs_21_tr_1_tl_9"/>
-            <zone points="435,3438 470,3435 499,3452 514,3438 556,3442 566,3433 591,3452 615,3440 655,3442 702,3470 741,3450 739,3400 692,3403 628,3388 432,3388" rendition="Line" xml:id="facs_21_tr_1_tl_10"/>
-            <zone points="255,3487 292,3475 319,3440 366,3460 395,3462 423,3484 435,3484 452,3462 472,3460 465,3420 435,3423 381,3393 366,3410 351,3413 301,3386 240,3398" rendition="Line" xml:id="facs_21_tr_1_tl_11"/>
-            <zone points="49,3425 59,3425 89,3445 106,3442 116,3433 124,3438 146,3433 166,3445 183,3435 195,3435 193,3351 146,3353 138,3346 94,3344 47,3349" rendition="Line" xml:id="facs_21_tr_1_tl_12"/>
-            <zone points="168,3472 193,3477 198,3487 205,3484 215,3487 230,3484 235,3487 242,3480 259,3484 264,3445 252,3445 250,3442 242,3450 235,3450 225,3447 210,3435 195,3438 193,3433 175,3430" rendition="Line" xml:id="facs_21_tr_1_tl_13"/>
-            <zone points="64,3487 89,3484 96,3475 116,3484 131,3484 138,3477 148,3477 166,3487 178,3484 171,3435 151,3438 143,3430 124,3438 116,3433 101,3445 86,3445 72,3435 59,3438" rendition="Line" xml:id="facs_21_tr_1_tl_14"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_22">
          <graphic url="part3_p022.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=FMQILNLKAAAUAITICORYLWDO&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="286,39 2289,39 2289,1714 286,1714" rendition="TextRegion" xml:id="facs_22_tr_1">
-            <zone points="271,95 284,95 289,100 301,100 306,95 334,102 356,100 351,0 266,0" rendition="Line" xml:id="facs_22_tr_1_tl_1"/>
             <zone points="1155,311 1170,311 1188,326 1208,329 1252,329 1267,321 1280,321 1280,261 1225,261 1215,271 1208,266 1190,279 1155,279" rendition="Line" xml:id="facs_22_tr_1_tl_2"/>
             <zone points="284,448 2114,456 2114,403 284,413" rendition="Line" xml:id="facs_22_tr_1_tl_3"/>
             <zone points="284,578 1305,583 1322,530 605,518 284,553" rendition="Line" xml:id="facs_22_tr_1_tl_4"/>
-            <zone points="515,697 2243,712 2209,645 515,650" rendition="Line" xml:id="facs_22_tr_1_tl_5"/>
+            <zone points="515,697 2243,712 2209,645 515,650" rendition="Line" xml:id="facs_22_tr_1_tl_5" subtype="paragraph"/>
             <zone points="284,832 2219,839 2074,764 284,804" rendition="Line" xml:id="facs_22_tr_1_tl_6"/>
-            <zone points="1863,956 2246,954 2246,899 2221,911 2176,911 2161,896 2131,896 2116,911 2032,909 2017,894 2002,911 1957,901 1947,911 1863,909" rendition="Line" xml:id="facs_22_tr_1_tl_7"/>
             <zone points="281,959 1564,996 1743,979 1745,909 284,914" rendition="Line" xml:id="facs_22_tr_1_tl_8"/>
             <zone points="284,1086 2229,1078 2229,1031 284,1053" rendition="Line" xml:id="facs_22_tr_1_tl_9"/>
             <zone points="286,1205 2002,1213 2092,1205 2092,1145 286,1160" rendition="Line" xml:id="facs_22_tr_1_tl_10"/>
             <zone points="281,1332 2057,1335 2149,1327 2149,1270 281,1290" rendition="Line" xml:id="facs_22_tr_1_tl_11"/>
-            <zone points="1559,1407 1636,1412 1653,1429 1678,1412 1780,1412 1780,1367 1716,1360 1706,1370 1671,1370 1661,1360 1621,1360 1611,1370 1559,1370" rendition="Line" xml:id="facs_22_tr_1_tl_12"/>
-            <zone points="1790,1459 2014,1447 2119,1457 2149,1452 2151,1407 2114,1409 2099,1397 2082,1409 2027,1379 1997,1409 1960,1409 1947,1397 1907,1409 1892,1394 1872,1409 1793,1409" rendition="Line" xml:id="facs_22_tr_1_tl_13"/>
             <zone points="284,1454 1594,1464 1594,1412 1479,1394 284,1414" rendition="Line" xml:id="facs_22_tr_1_tl_14"/>
             <zone points="281,1584 2092,1589 2209,1579 2209,1529 281,1541" rendition="Line" xml:id="facs_22_tr_1_tl_15"/>
             <zone points="284,1711 732,1765 2286,1721 2286,1658 2196,1643 284,1666" rendition="Line" xml:id="facs_22_tr_1_tl_16"/>
@@ -668,33 +634,15 @@
             <zone points="279,1843 2221,1828 2221,1775 279,1795" rendition="Line" xml:id="facs_22_tr_2_tl_1"/>
             <zone points="271,1957 2032,1967 2124,1955 2124,1897 271,1922" rendition="Line" xml:id="facs_22_tr_2_tl_2"/>
             <zone points="276,2089 852,2092 852,2042 640,2044 625,2029 610,2044 336,2044 321,2029 276,2044" rendition="Line" xml:id="facs_22_tr_2_tl_3"/>
-            <zone points="503,2171 1081,2214 1158,2166 2253,2166 2271,2097 503,2109" rendition="Line" xml:id="facs_22_tr_2_tl_4"/>
+            <zone points="503,2171 1081,2214 1158,2166 2253,2166 2271,2097 503,2109" rendition="Line" xml:id="facs_22_tr_2_tl_4" subtype="paragraph"/>
             <zone points="266,2291 2022,2301 2052,2243 266,2253" rendition="Line" xml:id="facs_22_tr_2_tl_5"/>
             <zone points="266,2418 1788,2433 2037,2413 2037,2341 266,2378" rendition="Line" xml:id="facs_22_tr_2_tl_6"/>
-            <zone points="500,2540 1641,2597 2174,2542 2176,2483 503,2497" rendition="Line" xml:id="facs_22_tr_2_tl_7"/>
-            <zone points="107,2590 162,2595 187,2582 204,2597 237,2580 249,2580 251,2485 219,2485 202,2465 174,2475 112,2475" rendition="Line" xml:id="facs_22_tr_2_tl_8"/>
+            <zone points="500,2540 1641,2597 2174,2542 2176,2483 503,2497" rendition="Line" xml:id="facs_22_tr_2_tl_7" subtype="paragraph"/>
             <zone points="276,2694 1990,2707 2092,2684 2092,2600 276,2624" rendition="Line" xml:id="facs_22_tr_2_tl_9"/>
-            <zone points="12,2719 32,2722 57,2707 87,2702 102,2692 144,2694 159,2617 147,2614 112,2624 92,2597 82,2595 75,2600 62,2577 42,2575" rendition="Line" xml:id="facs_22_tr_2_tl_10"/>
-            <zone points="25,2786 37,2789 80,2786 97,2791 112,2779 125,2781 132,2722 117,2719 102,2724 85,2702 75,2702 62,2712 32,2712" rendition="Line" xml:id="facs_22_tr_2_tl_11"/>
             <zone points="271,2809 1422,2796 1422,2734 271,2764" rendition="Line" xml:id="facs_22_tr_2_tl_12"/>
-            <zone points="496,2918 2219,2918 2219,2854 496,2868" rendition="Line" xml:id="facs_22_tr_2_tl_13"/>
-            <zone points="2,2946 62,2948 120,2921 152,2936 162,2928 204,2931 207,2854 187,2854 157,2824 139,2821 112,2791 57,2844 37,2841 25,2829 5,2829" rendition="Line" xml:id="facs_22_tr_2_tl_14"/>
+            <zone points="496,2918 2219,2918 2219,2854 496,2868" rendition="Line" xml:id="facs_22_tr_2_tl_13" subtype="paragraph"/>
             <zone points="269,3050 2146,3045 2166,2988 269,3000" rendition="Line" xml:id="facs_22_tr_2_tl_15"/>
             <zone points="261,3172 391,3235 764,3237 969,3172 2214,3165 2214,3113 261,3132" rendition="Line" xml:id="facs_22_tr_2_tl_16"/>
-         </zone>
-         <zone points="44,3365 1773,3365 1773,3491 44,3491" rendition="TextRegion" xml:id="facs_22_tr_3">
-            <zone points="1315,3484 1422,3476 1482,3426 1496,3434 1576,3419 1616,3439 1636,3419 1663,3424 1666,3307 1546,3304 1487,3317 1414,3304 1320,3317" rendition="Line" xml:id="facs_22_tr_3_tl_1"/>
-            <zone points="772,3434 844,3436 906,3493 1036,3439 1150,3493 1325,3479 1327,3344 774,3352" rendition="Line" xml:id="facs_22_tr_3_tl_2"/>
-            <zone points="75,3456 105,3466 142,3429 162,3444 177,3441 202,3466 212,3459 224,3466 247,3451 279,3469 316,3446 309,3337 276,3329 167,3337 139,3327 125,3337 67,3342" rendition="Line" xml:id="facs_22_tr_3_tl_3"/>
-            <zone points="458,3436 505,3439 520,3426 538,3429 563,3449 578,3436 600,3439 593,3337 558,3334 553,3339 503,3342 483,3332 473,3344 451,3347" rendition="Line" xml:id="facs_22_tr_3_tl_4"/>
-            <zone points="605,3436 615,3436 627,3451 637,3446 650,3451 677,3431 700,3446 717,3439 740,3444 757,3429 779,3434 784,3362 697,3371 680,3359 630,3396 608,3394" rendition="Line" xml:id="facs_22_tr_3_tl_5"/>
-            <zone points="463,3471 491,3469 503,3459 525,3476 540,3476 555,3488 578,3484 598,3493 615,3491 610,3446 598,3449 578,3436 570,3449 553,3451 533,3444 518,3429 508,3436 486,3419 456,3426" rendition="Line" xml:id="facs_22_tr_3_tl_6"/>
-            <zone points="772,3461 784,3459 797,3464 802,3456 812,3456 827,3466 832,3461 842,3464 844,3461 854,3461 849,3436 837,3439 827,3431 824,3434 807,3431 799,3424 792,3426 784,3419 777,3424 767,3424" rendition="Line" xml:id="facs_22_tr_3_tl_7"/>
-            <zone points="1544,3451 1564,3454 1596,3486 1641,3488 1671,3464 1688,3469 1723,3444 1768,3456 1768,3342 1750,3344 1671,3421 1544,3421" rendition="Line" xml:id="facs_22_tr_3_tl_8"/>
-            <zone points="197,3491 244,3496 254,3488 269,3486 279,3493 306,3496 319,3449 306,3446 294,3454 274,3449 256,3459 244,3451 229,3429 214,3426" rendition="Line" xml:id="facs_22_tr_3_tl_9"/>
-            <zone points="608,3496 610,3493 627,3496 647,3484 667,3493 687,3493 692,3484 715,3481 710,3444 700,3446 677,3431 662,3444 645,3441 640,3446 622,3441 613,3431 600,3434" rendition="Line" xml:id="facs_22_tr_3_tl_10"/>
-            <zone points="30,3484 60,3493 90,3493 102,3484 122,3486 137,3476 152,3486 174,3476 189,3476 192,3444 167,3446 142,3431 129,3444 110,3446 100,3436 82,3446 62,3426 32,3421" rendition="Line" xml:id="facs_22_tr_3_tl_11"/>
-            <zone points="764,3488 777,3488 779,3484 792,3493 807,3493 812,3486 819,3493 837,3496 847,3488 862,3486 857,3459 817,3461 792,3441 784,3441 774,3434 754,3436" rendition="Line" xml:id="facs_22_tr_3_tl_12"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_23">
@@ -707,7 +655,7 @@
             <zone points="298,754 1964,744 2119,734 2119,689 298,709" rendition="Line" xml:id="facs_23_tr_2_tl_4"/>
             <zone points="298,889 2017,874 2252,862 2252,804 301,834" rendition="Line" xml:id="facs_23_tr_2_tl_5"/>
             <zone points="291,999 2169,1005 2300,984 2300,932 291,977" rendition="Line" xml:id="facs_23_tr_2_tl_6"/>
-            <zone points="514,1122 1806,1142 2229,1110 2229,1062 514,1085" rendition="Line" xml:id="facs_23_tr_2_tl_7"/>
+            <zone points="514,1122 1806,1142 2229,1110 2229,1062 514,1085" rendition="Line" xml:id="facs_23_tr_2_tl_7" subtype="paragraph"/>
          </zone>
          <zone points="304,1174 2188,1174 2188,2264 304,2264" rendition="TextRegion" xml:id="facs_23_tr_3">
             <zone points="291,1247 1874,1252 2119,1240 2119,1182 291,1220" rendition="Line" xml:id="facs_23_tr_3_tl_1"/>
@@ -723,20 +671,11 @@
          <zone points="143,2302 2215,2302 2215,3485 143,3485" rendition="TextRegion" xml:id="facs_23_tr_1">
             <zone points="298,2385 1906,2382 2102,2365 2104,2310 301,2342" rendition="Line" xml:id="facs_23_tr_1_tl_1"/>
             <zone points="293,2513 1834,2508 2107,2492 2109,2437 293,2462" rendition="Line" xml:id="facs_23_tr_1_tl_2"/>
-            <zone points="1726,2573 1806,2575 1811,2570 1824,2570 1824,2528 1784,2528 1774,2518 1751,2528 1743,2520 1726,2520" rendition="Line" xml:id="facs_23_tr_1_tl_3"/>
-            <zone points="1180,2578 1273,2580 1273,2525 1260,2525 1250,2535 1180,2535" rendition="Line" xml:id="facs_23_tr_1_tl_4"/>
             <zone points="293,2640 1688,2653 2147,2633 2147,2565 293,2590" rendition="Line" xml:id="facs_23_tr_1_tl_5"/>
-            <zone points="1182,2748 1911,2758 2047,2740 2047,2693 1824,2688 1791,2713 1756,2688 1528,2690 1430,2723 1182,2708" rendition="Line" xml:id="facs_23_tr_1_tl_6"/>
             <zone points="293,2771 1055,2768 1055,2715 997,2695 929,2715 293,2718" rendition="Line" xml:id="facs_23_tr_1_tl_7"/>
-            <zone points="514,2883 2099,2878 2209,2861 2209,2798 516,2833" rendition="Line" xml:id="facs_23_tr_1_tl_8"/>
+            <zone points="514,2883 2099,2878 2209,2861 2209,2798 516,2833" rendition="Line" xml:id="facs_23_tr_1_tl_8" subtype="paragraph"/>
             <zone points="298,3019 2192,2998 2192,2931 298,2983" rendition="Line" xml:id="facs_23_tr_1_tl_9"/>
             <zone points="296,3141 2037,3139 2174,3121 2174,3066 298,3096" rendition="Line" xml:id="facs_23_tr_1_tl_10"/>
-            <zone points="787,3477 934,3467 1025,3494 1147,3459 1180,3484 1288,3464 1383,3487 1506,3459 1556,3482 1593,3469 1596,3294 789,3302" rendition="Line" xml:id="facs_23_tr_1_tl_11"/>
-            <zone points="541,3444 574,3434 594,3442 614,3434 646,3437 659,3447 689,3442 689,3302 671,3302 664,3309 614,3304 586,3332 574,3334 541,3324" rendition="Line" xml:id="facs_23_tr_1_tl_12"/>
-            <zone points="128,3484 150,3479 175,3484 190,3477 205,3492 243,3494 248,3342 225,3342 205,3334 195,3342 170,3342 165,3337 155,3344 133,3342" rendition="Line" xml:id="facs_23_tr_1_tl_13"/>
-            <zone points="248,3462 346,3447 391,3454 406,3467 433,3449 446,3452 473,3439 481,3354 401,3354 353,3369 318,3369 313,3362 276,3387 253,3387" rendition="Line" xml:id="facs_23_tr_1_tl_14"/>
-            <zone points="544,3492 579,3492 599,3469 606,3467 631,3469 641,3477 671,3474 669,3444 654,3444 636,3434 611,3439 594,3439 584,3432 571,3432 566,3437 541,3434" rendition="Line" xml:id="facs_23_tr_1_tl_15"/>
-            <zone points="336,3494 366,3494 373,3489 386,3492 393,3484 411,3487 416,3482 426,3487 436,3482 451,3484 458,3492 473,3494 478,3439 463,3437 443,3452 426,3457 416,3449 393,3454 371,3449 341,3452" rendition="Line" xml:id="facs_23_tr_1_tl_16"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_24">
@@ -749,18 +688,15 @@
             <zone points="295,804 2091,817 2207,812 2207,758 295,781" rendition="Line" xml:id="facs_24_tr_1_tl_4"/>
             <zone points="298,963 2214,956 2168,904 1855,896 298,912" rendition="Line" xml:id="facs_24_tr_1_tl_5"/>
             <zone points="295,1110 352,1123 483,1117 521,1133 550,1117 658,1117 673,1115 673,1061 329,1061 295,1081" rendition="Line" xml:id="facs_24_tr_1_tl_6"/>
-            <zone points="1105,1184 2068,1197 2232,1184 2235,1120 1107,1120" rendition="Line" xml:id="facs_24_tr_1_tl_7"/>
-            <zone points="452,1189 516,1197 581,1254 704,1248 737,1220 819,1220 848,1192 894,1189 894,1138 704,1141 688,1125 670,1141 652,1125 637,1141 593,1125 573,1141 452,1135" rendition="Line" xml:id="facs_24_tr_1_tl_8"/>
+            <zone points="1105,1184 2068,1197 2232,1184 2235,1120 1107,1120" rendition="Line" xml:id="facs_24_tr_1_tl_7" subtype="paragraph"/>
             <zone points="290,1336 611,1377 891,1336 1546,1349 1703,1341 1703,1279 290,1307" rendition="Line" xml:id="facs_24_tr_1_tl_9"/>
-            <zone points="1852,1331 1875,1341 2022,1336 2034,1349 2099,1333 2153,1336 2165,1349 2248,1333 2248,1284 2173,1284 2160,1272 2147,1284 2124,1274 2112,1287 1852,1284" rendition="Line" xml:id="facs_24_tr_1_tl_10"/>
             <zone points="293,1492 2117,1500 2217,1487 2217,1433 293,1462" rendition="Line" xml:id="facs_24_tr_1_tl_11"/>
          </zone>
          <zone points="292,1574 2373,1574 2373,2514 292,2514" rendition="TextRegion" xml:id="facs_24_tr_3">
             <zone points="290,1647 1903,1654 2227,1636 2227,1582 290,1603" rendition="Line" xml:id="facs_24_tr_3_tl_1"/>
             <zone points="285,1796 2225,1796 2227,1736 285,1752" rendition="Line" xml:id="facs_24_tr_3_tl_2"/>
             <zone points="416,1952 1611,1945 1626,1885 416,1888" rendition="Line" xml:id="facs_24_tr_3_tl_3"/>
-            <zone points="277,1937 290,1937 306,1950 316,1950 316,1947 337,1950 354,1934 378,1934 378,1906 344,1906 334,1903 319,1891 303,1903 277,1903" rendition="Line" xml:id="facs_24_tr_3_tl_4"/>
-            <zone points="437,2055 2366,2060 2368,1993 437,2004" rendition="Line" xml:id="facs_24_tr_3_tl_5"/>
+            <zone points="437,2055 2366,2060 2368,1993 437,2004" rendition="Line" xml:id="facs_24_tr_3_tl_5" subtype="paragraph"/>
             <zone points="290,2207 2350,2207 2350,2147 290,2155" rendition="Line" xml:id="facs_24_tr_3_tl_6"/>
             <zone points="280,2356 2117,2361 2191,2356 2191,2304 280,2309" rendition="Line" xml:id="facs_24_tr_3_tl_7"/>
             <zone points="288,2510 2042,2510 2266,2499 2266,2451 288,2458" rendition="Line" xml:id="facs_24_tr_3_tl_8"/>
@@ -770,14 +706,6 @@
             <zone points="280,2808 2158,2813 2243,2805 2243,2741 280,2782" rendition="Line" xml:id="facs_24_tr_2_tl_2"/>
             <zone points="280,2967 2207,2964 2207,2900 280,2918" rendition="Line" xml:id="facs_24_tr_2_tl_3"/>
             <zone points="270,3116 1683,3126 2219,3108 2219,3052 270,3067" rendition="Line" xml:id="facs_24_tr_2_tl_4"/>
-            <zone points="984,3447 1033,3445 1066,3478 1102,3486 1159,3455 1230,3486 1233,3301 1017,3298 986,3306" rendition="Line" xml:id="facs_24_tr_2_tl_5"/>
-            <zone points="1261,3478 1287,3478 1295,3486 1328,3486 1336,3478 1369,3481 1377,3229 1269,3224" rendition="Line" xml:id="facs_24_tr_2_tl_6"/>
-            <zone points="640,3442 673,3427 688,3437 714,3427 773,3437 794,3429 863,3481 935,3488 938,3324 727,3321 642,3337" rendition="Line" xml:id="facs_24_tr_2_tl_7"/>
-            <zone points="357,3488 383,3494 406,3478 424,3496 439,3488 444,3494 460,3494 468,3486 483,3486 485,3342 360,3357" rendition="Line" xml:id="facs_24_tr_2_tl_8"/>
-            <zone points="519,3491 545,3494 557,3481 570,3486 593,3468 609,3470 611,3234 521,3231" rendition="Line" xml:id="facs_24_tr_2_tl_9"/>
-            <zone points="64,3455 77,3452 87,3463 113,3455 136,3476 159,3473 149,3342 123,3342 113,3332 54,3339" rendition="Line" xml:id="facs_24_tr_2_tl_10"/>
-            <zone points="645,3491 691,3494 699,3486 737,3486 742,3481 755,3494 763,3494 773,3483 796,3486 799,3432 722,3427 704,3434 696,3427 647,3424" rendition="Line" xml:id="facs_24_tr_2_tl_11"/>
-            <zone points="18,3481 28,3481 36,3491 44,3494 49,3494 54,3488 62,3488 72,3494 77,3494 87,3486 100,3488 108,3445 105,3442 92,3445 90,3442 77,3452 62,3452 59,3447 51,3452 39,3452 31,3447 23,3447" rendition="Line" xml:id="facs_24_tr_2_tl_12"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_25">
@@ -3434,171 +3362,147 @@
             </ab>
             <pb facs="#facs_17" n="part3_p017.jpg" xml:id="img_0017"/>
             <ab facs="#facs_17_tr_3">
-               <lb facs="#facs_17_tr_3_tl_1" n="N001"/> Ma¬
-               <lb facs="#facs_17_tr_3_tl_2" n="N002"/>LECTURE XXXII, March 6, 956
+               <lb facs="#facs_17_tr_3_tl_1" n="N001"/>[404]
+               <lb facs="#facs_17_tr_3_tl_2" n="N002"/>LECTURE XXXII, March 6, 1956
                <lb facs="#facs_17_tr_3_tl_3" n="N003"/>Now here are two interesting questions. I will try to answer them:
                <lb facs="#facs_17_tr_3_tl_4" n="N004"/>QN: If religion cannot be defended on the object-subject level of reality, can there be such a being
                <lb facs="#facs_17_tr_3_tl_5" n="N005"/>as apologetics?
-               <lb facs="#facs_17_tr_3_tl_6" n="N006"/>PT: Now the word "apolostics" can have many Seanings, and most Neo-Ormodox theologians
-               <lb facs="#facs_17_tr_3_tl_7" n="N007"/>are very suspicious of ANY kind of apologetics. I personally would say it depends on theAPOLOGETISS.
+               <lb facs="#facs_17_tr_3_tl_6" n="N006"/>PT: Now the word ''apologetics'' can have many meanings, and most Neo-Orthodox theologians
+               <lb facs="#facs_17_tr_3_tl_7" n="N007"/>are very suspicious of ANY kind of apologetics. I personally would say it depends on the APOLOGETICS.
             </ab>
             <ab facs="#facs_17_tr_2">
-               <lb facs="#facs_17_tr_2_tl_1" n="N001"/>The word in itself is the highest possible word in theology—a biblical word, and a church-historial
-               <lb facs="#facs_17_tr_2_tl_2" n="N002"/>word. It means: answers. And if a Christian is not able to answer, then he shouldn’t try to make
-               <lb facs="#facs_17_tr_2_tl_3" n="N003"/>theology. That is the one answer to it.
+               <lb facs="#facs_17_tr_2_tl_1" n="N001"/>The word in itself is the highest possible word in theology--a biblical word, and a church-historical
+               <lb facs="#facs_17_tr_2_tl_2" n="N002"/>word. It means: answering. And if a Christian is not able to answer, then he shouldn’t try to make
+               <lb facs="#facs_17_tr_2_tl_3" n="N003"/>a theology. That is the one answer to it.
                <lb facs="#facs_17_tr_2_tl_4" n="N004"/>But now the next question is what KIND of apologetics? There the answer is: NOT an
-               <lb facs="#facs_17_tr_2_tl_5" n="N005"/>out of the subject-object structure of reality,
-               <lb facs="#facs_17_tr_2_tl_6" n="N006"/>apologetic which trees to drive,
-               <lb facs="#facs_17_tr_2_tl_7" n="N007"/>the existence of God, or immortality, or other things—this kind of apologetics is not only impossible
-               <lb facs="#facs_17_tr_2_tl_8" n="N008"/>but it is even an a priori negation of the idea of God, whatever the outcome of such argument is.
-               <lb facs="#facs_17_tr_2_tl_9" n="N009"/>The analysis of reality can only lead to the QUESTION of God—which MEANS Very MUCH
-               <lb facs="#facs_17_tr_2_tl_10" n="N010"/>because there is no question without a preceding answer; but it certainly does NOT mean a
-               <lb facs="#facs_17_tr_2_tl_11" n="N011"/>rational deduction of God out of the world of the limite in which subject-object structure prevails.
+               <lb facs="#facs_17_tr_2_tl_6" n="N005"/>apologetic which tries to derive, out of the subject-object structure of reality,
+               <lb facs="#facs_17_tr_2_tl_7" n="N006"/>the existence of God, or immortality, or other things--this kind of apologetics is not only impossible
+               <lb facs="#facs_17_tr_2_tl_8" n="N007"/>but it is even an a priori negation of the idea of God, whatever the outcome of such arguments is.
+               <lb facs="#facs_17_tr_2_tl_9" n="N008"/>The analysis of reality can only lead to the QUESTION of God--which MEANS VERY MUCH
+               <lb facs="#facs_17_tr_2_tl_10" n="N009"/>because there is no question without a preceding answer; but it certainly does NOT mean a
+               <lb facs="#facs_17_tr_2_tl_11" n="N010"/>rational deduction of God out of the world of the finite in which subject-object structure prevails.
             </ab>
             <ab facs="#facs_17_tr_1">
-               <lb facs="#facs_17_tr_1_tl_1" n="N001"/>So the only kind of apologetics which is possible seems to me the fortlopment of the question
-               <lb facs="#facs_17_tr_1_tl_2" n="N002"/>and to point out that the answers involved in the Christian tradition are REAL ANDWERS to
-               <lb facs="#facs_17_tr_1_tl_3" n="N003"/>REAL QUESTIONS. And this apologetic is nothing else than systematic theolog.
+               <lb facs="#facs_17_tr_1_tl_1" n="N001"/>So the only kind of apologetics which is possible seems to me the development of the question
+               <lb facs="#facs_17_tr_1_tl_2" n="N002"/>and to point out that the answers involved in the Christian tradition are REAL ANSWERS to
+               <lb facs="#facs_17_tr_1_tl_3" n="N003"/>REAL QUESTIONS. And this apologetic is nothing else than systematic theology.
                <lb facs="#facs_17_tr_1_tl_4" n="N004"/>Now this was the one [question]. The next question is a little bit too long, but I will
                <lb facs="#facs_17_tr_1_tl_5" n="N005"/>try to do it:
-               <lb facs="#facs_17_tr_1_tl_6" n="N006"/>QN (P.H.John): in his recent book, lcon and Idea, Sir Herbert Road says that the history of art
-               <lb facs="#facs_17_tr_1_tl_7" n="N007"/>and the history of ideas have hitherto been considered as independent aspects of humanòvelopment,
-               <lb facs="#facs_17_tr_1_tl_8" n="N008"/>and priority was given to ideas. But he says that in reality the plastic image—or icon—always precedes
-               <lb facs="#facs_17_tr_1_tl_9" n="N009"/>dʼune manière beaucoup
-               <lb facs="#facs_17_tr_1_tl_10" n="N010"/>cette
-               <lb facs="#facs_17_tr_1_tl_11" n="N011"/>Monsieur Mounard, car cʼest
-               <lb facs="#facs_17_tr_1_tl_12" n="N012"/>dʼune manière beaucoup
-               <lb facs="#facs_17_tr_1_tl_13" n="N013"/>dʼadresse
+               <lb facs="#facs_17_tr_1_tl_6" n="N006"/>QN (P.H.John): In his recent book, <hi style="font-style: italic;">Icon and Idea</hi>, Sir Herbert Read says that the history of art
+               <lb facs="#facs_17_tr_1_tl_7" n="N007"/>and the history of ideas have hitherto been considered as independent aspects of human development,
+               <lb facs="#facs_17_tr_1_tl_8" n="N008"/>and priority was given to ideas. But he says that in reality the plastic image--or icon--always precedes
             </ab>
             <pb facs="#facs_18" n="part3_p018.jpg" xml:id="img_0018"/>
             <ab facs="#facs_18_tr_1">
-               <lb facs="#facs_18_tr_1_tl_1" n="N001"/>405-
-               <lb facs="#facs_18_tr_1_tl_2" n="N002"/>the idea. Ideas are but meditations on the intuitions first given usual form by the artist. The iron
-               <lb facs="#facs_18_tr_1_tl_3" n="N003"/> and created by the artist’s Neagination precedes the verbal structure erected by the philosopho¬
+               <lb facs="#facs_18_tr_1_tl_1" n="N001"/>[405]
+               <lb facs="#facs_18_tr_1_tl_2" n="N002"/>the idea. Ideas are but meditations on the intuitions first given visual form by the artist. The icon
+               <lb facs="#facs_18_tr_1_tl_3" n="N003"/>created by the artist’s imagination precedes the verbal structure erected by the philosopher and
                <lb facs="#facs_18_tr_1_tl_4" n="N004"/>the scientist on the basis of this aesthetic experience. Religion and philosophy are built on the
-               <lb facs="#facs_18_tr_1_tl_5" n="N005"/>meditation based on symmetry
-               <lb facs="#facs_18_tr_1_tl_6" n="N006"/>artist’s intuitions. (For example, Greek philosophy is really a
-               <lb facs="#facs_18_tr_1_tl_7" n="N007"/>proportion, and elarmony—first discovered by artists, lpainting pot and weaving rugs.) And the
-               <lb facs="#facs_18_tr_1_tl_8" n="N008"/>archirect discovered the done and the sault and thus gave men the idea of infinity, etc....
-               <lb facs="#facs_18_tr_1_tl_9" n="N009"/>— World you please comment on the above and draw out its implications for the religious life.
-               <lb facs="#facs_18_tr_1_tl_10" n="N010"/>[The question was drawn from comments on the "jasket" of Road's book.—PHJ|
-               <lb facs="#facs_18_tr_1_tl_11" n="N011"/>PT: Now that's a very good question, which is not so much a question as [it is] a simplement
-               <lb facs="#facs_18_tr_1_tl_12" n="N012"/>to the fundamental method which I have applied in these lectures, showing the Txpressive power
-               <lb facs="#facs_18_tr_1_tl_13" n="N013"/>of art for a reality which, without this art, can never be found and certainly cannot be found
-               <lb facs="#facs_18_tr_1_tl_14" n="N014"/>in terms of cognitive approach.
-               <lb facs="#facs_18_tr_1_tl_15" n="N015"/>On the other hand, I think he is only half right in this. And it is interesting that the
-               <lb facs="#facs_18_tr_1_tl_16" n="N016"/>real example which he gives are the Greekes. Now I come to this immediately—there are a lot of places¬
-               <lb facs="#facs_18_tr_1_tl_17" n="N017"/>when I speak about humanists and Christian education. So I will wattpone that for a moment
-               <lb facs="#facs_18_tr_1_tl_18" n="N018"/>because there the fundamental difference of the genusis of ideas is clear: in Greece it is the
+               <lb facs="#facs_18_tr_1_tl_6" n="N005"/>artist’s intuitions. (For example, Greek philosophy is really a meditation based on symmetry,
+               <lb facs="#facs_18_tr_1_tl_7" n="N006"/>proportion, and harmony--first discovered by artists, painting pots and weaving rugs.) And the
+               <lb facs="#facs_18_tr_1_tl_8" n="N007"/>architect discovered the dome and the vault and thus gave men the idea of infinity, etc...
+               <lb facs="#facs_18_tr_1_tl_9" n="N008"/>--Would you please comment on the above and draw out its implications for the religious life.
+               <lb facs="#facs_18_tr_1_tl_10" n="N009"/><hi style="font-style: italic;">[The question was drawn from comments on the ''jacket'' of Read's book.—PHJ]</hi>
+               <lb facs="#facs_18_tr_1_tl_11" n="N010"/>PT: Now that's a very good question, which is not so much a question as [it is] a supplement
+               <lb facs="#facs_18_tr_1_tl_12" n="N011"/>to the fundamental method which I have applied in these lectures, showing the expressive power
+               <lb facs="#facs_18_tr_1_tl_13" n="N012"/>of art for a reality which, without this art, can never be found and certainly cannot be found
+               <lb facs="#facs_18_tr_1_tl_14" n="N013"/>in terms of cognitive approach.
+               <lb facs="#facs_18_tr_1_tl_15" n="N014"/>On the other hand, I think he is only half right in this. And it is interesting that the
+               <lb facs="#facs_18_tr_1_tl_16" n="N015"/>real example which he gives are the Greeks. Now I come to this immediately--there are a lot of places--
+               <lb facs="#facs_18_tr_1_tl_17" n="N016"/>when I speak about humanists and Christian education. So I will postpone that for a moment
+               <lb facs="#facs_18_tr_1_tl_18" n="N017"/>because there the fundamental difference of the genesis of ideas is clear: in Greece it is the
             </ab>
             <ab facs="#facs_18_tr_2">
-               <lb facs="#facs_18_tr_2_tl_1" n="N001"/>transcendent memory; the ideas are INMAN, and must be developed. And then the philosophical
-               <lb facs="#facs_18_tr_2_tl_2" n="N002"/>and artistic expressions then follow. And I would understand that here, perhaps, in some cases-
-               <lb facs="#facs_18_tr_2_tl_3" n="N003"/>I wouldn’t make it general—the ARTISTIC expression PRECEDES the philosophical expression.
-               <lb facs="#facs_18_tr_2_tl_4" n="N004"/>But all such things are usually exäggerations. The more adequate thing seems to me to give
+               <lb facs="#facs_18_tr_2_tl_1" n="N001"/>transcendent memory; the ideas are IN MAN, and must be developed. And then the philosophical
+               <lb facs="#facs_18_tr_2_tl_2" n="N002"/>and artistic expressions then follow. And I would understand that here, perhaps, in some cases--
+               <lb facs="#facs_18_tr_2_tl_3" n="N003"/>I wouldn’t make it general--the ARTISTIC expression PRECEDES the philosophical expression.
+               <lb facs="#facs_18_tr_2_tl_4" n="N004"/>But all such things are usually exaggerations. The more adequate thing seems to me to give
                <lb facs="#facs_18_tr_2_tl_5" n="N005"/>absolute priority to the myth, to the mythological fantasy, which has in itself both the artistic,
                <lb facs="#facs_18_tr_2_tl_6" n="N006"/>the juristic, and the philosophical element. And it is interesting that ALL of them have developed
-               <lb facs="#facs_18_tr_2_tl_7" n="N007"/>together, in early Greek philosophy—in Parmenides it is the goldess of right,
-               <lb facs="#facs_18_tr_2_tl_8" n="N008"/>dike, which introduces the philosopher into] the vision of being. That means that the different
+               <lb facs="#facs_18_tr_2_tl_7" n="N007"/>together, in early Greek philosophy--in Parmenides it is the goddess of right,
+               <lb facs="#facs_18_tr_2_tl_8" n="N008"/><hi style="font-style: italic;">diké</hi>, which introduces the philosopher in[to] the vision of being. That means that the different
                <lb facs="#facs_18_tr_2_tl_9" n="N009"/>functions were seen in unity, and they were seen mythologically. Now that is my answer to this.
-               <lb facs="#facs_18_tr_2_tl_10" n="N010"/>And in Christianity the situation is obviously krongly described because before there were icons,
-               <lb facs="#facs_18_tr_2_tl_11" n="N011"/>e
-               <lb facs="#facs_18_tr_2_tl_12" n="N012"/>ne sont pas
+               <lb facs="#facs_18_tr_2_tl_10" n="N010"/>And in Christianity the situation is obviously wrongly described because before there were icons,
             </ab>
             <pb facs="#facs_19" n="part3_p019.jpg" xml:id="img_0019"/>
             <ab facs="#facs_19_tr_2">
-               <lb facs="#facs_19_tr_2_tl_1" n="N001"/>-406-
-               <lb facs="#facs_19_tr_2_tl_2" n="N002"/>[there] was the word of Peter, "Thou art the Christ," [there] war the appearance of the Christ
-               <lb facs="#facs_19_tr_2_tl_3" n="N003"/>Himself, and His impression on the Diplples and the Christian message. Therefore it is certainly
-               <lb facs="#facs_19_tr_2_tl_4" n="N004"/>impossible to give to the icons precedent to [i.e. over] the Christian message. But it is possible
+               <lb facs="#facs_19_tr_2_tl_1" n="N001"/>[406]
+               <lb facs="#facs_19_tr_2_tl_2" n="N002"/>[there] was the word of Peter, ''Thou art the Christ,'' [there] was the appearance of the Christ
+               <lb facs="#facs_19_tr_2_tl_3" n="N003"/>Himself, and His impression on the Disciples and the Christian message. Therefore it is certainly
+               <lb facs="#facs_19_tr_2_tl_4" n="N004"/>impossible to give to the icons precedence to [i.e. over] the Christian message. But it is possible
                <lb facs="#facs_19_tr_2_tl_5" n="N005"/>to give SOME forms of Greek Orthodox initiations and mystical anagogies a dependence on the
-               <lb facs="#facs_19_tr_2_tl_6" n="N006"/>experience they had with the icons. So such statement always must be reduced to their measure¬
+               <lb facs="#facs_19_tr_2_tl_6" n="N006"/>experience they had with the icons. So such statements always must be reduced to their measure--
                <lb facs="#facs_19_tr_2_tl_7" n="N007"/>I hope you do that with mine, too!
                <lb facs="#facs_19_tr_2_tl_8" n="N008"/>LECTURE
-               <lb facs="#facs_19_tr_2_tl_9" n="N009"/>Now I come to another section, namely "EDUCATION &amp; RELIGION." We finished
+               <lb facs="#facs_19_tr_2_tl_9" n="N009"/>Now I come to another section, namely ''EDUCATION &amp; RELIGION.'' We finished
             </ab>
             <ab facs="#facs_19_tr_1">
-               <lb facs="#facs_19_tr_1_tl_1" n="N001"/>last time our interpretation of the present world situation andiuscussed several issues, which
-               <lb facs="#facs_19_tr_1_tl_2" n="N002"/>I didn’t give in my Deesentation, in the discussion. We now come to the realm of education,
-               <lb facs="#facs_19_tr_1_tl_3" n="N003"/>in which a world situation continues itself by communication its contents to the following deserations.
-               <lb facs="#facs_19_tr_1_tl_4" n="N004"/>In doing so, it Tproduces the basis for other cultural activities. Therefore it is drquate that
+               <lb facs="#facs_19_tr_1_tl_1" n="N001"/>last time our interpretation of the present world situation and discussed several issues, which
+               <lb facs="#facs_19_tr_1_tl_2" n="N002"/>I didn’t give in my presentation, in the discussion. We now come to the realm of education,
+               <lb facs="#facs_19_tr_1_tl_3" n="N003"/>in which a world situation continues itself by communicating its contents to the following generations.
+               <lb facs="#facs_19_tr_1_tl_4" n="N004"/>In doing so, it produces the basis for other cultural activities. Therefore it is adequate that
                <lb facs="#facs_19_tr_1_tl_5" n="N005"/>after the consideration of art and the analysis of the world situation, which is expressed in
                <lb facs="#facs_19_tr_1_tl_6" n="N006"/>modern art, we come to the question of how to communicate the contents of our world situation
-               <lb facs="#facs_19_tr_1_tl_7" n="N007"/>to the following generation, to which partly our present generation also bel ongs insofaras EVERY
+               <lb facs="#facs_19_tr_1_tl_7" n="N007"/>to the following generation, to which partly our present generation also belongs insofar as EVERY
                <lb facs="#facs_19_tr_1_tl_8" n="N008"/>generation stands between past and future.
                <lb facs="#facs_19_tr_1_tl_9" n="N009"/>What we have to do is to introduce the younger people first, and the older insofar as they
-               <lb facs="#facs_19_tr_1_tl_10" n="N010"/>are still younger-and I hope many of them are, still—into the situation,.traditions, conventions,
-               <lb facs="#facs_19_tr_1_tl_11" n="N011"/>lawes, morale, ideas, and symbols in which we are living. This is an infinite process in every generation,
+               <lb facs="#facs_19_tr_1_tl_10" n="N010"/>are still younger--and I hope many of them are, still--into the situations, traditions, conventions,
+               <lb facs="#facs_19_tr_1_tl_11" n="N011"/>laws, morals, ideas, and symbols in which we are living. This is an infinite process in every generation,
                <lb facs="#facs_19_tr_1_tl_12" n="N012"/>and every individual human being goes deeper into it during his whole life. Therefore education is
             </ab>
             <ab facs="#facs_19_tr_3">
-               <lb facs="#facs_19_tr_3_tl_1" n="N001"/>a la continuous reality, not something which is finished when we have left school or have become
+               <lb facs="#facs_19_tr_3_tl_1" n="N001"/>a continuous reality, not something which is finished when we have left school or have become
                <lb facs="#facs_19_tr_3_tl_2" n="N002"/>independent of our parents, but something which is going on to the last day of our life, and is
                <lb facs="#facs_19_tr_3_tl_3" n="N003"/>very powerful IN the last days of one’s life!
-               <lb facs="#facs_19_tr_3_tl_4" n="N004"/>Monsieur Monde
-               <lb facs="#facs_19_tr_3_tl_5" n="N005"/>Mais Votre très obéissant serviteur, et de lʼautre
-               <lb facs="#facs_19_tr_3_tl_6" n="N006"/>dʼune manière est devenu nʼa pas
-               <lb facs="#facs_19_tr_3_tl_7" n="N007"/>dʼune manière vieuse
-               <lb facs="#facs_19_tr_3_tl_8" n="N008"/>de vous
-               <lb facs="#facs_19_tr_3_tl_9" n="N009"/>Monsieur
-               <lb facs="#facs_19_tr_3_tl_10" n="N010"/>dʼune manière
             </ab>
             <pb facs="#facs_20" n="part3_p020.jpg" xml:id="img_0020"/>
             <ab facs="#facs_20_tr_1">
-               <lb facs="#facs_20_tr_1_tl_1" n="N001"/>Herrn
-               <lb facs="#facs_20_tr_1_tl_2" n="N002"/>407.
-               <lb facs="#facs_20_tr_1_tl_3" n="N003"/>But education is not only the act of introduced, in all the elements of a special
-               <lb facs="#facs_20_tr_1_tl_4" n="N004"/>historical situation, it is at the same time a help for thenelopment of the moral personality and
-               <lb facs="#facs_20_tr_1_tl_5" n="N005"/>its power of INDEPENDENT self-Gstablishment, WITHIN and if necessary AGAINST theui¬
-               <lb facs="#facs_20_tr_1_tl_6" n="N006"/>traditions.
-               <lb facs="#facs_20_tr_1_tl_7" n="N007"/>This second is the second form in which man's spiritual functions can be seen. In my
-               <lb facs="#facs_20_tr_1_tl_8" n="N008"/>lectures on systematic theology Wednesday afternoon—some of you participate in this—I have
-               <lb facs="#facs_20_tr_1_tl_9" n="N009"/>divided man’s spiritual functions into morale as the first, culture, and religion; morale not meaning
-               <lb facs="#facs_20_tr_1_tl_10" n="N010"/>a system of ethics (this is something else; it belong to culture and changes with culture), but morale
+               <lb facs="#facs_20_tr_1_tl_2" n="N001"/>[407]
+               <lb facs="#facs_20_tr_1_tl_3" n="N002"/>But education is not only the act of introducing, in all the elements of a special
+               <lb facs="#facs_20_tr_1_tl_4" n="N003"/>historical situation, it is at the same time a help for the development of the moral personality and
+               <lb facs="#facs_20_tr_1_tl_5" n="N004"/>its power of INDEPENDENT self-establishment, WITHIN and if necessary AGAINST the cultural
+               <lb facs="#facs_20_tr_1_tl_6" n="N005"/>traditions.
+               <lb facs="#facs_20_tr_1_tl_7" n="N006"/>This second is the second form in which man's spiritual functions can be seen. In my
+               <lb facs="#facs_20_tr_1_tl_8" n="N007"/>lectures on systematic theology Wednesday afternoon--some of you participate in this--I have
+               <lb facs="#facs_20_tr_1_tl_9" n="N008"/>divided man’s spiritual functions into morals as the first, culture, and religion; morale not meaning
+               <lb facs="#facs_20_tr_1_tl_10" n="N009"/>a system of ethics (this is something else; it belongs to culture and changes with culture), but morals
             </ab>
             <ab facs="#facs_20_tr_3">
-               <lb facs="#facs_20_tr_3_tl_1" n="N001"/>moral personality, in acts of decision and destiny
-               <lb facs="#facs_20_tr_3_tl_2" n="N002"/>means the self-establishment of the “centered”
-               <lb facs="#facs_20_tr_3_tl_3" n="N003"/>in their interdependence. This is the first function in which we all establish ourselves as persons,
-               <lb facs="#facs_20_tr_3_tl_4" n="N004"/>as egos in the encounter with the "thou" in a community. Then the second is the creation of
-               <lb facs="#facs_20_tr_3_tl_5" n="N005"/> cultural contents, the receiving and transforming functions of tte human mind-—the“the’ receiving
-               <lb facs="#facs_20_tr_3_tl_6" n="N006"/>(you remember I spoke about this, last semester) being the artistic and the cognitive; and the
-               <lb facs="#facs_20_tr_3_tl_7" n="N007"/>transforming being the enthical, social, political and, between them, educational, which belongs in
-               <lb facs="#facs_20_tr_3_tl_8" n="N008"/>both of them.
-               <lb facs="#facs_20_tr_3_tl_9" n="N009"/>So we now have education as dealing with the establishment of the moral personality,
-               <lb facs="#facs_20_tr_3_tl_10" n="N010"/>with mediating theuiultural contents and, as I will anticipate, leading finally into that which religion
-               <lb facs="#facs_20_tr_3_tl_11" n="N011"/>means. I will come back to this in this presentation.
-               <lb facs="#facs_20_tr_3_tl_12" n="N012"/>Independent of these threeerkbions and serving all three of them are three main
+               <lb facs="#facs_20_tr_3_tl_2" n="N001"/>means the self-establishment of the centered moral personality, in acts of decision and destiny,
+               <lb facs="#facs_20_tr_3_tl_3" n="N002"/>in their interdependence. This is the first function in which we all establish ourselves as persons,
+               <lb facs="#facs_20_tr_3_tl_4" n="N003"/>as egos in the encounter with the ''thou'' in a community. Then the second is the creation of
+               <lb facs="#facs_20_tr_3_tl_5" n="N004"/>cultural contents, the receiving and transforming functions of the human mind--the receiving
+               <lb facs="#facs_20_tr_3_tl_6" n="N005"/>(you remember I spoke about this, last semester) being the artistic and the cognitive; and the
+               <lb facs="#facs_20_tr_3_tl_7" n="N006"/>transforming being the ethical, social, political and, between them, educational, which belongs in
+               <lb facs="#facs_20_tr_3_tl_8" n="N007"/>both of them.
+               <lb facs="#facs_20_tr_3_tl_9" n="N008"/>So we now have education as dealing with the establishment of the moral personality,
+               <lb facs="#facs_20_tr_3_tl_10" n="N009"/>with mediating the cultural contents and, as I will anticipate, leading finally into that which religion
+               <lb facs="#facs_20_tr_3_tl_11" n="N010"/>means. I will come back to this in this presentation.
+               <lb facs="#facs_20_tr_3_tl_12" n="N011"/>Independent of these three functions and serving all three of them are three main
             </ab>
             <ab facs="#facs_20_tr_2">
                <lb facs="#facs_20_tr_2_tl_1" n="N001"/>ideals of education which I want to name, in a very short-cutting way; the HUMANISTIC,
-               <lb facs="#facs_20_tr_2_tl_2" n="N002"/>the TECHN1CAL, and the INTRODUDOTORY. Perhaps the latter we can also call the existential,
+               <lb facs="#facs_20_tr_2_tl_2" n="N002"/>the TECHNICAL, and the INTRODUCTORY. Perhaps the latter we can also call the existential,
                <lb facs="#facs_20_tr_2_tl_3" n="N003"/>if you prefer this much-used word now.
                <lb facs="#facs_20_tr_2_tl_4" n="N004"/>So keep these three in mind because we all are, in every moment, in all three of them.
-               <lb facs="#facs_20_tr_2_tl_5" n="N005"/>But the problems of education arise in the moment in which they come into Iunflict with each
-               <lb facs="#facs_20_tr_2_tl_6" n="N006"/>dʼune manière
-               <lb facs="#facs_20_tr_2_tl_7" n="N007"/>de vous
-               <lb facs="#facs_20_tr_2_tl_8" n="N008"/>dʼune manière beaucoup
-               <lb facs="#facs_20_tr_2_tl_9" n="N009"/>Monsieur, que je mʼai
-               <lb facs="#facs_20_tr_2_tl_10" n="N010"/>dʼune manière beaucoup
-               <lb facs="#facs_20_tr_2_tl_11" n="N011"/>dʼadresse à
+               <lb facs="#facs_20_tr_2_tl_5" n="N005"/>But the problems of education arise in the moment in which they come into conflict with each
             </ab>
             <pb facs="#facs_21" n="part3_p021.jpg" xml:id="img_0021"/>
             <ab facs="#facs_21_tr_2">
-               <lb facs="#facs_21_tr_2_tl_1" n="N001"/>-ere¬
+               <lb facs="#facs_21_tr_2_tl_1" n="N001"/>[408]
                <lb facs="#facs_21_tr_2_tl_2" n="N002"/>other. I repeat the three: the humanistic, the technical, and the introductory.
-               <lb facs="#facs_21_tr_2_tl_3" n="N003"/>The backward of the first, to which I turn, are three ideas, of which the congressance
+               <lb facs="#facs_21_tr_2_tl_3" n="N003"/>The background of the first, to which I turn, are three ideas, of which the Renaissance
                <lb facs="#facs_21_tr_2_tl_4" n="N004"/>is the classical period of their development; not classical antiquity, but the Renaissance, because
                <lb facs="#facs_21_tr_2_tl_5" n="N005"/>in the Renaissance, elements came in which are dependent on the 1500 years of Christian education
                <lb facs="#facs_21_tr_2_tl_6" n="N006"/>and development in this period, and which, in the Greek culture, didn’t exist. The three ideas are,
                <lb facs="#facs_21_tr_2_tl_7" n="N007"/>first, the idea of the microcosmos. This idea means that every individual man, in his potentialities,
-               <lb facs="#facs_21_tr_2_tl_8" n="N008"/>mirrors the universe—all level’s and dimensions of the universe. They are in him, and he is the
+               <lb facs="#facs_21_tr_2_tl_8" n="N008"/>mirrors the universe--all levels and dimensions of the universe. They are in him, and he is the
             </ab>
             <ab facs="#facs_21_tr_3">
-               <lb facs="#facs_21_tr_3_tl_1" n="N001"/>mediator from one to the other of these levels. He unites the inorganic, the organis, the animal,
+               <lb facs="#facs_21_tr_3_tl_1" n="N001"/>mediator from one to the other of these levels. He unites the inorganic, the organic, the animal,
                <lb facs="#facs_21_tr_3_tl_2" n="N002"/>and the spiritual levels. All of them are in him. Therefore he has approach to all of them, can
                <lb facs="#facs_21_tr_3_tl_3" n="N003"/>control them, and can relate them to each other. Man as the microcosmos represents the universe
-               <lb facs="#facs_21_tr_3_tl_4" n="N004"/>and is able to bevelop all the potentialities which are given to him with his [this] situation.
+               <lb facs="#facs_21_tr_3_tl_4" n="N004"/>and is able to develop all the potentialities which are given to him with his [this?] situation.
                <lb facs="#facs_21_tr_3_tl_5" n="N005"/>But, and this is the second point, he can and should develop them only as a unique individual.
                <lb facs="#facs_21_tr_3_tl_6" n="N006"/>This is NOT Greek. The concept of the microcosmic individual has come to the Renaissance through
                <lb facs="#facs_21_tr_3_tl_7" n="N007"/>its Christian underground, through the Christian idea of the infinite value of the individual person
@@ -3609,144 +3513,96 @@
                <lb facs="#facs_21_tr_1_tl_2" n="N002"/>in what he actually is and in what he essentially is and therefore ought to be. The application
                <lb facs="#facs_21_tr_1_tl_3" n="N003"/>of the idea of salvation to every individual soul is a Christian idea.
                <lb facs="#facs_21_tr_1_tl_4" n="N004"/>In the Renaissance and then Romanticism, following, the idea is changed. It is
-               <lb facs="#facs_21_tr_1_tl_5" n="N005"/>combined with the idea of the microcosmos and means the mirroring of the universe goes on differ¬
+               <lb facs="#facs_21_tr_1_tl_5" n="N005"/>combined with the idea of the microcosmos and means the mirroring of the universe goes on differ-
                <lb facs="#facs_21_tr_1_tl_6" n="N006"/>ently in every individual. So every individual is a representative of the richness of the divine
-               <lb facs="#facs_21_tr_1_tl_7" n="N007"/>potentalities which he or she has and nobody else. And this is the second idea: the unique,
+               <lb facs="#facs_21_tr_1_tl_7" n="N007"/>potentialities which he or she has and nobody else. And this is the second idea: the unique,
                <lb facs="#facs_21_tr_1_tl_8" n="N008"/>unrepeatable, once-for-all character of every individual soul. Therefore the humanistic idea is the
-               <lb facs="#facs_21_tr_1_tl_9" n="N009"/>Monsieur Mounard, et le Comte de
-               <lb facs="#facs_21_tr_1_tl_10" n="N010"/>dʼavoir lʼautre vieusement
-               <lb facs="#facs_21_tr_1_tl_11" n="N011"/>Monsieur Mounard, et
-               <lb facs="#facs_21_tr_1_tl_12" n="N012"/>Monsieur,
-               <lb facs="#facs_21_tr_1_tl_13" n="N013"/>dʼun autre
-               <lb facs="#facs_21_tr_1_tl_14" n="N014"/>dʼune manière
             </ab>
             <pb facs="#facs_22" n="part3_p022.jpg" xml:id="img_0022"/>
             <ab facs="#facs_22_tr_1">
-               <lb facs="#facs_22_tr_1_tl_1" n="N001"/>pour lui
-               <lb facs="#facs_22_tr_1_tl_2" n="N002"/>409.
-               <lb facs="#facs_22_tr_1_tl_3" n="N003"/> : uevelopment of one’s unique individual potentialities, in the process of one's life. This is the
-               <lb facs="#facs_22_tr_1_tl_4" n="N004"/>second reason for the humanistic ideal of' education.
-               <lb facs="#facs_22_tr_1_tl_5" n="N005"/>Then there is a third one: man, because of his central position in the universe, is able to
-               <lb facs="#facs_22_tr_1_tl_6" n="N006"/>decide automously, by the law of the structure of mind and universe which is [bodied] in him,
-               <lb facs="#facs_22_tr_1_tl_7" n="N007"/>controls world and
-               <lb facs="#facs_22_tr_1_tl_8" n="N008"/>about the true and the good. Man in the power of his automomous reason
-               <lb facs="#facs_22_tr_1_tl_9" n="N009"/>nature and society. "Autonomous" means: the law is in himself. Please don’t misunderstand that
-               <lb facs="#facs_22_tr_1_tl_10" n="N010"/>word—I must say that now for 50 years, each time, because of the Istortion the concept of
-               <lb facs="#facs_22_tr_1_tl_11" n="N011"/>autonomy has suffered in Neo-Orthodor theology, where it has been identified with individual
-               <lb facs="#facs_22_tr_1_tl_12" n="N012"/>subjection
-               <lb facs="#facs_22_tr_1_tl_13" n="N013"/>to the law of the
-               <lb facs="#facs_22_tr_1_tl_14" n="N014"/>willfuiness. "Autonomous" is, as the Greek word nomos indicates,
-               <lb facs="#facs_22_tr_1_tl_15" n="N015"/>universe which is embodied in man and reality as a whole. Autonomy in Kant is just the opposite
-               <lb facs="#facs_22_tr_1_tl_16" n="N016"/>of willfulness: Kant construes willfulness as heteronomy, as dependent on one's whims, desires,ioars,
+               <lb facs="#facs_22_tr_1_tl_2" n="N001"/>[409]
+               <lb facs="#facs_22_tr_1_tl_3" n="N002"/>development of one’s unique individual potentialities, in the process of one's life. This is the
+               <lb facs="#facs_22_tr_1_tl_4" n="N003"/>second reason for the humanistic ideal of education.
+               <lb facs="#facs_22_tr_1_tl_5" n="N004"/>Then there is a third one: man, because of his central position in the universe, is able to
+               <lb facs="#facs_22_tr_1_tl_6" n="N005"/>decide autonomously, by the law of the structure of mind and universe which is embodied in him,
+               <lb facs="#facs_22_tr_1_tl_8" n="N006"/>about the true and the good. Man in the power of his autonomous reason controls world and
+               <lb facs="#facs_22_tr_1_tl_9" n="N007"/>nature and society. ''Autonomous'' means: the law is in himself. Please don’t misunderstand that
+               <lb facs="#facs_22_tr_1_tl_10" n="N008"/>word--I must say that now for 50 years, each time, because of the distortion the concept of
+               <lb facs="#facs_22_tr_1_tl_11" n="N009"/>autonomy has suffered in Neo-Orthodox theology, where it has been identified with individual
+               <lb facs="#facs_22_tr_1_tl_14" n="N010"/>willfulness. ''Autonomous'' is, as the Greek word <hi style="font-style: italic;">nomos</hi> indicates, subjection to the law of the
+               <lb facs="#facs_22_tr_1_tl_15" n="N011"/>universe which is embodied in man and reality as a whole. Autonomy in Kant is just the opposite
+               <lb facs="#facs_22_tr_1_tl_16" n="N012"/>of willfulness: Kant construes willfulness as heteronomy, as dependent on one's whims, desires, fears,
             </ab>
             <ab facs="#facs_22_tr_2">
-               <lb facs="#facs_22_tr_2_tl_1" n="N001"/>anxiety, etc. That’sPeteronomy, and that's used by ecclesiastical and political authorities in order
-               <lb facs="#facs_22_tr_2_tl_2" n="N002"/>to impose STRANGE laws, HETERONOMOUS laws, upon people. nothing of this is implied
+               <lb facs="#facs_22_tr_2_tl_1" n="N001"/>anxiety, etc. That’s heteronomy, and that's used by ecclesiastical and political authorities in order
+               <lb facs="#facs_22_tr_2_tl_2" n="N002"/>to impose STRANGE laws, HETERONOMOUS laws, upon people. Nothing of this is implied
                <lb facs="#facs_22_tr_2_tl_3" n="N003"/>in the concept of autonomy.
                <lb facs="#facs_22_tr_2_tl_4" n="N004"/>So we have these three ideas: 1) Man can recognize the law of the universe in himself and
-               <lb facs="#facs_22_tr_2_tl_5" n="N005"/>in his world. 2) Man is a unique individual, actualizing unique potentialities, irrepeatably.
+               <lb facs="#facs_22_tr_2_tl_5" n="N005"/>in his world. 2) Man is a unique individual, actualizing unique potentialities, irrepeatably [sic.].
                <lb facs="#facs_22_tr_2_tl_6" n="N006"/>3) And man is the microcosm in whom all the levels and dimensions of reality are united.
                <lb facs="#facs_22_tr_2_tl_7" n="N007"/>This immediately gives to the problem of education a definite content: make actual
-               <lb facs="#facs_22_tr_2_tl_8" n="N008"/>4
-               <lb facs="#facs_22_tr_2_tl_9" n="N009"/>what is potential in man; help him to come to autonomy; help¬ him to Jevelop his individual
-               <lb facs="#facs_22_tr_2_tl_10" n="N010"/>Ama
-               <lb facs="#facs_22_tr_2_tl_11" n="N011"/>der
-               <lb facs="#facs_22_tr_2_tl_12" n="N012"/>potentalities; help him to mirror the universe in his mind.
-               <lb facs="#facs_22_tr_2_tl_13" n="N013"/>In the period in which it was first conceived, this humanistic idea of course demanded,
-               <lb facs="#facs_22_tr_2_tl_14" n="N014"/>Säjéling
-               <lb facs="#facs_22_tr_2_tl_15" n="N015"/>and partly carried through, a very special form of education-the private, aristocratic education,
-               <lb facs="#facs_22_tr_2_tl_16" n="N016"/>as niusseau in his Emile (and others) demanded, an education in which the educator concentrates
-            </ab>
-            <ab facs="#facs_22_tr_3">
-               <lb facs="#facs_22_tr_3_tl_1" n="N001"/>dʼune manière beaucoup
-               <lb facs="#facs_22_tr_3_tl_2" n="N002"/>Cela nʼentraîne pour entretien
-               <lb facs="#facs_22_tr_3_tl_3" n="N003"/>dʼune manière
-               <lb facs="#facs_22_tr_3_tl_4" n="N004"/>Monsieur,
-               <lb facs="#facs_22_tr_3_tl_5" n="N005"/>Monsieur,
-               <lb facs="#facs_22_tr_3_tl_6" n="N006"/>dʼun autre
-               <lb facs="#facs_22_tr_3_tl_7" n="N007"/>G.C.F.P
-               <lb facs="#facs_22_tr_3_tl_8" n="N008"/>de mon frere,
-               <lb facs="#facs_22_tr_3_tl_9" n="N009"/>Monsieur
-               <lb facs="#facs_22_tr_3_tl_10" n="N010"/>dʼun autre
-               <lb facs="#facs_22_tr_3_tl_11" n="N011"/>dʼacquerir que je suis
-               <lb facs="#facs_22_tr_3_tl_12" n="N012"/>dʼadresse à
+               <lb facs="#facs_22_tr_2_tl_9" n="N008"/>what is potential in man; help him to come to autonomy; help him to develop his individual
+               <lb facs="#facs_22_tr_2_tl_12" n="N009"/>potentialities; help him to mirror the universe in his mind.
+               <lb facs="#facs_22_tr_2_tl_13" n="N010"/>In the periods in which it was first conceived, this humanistic idea of course demanded,
+               <lb facs="#facs_22_tr_2_tl_15" n="N011"/>and partly carried through, a very special form of education--the private, aristocratic education,
+               <lb facs="#facs_22_tr_2_tl_16" n="N012"/>as Rousseau in his <hi style="font-style: italic;">Émile</hi> (and others) demanded, an education in which the educator concentrates
             </ab>
             <pb facs="#facs_23" n="part3_p023.jpg" xml:id="img_0023"/>
             <ab facs="#facs_23_tr_2">
-               <lb facs="#facs_23_tr_2_tl_1" n="N001"/>410-
-               <lb facs="#facs_23_tr_2_tl_2" n="N002"/>all his strength on the full sevelopment of one individual who is supposed to become an outstanding
-               <lb facs="#facs_23_tr_2_tl_3" n="N003"/>representative of the human possibility in the future society. This is the humanistic education,
-               <lb facs="#facs_23_tr_2_tl_4" n="N004"/>and many of the great Ihilosopers were teachers in aristocratic houses in which they had to
+               <lb facs="#facs_23_tr_2_tl_1" n="N001"/>[410]
+               <lb facs="#facs_23_tr_2_tl_2" n="N002"/>all his strength on the full development of one individual who is supposed to become an outstanding
+               <lb facs="#facs_23_tr_2_tl_3" n="N003"/>representative of the human possibilities in the future society. This is the humanistic education,
+               <lb facs="#facs_23_tr_2_tl_4" n="N004"/>and many of the great philosophers were teachers in aristocratic houses in which they had to
                <lb facs="#facs_23_tr_2_tl_5" n="N005"/>perform this kind of education, and we have aristocrats like Montaigne and Shaftesbury, and others
                <lb facs="#facs_23_tr_2_tl_6" n="N006"/>of France and England, who INDEED were representatives, of highest degree, of human potentialities.
-               <lb facs="#facs_23_tr_2_tl_7" n="N007"/>Now the second is the communication of the Hchnical skills to everybody. Out of this
+               <lb facs="#facs_23_tr_2_tl_7" n="N007"/>Now the second is the communication of the technical skills to everybody. Out of this
             </ab>
             <ab facs="#facs_23_tr_3">
-               <lb facs="#facs_23_tr_3_tl_1" n="N001"/>idea, which develpped a little later than the Renaissance idea, with the Conising democratic
-               <lb facs="#facs_23_tr_3_tl_2" n="N002"/>ideology, we have the concept of the universal public school—not public school in the sense of
-               <lb facs="#facs_23_tr_3_tl_3" n="N003"/> maent Britain, where it simply meant a school in which not only one teacher is in a house to
-               <lb facs="#facs_23_tr_3_tl_4" n="N004"/>teach the aristocrats, but the sons come together in institutes where you have to beinenc¬
-               <lb facs="#facs_23_tr_3_tl_5" n="N005"/>a decide before your birth in order to be put in at all! Now this has very little to do with
-               <lb facs="#facs_23_tr_3_tl_6" n="N006"/>"public"--but in England, you must know that the word "public school" is the highest
-               <lb facs="#facs_23_tr_3_tl_7" n="N007"/>expression of the most aristocratic form of school. But, like the other counties, they also
+               <lb facs="#facs_23_tr_3_tl_1" n="N001"/>idea, which developed a little later than the Renaissance idea, with the rising democratic
+               <lb facs="#facs_23_tr_3_tl_2" n="N002"/>ideology, we have the concept of the universal public schools--not public schools in the sense of
+               <lb facs="#facs_23_tr_3_tl_3" n="N003"/>Great Britain, where it simply meant a school in which not only one teacher is in a house to
+               <lb facs="#facs_23_tr_3_tl_4" n="N004"/>teach the aristocrats, but the sons come together in institutes where you have to be announced
+               <lb facs="#facs_23_tr_3_tl_5" n="N005"/>a decade before your birth in order to be put in at all! Now this has very little to do with
+               <lb facs="#facs_23_tr_3_tl_6" n="N006"/>''public''--but in England, you must know that the word ''public school'' is the highest
+               <lb facs="#facs_23_tr_3_tl_7" n="N007"/>expression of the most aristocratic form of schools. But, like the other countries, they also
                <lb facs="#facs_23_tr_3_tl_8" n="N008"/>introduced schools for everybody. And since the 18th century, for instance in Germany,
-               <lb facs="#facs_23_tr_3_tl_9" n="N009"/>everybody had to go to these schools. Why? What was the idea of THIS education? I myself
+               <lb facs="#facs_23_tr_3_tl_9" n="N009"/>everybody had to go to these schools. Why? What was the ideal of THIS education? I myself
             </ab>
             <ab facs="#facs_23_tr_1">
-               <lb facs="#facs_23_tr_1_tl_1" n="N001"/>went to such a real public school, where we were together with all workers, andifricuitural
+               <lb facs="#facs_23_tr_1_tl_1" n="N001"/>went to such a real public school, where we were together with all workers, and agricultural
                <lb facs="#facs_23_tr_1_tl_2" n="N002"/>laborers, and sons of craftsmen and small traders, etc., in a little town. What you first of all
-               <lb facs="#facs_23_tr_1_tl_3" n="N003"/>also
-               <lb facs="#facs_23_tr_1_tl_4" n="N004"/>and
-               <lb facs="#facs_23_tr_1_tl_5" n="N005"/>iuam are technical skills: reading and writing, beyond this, later on, not school which bring
-               <lb facs="#facs_23_tr_1_tl_6" n="N006"/>as labor or lower middle class people.
-               <lb facs="#facs_23_tr_1_tl_7" n="N007"/>you never to some of your later jobs,
-               <lb facs="#facs_23_tr_1_tl_8" n="N008"/>But it was not only this. The school was also used in order to give some of the goods
-               <lb facs="#facs_23_tr_1_tl_9" n="N009"/>of culture. From the very beginning, an element of introduced in these school,
-               <lb facs="#facs_23_tr_1_tl_10" n="N010"/>for instance introduction into nature, the surincunding nature; an'introduction into the national
-               <lb facs="#facs_23_tr_1_tl_11" n="N011"/>cʼest lʼobligation dʼautre beaucoup
-               <lb facs="#facs_23_tr_1_tl_12" n="N012"/>dʼaprès
-               <lb facs="#facs_23_tr_1_tl_13" n="N013"/>dans les
-               <lb facs="#facs_23_tr_1_tl_14" n="N014"/>dʼune manière
-               <lb facs="#facs_23_tr_1_tl_15" n="N015"/>de mon frere,
-               <lb facs="#facs_23_tr_1_tl_16" n="N016"/>dʼune manière
+               <lb facs="#facs_23_tr_1_tl_5" n="N003"/>learn are technical skills: reading and writing, and beyond this, later on, also schools which bring
+               <lb facs="#facs_23_tr_1_tl_7" n="N004"/>you nearer to some of your later jobs, as labor or lower middle class people.
+               <lb facs="#facs_23_tr_1_tl_8" n="N005"/>But it was not only this. The school was also used in order to give some of the goods
+               <lb facs="#facs_23_tr_1_tl_9" n="N006"/>of culture. From the very beginning, an element of introduction was envisaged in these schools,
+               <lb facs="#facs_23_tr_1_tl_10" n="N007"/>for instance introduction into nature, the surrounding nature; an introduction into the national
             </ab>
             <pb facs="#facs_24" n="part3_p024.jpg" xml:id="img_0024"/>
             <ab facs="#facs_24_tr_1">
-               <lb facs="#facs_24_tr_1_tl_1" n="N001"/>411.
+               <lb facs="#facs_24_tr_1_tl_1" n="N001"/>[411]
                <lb facs="#facs_24_tr_1_tl_2" n="N002"/>geography and history. But all this was done on the basis of the use of which the state makes of
-               <lb facs="#facs_24_tr_1_tl_3" n="N003"/>the citizen. And it was very wise to do this because—for instance in military and economic
-               <lb facs="#facs_24_tr_1_tl_4" n="N004"/>competitions which are going on in Europe day by day—those who had these skills were superior
-               <lb facs="#facs_24_tr_1_tl_5" n="N005"/>to those who had no skills, and had only the power of a kind of'dull resistance but not the power
+               <lb facs="#facs_24_tr_1_tl_3" n="N003"/>the citizen. And it was very wise to do this because--for instance in military and economic
+               <lb facs="#facs_24_tr_1_tl_4" n="N004"/>competitions which are going on in Europe day by day--those who had these skills were superior
+               <lb facs="#facs_24_tr_1_tl_5" n="N005"/>to those who had no skills, and had only the power of a kind of dull resistance but not the power
                <lb facs="#facs_24_tr_1_tl_6" n="N006"/>of active progress.
-               <lb facs="#facs_24_tr_1_tl_7" n="N007"/>introdueng idea by active Grarticipation in the spirit of a
-               <lb facs="#facs_24_tr_1_tl_8" n="N008"/>The third form is the
-               <lb facs="#facs_24_tr_1_tl_9" n="N009"/>City-state—a politeia, as Plato called it—in the spirit of a nation, so that
-               <lb facs="#facs_24_tr_1_tl_10" n="N010"/>one can participate
-               <lb facs="#facs_24_tr_1_tl_11" n="N011"/>creatively in it, and not only as a tool, as in the second form; or into a special kultural or religious
+               <lb facs="#facs_24_tr_1_tl_7" n="N007"/>The third form is the introducing idea by active participation in the spirit of a
+               <lb facs="#facs_24_tr_1_tl_9" n="N008"/>city-state--a <hi style="font-style: italic;">politeia</hi>, as Plato called it--in the spirit of a nation, so that one can participate
+               <lb facs="#facs_24_tr_1_tl_11" n="N009"/>creatively in it, and not only as a tool, as in the second form; or into a special cultural or religious
             </ab>
             <ab facs="#facs_24_tr_3">
-               <lb facs="#facs_24_tr_3_tl_1" n="N001"/>group. 1 call this [the] introductory idea of education, because the decision thing is that here the
-               <lb facs="#facs_24_tr_3_tl_2" n="N002"/> group is given, which PRECEDES the educational process, and the individual is introduced into it,
-               <lb facs="#facs_24_tr_3_tl_3" n="N003"/>brought into its structure, into its Abmbols, into it's activities.
-               <lb facs="#facs_24_tr_3_tl_4" n="N004"/>is
-               <lb facs="#facs_24_tr_3_tl_5" n="N005"/>Now let’s look at these three Meals, at their importance and their shortcomings. The shortcoming
-               <lb facs="#facs_24_tr_3_tl_6" n="N006"/>of the first idea! is very obvious in this country, not so obvious in Europe, namely it is the individualistic
-               <lb facs="#facs_24_tr_3_tl_7" n="N007"/>form, the aristocratic separation of the individual from the total of life in this kind of education.
-               <lb facs="#facs_24_tr_3_tl_8" n="N008"/> Therefore in the twenties of the century there was a movement in Europeean education which called
+               <lb facs="#facs_24_tr_3_tl_1" n="N001"/>group. I call this [the] introductory ideal of education, because the decisive thing is that here the
+               <lb facs="#facs_24_tr_3_tl_2" n="N002"/>group is given, which PRECEDES the educational process, and the individual is introduced into it,
+               <lb facs="#facs_24_tr_3_tl_3" n="N003"/>is brought into its structure, into its symbols, into its activities.
+               <lb facs="#facs_24_tr_3_tl_5" n="N004"/>Now let’s look at these three ideals, at their importance and their shortcomings. The shortcoming
+               <lb facs="#facs_24_tr_3_tl_6" n="N005"/>of the first ideal is very obvious in this country, not so obvious in Europe, namely it is the individualistic
+               <lb facs="#facs_24_tr_3_tl_7" n="N006"/>form, the aristocratic separation of the individual from the total of life in this kind of education.
+               <lb facs="#facs_24_tr_3_tl_8" n="N007"/>Therefore in the twenties of the century there was a movement in Europeean [sic.] education which called
             </ab>
             <ab facs="#facs_24_tr_2">
                <lb facs="#facs_24_tr_2_tl_1" n="N001"/>itself neo-humanist, or real humanist, INCLUDING into the education towards humanities in the
-               <lb facs="#facs_24_tr_2_tl_2" n="N002"/>apper classes, also the education into the social problems of a special social situation. And I myself
-               <lb facs="#facs_24_tr_2_tl_3" n="N003"/>was partly connected with this idea, that the higher education in Germany, which was thoughtly
+               <lb facs="#facs_24_tr_2_tl_2" n="N002"/>upper classes, also the education into the social problems of a special social situation. And I myself
+               <lb facs="#facs_24_tr_2_tl_3" n="N003"/>was partly connected with this idea, that the higher education in Germany, which was thoroughly
                <lb facs="#facs_24_tr_2_tl_4" n="N004"/>humanistic, should add and integrate into itself the relationship to the problem of all social classes
-               <lb facs="#facs_24_tr_2_tl_5" n="N005"/>de mon ami
-               <lb facs="#facs_24_tr_2_tl_6" n="N006"/>Monsieur
-               <lb facs="#facs_24_tr_2_tl_7" n="N007"/>dʼune manière
-               <lb facs="#facs_24_tr_2_tl_8" n="N008"/>de mon ami
-               <lb facs="#facs_24_tr_2_tl_9" n="N009"/>dans
-               <lb facs="#facs_24_tr_2_tl_10" n="N010"/>Votre
-               <lb facs="#facs_24_tr_2_tl_11" n="N011"/>dʼavoir lʼautre
-               <lb facs="#facs_24_tr_2_tl_12" n="N012"/>dans la
             </ab>
             <pb facs="#facs_25" n="part3_p025.jpg" xml:id="img_0025"/>
             <ab facs="#facs_25_tr_1">
