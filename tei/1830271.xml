@@ -7156,7 +7156,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_238">
          <graphic url="part1_p238.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=SHBKIQAJRWFVDNINTVQPDMKM&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=SHBKIQAJRWFVDNINTVQPDMKM&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="80,242 80,3489 2331,3489 2331,242" rendition="TextRegion" xml:id="facs_238_tr_1">
             <zone points="1232,309 1245,309 1257,319 1278,317 1288,324 1306,324 1311,317 1321,324 1349,319 1346,246 1321,243 1308,254 1298,254 1280,243 1268,261 1232,256" rendition="Line" xml:id="facs_238_tr_1_tl_1"/>
             <zone points="314,423 2304,469 2302,413 314,375" rendition="Line" xml:id="facs_238_tr_1_tl_2"/>
@@ -7185,7 +7185,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_239">
          <graphic url="part1_p239.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=VWJJHRWLJSEEMVBGDCGXKVNE&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=VWJJHRWLJSEEMVBGDCGXKVNE&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="179,274 179,3454 2301,3454 2301,274" rendition="TextRegion" xml:id="facs_239_tr_1">
             <zone points="1093,333 1106,333 1119,346 1132,343 1153,351 1163,351 1171,343 1210,341 1210,283 1174,283 1153,267 1142,267 1129,280 1093,280" rendition="Line" xml:id="facs_239_tr_1_tl_1"/>
             <zone points="341,485 2041,451 2044,393 1344,409 1279,354 1179,417 341,443" rendition="Line" xml:id="facs_239_tr_1_tl_2" subtype="paragraph"/>
@@ -7215,7 +7215,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_240">
          <graphic url="part1_p240.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=LMWYEPKDXYYOSHJTWCSDOXHB&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LMWYEPKDXYYOSHJTWCSDOXHB&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="210,265 210,3488 2346,3488 2346,265" rendition="TextRegion" xml:id="facs_240_tr_2">
             <zone points="1208,325 1220,325 1233,336 1241,331 1320,333 1320,267 1307,267 1294,282 1287,277 1284,282 1274,280 1256,264 1241,277 1205,275" rendition="Line" xml:id="facs_240_tr_2_tl_1"/>
             <zone points="282,422 999,437 1053,486 1564,516 2232,516 2230,432 282,381" rendition="Line" xml:id="facs_240_tr_2_tl_2"/>
@@ -7239,7 +7239,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_241">
          <graphic url="part1_p241.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=ZOQOODYABTELATXKKZLTUILN&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZOQOODYABTELATXKKZLTUILN&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="238,287 238,3451 2277,3451 2277,287" rendition="TextRegion" xml:id="facs_241_tr_1">
             <zone points="966,332 978,332 983,342 990,342 1000,352 1035,352 1070,342 1087,344 1092,285 1077,282 1057,287 1052,282 1028,282 1015,285 995,300 966,300" rendition="Line" xml:id="facs_241_tr_1_tl_1"/>
             <zone points="225,518 834,510 837,443 228,461" rendition="Line" xml:id="facs_241_tr_1_tl_2" subtype="heading"/>
@@ -7325,7 +7325,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_244">
          <graphic url="part1_p244.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=MECUMBWWKBVLFZUUZUHFSBIS&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MECUMBWWKBVLFZUUZUHFSBIS&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="32,271 32,3474 2385,3474 2385,271" rendition="TextRegion" xml:id="facs_244_tr_1">
             <zone points="1211,335 1230,333 1237,340 1265,340 1272,347 1281,347 1289,340 1305,345 1317,333 1333,333 1333,293 1298,293 1289,283 1265,276 1248,293 1239,286 1211,288" rendition="Line" xml:id="facs_244_tr_1_tl_1"/>
             <zone points="583,526 2211,564 2124,470 2072,517 583,489" rendition="Line" xml:id="facs_244_tr_1_tl_2" subtype="paragraph"/>
@@ -7350,7 +7350,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_245">
          <graphic url="part1_p245.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=TKLMGQMYMJHJJAVXQAJNDYDN&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TKLMGQMYMJHJJAVXQAJNDYDN&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="259,267 259,3480 2242,3480 2242,267" rendition="TextRegion" xml:id="facs_245_tr_2">
             <zone points="1105,341 1123,341 1135,354 1147,354 1162,346 1199,349 1212,339 1226,339 1229,272 1204,272 1192,284 1179,287 1169,287 1155,277 1142,289 1108,289" rendition="Line" xml:id="facs_245_tr_2_tl_1"/>
             <zone points="270,499 2151,492 2112,433 270,460" rendition="Line" xml:id="facs_245_tr_2_tl_2"/>
@@ -14764,7 +14764,7 @@
                <lb facs="#facs_236_tr_1_tl_9" n="N009"/>has been carried through since the Greeks, the whole Middle Ages, in Protestant Orthodoxy, and even
                <lb facs="#facs_236_tr_1_tl_10" n="N010"/>in anti-metaphysical liberal theology of the 19th century. Nevertheless, there always was a RESISTANCE
                <lb facs="#facs_236_tr_1_tl_11" n="N011"/>against it, a feeling that such an enterprise is impossible. The concrete discussion in which these two
-               <lb facs="#facs_236_tr_1_tl_12" n="N012"/>attitudes came up are the so called "arguments" for the so-called "existene" of God. Now with these
+               <lb facs="#facs_236_tr_1_tl_12" n="N012"/>attitudes came up are the so called "arguments" for the so-called "existence" of God. Now with these
                <lb facs="#facs_236_tr_1_tl_13" n="N013"/>two "so-called's," I have already implied my attitude toward them.
                <lb facs="#facs_236_tr_1_tl_14" n="N014"/>It is very interesting that in the discussion of these arguments, or a special [one] of them,
                <lb facs="#facs_236_tr_1_tl_15" n="N015"/>not lower-degreed philosophers, but the very HIGHEST-quality philosophers disagreed; that there
@@ -14796,7 +14796,7 @@
                <lb facs="#facs_237_tr_1_tl_19" n="N019"/>God is beyond essence and existence---one cannot say "existence" of Him in any way. God is being itself,
                <lb facs="#facs_237_tr_1_tl_20" n="N020"/>but not one existing being.
                <lb facs="#facs_237_tr_1_tl_21" n="N021"/>Beside this, the following can be said: the <Ontological_argument>ontological argument </Ontological_argument>is right when it says that man
-               <lb facs="#facs_237_tr_1_tl_22" n="N022"/>stands between his own finitude, of which he is aware, and the infinite from which he is excluded,
+               <lb facs="#facs_237_tr_1_tl_22" n="N022"/>stands between his own <Finitude>finitude</Finitude>, of which he is aware, and the infinite from which he is excluded,
                <lb facs="#facs_237_tr_1_tl_23" n="N023"/>although he knows that he belongs to it. This does not give us any right to make a conclusion to the
                <lb facs="#facs_237_tr_1_tl_24" n="N024"/>existence of a highest being called God. But it gave all those who DEFENDED the ontological argument
             </ab>
@@ -14806,9 +14806,9 @@
                <lb facs="#facs_238_tr_1_tl_2" n="N002"/>a justification for their defence, namely that the experience of unconditional or <ultimate_concern>ultimate concern</ultimate_concern> is an
                <lb facs="#facs_238_tr_1_tl_3" n="N003"/>element of our very being and therefore has ultimate certainty. As far as that, we can go; beyond this,
                <lb facs="#facs_238_tr_1_tl_4" n="N004"/>we cannot go. To make from this a conclusion, in terms of arguments, to the existence of a highest
-               <lb facs="#facs_238_tr_1_tl_5" n="N005"/>being, was the fantasy of the Anselmian argument.
+               <lb facs="#facs_238_tr_1_tl_5" n="N005"/>being, was the fantasy of the <rs type="person" key=", tillich_person_id__60">Anselmian</rs> argument.
                <lb facs="#facs_238_tr_1_tl_6" n="N006"/>Or when we come to the<Cosmological_argument> cosmological argument</Cosmological_argument>, then we look at the world, at ourselves IN
-               <lb facs="#facs_238_tr_1_tl_7" n="N007"/>the world, and we find our finitude, our having-to-die, our anxiety, our loneliness, and when we find all
+               <lb facs="#facs_238_tr_1_tl_7" n="N007"/>the world, and we find our finitude, our having-to-die, our <Anxiety>anxiety,</Anxiety> our loneliness, and when we find all
                <lb facs="#facs_238_tr_1_tl_8" n="N008"/>this, then we ask the question of something which might OVERCOME contingency, which might have
                <lb facs="#facs_238_tr_1_tl_9" n="N009"/>ultimate necessity, or which might OVERCOME anxiety, which might gives us the courage, the ultimate
                <lb facs="#facs_238_tr_1_tl_10" n="N010"/>courage, to take this anxiety into ourselves. This is alright. And one can say, with a slight exaggeration,
@@ -14830,7 +14830,7 @@
             <ab facs="#facs_239_tr_1">
                <lb facs="#facs_239_tr_1_tl_1" n="N001"/>[235]
                <lb facs="#facs_239_tr_1_tl_2" n="N002"/>Now here you have in very few words the possibility of philosophy in its contribution
-               <lb facs="#facs_239_tr_1_tl_3" n="N003"/>to theology. Philosophy can formulate---as the arts do, and poetry and theater do---the question which is
+               <lb facs="#facs_239_tr_1_tl_3" n="N003"/>to theology. <Philosophy>Philosophy</Philosophy> can formulate---as the arts do, and poetry and theater do---the question which is
                <lb facs="#facs_239_tr_1_tl_4" n="N004"/>implied in the human situation, but it cannot give, in terms of arguments, the answer. The answer
                <lb facs="#facs_239_tr_1_tl_5" n="N005"/>is ecstatic-revelatory and is given to us by the analysis of the human situation, is a matter of our
                <lb facs="#facs_239_tr_1_tl_6" n="N006"/>own awareness.
@@ -14842,12 +14842,12 @@
                <lb facs="#facs_239_tr_1_tl_12" n="N012"/>of that which they deny, namely religion? The answer simply is that here also the FIRST part of what
                <lb facs="#facs_239_tr_1_tl_13" n="N013"/>they are doing is decisive, and the second part is open. Decisive is their analysis of the human situation.
                <lb facs="#facs_239_tr_1_tl_14" n="N014"/>In this sense they do better than most of their predecessors, the work of natural theology. Natural
-               <lb facs="#facs_239_tr_1_tl_15" n="N015"/>theology IN THE NEGATVE FORM: that's <Existentialism>existentialism,</Existentialism> to a great extent. In the moment in which
+               <lb facs="#facs_239_tr_1_tl_15" n="N015"/>theology IN THE NEGATIVE FORM: that's <Existentialism>existentialism,</Existentialism> to a great extent. In the moment in which
                <lb facs="#facs_239_tr_1_tl_16" n="N016"/>it comes to positive formulations, existentialism cannot do ANYthing of its own. One has wrongly
                <lb facs="#facs_239_tr_1_tl_17" n="N017"/>distinguished between theistic and atheistic existentialism---there is no such a thing, neither the one nor
                <lb facs="#facs_239_tr_1_tl_18" n="N018"/>the other, but there are different traditions out of which the <Existentialism>existentialists </Existentialism>took their answers TO the
                <lb facs="#facs_239_tr_1_tl_19" n="N019"/>questions which they aroused by the analysis of the human situation. If they came from <rs type="person" key=", tillich_person_id__100">Augustine,</rs>
-               <lb facs="#facs_239_tr_1_tl_20" n="N020"/>they gave answer like <rs type="person" key=", tillich_person_id__1458">Pascal</rs>; if they came from Lutheran pietism, they gave answers like <rs type="person" key=", tillich_person_id__1049">Kierkegaard</rs>,
+               <lb facs="#facs_239_tr_1_tl_20" n="N020"/>they gave answer like <rs type="person" key=", tillich_person_id__1458">Pascal</rs>; if they came from <rs type="person" key=", tillich_person_id__1228">Lutheran</rs> pietism, they gave answers like <rs type="person" key=", tillich_person_id__1049">Kierkegaard</rs>,
                <lb facs="#facs_239_tr_1_tl_22" n="N021"/>if they came from French moralism, they gave answers like <rs type="person" key=", tillich_person_id__1687">Sartre</rs>; if they came from Catholic mysticism,
                <lb facs="#facs_239_tr_1_tl_24" n="N022"/>they gave answers like the late[r] <rs type="person" key=", tillich_person_id__841">Heidegger</rs>; if they came from German classical philosophy, they gave
                <lb facs="#facs_239_tr_1_tl_25" n="N023"/>answers like <rs type="person" key=", tillich_person_id__972">Jaspers</rs>. Each of these men gave answers out of the tradition in which he lived, from which
@@ -14859,19 +14859,19 @@
                <lb facs="#facs_240_tr_2_tl_2" n="N002"/>analysis of the human predicament. But there is no possibility of deriving answers out of existential
                <lb facs="#facs_240_tr_2_tl_3" n="N003"/>analyses.
                <lb facs="#facs_240_tr_2_tl_4" n="N004"/>So we can say: lt is the greatness of <Existentialism>existentialism</Existentialism> that it has liberated us from the deceptive
-               <lb facs="#facs_240_tr_2_tl_6" n="N005"/>forms of an essentialism which believed it could produce a <Naturalism>natural theology</Naturalism>, in terms of arguing from the human
+               <lb facs="#facs_240_tr_2_tl_6" n="N005"/>forms of an <Essentialism>essentialism</Essentialism> which believed it could produce a <Naturalism>natural theology</Naturalism>, in terms of arguing from the human
                <lb facs="#facs_240_tr_2_tl_7" n="N006"/>situation to God. The impossibility of this has been seen by all those who CRITICIZED these arguments.
                <lb facs="#facs_240_tr_2_tl_8" n="N007"/>Its impossibility has become even more manifest by the <Existentialism>existentialist analyses.</Existentialism>
                <lb facs="#facs_240_tr_2_tl_9" n="N008"/>Now l woud call e<Existentialism>xistentialism,</Existentialism> wherever it appears, an expression of the RELIGIOUS STYLE in
                <lb facs="#facs_240_tr_2_tl_10" n="N009"/>philosophy. The style becomes religious in the moment in which the surface of reality is shaken.
-               <lb facs="#facs_240_tr_2_tl_11" n="N010"/>And that's what I wanted to show you in the visual <Art>arts,</Art> but which l can also show you in the depth
-               <lb facs="#facs_240_tr_2_tl_12" n="N011"/>psychology, for which we have decided and which will prepare you then for the next semester, when we
+               <lb facs="#facs_240_tr_2_tl_11" n="N010"/>And that's what I wanted to show you in the visual <Art>arts,</Art> but which l can also show you in the <Depth_psychology>depth
+               <lb break="no" facs="#facs_240_tr_2_tl_12" n="N011"/>psychology,</Depth_psychology> for which we have decided and which will prepare you then for the next semester, when we
                <lb facs="#facs_240_tr_2_tl_13" n="N012"/>start with art.
-               <lb facs="#facs_240_tr_2_tl_14" n="N013"/>Philosophy ALSO has <Style>style. </Style>The word "style" is not a prerogative of the arts. There are
+               <lb facs="#facs_240_tr_2_tl_14" n="N013"/><Philosophy>Philosophy</Philosophy> ALSO has <Style>style. </Style>The word "style" is not a prerogative of the arts. There are
                <lb facs="#facs_240_tr_2_tl_15" n="N014"/>styles not only of artistic creation but also of philosophical thinking, of political and ethical action.
                <lb facs="#facs_240_tr_2_tl_16" n="N015"/>The question which will lie very much behind our whole discussion of the <Art>arts</Art> is: what is a religious
-               <lb facs="#facs_240_tr_2_tl_17" n="N016"/><Style>STYLE?--</Style>-first in the arts, but then also in all the other realms of life. Not the content, not the
-               <lb facs="#facs_240_tr_2_tl_18" n="N017"/>subject matter, but the <Style>STYLE</Style>, and that is the most important thing for the understanding of religion
+               <lb facs="#facs_240_tr_2_tl_17" n="N016"/>STYLE?---first in the arts, but then also in all the other realms of life. Not the content, not the
+               <lb facs="#facs_240_tr_2_tl_18" n="N017"/>subject matter, but the STYLE, and that is the most important thing for the understanding of religion
                <lb facs="#facs_240_tr_2_tl_19" n="N018"/>and culture.
             </ab>
             <pb facs="#facs_241" n="part1_p241.jpg" xml:id="img_0241"/>
@@ -14879,9 +14879,9 @@
                <lb facs="#facs_241_tr_1_tl_1" n="N001"/>[237]
                <lb facs="#facs_241_tr_1_tl_2" n="N002"/>LECTURE XX, Dec. 13, 1955
                <lb facs="#facs_241_tr_1_tl_4" n="N003"/>We decided last Thursday to discuss, in these remaining three lecture hours, problems of the
-               <lb facs="#facs_241_tr_1_tl_5" n="N004"/>doctrine of man, including psychoanalytic psychology and the problem of healing, the relationship
+               <lb facs="#facs_241_tr_1_tl_5" n="N004"/><Doctrine_of_man>doctrine of man</Doctrine_of_man>, including psychoanalytic psychology and the problem of healing, the relationship
                <lb facs="#facs_241_tr_1_tl_6" n="N005"/>of the religious and medical element in the process of healing.
-               <lb facs="#facs_241_tr_1_tl_7" n="N006"/>QN: Your use of ontological language seems to me to be a <Poetry>poetic </Poetry>revision of traditional supernatural-
+               <lb facs="#facs_241_tr_1_tl_7" n="N006"/>QN: Your use of <Ontology>ontological </Ontology>language seems to me to be a poetic revision of traditional supernatural-
                <lb facs="#facs_241_tr_1_tl_8" n="N007"/>ism and <Metaphysics>metaphysics.</Metaphysics> [PT: Now - - <hi style="font-style: italic;">[laughter]</hi> - -  that's good!] How do you escape this
                <lb facs="#facs_241_tr_1_tl_9" n="N008"/>charge [PT: It's really a charge!] if you attempt to give a rational case for the relation
                <lb facs="#facs_241_tr_1_tl_10" n="N009"/>between possibles and the actual states of affairs, intending to give knowledge of those
@@ -14967,7 +14967,7 @@
                <lb facs="#facs_244_tr_1_tl_12" n="N012"/>man. Now that is a kind of summary of ALL other problems. To show this is my first task,
                <lb facs="#facs_244_tr_1_tl_13" n="N013"/>I call the lecture today: "Man's search for himself and self-loss in his world." I want to do this
                <lb facs="#facs_244_tr_1_tl_14" n="N014"/>in a dramatic form, and l believe that in order to UNDERSTAND history, and historical
-               <lb facs="#facs_244_tr_1_tl_15" n="N015"/>developments, one must have a vision of the developments which has a dramatic character.
+               <lb facs="#facs_244_tr_1_tl_15" n="N015"/>developments, one must have a vision of the developments which has a <Dramatic>dramatic </Dramatic>character.
                <lb facs="#facs_244_tr_1_tl_16" n="N016"/>In a more abstract concept this has been called "<Dialectical>dialectical character </Dialectical>of history." But "dramatic"
                <lb facs="#facs_244_tr_1_tl_17" n="N017"/>and "<Dialectical>dialectic"</Dialectical>, if applied to history, mean exactly the same thing. When <rs type="person" key=", tillich_person_id__1275">Marx</rs>, for instance,
                <lb facs="#facs_244_tr_1_tl_18" n="N018"/>applied the <Dialectical>dialectical method </Dialectical>to the development of industrial society, he actually gave a
@@ -14976,9 +14976,9 @@
             <pb facs="#facs_245" n="part1_p245.jpg" xml:id="img_0245"/>
             <ab facs="#facs_245_tr_2">
                <lb facs="#facs_245_tr_2_tl_1" n="N001"/>[241]
-               <lb facs="#facs_245_tr_2_tl_2" n="N002"/>concept--and its possible solutions after final, or preliminary, catastrophes. All this is dramatic.
+               <lb facs="#facs_245_tr_2_tl_2" n="N002"/>concept--and its possible solutions after final, or preliminary, catastrophes. All this is <Dramatic>dramatic</Dramatic>.
                <lb facs="#facs_245_tr_2_tl_3" n="N003"/>In the same way, the <rs type="person" key=", tillich_person_id__839">Hegelian </rs>interpretation of history, where the word "<Dialectical>dialectical"</Dialectical>
-               <lb facs="#facs_245_tr_2_tl_4" n="N004"/>was first applied to <History>history,</History> was a dramatic one. The dramatic element in <Dialectical>dialectical t</Dialectical>hinking is
+               <lb facs="#facs_245_tr_2_tl_4" n="N004"/>was first applied to <History>history,</History> was a <Dramatic>dramatic</Dramatic> one. The dramatic element in dialectical thinking is
                <lb facs="#facs_245_tr_2_tl_5" n="N005"/>that a reality is seen in its inescapable conflicts, the conflicts are not something which come
                <lb facs="#facs_245_tr_2_tl_6" n="N006"/>from outside. Take any drama of <rs type="person" key=", tillich_person_id__1775">Shakespeare</rs>: it comes from the constellation of powers of
                <lb facs="#facs_245_tr_2_tl_7" n="N007"/>being embodied in almost superhuman characters of good and evil. Take <rs type="person" key=", tillich_person_id__2985">King Lear,</rs> or
@@ -14992,7 +14992,7 @@
                <lb facs="#facs_245_tr_2_tl_15" n="N015"/>religious interpretation of history, in Parsism, Judaism, and Christianity. In all these interpretations
                <lb facs="#facs_245_tr_2_tl_18" n="N016"/>of history, the dramatic element, as l have just defined it, is present and important, and
                <lb facs="#facs_245_tr_2_tl_19" n="N017"/>gives the quality to these interpretations.
-               <lb facs="#facs_245_tr_2_tl_20" n="N018"/>Take the Persian. There the dramatic conflict is based on the revision of reality in a
+               <lb facs="#facs_245_tr_2_tl_20" n="N018"/>Take the Persian. There the <Dramatic>dramatic</Dramatic> conflict is based on the revision of reality in a
                <lb facs="#facs_245_tr_2_tl_21" n="N019"/>good and an evil principle, which are created from the very beginning, which are fighting with
             </ab>
             <pb facs="#facs_246" n="part1_p246.jpg" xml:id="img_0246"/>
@@ -15002,13 +15002,13 @@
                <lb facs="#facs_246_tr_1_tl_3" n="N003"/>prophet, and which comes to an end, a final catastrophe, in the burning of the world by the
                <lb facs="#facs_246_tr_1_tl_4" n="N004"/>"man from above," which is the pattern of the Son of Man in the biblical literature.
                <lb facs="#facs_246_tr_1_tl_5" n="N005"/>Then [in] the Jewish interpretation of history, in the Old Testament, we have
-               <lb facs="#facs_246_tr_1_tl_6" n="N006"/>the same dramatic conflict, dramatized even in conscious poetic forms, in later Jewish
+               <lb facs="#facs_246_tr_1_tl_6" n="N006"/>the same <Dramatic>dramatic </Dramatic>conflict, dramatized even in conscious poetic forms, in later Jewish
                <lb facs="#facs_246_tr_1_tl_7" n="N007"/>apocalyptics, where the powers of good and evil develop stronger and stronger, and the "man
                <lb facs="#facs_246_tr_1_tl_8" n="N008"/>from above," the Messiah, the Son of Man, will transform the given reality in a final victory
                <lb facs="#facs_246_tr_1_tl_9" n="N009"/>over the evil pwoers [sic.], and the whole world will come to the Mount Zion to adore the true
                <lb facs="#facs_246_tr_1_tl_10" n="N010"/>God.
                <lb facs="#facs_246_tr_1_tl_11" n="N011"/>And we have the drama in the interpretation of history in Christianity, the
-               <lb facs="#facs_246_tr_1_tl_13" n="N012"/>drama of fall and salvation, salvation in the center of history, and again going toward the final
+               <lb facs="#facs_246_tr_1_tl_13" n="N012"/>drama of <The_Fall>fall </The_Fall>and salvation, salvation in the center of history, and again going toward the final
                <lb facs="#facs_246_tr_1_tl_14" n="N013"/>catastrophe.
                <lb facs="#facs_246_tr_1_tl_15" n="N014"/>Now these dramatic motifs are present in all interpretation of history and are logically
                <lb facs="#facs_246_tr_1_tl_16" n="N015"/>transformed in the <Dialectical>dialectical method </Dialectical>applied to <History>history.</History>
@@ -15038,7 +15038,7 @@
                <lb facs="#facs_247_tr_2_tl_16" n="N016"/>otherwise we would be in complete unity with Him and wouldn't ask the question.
                <lb facs="#facs_247_tr_2_tl_17" n="N017"/>And so it is about man. It means man has himself, and has himself not. He has his
                <lb facs="#facs_247_tr_2_tl_18" n="N018"/>world and he is separated from his world.
-               <lb facs="#facs_247_tr_2_tl_19" n="N019"/>Now this alone is a matter of astonishment, if we look at it. And if this astonishment
+               <lb facs="#facs_247_tr_2_tl_19" n="N019"/>Now this alone is a =atter [sic.] of astonishment, if we look at it. And if this astonishment
             </ab>
             <pb facs="#facs_248" n="part1_p248.jpg" xml:id="img_0248"/>
             <ab facs="#facs_248_tr_3">
@@ -15061,8 +15061,8 @@
                <lb facs="#facs_248_tr_3_tl_17" n="N017"/>in his world, has both characteristics, under the predominance of the one or the other. In the
                <lb facs="#facs_248_tr_3_tl_18" n="N018"/>period in which we are living, the predominance is on the side of the Iliad---man having lost himself
                <lb facs="#facs_248_tr_3_tl_19" n="N019"/>in his world. But there are symptoms of the end, of this cognitive self-loss in one's world, and of a
-               <lb facs="#facs_248_tr_3_tl_20" n="N020"/>return to oneself. This is the first thing I want to discuss with you in connection with the doctrine
-               <lb facs="#facs_248_tr_3_tl_21" n="N021"/>of man.
+               <lb facs="#facs_248_tr_3_tl_20" n="N020"/>return to oneself. This is the first thing I want to discuss with you in connection with the <Doctrine_of_man>doctrine
+               <lb break="no" facs="#facs_248_tr_3_tl_21" n="N021"/>of man.</Doctrine_of_man>
             </ab>
             <pb facs="#facs_249" n="part1_p249.jpg" xml:id="img_0249"/>
             <ab facs="#facs_249_tr_2">

@@ -897,7 +897,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_30">
          <graphic url="part2_p030.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=SROUNVCSYOOXMAODSPINLBJZ&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=SROUNVCSYOOXMAODSPINLBJZ&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="235,230 2266,230 2266,1216 235,1216" rendition="TextRegion" xml:id="facs_30_tr_3">
             <zone points="1098,291 1119,293 1129,301 1165,301 1173,296 1196,301 1217,296 1219,229 1168,234 1158,242 1132,239 1122,250 1098,250" rendition="Line" xml:id="facs_30_tr_3_tl_1"/>
             <zone points="229,458 2125,437 2127,383 229,378" rendition="Line" xml:id="facs_30_tr_3_tl_2"/>
@@ -927,7 +927,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_31">
          <graphic url="part2_p031.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=NEYNKUVPHQKGSSHRMXKCHVCB&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=NEYNKUVPHQKGSSHRMXKCHVCB&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="83,21 2221,21 2221,1514 83,1514" rendition="TextRegion" xml:id="facs_31_tr_2">
             <zone points="1130,362 1168,372 1181,367 1186,372 1206,372 1211,367 1216,372 1247,375 1250,298 1219,298 1206,303 1196,314 1132,314" rendition="Line" xml:id="facs_31_tr_2_tl_2"/>
             <zone points="255,523 296,538 844,525 844,477 745,479 727,462 255,472" rendition="Line" xml:id="facs_31_tr_2_tl_3"/>
@@ -986,7 +986,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_33">
          <graphic url="part2_p033.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=IADDEBROQRPRFIMEAMIEJKZO&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=IADDEBROQRPRFIMEAMIEJKZO&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="292,260 2271,260 2271,1389 292,1389" rendition="TextRegion" xml:id="facs_33_tr_2">
             <zone points="1156,340 1182,343 1202,325 1215,322 1228,327 1284,325 1289,243 1258,243 1207,269 1197,269 1192,263 1182,269 1159,266" rendition="Line" xml:id="facs_33_tr_2_tl_1"/>
             <zone points="286,476 2189,471 2251,425 286,442" rendition="Line" xml:id="facs_33_tr_2_tl_2"/>
@@ -1013,7 +1013,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_34">
          <graphic url="part2_p034.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=BHEBTGBNIARFNBRPUZIKMAOP&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=BHEBTGBNIARFNBRPUZIKMAOP&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="50,15 2349,15 2349,1571 50,1571" rendition="TextRegion" xml:id="facs_34_tr_2">
             <zone points="1182,347 1195,347 1215,364 1234,364 1242,357 1289,357 1294,352 1306,352 1306,297 1272,297 1257,285 1244,288 1237,283 1217,302 1182,302" rendition="Line" xml:id="facs_34_tr_2_tl_3"/>
             <zone points="483,503 2137,508 2137,446 2055,436 483,431" rendition="Line" xml:id="facs_34_tr_2_tl_4" subtype="paragraph"/>
@@ -1042,7 +1042,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_35">
          <graphic url="part2_p035.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=MECUKSMYUBTFGHPANTBKDOMR&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MECUKSMYUBTFGHPANTBKDOMR&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="319,269 2358,269 2358,2007 319,2007" rendition="TextRegion" xml:id="facs_35_tr_2">
             <zone points="1174,321 1192,323 1209,336 1227,336 1232,331 1243,336 1276,336 1288,326 1301,326 1301,257 1273,262 1258,257 1245,270 1232,270 1222,260 1209,272 1174,272" rendition="Line" xml:id="facs_35_tr_2_tl_1"/>
             <zone points="311,491 2009,486 2027,430 311,448" rendition="Line" xml:id="facs_35_tr_2_tl_2"/>
@@ -1069,7 +1069,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_36">
          <graphic url="part2_p036.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=PYKGSFOJNOYEDSXBMLOXSIIW&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=PYKGSFOJNOYEDSXBMLOXSIIW&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="253,284 2248,284 2248,1416 253,1416" rendition="TextRegion" xml:id="facs_36_tr_3">
             <zone points="1123,337 1141,340 1158,360 1166,360 1176,350 1186,357 1199,357 1207,350 1214,355 1247,350 1247,294 1212,297 1197,281 1186,284 1176,279 1158,297 1146,302 1123,299" rendition="Line" xml:id="facs_36_tr_3_tl_1"/>
             <zone points="251,510 2051,502 2157,492 2157,416 251,474" rendition="Line" xml:id="facs_36_tr_3_tl_2"/>
@@ -1159,7 +1159,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_39">
          <graphic url="part2_p039.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=OWUYWAYPWZSSPJWZRLGRDGED&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=OWUYWAYPWZSSPJWZRLGRDGED&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="283,314 2254,314 2254,1302 283,1302" rendition="TextRegion" xml:id="facs_39_tr_1">
             <zone points="1137,374 1159,376 1164,381 1241,381 1251,371 1263,371 1260,307 1226,307 1208,292 1191,292 1169,312 1137,312" rendition="Line" xml:id="facs_39_tr_1_tl_1"/>
             <zone points="270,542 916,542 936,535 936,475 773,488 671,389 560,470 270,478" rendition="Line" xml:id="facs_39_tr_1_tl_2" subtype="heading"/>
@@ -1189,7 +1189,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_40">
          <graphic url="part2_p040.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=DVCWKTKVNXMZFDRKENAJDXRF&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DVCWKTKVNXMZFDRKENAJDXRF&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="1107,299 2215,299 2215,508 1107,508" rendition="TextRegion" xml:id="facs_40_tr_3">
             <zone points="1093,354 1118,357 1126,364 1195,367 1218,362 1218,287 1190,287 1175,295 1157,295 1149,287 1129,308 1093,308" rendition="Line" xml:id="facs_40_tr_3_tl_1"/>
          </zone>
@@ -4033,7 +4033,7 @@
                <lb facs="#facs_30_tr_3_tl_3" n="N003"/>so much nonsense or [pomp] in the SO-CALLED "artistic" realm that I must use an adjective, either
                <lb facs="#facs_30_tr_3_tl_4" n="N004"/>"genuine" or "great", or I should simply say, in an academic lecture, "artistic," and then the word is
                <lb facs="#facs_30_tr_3_tl_5" n="N005"/>really defined. What's REALLY <Art>art</Art>? If you listen to such a piece of music, something happens to you
-               <lb facs="#facs_30_tr_3_tl_6" n="N006"/>which is very badly characterized by the word "emotion." Of course emotion is everywhere,
+               <lb facs="#facs_30_tr_3_tl_6" n="N006"/>which is very badly characterized by the word "<Emotion>emotion</Emotion>." Of course emotion is everywhere,
                <lb facs="#facs_30_tr_3_tl_7" n="N007"/>in everything we do, even sometimes when I give a lecture! But emotion in itself is nothing if it is
             </ab>
             <ab facs="#facs_30_tr_2">
@@ -4043,21 +4043,21 @@
                <lb facs="#facs_30_tr_2_tl_4" n="N004"/>So we have in the artistic symbols the characteristics of <Symbols>symbol </Symbols>generally. They point
                <lb facs="#facs_30_tr_2_tl_5" n="N005"/>beyond themselves, they open up levels of reality which otherwise are closed, they open up levels
                <lb facs="#facs_30_tr_2_tl_6" n="N006"/>of the soul which otherwise are not conscious. And also the last point, which I didn't mention yet:
-               <lb facs="#facs_30_tr_2_tl_7" n="N007"/>participation in the power of that which they symbolize. I expressed that when I said this realm
+               <lb facs="#facs_30_tr_2_tl_7" n="N007"/><Participation>participation</Participation> in the power of that which they symbolize. I expressed that when I said this realm
                <lb facs="#facs_30_tr_2_tl_8" n="N008"/>which is opened up by a landscape of <rs type="person" key=", tillich_person_id__3008">Ruisdael</rs> is not something BESIDE the painted landscape,
                <lb facs="#facs_30_tr_2_tl_9" n="N009"/>but it is in it, with it, and under it; it is inseparably united with it, so that a landscape participates
                <lb facs="#facs_30_tr_2_tl_10" n="N010"/>in the power of that which it represents in itself.
             </ab>
             <ab facs="#facs_30_tr_1">
                <lb facs="#facs_30_tr_1_tl_1" n="N001"/>Now this has a lot of consequences. The first thing I want to do now is to show you,
-               <lb facs="#facs_30_tr_1_tl_2" n="N002"/>in the different arts, the symbols which are used, the categories of symbols, not the individual
+               <lb facs="#facs_30_tr_1_tl_2" n="N002"/>in the different arts, the <Symbols>symbols</Symbols> which are used, the categories of symbols, not the individual
                <lb facs="#facs_30_tr_1_tl_4" n="N003"/>symbols---every color spot in a picture is a symbol in itself in relation to others---but categories of
             </ab>
             <pb facs="#facs_31" n="part2_p031.jpg" xml:id="img_0031"/>
             <ab facs="#facs_31_tr_2">
                <lb facs="#facs_31_tr_2_tl_2" n="N001"/>[311]
                <lb facs="#facs_31_tr_2_tl_3" n="N002"/>symbols in the different arts.
-               <lb facs="#facs_31_tr_2_tl_4" n="N003"/>I start again with the visual arts. I gave you already one symbol, namely landscapes.
+               <lb facs="#facs_31_tr_2_tl_4" n="N003"/>I start again with the visual <Art>arts.</Art> I gave you already one symbol, namely landscapes.
                <lb facs="#facs_31_tr_2_tl_5" n="N004"/>Another are faces, the art of the portrait---if it is art and not photography. If it is photography,
                <lb facs="#facs_31_tr_2_tl_6" n="N005"/>it falls under other laws, which become more and more difficult, because the artistically inclined
                <lb facs="#facs_31_tr_2_tl_8" n="N006"/>photographers try to bring as much artistic elements as possible into the photography.
@@ -4068,11 +4068,11 @@
             <ab facs="#facs_31_tr_3">
                <lb facs="#facs_31_tr_3_tl_1" n="N001"/>life process which the artist gets out of the totality of the life of this person and the meaning of this
                <lb facs="#facs_31_tr_3_tl_2" n="N002"/>life for the person himself and for others, and if it is (now I say) a "great" portrait, for the universe.
-               <lb facs="#facs_31_tr_3_tl_3" n="N003"/>When we look at a portrait of an old man or woman by Rembrandt, then you have not a photograph of
+               <lb facs="#facs_31_tr_3_tl_3" n="N003"/>When we look at a portrait of an old man or woman by <rs type="person" key=", tillich_person_id__1580">Rembrandt</rs>, then you have not a photograph of
                <lb facs="#facs_31_tr_3_tl_4" n="N004"/>this old man---the greatest of himself in his self-portraits---but you have something quite different:
                <lb facs="#facs_31_tr_3_tl_5" n="N005"/>you have the spiritual biography of a human being expressed in his face; and again this not simply
                <lb facs="#facs_31_tr_3_tl_6" n="N006"/>in terms of what this biography means for this individual person, but in terms as a representative of
-               <lb facs="#facs_31_tr_3_tl_7" n="N007"/>a microcosmic embodiment of the universe---in the good Renaissance tradition. In the Renaissance
+               <lb facs="#facs_31_tr_3_tl_7" n="N007"/>a microcosmic embodiment of the universe---in the good <Renaissance>Renaissance</Renaissance> tradition. In the Renaissance
             </ab>
             <ab facs="#facs_31_tr_1">
                <lb facs="#facs_31_tr_1_tl_1" n="N001"/>the individual is the microcosm (which means, in English, the "small cosmos") which mirrors the
@@ -4087,7 +4087,7 @@
                <lb facs="#facs_32_tr_3_tl_3" n="N003"/>beyond it. The very well known traits of the face now represent something which goes beyond THlS
                <lb facs="#facs_32_tr_3_tl_4" n="N004"/>moment, beyond THESE lights shining on it, these colors of his or her clothes, THESE surroundings,
                <lb facs="#facs_32_tr_3_tl_5" n="N005"/>THIS age---all this is transcended. . . 
-               <lb facs="#facs_32_tr_3_tl_6" n="N006"/>Or human relations can become symbols, human relations painted in terms of couples or
+               <lb facs="#facs_32_tr_3_tl_6" n="N006"/>Or human relations can become <Symbols>symbols</Symbols>, human relations painted in terms of couples or
             </ab>
             <ab facs="#facs_32_tr_2">
                <lb facs="#facs_32_tr_2_tl_1" n="N001"/>groups which are in vital movement, or in intellectual relationship to each other---political, scientific.
@@ -4110,7 +4110,7 @@
             <ab facs="#facs_33_tr_2">
                <lb facs="#facs_33_tr_2_tl_1" n="N001"/>[313]
                <lb facs="#facs_33_tr_2_tl_2" n="N002"/>even historical scenes can become symbols for something which transcends the immediate situation.
-               <lb facs="#facs_33_tr_2_tl_3" n="N003"/>Now this about visual symbols, or symbols in visual arts. Let me also speak of plastic
+               <lb facs="#facs_33_tr_2_tl_3" n="N003"/>Now this about visual <Symbols>symbols,</Symbols> or symbols in visual arts. Let me also speak of plastic
                <lb facs="#facs_33_tr_2_tl_4" n="N004"/>or sculpture, namely bodies, either human bodies or non-representative bodies (you can find
                <lb facs="#facs_33_tr_2_tl_5" n="N005"/>them in all modern museums) which do not represent naturalistically any special body (only from
                <lb facs="#facs_33_tr_2_tl_6" n="N006"/>very far away), but which represent the standing of the body in space and the infinite possibilities of
@@ -4118,7 +4118,7 @@
                <lb facs="#facs_33_tr_2_tl_8" n="N008"/>the immediately given here. Now you will hear more about this in a little different context later on.
             </ab>
             <ab facs="#facs_33_tr_1">
-               <lb facs="#facs_33_tr_1_tl_1" n="N001"/>I now come to symbols in poetry. In poetry we have words, but words with their meanings.
+               <lb facs="#facs_33_tr_1_tl_1" n="N001"/>I now come to <Symbols>symbols</Symbols> in <Poetry>poetry</Poetry>. In poetry we have words, but words with their meanings.
                <lb facs="#facs_33_tr_1_tl_3" n="N002"/>Now if words communicating meanings are used, then we come immediately to something which must
                <lb facs="#facs_33_tr_1_tl_5" n="N003"/>be added, namely in a poetic language, it is not the mere definable meaning which a word has, but
                <lb facs="#facs_33_tr_1_tl_6" n="N004"/>it is the mass of connotations which a word always brings with itself. Only in the reflective
@@ -4133,8 +4133,8 @@
             <pb facs="#facs_34" n="part2_p034.jpg" xml:id="img_0034"/>
             <ab facs="#facs_34_tr_2">
                <lb facs="#facs_34_tr_2_tl_3" n="N001"/>[314]
-               <lb facs="#facs_34_tr_2_tl_4" n="N002"/>Now in poetry the situation is such that the DECISIVE things are the connotations.
-               <lb facs="#facs_34_tr_2_tl_5" n="N003"/>The meaning of the words of course is, so to speak, eternal. . . but if a word is used in a poem,
+               <lb facs="#facs_34_tr_2_tl_4" n="N002"/>Now in <Poetry>poetry</Poetry> the situation is such that the DECISIVE things are the connotations.
+               <lb facs="#facs_34_tr_2_tl_5" n="N003"/>The meaning of the words of course is, so to speak, eternal . . . but if a word is used in a poem,
                <lb facs="#facs_34_tr_2_tl_6" n="N004"/>all the traditional and emotional connotations which we have in ourselves come into the words,
                <lb facs="#facs_34_tr_2_tl_7" n="N005"/>and there they produce the meaning which otherwise cannot be expressed at all. But of course
                <lb facs="#facs_34_tr_2_tl_8" n="N006"/>a poem is not a matter of individual words and their connotations. They are connotations
@@ -4160,23 +4160,23 @@
             <ab facs="#facs_35_tr_2">
                <lb facs="#facs_35_tr_2_tl_1" n="N001"/>[315]
                <lb facs="#facs_35_tr_2_tl_2" n="N002"/>images produced by them in our mind, are symbols for a special encounter with reality.
-               <lb facs="#facs_35_tr_2_tl_3" n="N003"/>The third is symbols in drama and novel. Here it is the concentration of figures.
+               <lb facs="#facs_35_tr_2_tl_3" n="N003"/>The third is <Symbols>symbols</Symbols> in drama and novel. Here it is the concentration of figures.
                <lb facs="#facs_35_tr_2_tl_4" n="N004"/>Take two of them, the one which all of you know and the other, many of you. The one is
-               <lb facs="#facs_35_tr_2_tl_5" n="N005"/><hi style="font-style: italic;">Hamlet</hi> by Shakespeare, which is a symbol in the genuine sense of artistic symbol. He is
+               <lb facs="#facs_35_tr_2_tl_5" n="N005"/><hi style="font-style: italic;">Hamlet</hi> by <rs type="person" key=", tillich_person_id__1775">Shakespeare</rs>, which is a symbol in the genuine sense of artistic symbol. He is
                <lb facs="#facs_35_tr_2_tl_6" n="N006"/>described as an individual human being who does these things and those things---he can be
                <lb facs="#facs_35_tr_2_tl_7" n="N007"/>psychologized and sociologized, and perhaps even biologized <hi style="font-style: italic;">[some laughter]</hi>---you can do all
                <lb facs="#facs_35_tr_2_tl_8" n="N008"/>this with him. But beyond all this, he points to a level of reality in which we can only participate
                <lb facs="#facs_35_tr_2_tl_9" n="N009"/>THROUGH HIM. And perhaps this was my very first experience in my life, of art---REAL experience---
-               <lb facs="#facs_35_tr_2_tl_10" n="N010"/>when I experienced Hamlet as a reality which transcends ANY empirical reality in which
-               <lb facs="#facs_35_tr_2_tl_11" n="N011"/>I lived, a reality in whom one can participate. And this PARTICIPATION in Hamlet was one of
+               <lb facs="#facs_35_tr_2_tl_10" n="N010"/>when I experienced <rs type="person" key=", tillich_person_id__2986">Hamlet</rs> as a reality which transcends ANY empirical reality in which
+               <lb facs="#facs_35_tr_2_tl_11" n="N011"/>I lived, a reality in whom one can participate. And this PARTICIPATION in <rs type="person" key=", tillich_person_id__2986">Hamlet</rs> was one of
                <lb facs="#facs_35_tr_2_tl_12" n="N012"/>the most important encounters with reality I ever had in my life. Now not this individual young
             </ab>
             <ab facs="#facs_35_tr_1">
                <lb facs="#facs_35_tr_1_tl_1" n="N001"/>man who doesn't know what he shall do and finally succumbs to this indecision, but that for
                <lb facs="#facs_35_tr_1_tl_2" n="N002"/>what he stands, all the realities of life which we encounter in encountering him, in which we
                <lb facs="#facs_35_tr_1_tl_3" n="N003"/>participate in a new and revelatory way when we participate in him.
-               <lb facs="#facs_35_tr_1_tl_4" n="N004"/>Another, Mr. "K" in Kafka's <hi style="font-style: italic;">Trial</hi>, or <hi style="font-style: italic;">Castle</hi>. "K" stands for Kafka, of course,
-               <lb facs="#facs_35_tr_1_tl_5" n="N005"/>but it is not the individual novelist Kafka who has written these two great novels, which I
+               <lb facs="#facs_35_tr_1_tl_4" n="N004"/>Another, Mr. "K" in <rs type="person" key=", tillich_person_id__1008">Kafka</rs>'s <hi style="font-style: italic;">Trial</hi>, or <hi style="font-style: italic;">Castle</hi>. "K" stands for <rs type="person" key=", tillich_person_id__1008">Kafka</rs>, of course,
+               <lb facs="#facs_35_tr_1_tl_5" n="N005"/>but it is not the individual novelist <rs type="person" key=", tillich_person_id__1008">Kafka</rs> who has written these two great novels, which I
                <lb facs="#facs_35_tr_1_tl_6" n="N006"/>recommend more than anything else in novelistic literature to read, if you want to understand
                <lb facs="#facs_35_tr_1_tl_9" n="N007"/>your own deeper levels of life. This man who in <hi style="font-style: italic;">The Castle</hi> tries to reach the sources of meaning
             </ab>
@@ -4186,17 +4186,17 @@
                <lb facs="#facs_36_tr_3_tl_2" n="N002"/>symbolized in a castle which rules the village and the countryside and he never can reach it, he is
                <lb facs="#facs_36_tr_3_tl_3" n="N003"/>cut off from it; and . . . he becomes guilty without knowing of what, and never knows it, and
                <lb facs="#facs_36_tr_3_tl_4" n="N004"/>finally he is executed for a guilt for which he doesn't know, and to which he can never come. Now
-               <lb facs="#facs_36_tr_3_tl_5" n="N005"/>here we have symbols of a character WHICH ΕMBODY IN THEMSELVES a reality which transcends
+               <lb facs="#facs_36_tr_3_tl_5" n="N005"/>here we have <Symbols>symbols</Symbols> of a character WHICH ΕMBODY IN THEMSELVES a reality which transcends
                <lb facs="#facs_36_tr_3_tl_6" n="N006"/>by far the description of Mr. "K". And all that happens to him is an expression of our standing in
                <lb facs="#facs_36_tr_3_tl_7" n="N007"/>our world, which we can never understand in the same way if we had NOT encountered, in an
                <lb facs="#facs_36_tr_3_tl_8" n="N008"/>experience of artistic character, Mr. "K" in <hi style="font-style: italic;">Trial</hi> and in <hi style="font-style: italic;">The Castle</hi>. These are dramatic and
             </ab>
             <ab facs="#facs_36_tr_1">
                <lb facs="#facs_36_tr_1_tl_1" n="N001"/>novelistic symbols.
-               <lb facs="#facs_36_tr_1_tl_2" n="N002"/>SYMBOLS IN MUSIC: Here the emphasis on the emotional is so strong that I have to
+               <lb facs="#facs_36_tr_1_tl_2" n="N002"/><Symbols>SYMBOLS</Symbols> IN <Music>MUSIC</Music>: Here the emphasis on the <Emotion>emotional</Emotion> is so strong that I have to
                <lb facs="#facs_36_tr_1_tl_4" n="N003"/>emphasize a little more than in the others, where I think all of you have followed me comparatively
                <lb facs="#facs_36_tr_1_tl_5" n="N004"/>easily, when I speak about this. What happens in music are sounds, movements of our organs of
-               <lb facs="#facs_36_tr_1_tl_6" n="N005"/>hearing, and the relation of these sounds, the thythm which they appear like in poetry. <hi style="font-style: italic;">[sic]</hi>
+               <lb facs="#facs_36_tr_1_tl_6" n="N005"/>hearing, and the relation of these sounds, the thythm [sic.] which they appear like in poetry. <hi style="font-style: italic;">[sic]</hi>
                <lb facs="#facs_36_tr_1_tl_7" n="N006"/>What do they do? You already heard from me, and I didn't feel there was any resistance against it,
                <lb facs="#facs_36_tr_1_tl_8" n="N007"/>that music opens up the levels of the soul which otherwise are not open at all. But I go beyond this,
                <lb facs="#facs_36_tr_1_tl_9" n="N008"/>and I say it is as it is in all symbols: they also open up the levels of reality which otherwise are not
@@ -4204,7 +4204,7 @@
             <ab facs="#facs_36_tr_2">
                <lb facs="#facs_36_tr_2_tl_1" n="N001"/>manifest. Now this means material reality has in itself the power of sound, and in this power of sound
                <lb facs="#facs_36_tr_2_tl_2" n="N002"/>it express something ABOUT ITSELF. The first theory which was based on this idea was the old
-               <lb facs="#facs_36_tr_2_tl_3" n="N003"/>Pythagorean theory of the sounds of the heavenly bodies, usually known as the sounds of the spheres.
+               <lb facs="#facs_36_tr_2_tl_3" n="N003"/><rs type="person" key=", tillich_person_id__1544">Pythagorean</rs> theory of the sounds of the heavenly bodies, usually known as the sounds of the spheres.
                <lb facs="#facs_36_tr_2_tl_4" n="N004"/>They discovered the mathematical vibrations which produce sound and their relationships in
             </ab>
             <pb facs="#facs_37" n="part2_p037.jpg" xml:id="img_0037"/>
@@ -4217,14 +4217,14 @@
                <lb facs="#facs_37_tr_2_tl_6" n="N006"/>accompanying us, like light or gravitation, or those things which we don't realize any more, but
                <lb facs="#facs_37_tr_2_tl_7" n="N007"/>which are there. There is a Psalm in the Old Testament which has a very similar idea, that the heavens
                <lb facs="#facs_37_tr_2_tl_8" n="N008"/>and the earth always sing the praise of God by themselves.
-               <lb facs="#facs_37_tr_2_tl_9" n="N009"/>Now this means---and that is my emphasis here---that MUSIC ALSO reveals a level of reality
+               <lb facs="#facs_37_tr_2_tl_9" n="N009"/>Now this means---and that is my emphasis here---that <Music>MUSIC</Music> ALSO reveals a level of reality
             </ab>
             <ab facs="#facs_37_tr_3">
                <lb facs="#facs_37_tr_3_tl_1" n="N001"/>which otherwise would be hidden, and not only a level of our soul. One should not put music into
                <lb facs="#facs_37_tr_3_tl_2" n="N002"/>the realm of mere subjectivity. The harmonies which are given and which cannot be changed are
                <lb facs="#facs_37_tr_3_tl_3" n="N003"/>in nature itself, they are characteristics of vibrating, swinging bodies---you cannot change this.
-               <lb facs="#facs_37_tr_3_tl_4" n="N004"/>They express something about the nature of our world. These are symbols, therefore, which
-               <lb facs="#facs_37_tr_3_tl_5" n="N005"/>point to something which also cannot be reached in any other way. Symbols of dance: they combine
+               <lb facs="#facs_37_tr_3_tl_4" n="N004"/>They express something about the nature of our world. These are <Symbols>symbols</Symbols>, therefore, which
+               <lb facs="#facs_37_tr_3_tl_5" n="N005"/>point to something which also cannot be reached in any other way. Symbols of <Dance>dance</Dance>: they combine
                <lb facs="#facs_37_tr_3_tl_6" n="N006"/>the musical and the visual. This makes them more than and less than the two others. Combined arts
             </ab>
             <ab facs="#facs_37_tr_1">
@@ -4243,7 +4243,7 @@
                <lb facs="#facs_38_tr_1_tl_5" n="N005"/>transcends the simple bodily character of a vital movement. And in coming to the relationship of
                <lb facs="#facs_38_tr_1_tl_6" n="N006"/>religion and art later on, we will see that the insight into these relations is a presupposition for a
                <lb facs="#facs_38_tr_1_tl_7" n="N007"/>revitalization of liturgical elements on the basis of Protestantism.
-               <lb facs="#facs_38_tr_1_tl_8" n="N008"/>Finally I come to ARCHITECTURE: Architecture has a very special role, a role which is
+               <lb facs="#facs_38_tr_1_tl_8" n="N008"/>Finally I come to <Architecture>ARCHITECTURE:</Architecture> Architecture has a very special role, a role which is
             </ab>
             <ab facs="#facs_38_tr_2">
                <lb facs="#facs_38_tr_2_tl_1" n="N001"/>in some way more important than that of all other arts and in some way less. It is more important
@@ -4253,7 +4253,7 @@
                <lb facs="#facs_38_tr_2_tl_5" n="N005"/>only heating and water and light and protection against climate, it also means living in it, and all
                <lb facs="#facs_38_tr_2_tl_6" n="N006"/>that which makes a house livable also belongs to the purpose. But in doing this, in understanding
                <lb facs="#facs_38_tr_2_tl_7" n="N007"/>purpose in such a large way, we also must say that in these creations of man which are determined
-               <lb facs="#facs_38_tr_2_tl_8" n="N008"/>by purpose, there is also implied the expressive power which we call symbol. One of the great
+               <lb facs="#facs_38_tr_2_tl_8" n="N008"/>by purpose, there is also implied the expressive power which we call <Symbols>symbol.</Symbols> One of the great
             </ab>
             <ab facs="#facs_38_tr_3">
                <lb facs="#facs_38_tr_3_tl_1" n="N001"/>symbols of our time is Rockefeller Center. All those of you who have seen it SHOULD say that it is
@@ -4268,53 +4268,53 @@
                <lb facs="#facs_39_tr_1_tl_3" n="N003"/>Some technical difficulties have arisen and I am afraid we must postpone the slides until
                <lb facs="#facs_39_tr_1_tl_4" n="N004"/>Thursday. Instead of interrupting the showing of the pictures by theoretical interpretations,
                <lb facs="#facs_39_tr_1_tl_5" n="N005"/>then I will show them one after the other and will give the theoretical introduction now. . . .
-               <lb facs="#facs_39_tr_1_tl_6" n="N006"/>Now I gave you last Tuesday a survey on the meaning of artistic symbols in all the different
-               <lb facs="#facs_39_tr_1_tl_7" n="N007"/>arts. I want today to relate the artistic to the religious symbols because out of this relation our final
+               <lb facs="#facs_39_tr_1_tl_6" n="N006"/>Now I gave you last Tuesday a survey on the meaning of <Symbols_artistic>artistic symbols </Symbols_artistic>in all the different
+               <lb facs="#facs_39_tr_1_tl_7" n="N007"/>arts. I want today to relate the artistic to the <Symbols_religious>religious symbols</Symbols_religious> because out of this relation our final
             </ab>
             <ab facs="#facs_39_tr_3">
-               <lb facs="#facs_39_tr_3_tl_1" n="N001"/>organization of the relation of religion and art will come. I said that in all arts, artistic symbols
+               <lb facs="#facs_39_tr_3_tl_1" n="N001"/>organization of the relation of religion and <Art>art </Art>will come. I said that in all arts, artistic symbols
                <lb facs="#facs_39_tr_3_tl_2" n="N002"/>discover a realm of reality which othersise [sic.] is shut, and open up a level of the soul, of our personal
                <lb facs="#facs_39_tr_3_tl_3" n="N003"/>existence, which otherwise is covered and not open; and that this cannot be done in any other way
                <lb facs="#facs_39_tr_3_tl_4" n="N004"/>than just by artistic symbols. This was the main thesis, and in order to prove that thesis I went
                <lb facs="#facs_39_tr_3_tl_5" n="N005"/>with you through many arts, where it was always obvious that only the artistic form is able
                <lb facs="#facs_39_tr_3_tl_6" n="N006"/>to open up that which art can open up by its symbols.
-               <lb facs="#facs_39_tr_3_tl_7" n="N007"/>What then is the difference between these kind of symbols and the religious symbols?
-               <lb facs="#facs_39_tr_3_tl_8" n="N008"/>First, their points of identity---I only need to repeat them: symbols are not signs; symbols grow
+               <lb facs="#facs_39_tr_3_tl_7" n="N007"/>What then is the difference between these kind of <Symbols>symbols</Symbols> and the <Symbols_religious>religious symbols</Symbols_religious>?
+               <lb facs="#facs_39_tr_3_tl_8" n="N008"/>First, their points of identity---I only need to repeat them: symbols are not <Signs>signs</Signs>; symbols grow
             </ab>
             <ab facs="#facs_39_tr_2">
                <lb facs="#facs_39_tr_2_tl_1" n="N001"/>and die; symbols point beyond themselves; symbols open up levels of reality and of the soul;
-               <lb facs="#facs_39_tr_2_tl_2" n="N002"/>symbols participate in the reality of that to which they point. This is true of artistic symbols,
-               <lb facs="#facs_39_tr_2_tl_3" n="N003"/>this is true of religious symbols. But the difference is the level. The religious dimension is first of
+               <lb facs="#facs_39_tr_2_tl_2" n="N002"/>symbols participate in the reality of that to which they point. This is true of<Symbols_artistic> artistic symbols</Symbols_artistic>,
+               <lb facs="#facs_39_tr_2_tl_3" n="N003"/>this is true of <Symbols_religious>religious symbols</Symbols_religious>. But the difference is the level. The religious dimension is first of
                <lb facs="#facs_39_tr_2_tl_4" n="N004"/>all not beside others. If you call it "level," then we must [say] it is the ultimate level,
-               <lb facs="#facs_39_tr_2_tl_5" n="N005"/>but we had better call it a dimension and then say it is the dimension of ultimate concern. When
+               <lb facs="#facs_39_tr_2_tl_5" n="N005"/>but we had better call it a dimension and then say it is the dimension of <ultimate_concern>ultimate concern</ultimate_concern>. When
             </ab>
             <pb facs="#facs_40" n="part2_p040.jpg" xml:id="img_0040"/>
             <ab facs="#facs_40_tr_3">
                <lb facs="#facs_40_tr_3_tl_1" n="N001"/>[320]
             </ab>
             <ab facs="#facs_40_tr_2">
-               <lb facs="#facs_40_tr_2_tl_1" n="N001"/>we have artistic symbols, there is always the possibility that we say "This is one concern beside others.
+               <lb facs="#facs_40_tr_2_tl_1" n="N001"/>we have <Symbols_artistic>artistic symbols,</Symbols_artistic> there is always the possibility that we say "This is one concern beside others.
                <lb facs="#facs_40_tr_2_tl_2" n="N002"/>We MAY be interested in art; we may not be." And there may be situations in which the artistic
                <lb facs="#facs_40_tr_2_tl_3" n="N003"/>realm cannot work upon this at all. We may be deprived of it completely. And there are certainly
                <lb facs="#facs_40_tr_2_tl_4" n="N004"/>many social groups which are almost completely deprived of it. Let us think for instance of the extreme
-               <lb facs="#facs_40_tr_2_tl_5" n="N005"/>moment, the moment of having to die, where ultimate concern shows its ultimacy more than in any
-               <lb facs="#facs_40_tr_2_tl_6" n="N006"/>other moment. If we see this, then we see that RELIGIOUS symbols are present even in these moments,
+               <lb facs="#facs_40_tr_2_tl_5" n="N005"/>moment, the moment of having to die, where <ultimate_concern>ultimate concern</ultimate_concern> shows its <Ultimacy>ultimacy</Ultimacy> more than in any
+               <lb facs="#facs_40_tr_2_tl_6" n="N006"/>other moment. If we see this, then we see that <Symbols_religious>RELIGIOUS symbols </Symbols_religious>are present even in these moments,
                <lb facs="#facs_40_tr_2_tl_7" n="N007"/>AS RELIGIOUS symbols. Even in the ultimate moments---or as it has been called, "the extreme
-               <lb facs="#facs_40_tr_2_tl_8" n="N008"/>situations"---the religious symbol is present, in many extreme situation---[e.g.] the symbol of the
+               <lb facs="#facs_40_tr_2_tl_8" n="N008"/>situations"---the religious symbol is present, in many extreme situations---[e.g.] the symbol of the
                <lb facs="#facs_40_tr_2_tl_9" n="N009"/>Cross---in other religions, and in any case the experience of ultimate concern about the ultimate
             </ab>
             <ab facs="#facs_40_tr_4">
                <lb facs="#facs_40_tr_4_tl_1" n="N001"/>experience which is made in the situation of death.
                <lb facs="#facs_40_tr_4_tl_2" n="N002"/>Now this is the one side. This is the difference. The one is total, concerning our whole being,
                <lb facs="#facs_40_tr_4_tl_3" n="N003"/>with all its functions, including the artistic function besides others. The other, the artistic, is partial,
-               <lb facs="#facs_40_tr_4_tl_4" n="N004"/>ONE of the possibilities of human existence. Or: the religious function is unconditional, it is not
+               <lb facs="#facs_40_tr_4_tl_4" n="N004"/>ONE of the possibilities of human existnece [sic.]. Or: the religious function is unconditional, it is not
                <lb facs="#facs_40_tr_4_tl_5" n="N005"/>dependent on any external conditions, it can be present whenever there is present life at all, even
                <lb facs="#facs_40_tr_4_tl_6" n="N006"/><hi style="font-style: italic;">in extremis</hi>.
                <lb facs="#facs_40_tr_4_tl_7" n="N007"/>But now an interesting phenomenon must be observed, namely the phenomenon that
-               <lb facs="#facs_40_tr_4_tl_8" n="N008"/>since religion, in the sense of ultimate concern, is present everywhere, it can be symbolized by ALL
+               <lb facs="#facs_40_tr_4_tl_8" n="N008"/>since religion, in the sense of <ultimate_concern>ultimate concern, </ultimate_concern>is present everywhere, it can be symbolized by ALL
             </ab>
             <ab facs="#facs_40_tr_1">
-               <lb facs="#facs_40_tr_1_tl_1" n="N001"/>symbols taken from ALL forms of life. And so with respect to arts, the phenomenon of double
+               <lb facs="#facs_40_tr_1_tl_1" n="N001"/><Symbols>symbols</Symbols> taken from ALL forms of life. And so with respect to <Art>arts</Art>, the phenomenon of double
                <lb facs="#facs_40_tr_1_tl_2" n="N002"/>symbolization appears, and without this we don't understand religious art at all.
             </ab>
             <pb facs="#facs_41" n="part2_p041.jpg" xml:id="img_0041"/>
