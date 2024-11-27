@@ -7505,7 +7505,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_251">
          <graphic url="part1_p251.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=TDGCEKMJWSTAKFBXDUEQTCQU&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=TDGCEKMJWSTAKFBXDUEQTCQU&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="280,239 280,3470 2239,3470 2239,239" rendition="TextRegion" xml:id="facs_251_tr_1">
             <zone points="917,326 965,333 1019,333 1026,326 1038,328 1041,250 1019,250 1004,265 980,265 965,253 955,263 919,267" rendition="Line" xml:id="facs_251_tr_1_tl_1"/>
             <zone points="416,520 776,549 870,511 2023,486 2142,445 2144,399 1940,404 1874,343 1729,416 418,447" rendition="Line" xml:id="facs_251_tr_1_tl_2" subtype="paragraph"/>
@@ -15103,20 +15103,20 @@
                <lb facs="#facs_250_tr_2_tl_14" n="N013"/>inorganic realities; he looks at himself as a combination of atoms, perhaps with a central atom,
                <lb facs="#facs_250_tr_2_tl_15" n="N014"/>but in any case, himself down to the level of those realities which he himself has abstracted
                <lb facs="#facs_250_tr_2_tl_16" n="N015"/>of the whole of his world as the fundamental level. Or he thinks in more <rs type="person" key=", tillich_person_id__80">Aristotelian</rs> terms,
-               <lb facs="#facs_250_tr_2_tl_17" n="N016"/>i.e., biological terms. And he sees himself as a <biology>biological</biology> organism subjected to the structures
+               <lb facs="#facs_250_tr_2_tl_17" n="N016"/>i.e., biological terms. And he sees himself as a biological organism subjected to the structures
                <lb facs="#facs_250_tr_2_tl_18" n="N017"/>and laws of organicistic development---and that's ALL what he sees about himself.
-               <lb facs="#facs_250_tr_2_tl_19" n="N018"/>Or he sees a realm---which is usually called the <Psychology>psychological</Psychology>, the inner realm. He sees
+               <lb facs="#facs_250_tr_2_tl_19" n="N018"/>Or he sees a realm---which is usually called the psychological, the inner realm. He sees
                <lb facs="#facs_250_tr_2_tl_20" n="N019"/>himself as the bearer of psychological processes which are going through him and the laws
                <lb facs="#facs_250_tr_2_tl_21" n="N020"/>of association which he describes in the realm of psychological functions. Or he
-               <lb facs="#facs_250_tr_2_tl_22" n="N021"/>sees himself as a member in a <Sociology>sociological </Sociology>role determined by this whole.
+               <lb facs="#facs_250_tr_2_tl_22" n="N021"/>sees himself as a member in a sociological role determined by this whole.
             </ab>
             <pb facs="#facs_251" n="part1_p251.jpg" xml:id="img_0251"/>
             <ab facs="#facs_251_tr_1">
                <lb facs="#facs_251_tr_1_tl_1" n="N001"/>[247]
                <lb facs="#facs_251_tr_1_tl_2" n="N002"/>Now all these considerations are man losing himself in what he has created by cognitive
-               <lb facs="#facs_251_tr_1_tl_3" n="N003"/>analysis of his world. That is what l tried to describe in terms of the Iliad, the going-out of the
+               <lb facs="#facs_251_tr_1_tl_3" n="N003"/>analysis of his world. That is what l tried to describe in terms of the <Iliad>Iliad</Iliad>, the going-out of the
                <lb facs="#facs_251_tr_1_tl_4" n="N004"/>human mind from his home, to the struggle with his world, in which he then loses himself.
-               <lb facs="#facs_251_tr_1_tl_5" n="N005"/>This of course is [said] <Metaphor>metaphorically</Metaphor>, and, if you want, <Poetry>poetically,</Poetry> but it covers a reality---
+               <lb facs="#facs_251_tr_1_tl_5" n="N005"/>This of course is [said] metaphorically, and, if you want, poetically, but it covers a reality---
                <lb facs="#facs_251_tr_1_tl_6" n="N006"/>and a very dramatic reality---in history, because by this drama the destiny of mankind is
                <lb facs="#facs_251_tr_1_tl_7" n="N007"/>determined in the whole Western world, from at least 1000 years before Christ to the present day.
                <lb facs="#facs_251_tr_1_tl_8" n="N008"/>Now what has happened now is that man is divided into these levels of abstraction
@@ -15129,8 +15129,8 @@
                <lb facs="#facs_251_tr_1_tl_15" n="N015"/>word "<Anthropology>anthropology</Anthropology>." Anthropology means (as everybody knows who knows Greek) the
                <lb facs="#facs_251_tr_1_tl_16" n="N016"/>doctrine, the <hi style="font-style: italic;">logos</hi>, of <hi style="font-style: italic;">anthropos</hi>, man. Now what has happened to this word? This word
                <lb facs="#facs_251_tr_1_tl_17" n="N017"/>has been used for the description of some LEVELS which BELONG to the reality of man---
-               <lb facs="#facs_251_tr_1_tl_18" n="N018"/>the level of the <biology>biological, </biology>the level of the <Sociology>sociological,</Sociology> and there it ends. Now man, the
-               <lb facs="#facs_251_tr_1_tl_19" n="N019"/>object of <Anthropology>anthropology</Anthropology>, is divided into these two levels, and in anthropological lectures you
+               <lb facs="#facs_251_tr_1_tl_18" n="N018"/>the level of the biological, the level of the sociological, and there it ends. Now man, the
+               <lb facs="#facs_251_tr_1_tl_19" n="N019"/>object of anthropology, is divided into these two levels, and in anthropological lectures you
                <lb facs="#facs_251_tr_1_tl_20" n="N020"/>find these two levels fully analyzed and described.
             </ab>
             <pb facs="#facs_252" n="part1_p252.jpg" xml:id="img_0252"/>
@@ -15142,15 +15142,15 @@
                <lb facs="#facs_252_tr_1_tl_5" n="N005"/>the doctrine of human bones "<Anthropology>anthropology</Anthropology>," it is alright; and the <Doctrine_of_man>doctrine of man</Doctrine_of_man> in primitive
                <lb facs="#facs_252_tr_1_tl_6" n="N006"/>societies "Anthropology," it is alright. But then something else must be done if a word is narrowed
                <lb facs="#facs_252_tr_1_tl_7" n="N007"/>down to its narrow or primitive meaning. You must invent a word for its larger meaning. And it was
-               <lb facs="#facs_252_tr_1_tl_8" n="N008"/>one of my great sorrows, when I came to this country and gave, in my early lectures, a <Doctrine_of_man>doctrine
-               <lb break="no" facs="#facs_252_tr_1_tl_9" n="N009"/>of man</Doctrine_of_man>, I was not able to find a word for this except "doctrine of man," and there is no adjective
+               <lb facs="#facs_252_tr_1_tl_8" n="N008"/>one of my great sorrows, when I came to this country and gave, in my early lectures, a doctrine
+               <lb facs="#facs_252_tr_1_tl_9" n="N009"/>of man, I was not able to find a word for this except "doctrine of man," and there is no adjective
                <lb facs="#facs_252_tr_1_tl_10" n="N010"/>for "doctrine of man," so I couldn't use sentences in which the abbreviation of a good adjective
                <lb facs="#facs_252_tr_1_tl_11" n="N011"/>did appear. Of course, if I used "anthropological," one of my students would immediately raise
                <lb facs="#facs_252_tr_1_tl_12" n="N012"/>his finger and say, "That means, in our language, the doctrine of bones!" <hi style="font-style: italic;">[laughter]</hi>. Now
                <lb facs="#facs_252_tr_1_tl_13" n="N013"/>however this may be, we need another name, namely of that being which HAS CREATED the
                <lb facs="#facs_252_tr_1_tl_14" n="N014"/>doctrine of bones and of sociological intercourse, etc., and which is MORE than all this,
-               <lb facs="#facs_252_tr_1_tl_15" n="N015"/>because he has created them. And that, I would call the "<Doctrine_of_man>doctrine of man"</Doctrine_of_man> and don't know
-               <lb facs="#facs_252_tr_1_tl_16" n="N016"/>how perhaps some time the word "<Anthropology>anthropology</Anthropology>" will become imperialistic---I hope it will;
+               <lb facs="#facs_252_tr_1_tl_15" n="N015"/>because he has created them. And that, I would call the "doctrine of man" and don't know
+               <lb facs="#facs_252_tr_1_tl_16" n="N016"/>how perhaps some time the word "anthropology" will become imperialistic---I hope it will;
                <lb facs="#facs_252_tr_1_tl_17" n="N017"/>I am not always for imperialism, but in this case I am for it---and swallow the doctrine of man,
                <lb facs="#facs_252_tr_1_tl_18" n="N018"/>philosophical as well as theological, so that we can use the word "anthropological" again
                <lb facs="#facs_252_tr_1_tl_19" n="N019"/>for real statements about man as man, and not about man as lost in his creations.
@@ -15204,7 +15204,7 @@
             <pb facs="#facs_255" n="part1_p255.jpg" xml:id="img_0255"/>
             <ab facs="#facs_255_tr_1">
                <lb facs="#facs_255_tr_1_tl_1" n="N001"/>[251]
-               <lb facs="#facs_255_tr_1_tl_2" n="N002"/>ask the question, "Why did<RELIGION> religion </RELIGION>not prevent this loss man, cognitively, in his world?"---
+               <lb facs="#facs_255_tr_1_tl_2" n="N002"/>ask the question, "Why did <religion>religion</religion> not prevent this loss man, cognitively, in his world?"---
                <lb facs="#facs_255_tr_1_tl_3" n="N003"/>his identification with realms of abstraction, or his division INTO the different realms of
                <lb facs="#facs_255_tr_1_tl_4" n="N004"/>abstraction. Religion was not able to resist this development---and this again is a general
                <lb facs="#facs_255_tr_1_tl_5" n="N005"/>statement about the situation of religion in our present society (which is transition to our next
@@ -15233,7 +15233,7 @@
                <lb facs="#facs_256_tr_2_tl_5" n="N005"/>perform this function because man did---with the <Symbols>symbols </Symbols>of religion---what he had done with
                <lb facs="#facs_256_tr_2_tl_6" n="N006"/>himself, namely [to] make himself and these symbols into objects of a world of abstract levels
                <lb facs="#facs_256_tr_2_tl_7" n="N007"/>the GREATNESS of which are that they opened up the world for the process of cognition and control.
-               <lb facs="#facs_256_tr_2_tl_8" n="N008"/>But this was the price man had to pay for his Iliadic going-away from himself.
+               <lb facs="#facs_256_tr_2_tl_8" n="N008"/>But this was the price man had to pay for his <Iliad>Iliadic</Iliad> going-away from himself.
             </ab>
             <pb facs="#facs_257" n="part1_p257.jpg" xml:id="img_0257"/>
             <ab facs="#facs_257_tr_2">
@@ -15252,7 +15252,7 @@
                <lb facs="#facs_257_l_908" n="N013"/>R. <rs type="person" key=", tillich_person_id__1390">Niebuhr</rs> <hi style="font-style: italic;">Faith and History</hi>
                <lb facs="#facs_257_l_922" n="N014"/>J.H.<rs type="person" key=", tillich_person_id__1556">Randall</rs>, Jr. . . . <hi style="font-style: italic;">The Making of the Modern Mind</hi> ]
                <lb facs="#facs_257_tr_2_tl_21" n="N015"/>LECTURE:
-               <lb facs="#facs_257_tr_2_tl_22" n="N016"/>I spoke last Thursday about the estrangement of man as asking the question of himself
+               <lb facs="#facs_257_tr_2_tl_22" n="N016"/>I spoke last Thursday about the <Estrangement>estrangement</Estrangement> of man as asking the question of himself
                <lb facs="#facs_257_tr_2_tl_23" n="N017"/>and his world, FROM himself, putting himself into his world, dividing himself into the levels which
                <lb facs="#facs_257_tr_2_tl_24" n="N018"/>he, by abstraction, distinguishes in his world, and becoming unable to reunite these levels in the
                <lb facs="#facs_257_tr_2_tl_25" n="N019"/>unity of his own being. I called this the <Iliad>Iliad </Iliad>of the human mind, in which it goes out to discover

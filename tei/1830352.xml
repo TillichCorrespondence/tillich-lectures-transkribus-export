@@ -12,7 +12,7 @@
    <facsimile>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
          <graphic url="part4_p001.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=EWKXKNTDXYOBSVVJETIOUZHG&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=EWKXKNTDXYOBSVVJETIOUZHG&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="179,213 2304,213 2304,3244 179,3244" rendition="TextRegion" xml:id="facs_1_r_124">
             <zone points="1144,291 1212,309 1228,304 1233,309 1273,306 1271,223 1258,223 1233,248 1223,251 1142,253" rendition="Line" xml:id="facs_1_r_124_tl_1"/>
             <zone points="509,451 2152,461 2152,408 2096,392 1223,405 1177,359 1078,405 509,408" rendition="Line" xml:id="facs_1_r_124_tl_2" subtype="paragraph"/>
@@ -98,7 +98,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_4">
          <graphic url="part4_p004.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=XURPQKDJPXVPCFSOCBTFPIMQ&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XURPQKDJPXVPCFSOCBTFPIMQ&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="298,272 2295,272 2295,1855 298,1855" rendition="TextRegion" xml:id="facs_4_tr_1">
             <zone points="1142,332 1162,332 1180,342 1222,337 1259,342 1262,254 1229,254 1209,274 1145,274" rendition="Line" xml:id="facs_4_tr_1_tl_1"/>
             <zone points="284,481 2229,486 2229,434 2045,404 284,444" rendition="Line" xml:id="facs_4_tr_1_tl_2"/>
@@ -239,7 +239,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_9">
          <graphic url="part4_p009.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=DMLEDBDUQXEUWXCXMPGHMEQR&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DMLEDBDUQXEUWXCXMPGHMEQR&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="32,281 2280,281 2280,1111 32,1111" rendition="TextRegion" xml:id="facs_9_tr_3">
             <zone points="1126,333 1143,333 1152,343 1167,343 1174,350 1238,350 1245,343 1257,343 1255,292 1220,294 1206,280 1196,282 1191,277 1167,304 1123,301" rendition="Line" xml:id="facs_9_tr_3_tl_1"/>
             <zone points="343,491 958,501 955,435 676,447 627,411 598,438 343,435" rendition="Line" xml:id="facs_9_tr_3_tl_2"/>
@@ -4215,25 +4215,25 @@
          <div>
             <pb facs="#facs_1" n="part4_p001.jpg" xml:id="img_0001"/>
             <ab facs="#facs_1_r_124">
-               <lb facs="#facs_1_r_124_tl_1" n="N001"/>[410]
+               <lb facs="#facs_1_r_124_tl_1" n="N001"/>[470]
                <lb facs="#facs_1_r_124_tl_2" n="N002"/>So the Protestant education must finally lead to the Protestant, l wouldn't call it
-               <lb facs="#facs_1_r_124_tl_3" n="N003"/>autonomy, but I would like to call it theonomy, derived from <hi style="font-style: italic;">theos</hi>, God, and <hi style="font-style: italic;">nomos</hi>, law–––
-               <lb facs="#facs_1_r_124_tl_4" n="N004"/>not a heteronomy, a strange law, is imposed on us (the ecclesiastical), nor autonomy (without any
+               <lb facs="#facs_1_r_124_tl_3" n="N003"/>autonomy, but I would like to call it <Theonomy>theonomy</Theonomy>, derived from <hi style="font-style: italic;">theos</hi>, God, and <hi style="font-style: italic;">nomos</hi>, law ––
+               <lb facs="#facs_1_r_124_tl_4" n="N004"/>not a <Heteronomy>heteronomy</Heteronomy>, a strange law, is imposed on us (the ecclesiastical), nor <Autonomy>autonomy </Autonomy>(without any
                <lb facs="#facs_1_r_124_tl_5" n="N005"/>center and content), but theonomy, namely a life which is centered in the center of ALL life, where
-               <lb facs="#facs_1_r_124_tl_6" n="N006"/>the autonomous decisions get their meaning and their content, from the Ultimate, even if they
+               <lb facs="#facs_1_r_124_tl_6" n="N006"/>the autonomous decisions get their meaning and their content, from the <Ultimacy>Ultimate,</Ultimacy> even if they
                <lb facs="#facs_1_r_124_tl_7" n="N007"/>are directed AGAINST the church.
                <lb facs="#facs_1_r_124_tl_8" n="N008"/>So we have here a most difficult problem again, the education towards FREEDOM from
                <lb facs="#facs_1_r_124_tl_9" n="N009"/>education. And this is indeed the Protestant aim. Perhaps it will never be reached, but it must
                <lb facs="#facs_1_r_124_tl_10" n="N010"/>remain the aim, and Protestantism can never accept the Catholic principle of life-long subjection
                <lb facs="#facs_1_r_124_tl_11" n="N011"/>to the authority of the Church. This is indeed a great decision, and everyone who is tired of his
-               <lb facs="#facs_1_r_124_tl_12" n="N012"/>autonomy is inclined to go into the protective gown, which is all-embracing, of the Mother-Church.
+               <lb facs="#facs_1_r_124_tl_12" n="N012"/><Autonomy>autonomy </Autonomy>is inclined to go into the protective gown, which is all-embracing, of the Mother-Church.
                <lb facs="#facs_1_r_124_tl_13" n="N013"/>Or we can also [call] it "womb," returning to it: there you have the safety of your pre-birth situation.
                <lb facs="#facs_1_r_124_tl_14" n="N014"/>But Protestantism doesn't give this safety, it gives the risk, and IN the risk the TOTAL IN reunion
                <lb facs="#facs_1_r_124_tl_15" n="N015"/>with God, and the possibility of another separation, in the person-to-person encounter.
                <lb facs="#facs_1_r_124_tl_16" n="N016"/>Now here you have these three steps, and these three great problems: 1) from primitivism,
                <lb facs="#facs_1_r_124_tl_17" n="N017"/>through the critical stage, through reinterpretation of these symbols; 2) the relationship of
-               <lb facs="#facs_1_r_124_tl_18" n="N018"/>ACTUAL QUESTIONS and ANSWERS; 3) the autonomy, which becomes THEOnomy, if it is
-               <lb facs="#facs_1_r_124_tl_19" n="N019"/>related to the Ultimate.
+               <lb facs="#facs_1_r_124_tl_18" n="N018"/>ACTUAL QUESTIONS and ANSWERS; 3) the <Autonomy>autonomy</Autonomy>, which becomes <Theonomy>THEOnomy,</Theonomy> if it is
+               <lb facs="#facs_1_r_124_tl_19" n="N019"/>related to the <Ultimacy>Ultimate.</Ultimacy>
             </ab>
             <pb facs="#facs_2" n="part4_p002.jpg" xml:id="img_0002"/>
             <ab facs="#facs_2_tr_1">
@@ -4246,15 +4246,15 @@
                <lb facs="#facs_2_tr_1_tl_10" n="N007"/>children get this empty feeling they have themselves; they want to do for them something beyond it.
                <lb facs="#facs_2_tr_1_tl_11" n="N008"/>But who can answer this often very urgent and very desperate question? Now I tried at least to
                <lb facs="#facs_2_tr_1_tl_12" n="N009"/>give you some hints, and of course, for the Religion and Culture, this is a fundamental problem.
-               <lb facs="#facs_2_tr_1_tl_13" n="N010"/>QN [P.H.John]: [--re the authority of the Church and (Jacques) Maritain--how does such a mind
+               <lb facs="#facs_2_tr_1_tl_13" n="N010"/>QN [P.H.John]: [--re the authority of the Church and <rs type="person" key=", tillich_person_id__2989">(Jacques) Maritain</rs>--how does such a mind
                <lb facs="#facs_2_tr_1_tl_14" n="N011"/>comply with it? -- etc....]
                <lb facs="#facs_2_tr_1_tl_15" n="N012"/>PT: Do you remember when I said this before, on another occasion? [Yes] Then you want me to
                <lb facs="#facs_2_tr_1_tl_16" n="N013"/>repeat it for the others:
-               <lb facs="#facs_2_tr_1_tl_17" n="N014"/>In a meeting, [for] five days, when we came to the problem of autonomy,
-               <lb facs="#facs_2_tr_1_tl_19" n="N015"/>heteronomy and theonomy in the churches, and I spoke of the heteronomy of the Roman Church.
-               <lb facs="#facs_2_tr_1_tl_20" n="N016"/>Then Maritain--who is a very good friend of mine--said, "We are not heteronomous, we are
+               <lb facs="#facs_2_tr_1_tl_17" n="N014"/>In a meeting, [for] five days, when we came to the problem of <Autonomy>autonomy,</Autonomy>
+               <lb facs="#facs_2_tr_1_tl_19" n="N015"/><Heteronomy>heteronomy</Heteronomy> and <Theonomy>theonomy</Theonomy> in the churches, and I spoke of the heteronomy of the Roman Church.
+               <lb facs="#facs_2_tr_1_tl_20" n="N016"/>Then <rs type="person" key=", tillich_person_id__2989">Maritain</rs>--who is a very good friend of mine--said, "We are not heteronomous, we are
                <lb facs="#facs_2_tr_1_tl_21" n="N017"/>theonomous." Then I said: "Now let us make a test question: If the prophetic spirit grasps YOU,
-               <lb facs="#facs_2_tr_1_tl_22" n="N018"/>Maritain, one day, and you SAY something which later on is denied by the Church authority,
+               <lb facs="#facs_2_tr_1_tl_22" n="N018"/><rs type="person" key=", tillich_person_id__2989">Maritain</rs>, one day, and you SAY something which later on is denied by the Church authority,
             </ab>
             <ab facs="#facs_2_tr_2">
                <lb facs="#facs_2_tr_2_tl_1" n="N001"/>what do you say?" And he said, "Then I was in error." Now that is what I mean with heteronomy:
@@ -4266,13 +4266,13 @@
                <lb facs="#facs_3_tr_1_tl_4" n="N002"/>And a Protestant, if he is critical AGAINST himself, would say: I risk, as the Prophets and Jesus and
                <lb facs="#facs_3_tr_1_tl_5" n="N003"/>the Apostles would risk it. I MAY BE in error, but I don't subject myself to the church; the only
                <lb facs="#facs_3_tr_1_tl_7" n="N004"/>one who can judge me is God Himself. -- That would be the HUMBLE Protestant answer.
-               <lb facs="#facs_3_tr_1_tl_8" n="N005"/>Now here you have the opposition of the two attitudes, what I call autonomy and
+               <lb facs="#facs_3_tr_1_tl_8" n="N005"/>Now here you have the opposition of the two attitudes, what I call <Autonomy>autonomy</Autonomy> and
             </ab>
             <ab facs="#facs_3_tr_4">
-               <lb facs="#facs_3_tr_4_tl_1" n="N001"/>heteronomy. -- Another question?
+               <lb facs="#facs_3_tr_4_tl_1" n="N001"/><Heteronomy>heteronomy.</Heteronomy> -- Another question?
                <lb facs="#facs_3_tr_4_tl_2" n="N002"/>QN: Is it possible to have a complete vacuum in the religious realm, or in the education of the child?
                <lb facs="#facs_3_tr_4_tl_3" n="N003"/>Is it possible to live [in] a real vacuum?
-               <lb facs="#facs_3_tr_4_tl_4" n="N004"/>PT: Now if there are symbols already given in very early years, then there is no vacuum, but there
+               <lb facs="#facs_3_tr_4_tl_4" n="N004"/>PT: Now if there are <Symbols>symbols</Symbols> already given in very early years, then there is no vacuum, but there
                <lb facs="#facs_3_tr_4_tl_5" n="N005"/>is critical emptiness, critical brokenness, of the symbols. They have no meaning any more; they can
                <lb facs="#facs_3_tr_4_tl_6" n="N006"/>become meaningless, but they are still there potentially. And that is the reason why I am for
             </ab>
@@ -4294,28 +4294,28 @@
             <ab facs="#facs_4_tr_1">
                <lb facs="#facs_4_tr_1_tl_1" n="N001"/>[473]
                <lb facs="#facs_4_tr_1_tl_2" n="N002"/>meaningless, statement. But let me say in one [word]: In a public school, or in a school in which
-               <lb facs="#facs_4_tr_1_tl_4" n="N003"/>all types of religions–and humanisms, more than religions, probably are together,
+               <lb facs="#facs_4_tr_1_tl_4" n="N003"/>all types of religions--and humanisms, more than religions, probably are together,
                <lb facs="#facs_4_tr_1_tl_5" n="N004"/>you cannot of course, in the situation in which you live here in this country, in which there is no
-               <lb facs="#facs_4_tr_1_tl_6" n="N005"/>official connection between state and church–you cannot teach a special symbolic content.
-               <lb facs="#facs_4_tr_1_tl_7" n="N006"/>So the only way–and I think this was the wisdom of the early church–was that they said:
+               <lb facs="#facs_4_tr_1_tl_6" n="N005"/>official connection between state and church--you cannot teach a special symbolic content.
+               <lb facs="#facs_4_tr_1_tl_7" n="N006"/>So the only way--and I think this was the wisdom of the early church--was that they said:
                <lb facs="#facs_4_tr_1_tl_8" n="N007"/>We ARE concrete [?]. In this event (which they called Jesus, whom they called the Christ) something
                <lb facs="#facs_4_tr_1_tl_9" n="N008"/>has happened which gives us the criterion transcending our whole situation and makes us universal.
-               <lb facs="#facs_4_tr_1_tl_10" n="N009"/>But not universal in the sense of being better than the others–Christianity has never, in its theol-
+               <lb facs="#facs_4_tr_1_tl_10" n="N009"/>But not universal in the sense of being better than the others--Christianity has never, in its theol-
                <lb facs="#facs_4_tr_1_tl_11" n="N010"/>ogical affirmations, affirmed that it is better than the others, as Christianity, but they only said
                <lb facs="#facs_4_tr_1_tl_12" n="N011"/>we have a . . . . . ? . . . . . The school, in this case, is not the place where these symbols are taught.
             </ab>
             <ab facs="#facs_4_tr_3">
                <lb facs="#facs_4_tr_3_tl_1" n="N001"/>For this reason I didn't mention it even. I spoke about home, society and church, but I didn't
                <lb facs="#facs_4_tr_3_tl_2" n="N002"/>mention the school. The school is quite different in other countries. When I was in the
-               <lb facs="#facs_4_tr_3_tl_3" n="N003"/>public school in Germany, the Lutheran background was a self-understood thing, and the whole
+               <lb facs="#facs_4_tr_3_tl_3" n="N003"/>public school in Germany, the <rs type="person" key=", tillich_person_id__1228">Lutheran</rs> background was a self-understood thing, and the whole
                <lb facs="#facs_4_tr_3_tl_4" n="N004"/>instruction, the whole education, in this public school was connected with the life of the church,
-               <lb facs="#facs_4_tr_3_tl_5" n="N005"/>the ONE church–there is only one church building in a smaller place, in Germany, and one church;
+               <lb facs="#facs_4_tr_3_tl_5" n="N005"/>the ONE church--there is only one church building in a smaller place, in <rs type="place">Germany</rs>, and one church;
             </ab>
             <ab facs="#facs_4_tr_2">
                <lb facs="#facs_4_tr_2_tl_1" n="N001"/>there are no sects, no different denominations at all. And in this one church, which dominates,
                <lb facs="#facs_4_tr_2_tl_2" n="N002"/>the life of the school ALSO was concentrated. But that was a quite different situation, . . . . .
                <lb facs="#facs_4_tr_2_tl_3" n="N003"/>but there was also the <hi style="font-style: italic;">Gymnasium</hi>, a combination of high school and college: there it was done
-               <lb facs="#facs_4_tr_2_tl_4" n="N004"/>only in the RELIGIOUS instruction hours–which belonged officially to it–but not in the others.
+               <lb facs="#facs_4_tr_2_tl_4" n="N004"/>only in the RELIGIOUS instruction hours--which belonged officially to it--but not in the others.
             </ab>
             <pb facs="#facs_5" n="part4_p005.jpg" xml:id="img_0005"/>
             <ab facs="#facs_5_tr_2">
@@ -4328,18 +4328,18 @@
                <lb facs="#facs_5_tr_2_tl_7" n="N007"/>and Protestants. They are not very powerful in Protestants, except in some fanatics in every
                <lb facs="#facs_5_tr_2_tl_8" n="N008"/>denominational group who prevent real union. But the actual life in most communities is a
                <lb facs="#facs_5_tr_2_tl_9" n="N009"/>matter of adaptation to each other. That is a different situation. But you see, I am not expert
-               <lb facs="#facs_5_tr_2_tl_10" n="N010"/>about these special sections of America because I don't come from the "grass roots," I come
-               <lb facs="#facs_5_tr_2_tl_11" n="N011"/>from the grass roots in GERMANY. And I was very happy to have this kind of education, but
+               <lb facs="#facs_5_tr_2_tl_10" n="N010"/>about these special sections of <rs type="place">America</rs> because I don't come from the "grass roots," I come
+               <lb facs="#facs_5_tr_2_tl_11" n="N011"/>from the grass roots in <rs type="place">GERMANY</rs>. And I was very happy to have this kind of education, but
             </ab>
             <ab facs="#facs_5_tr_3">
                <lb facs="#facs_5_tr_3_tl_1" n="N001"/>I know that others were not, and that the conflict was going on and then changes came after
                <lb facs="#facs_5_tr_3_tl_2" n="N002"/>the First World War, and the Republic was declared, etc. It was a long history. One thing
-               <lb facs="#facs_5_tr_3_tl_3" n="N003"/>I must anticipate: there is no society without an ultimate concern, and symbols of ultimate concern.
+               <lb facs="#facs_5_tr_3_tl_3" n="N003"/>I must anticipate: there is no society without an <ultimate_concern>ultimate concern</ultimate_concern>, and symbols of ultimate concern.
                <lb facs="#facs_5_tr_3_tl_4" n="N004"/>The question is whether in the American society any of the special religious denominations can be
                <lb facs="#facs_5_tr_3_tl_5" n="N005"/>useful, in the present conflicting situation, all providing for the symbols of ultimate concern in
                <lb facs="#facs_5_tr_3_tl_6" n="N006"/>the context of the school. And here I am very doubtful. The actual symbol of ultimate concern
                <lb facs="#facs_5_tr_3_tl_7" n="N007"/>in this country is the Constitution, and its quite meaningful that this is the basis for the religious
-               <lb facs="#facs_5_tr_3_tl_8" n="N008"/>education.–Where "religious," of course, is meant in the largest sense of the word, namely being
+               <lb facs="#facs_5_tr_3_tl_8" n="N008"/>education.--Where "religious," of course, is meant in the largest sense of the word, namely being
                <lb facs="#facs_5_tr_3_tl_9" n="N009"/>ultimately concerned. And here we have the foundations. But to replace this unity in the present
             </ab>
             <pb facs="#facs_6" n="part4_p006.jpg" xml:id="img_0006"/>
@@ -4348,7 +4348,7 @@
                <lb facs="#facs_6_tr_3_tl_2" n="N002"/>conflicting situation by many denominal symbols IN THE PUBLIC SCHOOL, is something very
                <lb facs="#facs_6_tr_3_tl_3" n="N003"/>questionable, although I know that the present state is very unsatisfactory also, because actually the
                <lb facs="#facs_6_tr_3_tl_4" n="N004"/>emptiness, which often prevails in the present public education, leads then to real dangers, of which
-               <lb facs="#facs_6_tr_3_tl_5" n="N005"/>the greatest, probably, is nationalism, which is another religion, can become another religion very
+               <lb facs="#facs_6_tr_3_tl_5" n="N005"/>the greatest, probably, is <Nationalism>nationalism,</Nationalism> which is another religion, can become another religion very
                <lb facs="#facs_6_tr_3_tl_6" n="N006"/>easily, and if this becomes a religion, then we are in the kingdom of the demons, and there are HUMAN
             </ab>
             <ab facs="#facs_6_tr_1">
@@ -4358,7 +4358,7 @@
                <lb facs="#facs_6_tr_1_tl_4" n="N004"/>QN: If the main Protestant principle is the emphasis on the individual, should not religious
                <lb facs="#facs_6_tr_1_tl_5" n="N005"/>education emphasize the cultivation of the individual to use his own individual set of symbols
                <lb facs="#facs_6_tr_1_tl_6" n="N006"/>rather than the traditional set?
-               <lb facs="#facs_6_tr_1_tl_7" n="N007"/>PT: Because no individual can create symbols. Symbols are a matter of the collective unconscious.
+               <lb facs="#facs_6_tr_1_tl_7" n="N007"/>PT: Because no individual can create <Symbols>symbols</Symbols>. Symbols are a matter of the collective unconscious.
                <lb facs="#facs_6_tr_1_tl_8" n="N008"/>Same QN: But the individual can find symbols.
                <lb facs="#facs_6_tr_1_tl_9" n="N009"/>PT: No. He cannot, if they are not given to him. You can never find symbols except in the encounter
                <lb facs="#facs_6_tr_1_tl_10" n="N010"/>with others, in which [encounter] you only become a REAL individual. So be very careful about this;
@@ -4369,14 +4369,14 @@
                <lb facs="#facs_7_tr_1_tl_1" n="N001"/>[476]
                <lb facs="#facs_7_tr_1_tl_2" n="N002"/>LECTURE XXXVII, March 15, 1956
                <lb facs="#facs_7_tr_1_tl_3" n="N003"/>QN: During the last lecture you mentioned that we have both "traditional" and "untraditional"
-               <lb facs="#facs_7_tr_1_tl_4" n="N004"/>symbols to introduce to people. What do you mean by "untraditional symbols"?
-               <lb facs="#facs_7_tr_1_tl_5" n="N005"/>PT: I really don't know–I certainly don't know in which context I said that, and what it could
-               <lb facs="#facs_7_tr_1_tl_6" n="N006"/>mean–since symbols always come from a collective and therefore ALWAYS are carried
+               <lb facs="#facs_7_tr_1_tl_4" n="N004"/><Symbols>symbols</Symbols> to introduce to people. What do you mean by "untraditional symbols"?
+               <lb facs="#facs_7_tr_1_tl_5" n="N005"/>PT: I really don't know--I certainly don't know in which context I said that, and what it could
+               <lb facs="#facs_7_tr_1_tl_6" n="N006"/>mean--since symbols always come from a collective and therefore ALWAYS are carried
                <lb facs="#facs_7_tr_1_tl_7" n="N007"/>somehow by traditional powers, and I wouldn't say here the phrase "introducing a symbol
                <lb facs="#facs_7_tr_1_tl_8" n="N008"/>to people"; I would say "introducing people to symbols," which means that the symbols
                <lb facs="#facs_7_tr_1_tl_9" n="N009"/>are given.
                <lb facs="#facs_7_tr_1_tl_10" n="N010"/>SAME QN: [Questions submitted earlier, written.–Ed.]
-               <lb facs="#facs_7_tr_1_tl_11" n="N011"/>Though a person cannot perhaps CREATE his own symbols, isn't our
+               <lb facs="#facs_7_tr_1_tl_11" n="N011"/>Though a person cannot perhaps CREATE his own <Symbols>symbols</Symbols>, isn't our
                <lb facs="#facs_7_tr_1_tl_12" n="N012"/>culture in fact 'post-Christian' enough so that other symbols than those which are
                <lb facs="#facs_7_tr_1_tl_13" n="N013"/>strictly Christian-in-content can, and MUST be used in order to bring one's 'total being'
             </ab>
@@ -4397,14 +4397,14 @@
                <lb facs="#facs_8_tr_1_tl_4" n="N004"/>be taken in. For instance the truth of a symbol like evolution–which was one of the
                <lb facs="#facs_8_tr_1_tl_5" n="N005"/>most important ones–will and can be taken in; or some symbols connected with the
                <lb facs="#facs_8_tr_1_tl_6" n="N006"/>psychological development–depth psychology, and other things like that. But one
-               <lb facs="#facs_8_tr_1_tl_7" n="N007"/>thing must be said: the symbols COME; you cannot say "I need new symbols, so
+               <lb facs="#facs_8_tr_1_tl_7" n="N007"/>thing must be said: the <Symbols>symbols </Symbols>COME; you cannot say "I need new symbols, so
                <lb facs="#facs_8_tr_1_tl_8" n="N008"/>let's sit down, I have a very comfortable chair, and let's have a drink to it and
                <lb facs="#facs_8_tr_1_tl_9" n="N009"/>then let's invent a symbol!" <hi style="font-style: italic;">[some laughter]</hi> Now that's just what I think should be
                <lb facs="#facs_8_tr_1_tl_10" n="N010"/>denied.
                <lb facs="#facs_8_tr_1_tl_11" n="N011"/>QN: Where is the risk in the autonomous existental experience which you set up last
             </ab>
             <ab facs="#facs_8_tr_3">
-               <lb facs="#facs_8_tr_3_tl_1" n="N001"/>time in regards to Maritain?
+               <lb facs="#facs_8_tr_3_tl_1" n="N001"/>time in regards to <rs type="person" key=", tillich_person_id__2989">Maritain</rs>?
                <lb facs="#facs_8_tr_3_tl_2" n="N002"/>PT: Now I hope you all remember that discussion I reported here, where I asked,
                <lb facs="#facs_8_tr_3_tl_3" n="N003"/>What would you do if the prophetic Spirit grasps you, you say something, of which
                <lb facs="#facs_8_tr_3_tl_4" n="N004"/>later on the Church authority says that it was wrong? And he anwered [sic.], "Then I
@@ -4419,11 +4419,11 @@
             <pb facs="#facs_9" n="part4_p009.jpg" xml:id="img_0009"/>
             <ab facs="#facs_9_tr_3">
                <lb facs="#facs_9_tr_3_tl_1" n="N001"/>[478]
-               <lb facs="#facs_9_tr_3_tl_2" n="N002"/>The risk in me or Maritain?
+               <lb facs="#facs_9_tr_3_tl_2" n="N002"/>The risk in me or <rs type="person" key=", tillich_person_id__2989">Maritain</rs>?
                <lb facs="#facs_9_tr_3_tl_3" n="N003"/>QN: You.
-               <lb facs="#facs_9_tr_3_tl_4" n="N004"/>PT: In me. Now I said: I would resist–as Luther did–the Bull of the Pope condemning
+               <lb facs="#facs_9_tr_3_tl_4" n="N004"/>PT: In me. Now I said: I would resist–as<rs type="person" key=", tillich_person_id__1228"> Luther</rs> did–the Bull of the Pope condemning
                <lb facs="#facs_9_tr_3_tl_6" n="N005"/>me. Now that is the risk. Perhaps I was in error, perhaps I was not. That is
-               <lb facs="#facs_9_tr_3_tl_7" n="N006"/>my risk, while for Maritain the risk is all reduced to the one risk, namely to remain
+               <lb facs="#facs_9_tr_3_tl_7" n="N006"/>my risk, while for <rs type="person" key=", tillich_person_id__2989">Maritain</rs> the risk is all reduced to the one risk, namely to remain
                <lb facs="#facs_9_tr_3_tl_8" n="N007"/>an adherent, or to become, in his case, and to remain, an adherent of the Roman
             </ab>
             <ab facs="#facs_9_tr_1">
@@ -4435,21 +4435,21 @@
                <lb facs="#facs_9_tr_1_tl_6" n="N006"/>questions. You see they always clear something up a little bit, so don't hesitate to
                <lb facs="#facs_9_tr_1_tl_7" n="N007"/>ask them, orally or written.
                <lb facs="#facs_9_tr_1_tl_8" n="N008"/>The final discussion about the relation between the educational realm
-               <lb facs="#facs_9_tr_1_tl_9" n="N009"/>and religion is the discussion of religion and the university. And since this is a
-               <lb facs="#facs_9_tr_1_tl_10" n="N010"/>problem which has a rather existential meaning for Harvard today, and therefore
+               <lb facs="#facs_9_tr_1_tl_9" n="N009"/>and religion is the discussion of religion and the <University>university</University>. And since this is a
+               <lb facs="#facs_9_tr_1_tl_10" n="N010"/>problem which has a rather existential meaning for <rs type="place">Harvard</rs> today, and therefore
                <lb facs="#facs_9_tr_1_tl_11" n="N011"/>implicitly for ALL of you, I want to use this hour to discuss it with you from
             </ab>
             <ab facs="#facs_9_tr_2">
                <lb facs="#facs_9_tr_2_tl_1" n="N001"/>differents [sic.] points of view.
-               <lb facs="#facs_9_tr_2_tl_2" n="N002"/>First a short historical reminder. The term <hi style="font-style: italic;">universitas</hi>, university, had,
+               <lb facs="#facs_9_tr_2_tl_2" n="N002"/>First a short historical reminder. The term <hi style="font-style: italic;">universitas</hi>, <University>university</University>, had,
                <lb facs="#facs_9_tr_2_tl_3" n="N003"/>very early, two meanings. The earliest was the <hi style="font-style: italic;">universitas magistrarum et scholarum [?sp]</hi>,
                <lb facs="#facs_9_tr_2_tl_4" n="N004"/>which means the collective of teachers and students. So the first meaning of the term
             </ab>
             <pb facs="#facs_10" n="part4_p010.jpg" xml:id="img_0010"/>
             <ab facs="#facs_10_tr_2">
                <lb facs="#facs_10_tr_2_tl_1" n="N001"/>[479]
-               <lb facs="#facs_10_tr_2_tl_2" n="N002"/>was that the university is a community. <hi style="font-style: italic;">Universitas, universum,</hi> which always means
-               <lb facs="#facs_10_tr_2_tl_4" n="N003"/>a unity of many, [cf men?] is a unity in terms of a community, namely of teachers and students
+               <lb facs="#facs_10_tr_2_tl_2" n="N002"/>was that the <University>university </University>is a community. <hi style="font-style: italic;">Universitas, universum,</hi> which always means
+               <lb facs="#facs_10_tr_2_tl_4" n="N003"/>a unity of many, [of men?] is a unity in terms of a community, namely of teachers and students
                <lb facs="#facs_10_tr_2_tl_5" n="N004"/>who, together, establish the university as a corporation, whereby the word "corporation"
                <lb facs="#facs_10_tr_2_tl_6" n="N005"/>originally meant what the word says, a real body, with limbs, and not what it means today,
                <lb facs="#facs_10_tr_2_tl_7" n="N006"/>a legal place where trade is performed. But it really meant something of a being-together,
@@ -4466,7 +4466,7 @@
                <lb facs="#facs_10_tr_3_tl_6" n="N006"/>So it is from the very beginning a unity of different elements, and I will
             </ab>
             <ab facs="#facs_10_tr_1">
-               <lb facs="#facs_10_tr_1_tl_1" n="N001"/>distinguish, when we look at the present-day university, three functions which are decisive:
+               <lb facs="#facs_10_tr_1_tl_1" n="N001"/>distinguish, when we look at the present-day <University>university</University>, three functions which are decisive:
                <lb facs="#facs_10_tr_1_tl_2" n="N002"/>1) teaching; 2) education; 3) research. The confusion of these three functions and
                <lb facs="#facs_10_tr_1_tl_3" n="N003"/>their necessary interdependence raises many of the problems which belong to the problem
                <lb facs="#facs_10_tr_1_tl_4" n="N004"/>of the university. So if you discuss problems of THIS university, for instance,
@@ -4477,36 +4477,36 @@
                <lb facs="#facs_11_tr_1_tl_2" n="N001"/>[480]
                <lb facs="#facs_11_tr_1_tl_3" n="N002"/>institution of teaching, it is not ONLY an institution of education, it is not ONLY an institution
                <lb facs="#facs_11_tr_1_tl_4" n="N003"/>of research, but it unites all three functions. And the way in which this is done determines largely
-               <lb facs="#facs_11_tr_1_tl_5" n="N004"/>the character of a university. In history, for instance, the educational element, in a very definite
+               <lb facs="#facs_11_tr_1_tl_5" n="N004"/>the character of a <University>university.</University> In history, for instance, the educational element, in a very definite
                <lb facs="#facs_11_tr_1_tl_6" n="N005"/>way–namely the education to a gentleman–was the main function of the British universities
                <lb facs="#facs_11_tr_1_tl_7" n="N006"/>(especially the English, not so much the Scottish). There the education to the gentleman who
                <lb facs="#facs_11_tr_1_tl_8" n="N007"/>is supposed to become, in an aristocratic feudal culture, the leader of the nation, in the future,
                <lb facs="#facs_11_tr_1_tl_9" n="N008"/>the mediator with the colonies, with the Empire sections–all this was the problem; therefore
                <lb facs="#facs_11_tr_1_tl_10" n="N009"/>the educational element, by far, was more important than the teaching of contents and the research,
                <lb facs="#facs_11_tr_1_tl_11" n="N010"/>which was often completely lacking in these colleges.
-               <lb facs="#facs_11_tr_1_tl_12" n="N011"/>In France, the teaching element is predominant, and not the teaching of the gentleman
+               <lb facs="#facs_11_tr_1_tl_12" n="N011"/>In <rs type="place">France</rs>, the teaching element is predominant, and not the teaching of the gentleman
             </ab>
             <ab facs="#facs_11_tr_2">
                <lb facs="#facs_11_tr_2_tl_1" n="N001"/>but the teaching of the high bureaucracy, and in earlier periods, of the leaders of the Church, the
-               <lb facs="#facs_11_tr_2_tl_2" n="N002"/>leaders of State and Church, but not in terms of the Gentleman-ideal, as in England, but in terms of
+               <lb facs="#facs_11_tr_2_tl_2" n="N002"/>leaders of State and Church, but not in terms of the Gentleman-ideal, as in <rs type="place">England</rs>, but in terms of
                <lb facs="#facs_11_tr_2_tl_3" n="N003"/>the learned man who is able to apply his learning in the administration of the ecclesiastical and
                <lb facs="#facs_11_tr_2_tl_4" n="N004"/>political functions.
-               <lb facs="#facs_11_tr_2_tl_5" n="N005"/>In Germany the educational element was also very weak at the universities. I used
+               <lb facs="#facs_11_tr_2_tl_5" n="N005"/>In <rs type="place">Germany </rs>the educational element was also very weak at the universities. I used
                <lb facs="#facs_11_tr_2_tl_6" n="N006"/>to say about myself, the higher the place of learning, the worse the teachers, from the educational
                <lb facs="#facs_11_tr_2_tl_8" n="N007"/>point of view. This was generally true– the best educators were the teachers in the general
-               <lb facs="#facs_11_tr_2_tl_9" n="N008"/>public schools, the grammar schools, as they were called in England. By far the worse educators
+               <lb facs="#facs_11_tr_2_tl_9" n="N008"/>public schools, the grammar schools, as they were called in <rs type="place">England</rs>. By far the worse educators
                <lb facs="#facs_11_tr_2_tl_10" n="N009"/>were we, the university professors. So the educational element was very badly developed in
             </ab>
             <pb facs="#facs_12" n="part4_p012.jpg" xml:id="img_0012"/>
             <ab facs="#facs_12_tr_1">
                <lb facs="#facs_12_tr_1_tl_1" n="N001"/>[481]
-               <lb facs="#facs_12_tr_1_tl_2" n="N002"/>Germany–the teaching elementstrongly [sic.]–but the research element predominantly.
+               <lb facs="#facs_12_tr_1_tl_2" n="N002"/><rs type="place">Germany</rs>–the teaching elementstrongly [sic.]–but the research element predominantly.
                <lb facs="#facs_12_tr_1_tl_3" n="N003"/>Now this gives you already a difference, a very typical difference, connected
-               <lb facs="#facs_12_tr_1_tl_4" n="N004"/>with the whole situation in these countries. Therefore the influence of the universites [sic.] on
-               <lb facs="#facs_12_tr_1_tl_5" n="N005"/>the cultural life of Germany was only indirect, but very little direct in terms of education.
+               <lb facs="#facs_12_tr_1_tl_4" n="N004"/>with the whole situation in these countries. Therefore the influence of the <University>universites </University>[sic.] on
+               <lb facs="#facs_12_tr_1_tl_5" n="N005"/>the cultural life of <rs type="place">Germany </rs>was only indirect, but very little direct, in terms of education.
                <lb facs="#facs_12_tr_1_tl_6" n="N006"/>It was great on the English upper class, and it was fundamental on the French bureaucracy.
                <lb facs="#facs_12_tr_1_tl_7" n="N007"/>Now let us look at these three functions in their historical setting, and their relationship
-               <lb facs="#facs_12_tr_1_tl_8" n="N008"/>to the problem of religion. First the teaching function of the university. From earliest times,
+               <lb facs="#facs_12_tr_1_tl_8" n="N008"/>to the problem of religion. First the teaching function of the <University>university</University>. From earliest times,
                <lb facs="#facs_12_tr_1_tl_9" n="N009"/>two different emphases were at the university, namely the humanities and the professions.
                <lb facs="#facs_12_tr_1_tl_10" n="N010"/>In the Middle Ages they were the <hi style="font-style: italic;">artes liberales</hi>, the liberal arts–today called "the humanities,"
             </ab>
@@ -4529,16 +4529,16 @@
                <lb facs="#facs_13_tr_1_tl_2" n="N001"/>[482]
                <lb facs="#facs_13_tr_1_tl_3" n="N002"/>theory, remaining in itself, without relationship to the events in the political and religious
                <lb facs="#facs_13_tr_1_tl_4" n="N003"/>and social and economic life of the country. Humanism, especially during the 19th century in
-               <lb facs="#facs_13_tr_1_tl_5" n="N004"/>Germany, became identical with ivory- tower, and that means: only teaching, and only research
-               <lb facs="#facs_13_tr_1_tl_6" n="N005"/>for the sake of research: this alone is the function of the university. But the relationship to the
+               <lb facs="#facs_13_tr_1_tl_5" n="N004"/><rs type="place">Germany</rs>, became identical with ivory-tower, and that means: only teaching, and only research
+               <lb facs="#facs_13_tr_1_tl_6" n="N005"/>for the sake of research: this alone is the function of the <University>university.</University> But the relationship to the
                <lb facs="#facs_13_tr_1_tl_7" n="N006"/>life of the people, to the political realm, is something which is beneath the dignity of the
                <lb facs="#facs_13_tr_1_tl_8" n="N007"/>university. This was the situation up to the First World War, 1914-19. After this period
                <lb facs="#facs_13_tr_1_tl_9" n="N008"/>one thing became clear: the catastrophe of the First World War was rooted in the fact that the
-               <lb facs="#facs_13_tr_1_tl_10" n="N009"/>upper classes of Germany were not active participants of the political realm. They couldn't
+               <lb facs="#facs_13_tr_1_tl_10" n="N009"/>upper classes of <rs type="place">Germany</rs> were not active participants of the political realm. They couldn't
             </ab>
             <ab facs="#facs_13_tr_3">
-               <lb facs="#facs_13_tr_3_tl_1" n="N001"/>prevent the militaristic powers from drawing Germany into the war, and after this they couldn't
-               <lb facs="#facs_13_tr_3_tl_2" n="N002"/>prevent the split of Germany into the parties, which at that time took over largely: the Social
+               <lb facs="#facs_13_tr_3_tl_1" n="N001"/>prevent the militaristic powers from drawing <rs type="place">Germany</rs> into the war, and after this they couldn't
+               <lb facs="#facs_13_tr_3_tl_2" n="N002"/>prevent the split of <rs type="place">Germany </rs>into the parties, which at that time took over largely: the Social
                <lb facs="#facs_13_tr_3_tl_3" n="N003"/>Democrats and the other sections of the German population. The universities at that time, at
                <lb facs="#facs_13_tr_3_tl_4" n="N004"/>the time of my study, were almost INFINITELY removed from political thought and relationship
                <lb facs="#facs_13_tr_3_tl_5" n="N005"/>to economic realities. They did not encourage [the] connection of philosophical, or literature,
@@ -4547,7 +4547,7 @@
             </ab>
             <ab facs="#facs_13_tr_2">
                <lb facs="#facs_13_tr_2_tl_1" n="N001"/>upper classes, and that into this empty space then, as is always the case with empty spaces, the
-               <lb facs="#facs_13_tr_2_tl_2" n="N002"/>forces of a primitive nationalism entered and produced the two Wars and ruined Germany as
+               <lb facs="#facs_13_tr_2_tl_2" n="N002"/>forces of a primitive <Nationalism>nationalism</Nationalism> entered and produced the two Wars and ruined <rs type="place">Germany</rs> as
                <lb facs="#facs_13_tr_2_tl_3" n="N003"/>well as Europe.
                <lb facs="#facs_13_tr_2_tl_4" n="N004"/>Now here you have something of the importance of these problems FAR BEYOND
                <lb facs="#facs_13_tr_2_tl_5" n="N005"/>the petty politics of a campus; it goes far beyond them. It has importance for the whole
@@ -4560,7 +4560,7 @@
                <lb facs="#facs_14_tr_1_tl_4" n="N004"/>overcome this situation. It was the idea of a new humanism–I spoke about this already
                <lb facs="#facs_14_tr_1_tl_5" n="N005"/>briefly–it developed in this connection, namely a theory which is continuously related to the actual
                <lb facs="#facs_14_tr_1_tl_6" n="N006"/>problems of the social and political life of the day in which these theories are developed. It meant
-               <lb facs="#facs_14_tr_1_tl_7" n="N007"/>that if you had to lecture at the University of Berlin, as I had to do, and opposite this building
+               <lb facs="#facs_14_tr_1_tl_7" n="N007"/>that if you had to lecture at the University of <rs type="place">Berlin</rs>, as I had to do, and opposite this building
                <lb facs="#facs_14_tr_1_tl_8" n="N008"/>was the Museum of Modern Art established by the German Republic, over against the whole
             </ab>
             <ab facs="#facs_14_tr_2">
@@ -4571,14 +4571,14 @@
                <lb facs="#facs_14_tr_2_tl_5" n="N005"/>living.
                <lb facs="#facs_14_tr_2_tl_6" n="N006"/>Now this new humanism, this socially related humanism, was an attempt to build up
                <lb facs="#facs_14_tr_2_tl_7" n="N007"/>a new university as, 100 years ago, the great men of German classical philosophy and culture generally,
-               <lb facs="#facs_14_tr_2_tl_8" n="N008"/>built up the University of Berlin as a means of rebirth, from a humanistic point of view-it was the
-               <lb facs="#facs_14_tr_2_tl_9" n="N009"/>first great humanistic university in Germany. Now we tried to build it up again in terms of a new
+               <lb facs="#facs_14_tr_2_tl_8" n="N008"/>built up the University of <rs type="place">Berlin</rs> as a means of rebirth, from a humanistic point of view-it was the
+               <lb facs="#facs_14_tr_2_tl_9" n="N009"/>first great humanistic university in <rs type="place">Germany</rs>. Now we tried to build it up again in terms of a new
             </ab>
             <ab facs="#facs_14_tr_3">
                <lb facs="#facs_14_tr_3_tl_1" n="N001"/>humanism, after the old humanism had run under the social conditions of the 19th century
                <lb facs="#facs_14_tr_3_tl_2" n="N002"/>into self-defeat, because of its ivory-tower situation, and its complete lack of relationship to the
                <lb facs="#facs_14_tr_3_tl_4" n="N003"/>social and political situation..
-               <lb facs="#facs_14_tr_3_tl_5" n="N004"/>If, however, you WANT to do this, you cannot avoid what in Germany is called <hi style="font-style: italic;">Weltanschauung</hi>,
+               <lb facs="#facs_14_tr_3_tl_5" n="N004"/>If, however, you WANT to do this, you cannot avoid what in <rs type="place">Germany</rs> is called <hi style="font-style: italic;">Weltanschauung</hi>,
                <lb facs="#facs_14_tr_3_tl_6" n="N005"/>world-view, interpretation of human existence, IN JUDGING our own social situation, IN JUDGING
             </ab>
             <pb facs="#facs_15" n="part4_p015.jpg" xml:id="img_0015"/>

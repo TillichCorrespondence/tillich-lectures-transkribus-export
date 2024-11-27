@@ -89,21 +89,9 @@
             <zone points="307,2790 1347,2758 1350,2706 309,2724" rendition="Line" xml:id="facs_37_tr_2_tl_10"/>
          </zone>
          <zone points="122,2816 2269,2816 2269,3491 122,3491" rendition="TextRegion" xml:id="facs_37_tr_1">
-            <zone points="599,2918 2100,2893 2164,2841 1107,2841 721,2891 601,2856" rendition="Line" xml:id="facs_37_tr_1_tl_1"/>
+            <zone points="599,2918 2100,2893 2164,2841 1107,2841 721,2891 601,2856" rendition="Line" xml:id="facs_37_tr_1_tl_1" subtype="paragraph"/>
             <zone points="292,3089 832,3075 896,3138 1146,3141 1340,3052 2262,3038 2265,2967 1158,3028 883,2962 294,3057" rendition="Line" xml:id="facs_37_tr_1_tl_2"/>
             <zone points="307,3241 2137,3190 2240,3180 2243,3126 309,3185" rendition="Line" xml:id="facs_37_tr_1_tl_3"/>
-            <zone points="2108,3450 2120,3450 2147,3477 2191,3477 2191,3241 2108,3241" rendition="Line" xml:id="facs_37_tr_1_tl_4"/>
-            <zone points="1833,3477 1862,3479 1882,3455 1899,3450 1919,3462 1934,3460 1924,3313 1902,3315 1897,3310 1865,3308 1823,3320" rendition="Line" xml:id="facs_37_tr_1_tl_5"/>
-            <zone points="1423,3472 1472,3477 1492,3455 1521,3467 1546,3438 1590,3477 1610,3467 1629,3484 1784,3477 1777,3381 1578,3376 1521,3357 1416,3371" rendition="Line" xml:id="facs_37_tr_1_tl_6"/>
-            <zone points="1153,3482 1193,3475 1222,3487 1271,3484 1300,3467 1313,3482 1342,3475 1354,3487 1384,3484 1396,3371 1330,3369 1254,3386 1161,3391" rendition="Line" xml:id="facs_37_tr_1_tl_7"/>
-            <zone points="837,3482 861,3494 901,3494 947,3475 979,3487 991,3479 1050,3484 1060,3475 1094,3484 1097,3376 839,3386" rendition="Line" xml:id="facs_37_tr_1_tl_8"/>
-            <zone points="393,3455 432,3455 464,3433 481,3438 488,3430 508,3448 540,3448 559,3467 589,3460 636,3492 667,3487 665,3396 567,3401 469,3386 390,3411" rendition="Line" xml:id="facs_37_tr_1_tl_9"/>
-            <zone points="665,3494 694,3494 707,3484 716,3484 726,3494 743,3492 736,3379 726,3379 721,3384 704,3381 680,3391 658,3391" rendition="Line" xml:id="facs_37_tr_1_tl_10"/>
-            <zone points="108,3445 125,3443 133,3448 137,3445 150,3448 169,3443 177,3448 184,3445 189,3450 204,3450 199,3379 155,3376 145,3381 130,3371 101,3376" rendition="Line" xml:id="facs_37_tr_1_tl_11"/>
-            <zone points="213,3489 270,3494 280,3487 297,3497 304,3492 393,3497 405,3413 361,3408 331,3416 309,3386 275,3396 255,3381 233,3379" rendition="Line" xml:id="facs_37_tr_1_tl_12"/>
-            <zone points="108,3484 120,3484 125,3492 135,3492 142,3497 162,3492 204,3494 206,3452 191,3452 184,3443 179,3448 159,3443 147,3450 140,3443 113,3443" rendition="Line" xml:id="facs_37_tr_1_tl_13"/>
-            <zone points="395,3484 412,3484 415,3479 424,3487 439,3484 447,3492 464,3494 503,3484 498,3433 474,3438 464,3430 459,3438 449,3443 439,3440 434,3445 417,3438 410,3448 402,3440 390,3440" rendition="Line" xml:id="facs_37_tr_1_tl_14"/>
-            <zone points="734,3487 761,3487 773,3479 795,3487 817,3484 837,3492 849,3482 859,3482 849,3386 837,3386 815,3416 807,3416 793,3403 783,3413 758,3403 721,3403" rendition="Line" xml:id="facs_37_tr_1_tl_15"/>
          </zone>
       </surface>
       
@@ -114,42 +102,30 @@
             <pb facs="#TL-0429.jpg" n="part3_p037.jpg" xml:id="img_0037" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part3_p037.jpg"/>
             
             <p facs="#facs_37_tr_3">
-               <lb facs="#facs_37_tr_3_tl_1" n="N001"/>-/24-
-               <lb facs="#facs_37_tr_3_tl_2" n="N002"/>potentalities, which are already in the child. Now if we look in this light to the Greek and the
-               <lb facs="#facs_37_tr_3_tl_3" n="N003"/>Christian etucation, then we must say: the Greek—or as Kierkegaard has (nphasized), the Socratic
-               <lb facs="#facs_37_tr_3_tl_4" n="N004"/>education, which he also called the Religion "A"—presupposes that every human being has
-               <lb facs="#facs_37_tr_3_tl_5" n="N005"/>potentalities which only must be developed; in mythological terms Plato called this the historical
-               <lb facs="#facs_37_tr_3_tl_6" n="N006"/>memory, which we find in every human being. The example he gives in the dialecte Menon
+               <lb facs="#facs_37_tr_3_tl_1" n="N001"/>[424]
+               <lb facs="#facs_37_tr_3_tl_2" n="N002"/>potentialities, which are already in the child. Now if we look in this light to the Greek and the
+               <lb facs="#facs_37_tr_3_tl_3" n="N003"/>Christian education, then we must say: the Greek--or as Kierkegaard has emphasized, the Socratic
+               <lb facs="#facs_37_tr_3_tl_4" n="N004"/>education, which he also called the Religion ''A''--presupposes that every human being has
+               <lb facs="#facs_37_tr_3_tl_5" n="N005"/>potentialities which only must be developed; in mythological terms Plato called this the historical
+               <lb facs="#facs_37_tr_3_tl_6" n="N006"/>memory, which we find in every human being. The example he gives in the dialogue <hi style="font-style: italic;">Menon</hi>
                <lb facs="#facs_37_tr_3_tl_7" n="N007"/>is the slave who is entirely uneducated but who can understand, in a very short time, the
             </p>
             <p facs="#facs_37_tr_2">
                <lb facs="#facs_37_tr_2_tl_1" n="N001"/>Pythagorean proposition if it is shown to him; he has insight into it because, in mythological
-               <lb facs="#facs_37_tr_2_tl_2" n="N002"/>isterns, he remember the mathematical structure and their inner evidence, from hismanpation
-               <lb facs="#facs_37_tr_2_tl_3" n="N003"/>in the eternal ideas. If we take the word " memory" as a mythological /sic) away from this,
-               <lb facs="#facs_37_tr_2_tl_4" n="N004"/>then we can speak, instead of that, in terms of man's essential nature, and can speak of the classes
+               <lb facs="#facs_37_tr_2_tl_2" n="N002"/>terms, he remembers the mathematical structures and their inner evidence, from his participation
+               <lb facs="#facs_37_tr_2_tl_3" n="N003"/>in the eternal Ideas. If we take the word ''memory'' as a mythological <hi style="font-style: italic;">[sic]</hi> away from this,
+               <lb facs="#facs_37_tr_2_tl_4" n="N004"/>then we can speak, instead of that, in terms of man's essential nature, and can speak of the classical
                <lb facs="#facs_37_tr_2_tl_5" n="N005"/>concept of natural law, which means essential rational structure, which is always and essentially in
-               <lb facs="#facs_37_tr_2_tl_6" n="N006"/>him and which only needs to be developed. whatever you give him, HE HeAS IT ALREADY.
-               <lb facs="#facs_37_tr_2_tl_7" n="N007"/>You know that this meant, in Socratic metaphorism, the maientic art, the art of the midwifery,
-               <lb facs="#facs_37_tr_2_tl_8" n="N008"/>of bringing out that which is in the htudent, and not necessarily in the teacher, by keeping him
+               <lb facs="#facs_37_tr_2_tl_6" n="N006"/>him and which only needs to be developed. Whatever you give him, HE HAS IT ALREADY.
+               <lb facs="#facs_37_tr_2_tl_7" n="N007"/>You know that this meant, in Socratic metaphorism, the maieutic art, the art of the midwifery,
+               <lb facs="#facs_37_tr_2_tl_8" n="N008"/>of bringing out that which is in the student, and not necessarily in the teacher, by helping him
                <lb facs="#facs_37_tr_2_tl_9" n="N009"/>to bring to light what he already has. This is the fundamental principle of all Socratic and,
                <lb facs="#facs_37_tr_2_tl_10" n="N010"/>I can add now, of the humanistic form of education.
             </p>
             <p facs="#facs_37_tr_1">
-               <lb facs="#facs_37_tr_1_tl_1" n="N001"/>There are two groups which do not accept this. The one are the miricists, or
-               <lb facs="#facs_37_tr_1_tl_2" n="N002"/>positivists, who say that man is tabula rasa, and that experience mediated largely by theteacher, by
-               <lb facs="#facs_37_tr_1_tl_3" n="N003"/>the history books, by the tradition, must be given to man from outside. Therefore you can form
-               <lb facs="#facs_37_tr_1_tl_4" n="N004"/>sont
-               <lb facs="#facs_37_tr_1_tl_5" n="N005"/>Monsieur
-               <lb facs="#facs_37_tr_1_tl_6" n="N006"/>dʼune manière beaucoup
-               <lb facs="#facs_37_tr_1_tl_7" n="N007"/>dʼune manière beaucoup
-               <lb facs="#facs_37_tr_1_tl_8" n="N008"/>dʼune manière beaucoup
-               <lb facs="#facs_37_tr_1_tl_9" n="N009"/>dʼune manière beaucoup
-               <lb facs="#facs_37_tr_1_tl_10" n="N010"/>Monsieur
-               <lb facs="#facs_37_tr_1_tl_11" n="N011"/>cʼest
-               <lb facs="#facs_37_tr_1_tl_12" n="N012"/>dʼune manière
-               <lb facs="#facs_37_tr_1_tl_13" n="N013"/>décrier les
-               <lb facs="#facs_37_tr_1_tl_14" n="N014"/>dʼune manière
-               <lb facs="#facs_37_tr_1_tl_15" n="N015"/>de M r de
+               <lb facs="#facs_37_tr_1_tl_1" n="N001"/>There are two groups which do not accept this. The one are the empiricists, or
+               <lb facs="#facs_37_tr_1_tl_2" n="N002"/>positivists, who say that man <hi style="text-decoration: underline;">is</hi> <hi style="font-style: italic;">tabula rasa</hi>, and that experience mediated largely by the teacher, by
+               <lb facs="#facs_37_tr_1_tl_3" n="N003"/>the history books, by the traditions, must be given to man from outside. Therefore you can form
             </p>
             
         </div>

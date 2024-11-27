@@ -103,13 +103,13 @@
             
             <p facs="#facs_12_tr_1">
                <lb facs="#facs_12_tr_1_tl_1" n="N001"/>[481]
-               <lb facs="#facs_12_tr_1_tl_2" n="N002"/>Germany–the teaching elementstrongly [sic.]–but the research element predominantly.
+               <lb facs="#facs_12_tr_1_tl_2" n="N002"/><rs type="place">Germany</rs>–the teaching elementstrongly [sic.]–but the research element predominantly.
                <lb facs="#facs_12_tr_1_tl_3" n="N003"/>Now this gives you already a difference, a very typical difference, connected
-               <lb facs="#facs_12_tr_1_tl_4" n="N004"/>with the whole situation in these countries. Therefore the influence of the universites [sic.] on
-               <lb facs="#facs_12_tr_1_tl_5" n="N005"/>the cultural life of Germany was only indirect, but very little direct in terms of education.
+               <lb facs="#facs_12_tr_1_tl_4" n="N004"/>with the whole situation in these countries. Therefore the influence of the <rs type="keyword" ref="#University">universites </rs>[sic.] on
+               <lb facs="#facs_12_tr_1_tl_5" n="N005"/>the cultural life of <rs type="place">Germany </rs>was only indirect, but very little direct, in terms of education.
                <lb facs="#facs_12_tr_1_tl_6" n="N006"/>It was great on the English upper class, and it was fundamental on the French bureaucracy.
                <lb facs="#facs_12_tr_1_tl_7" n="N007"/>Now let us look at these three functions in their historical setting, and their relationship
-               <lb facs="#facs_12_tr_1_tl_8" n="N008"/>to the problem of religion. First the teaching function of the university. From earliest times,
+               <lb facs="#facs_12_tr_1_tl_8" n="N008"/>to the problem of religion. First the teaching function of the <rs type="keyword" ref="#University">university</rs>. From earliest times,
                <lb facs="#facs_12_tr_1_tl_9" n="N009"/>two different emphases were at the university, namely the humanities and the professions.
                <lb facs="#facs_12_tr_1_tl_10" n="N010"/>In the Middle Ages they were the <hi style="font-style: italic;">artes liberales</hi>, the liberal arts–today called "the humanities,"
             </p>

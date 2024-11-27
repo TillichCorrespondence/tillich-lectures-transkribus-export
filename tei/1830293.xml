@@ -1335,7 +1335,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_45">
          <graphic url="part2_p045.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=VBSVDOIEKKIMSRRYYINRSNEV&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=VBSVDOIEKKIMSRRYYINRSNEV&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="179,63 2224,63 2224,986 179,986" rendition="TextRegion" xml:id="facs_45_tr_3">
             <zone points="1138,364 1189,374 1253,374 1251,295 1202,300 1192,292 1172,310 1135,312" rendition="Line" xml:id="facs_45_tr_3_tl_2"/>
             <zone points="464,521 1374,521 1462,582 1706,519 2199,516 2199,460 786,489 582,410 464,489" rendition="Line" xml:id="facs_45_tr_3_tl_3" subtype="paragraph"/>
@@ -1451,7 +1451,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_49">
          <graphic url="part2_p049.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=GVQQVLIHFUXMMGXIYJZYXBKE&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=GVQQVLIHFUXMMGXIYJZYXBKE&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="289,296 2304,296 2304,1729 289,1729" rendition="TextRegion" xml:id="facs_49_tr_1">
             <zone points="1130,355 1147,357 1157,367 1253,365 1253,289 1225,289 1200,315 1180,294 1165,307 1130,304" rendition="Line" xml:id="facs_49_tr_1_tl_1"/>
             <zone points="287,521 2227,511 2227,458 2046,440 488,473 393,385 287,430" rendition="Line" xml:id="facs_49_tr_1_tl_2"/>
@@ -1587,7 +1587,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_54">
          <graphic url="part2_p054.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=VYFDSHFUYIRYXVJAMBJVWGMX&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=VYFDSHFUYIRYXVJAMBJVWGMX&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="259,287 2224,287 2224,1431 259,1431" rendition="TextRegion" xml:id="facs_54_tr_1">
             <zone points="1123,349 1143,349 1150,357 1228,357 1235,349 1248,349 1245,304 1210,304 1203,297 1183,297 1168,284 1155,299 1120,299" rendition="Line" xml:id="facs_54_tr_1_tl_1"/>
             <zone points="250,516 2016,499 2118,494 2118,437 681,469 362,422 250,472" rendition="Line" xml:id="facs_54_tr_1_tl_2"/>
@@ -4314,33 +4314,33 @@
                <lb facs="#facs_40_tr_4_tl_8" n="N008"/>since religion, in the sense of <ultimate_concern>ultimate concern, </ultimate_concern>is present everywhere, it can be symbolized by ALL
             </ab>
             <ab facs="#facs_40_tr_1">
-               <lb facs="#facs_40_tr_1_tl_1" n="N001"/><Symbols>symbols</Symbols> taken from ALL forms of life. And so with respect to <Art>arts</Art>, the phenomenon of double
-               <lb facs="#facs_40_tr_1_tl_2" n="N002"/>symbolization appears, and without this we don't understand religious art at all.
+               <lb facs="#facs_40_tr_1_tl_1" n="N001"/><Symbols>symbols</Symbols> taken from ALL forms of life. And so with respect to <Art>arts</Art>, the phenomenon of <Double_symbolization>double
+               <lb break="no" facs="#facs_40_tr_1_tl_2" n="N002"/>symbolization</Double_symbolization> appears, and without this we don't understand religious art at all.
             </ab>
             <pb facs="#facs_41" n="part2_p041.jpg" xml:id="img_0041"/>
             <ab facs="#facs_41_tr_1">
                <lb facs="#facs_41_tr_1_tl_1" n="N001"/>[321]
-               <lb facs="#facs_41_tr_1_tl_2" n="N002"/>The phenomenon of double symbolization: -- You have the holy legend, the story of [the]
-               <lb facs="#facs_41_tr_1_tl_3" n="N003"/>Passion, of Jesus as the Christ. It is a ritual legend with, [like] all legend, a strong historical foundation,
+               <lb facs="#facs_41_tr_1_tl_2" n="N002"/>The phenomenon of <Double_symbolization>double symbolization</Double_symbolization>: -- You have the holy legend, the story of [the]
+               <lb facs="#facs_41_tr_1_tl_3" n="N003"/><Passion>Passion</Passion>, of Jesus as the Christ. It is a ritual legend with, [like] all legend, a strong historical foundation,
                <lb facs="#facs_41_tr_1_tl_4" n="N004"/>but with characteristics in which the religious symbols are always present---the symbol of the Christ,
                <lb facs="#facs_41_tr_1_tl_5" n="N005"/>of the Son of Man itself, the symbols of death and resurrection, the symbols of representative
-               <lb facs="#facs_41_tr_1_tl_6" n="N006"/>suffering, etc. This is one realm of symbols. Now in the <hi style="font-style: italic;">Passion of Matthew</hi> by Bach, you have all
-               <lb facs="#facs_41_tr_1_tl_7" n="N007"/>this used, but it is used by another sphere of symbols, namely by musical symbols: sounds, rhythms,
+               <lb facs="#facs_41_tr_1_tl_6" n="N006"/>suffering, etc. This is one realm of symbols. Now in the <hi style="font-style: italic;">Passion of Matthew</hi> by <rs type="person" key=", tillich_person_id__107">Bach</rs>, you have all
+               <lb facs="#facs_41_tr_1_tl_7" n="N007"/>this used, but it is used by another sphere of symbols, namely by <Music>musical</Music> symbols: sounds, rhythms,
                <lb facs="#facs_41_tr_1_tl_8" n="N008"/>melodies. So when you go to a concert, in a church, where the <hi style="font-style: italic;">Passion of Matthew</hi> is performed,
                <lb facs="#facs_41_tr_1_tl_9" n="N009"/>then you are in a rather dialectical situation---whether you know it or not, and whether you would call it
             </ab>
             <ab facs="#facs_41_tr_3">
                <lb facs="#facs_41_tr_3_tl_1" n="N001"/>so or not. On the one hand, you have the central Christian symbols; on the other, you have great music
                <lb facs="#facs_41_tr_3_tl_2" n="N002"/>of the Baroque, i.e., a special style of mysical [sic.] symbolization. Two things can happen to you, in this
-               <lb facs="#facs_41_tr_3_tl_3" n="N003"/>situation. The one thing is that you listen to the performance and are grasped by the power of Bach's
+               <lb facs="#facs_41_tr_3_tl_3" n="N003"/>situation. The one thing is that you listen to the performance and are grasped by the power of <rs type="person" key=", tillich_person_id__107">Bach</rs>'s
                <lb facs="#facs_41_tr_3_tl_4" n="N004"/>music and that you judge whether the performance is good or bad, i.e., adequate to the musical
                <lb facs="#facs_41_tr_3_tl_5" n="N005"/>demands or not. This is the aesthetic experience many people have who go to religious music. But
-               <lb facs="#facs_41_tr_3_tl_6" n="N006"/>when the churches started to ask people to come into the churches, when Bach's <hi style="font-style: italic;">Passion</hi> or
+               <lb facs="#facs_41_tr_3_tl_6" n="N006"/>when the churches started to ask people to come into the churches, when <rs type="person" key=", tillich_person_id__107">Bach</rs>'s <hi style="font-style: italic;">Passion</hi> or
             </ab>
             <ab facs="#facs_41_tr_2">
                <lb facs="#facs_41_tr_2_tl_3" n="N001"/>others were performed, then another idea was behind them: they wanted at the same time to mediate
-               <lb facs="#facs_41_tr_2_tl_4" n="N002"/>the religious power of the RELIGIOUS symbols, which appear doubly symbolized in the MUSICAL
-               <lb facs="#facs_41_tr_2_tl_5" n="N003"/>symbols. And the question in every visitor is always: do you listen in terms of your ultimate concern
+               <lb facs="#facs_41_tr_2_tl_4" n="N002"/>the religious power of the <Symbols_religious>RELIGIOUS symbols,</Symbols_religious> which appear doubly symbolized in the MUSICAL
+               <lb facs="#facs_41_tr_2_tl_5" n="N003"/>symbols. And the question in every visitor is always: do you listen in terms of your <ultimate_concern>ultimate concern</ultimate_concern>
                <lb facs="#facs_41_tr_2_tl_6" n="N004"/>and DISregard the aesthetic form?---or do you listen in terms of an aesthetic judge who perhaps has
             </ab>
             <pb facs="#facs_42" n="part2_p042.jpg" xml:id="img_0042"/>
@@ -4348,7 +4348,7 @@
                <lb facs="#facs_42_tr_2_tl_1" n="N001"/>[322a]
                <lb facs="#facs_42_tr_2_tl_2" n="N002"/>to write about the merits of these singers or of this music? These are two different attitudes which
                <lb facs="#facs_42_tr_2_tl_3" n="N003"/>are based on the fact of double symbolization. This expresses itself for instance in the fact that
-               <lb facs="#facs_42_tr_2_tl_4" n="N004"/>often works of music can be great works of music with a religious subject matter, but they cannot be
+               <lb facs="#facs_42_tr_2_tl_4" n="N004"/>often works of <Music>music</Music> can be great works of music with a religious subject matter, but they cannot be
                <lb facs="#facs_42_tr_2_tl_5" n="N005"/>used for the cult, for ritual activity, because of the predominance of the aesthetic side. And often,
                <lb facs="#facs_42_tr_2_tl_6" n="N006"/>for instance in our hymns, there are hymns which are aesthetically poor---and I am sorry to say that
                <lb facs="#facs_42_tr_2_tl_7" n="N007"/>probably four-fifths, or nine-tenths, of all [the hymns] in our hymnbooks are so! But nevertheless
@@ -4361,31 +4361,31 @@
                <lb facs="#facs_42_tr_1_tl_1" n="N001"/>filled with His presence! On earth, you are in a dialectical situation whenever you encounter religious
                <lb facs="#facs_42_tr_1_tl_2" n="N002"/>art; you have these two sides, these two sets of symbols, and you have the phenomenon of double
                <lb facs="#facs_42_tr_1_tl_3" n="N003"/>symbolization.
-               <lb facs="#facs_42_tr_1_tl_4" n="N004"/>I would say the same about visual arts---and on this basis my showing of pictures will go on---
+               <lb facs="#facs_42_tr_1_tl_4" n="N004"/>I would say the same about visual <Art>arts</Art>---and on this basis my showing of pictures will go on---
                <lb facs="#facs_42_tr_1_tl_5" n="N005"/>namely there are religious contents, subject matters, taken from the traditional symbols---of Christianity,
                <lb facs="#facs_42_tr_1_tl_6" n="N006"/>for instance: we have the scene of Crucifixion, and the way to this ultimate moment; we have the
-               <lb facs="#facs_42_tr_1_tl_7" n="N007"/>scene of Resurrection, which, in the Easter story, already has a double symbolization (a mythological
+               <lb facs="#facs_42_tr_1_tl_7" n="N007"/>scene of Resurrection, which, in the Easter story, already has a <Double_symbolization>double symbolization</Double_symbolization> (a mythological
                <lb facs="#facs_42_tr_1_tl_8" n="N008"/>and a poetical).
             </ab>
             <pb facs="#facs_43" n="part2_p043.jpg" xml:id="img_0043"/>
             <ab facs="#facs_43_tr_2">
                <lb facs="#facs_43_tr_2_tl_1" n="N001"/>[322b]
-               <lb facs="#facs_43_tr_2_tl_2" n="N002"/>Now however this may be, we must see here also the phenomenon of double symbolization
+               <lb facs="#facs_43_tr_2_tl_2" n="N002"/>Now however this may be, we must see here also the phenomenon of <Double_symbolization>double symbolization</Double_symbolization>
                <lb facs="#facs_43_tr_2_tl_3" n="N003"/>which expresses itself ALSO in these tensions. When you come into a Roman church, with many
                <lb facs="#facs_43_tr_2_tl_4" n="N004"/>side chapels, you see (at least in one of them, often in several of them) people kneeling and
                <lb facs="#facs_43_tr_2_tl_5" n="N005"/>praying before pictures of the Holy Virgin, or some saint, pictures which are, aesthetically speaking,
                <lb facs="#facs_43_tr_2_tl_6" n="N006"/>horrors, <hi style="font-style: italic;">kitsch</hi>, or however you want to call it, which by some quality has become religiously powerful:
                <lb facs="#facs_43_tr_2_tl_7" n="N007"/>they point, without artistic form, to the religious symbol and remind, instead of written letter, or
-               <lb facs="#facs_43_tr_2_tl_8" n="N008"/>stories told, by their pictural attempt, the people OF their religious symbols---the Holy Virgin, or
+               <lb facs="#facs_43_tr_2_tl_8" n="N008"/>stories told, by their pictural attempt, the people OF their <Symbols_religious>religious symbols-</Symbols_religious>--the Holy Virgin, or
                <lb facs="#facs_43_tr_2_tl_9" n="N009"/>the saints, or the Christ in crucifixion or resurrection, or in any other of His life stories.
             </ab>
             <ab facs="#facs_43_tr_3">
                <lb facs="#facs_43_tr_3_tl_1" n="N001"/>So here again you have the tension. And it is interesting that the great Renaissance
-               <lb facs="#facs_43_tr_3_tl_2" n="N002"/>pictures, the Raphaels and Bellinis and Pieros, etc., never became cult pictures, in the real sense of
+               <lb facs="#facs_43_tr_3_tl_2" n="N002"/>pictures, the <rs type="person" key=", tillich_person_id__1550">Raphaels</rs> and <rs type="person" key=", tillich_person_id__3027">Bellinis</rs> and <rs type="person" key=", tillich_person_id__3028">Pieros</rs>, etc., never became cult pictures, in the real sense of
                <lb facs="#facs_43_tr_3_tl_3" n="N003"/>the word: they didn't produce piety because (for reasons to which I will immediately come; I will
-               <lb facs="#facs_43_tr_3_tl_4" n="N004"/>show some of them) they couldn't go beyond their aesthetic symbolism to the religious symbolism
+               <lb facs="#facs_43_tr_3_tl_4" n="N004"/>show some of them) they couldn't go beyond their aesthetic symbolism to the <Symbols_religious>religious symbolism</Symbols_religious>
                <lb facs="#facs_43_tr_3_tl_5" n="N005"/>which is their subject matter. But this subject matter was swallowed by the artistic symbolism which
-               <lb facs="#facs_43_tr_3_tl_6" n="N006"/>belongs to the great artistic symbols, but in the situation of double symbolization, the second, namely
+               <lb facs="#facs_43_tr_3_tl_6" n="N006"/>belongs to the great <Symbols_artistic>artistic symbols</Symbols_artistic>, but in the situation of <Double_symbolization>double symbolization</Double_symbolization>, the second, namely
             </ab>
             <ab facs="#facs_43_tr_1">
                <lb facs="#facs_43_tr_1_tl_1" n="N001"/>the religious, element got lost, while in the other, where we have the poorest horrors of art, the
@@ -4396,18 +4396,18 @@
             <ab facs="#facs_44_tr_1">
                <lb facs="#facs_44_tr_1_tl_1" n="N001"/>[323]
                <lb facs="#facs_44_tr_1_tl_2" n="N002"/>Now this gives you a first taste of the many problems connected with the relationship of
-               <lb facs="#facs_44_tr_1_tl_3" n="N003"/>religion and art. This is the first and fundamental distinction which we must keep in mind---in music,
+               <lb facs="#facs_44_tr_1_tl_3" n="N003"/>religion and <Art>art</Art>. This is the first and fundamental distinction which we must keep in mind---in music,
                <lb facs="#facs_44_tr_1_tl_4" n="N004"/>in visual arts, in poetry. Perfect poems rarely will be able to become sung in a congregation,
                <lb facs="#facs_44_tr_1_tl_5" n="N005"/>even if they find good melody. Here again you have these dialectics. There ARE some---
-               <lb facs="#facs_44_tr_1_tl_7" n="N006"/>I would say some of Paul Gerhardt and some of the
+               <lb facs="#facs_44_tr_1_tl_7" n="N006"/>I would say some of <rs type="person" key=", tillich_person_id__672">Paul Gerhardt </rs>and some of the
                <lb facs="#facs_44_tr_1_tl_8" n="N007"/>English, <hi style="font-style: italic;">"O God of Ages" [i.e. Rock of Ages? O God, our help in ages past? --Ed.]</hi> --- what is that?---
-               <lb facs="#facs_44_tr_1_tl_9" n="N008"/>you know of that---[ from audience: "O God our help in ages past"? --- Whittier?] -- No --- I will
+               <lb facs="#facs_44_tr_1_tl_9" n="N008"/>you know of that---[ from audience: "O God our help in ages past"? --- <rs type="person" key=", tillich_person_id__3030">Whittier</rs>?] -- No --- I will
                <lb facs="#facs_44_tr_1_tl_10" n="N009"/>find him before the end of the class---I will think of him !
                <lb facs="#facs_44_tr_1_tl_13" n="N010"/>There is a complete poetic expression combined with a religious power, but you will not
                <lb facs="#facs_44_tr_1_tl_14" n="N011"/>find ten percent in our hymnbooks which have this quality.
                <lb facs="#facs_44_tr_1_tl_15" n="N012"/>Now I come to another consideration which increases the dialectical situation between religion
                <lb facs="#facs_44_tr_1_tl_16" n="N013"/>and art.
-               <lb facs="#facs_44_tr_1_tl_17" n="N014"/>Art always has three elements: 1) The subject matter, even if it is only different fields of
+               <lb facs="#facs_44_tr_1_tl_17" n="N014"/><Art>Art</Art> always has three elements: 1) The subject matter, even if it is only different fields of
                <lb facs="#facs_44_tr_1_tl_18" n="N015"/>color combined, in completely abstract art---even that is subject matter, although it is not subject
                <lb facs="#facs_44_tr_1_tl_19" n="N016"/>matter in any sense of our natural worldview. 2) Secondly, art has that which makes it art, namely
             </ab>
@@ -4425,25 +4425,25 @@
                <lb facs="#facs_45_tr_3_tl_3" n="N002"/>3) A third element stands against formalism, namely meaning, which is sometimes called
                <lb facs="#facs_45_tr_3_tl_4" n="N003"/>content, but the word content is ambiguous because it often stands for subject matter, so instead
                <lb facs="#facs_45_tr_3_tl_5" n="N004"/>I use the word meaning. The meaning is neither the subject matter nor is it the form, but it is
-               <lb facs="#facs_45_tr_3_tl_6" n="N005"/>something which cannot be expressed in any other way THAN by the artistic symbols: it is that
+               <lb facs="#facs_45_tr_3_tl_6" n="N005"/>something which cannot be expressed in any other way THAN by the <Symbols_artistic>artistic symbols</Symbols_artistic>: it is that
             </ab>
             <ab facs="#facs_45_tr_1">
                <lb facs="#facs_45_tr_1_tl_1" n="N001"/>which is opened up by them and that which is present in our soul IF it is opened up. But this
                <lb facs="#facs_45_tr_1_tl_2" n="N002"/>meaning can be read in some way in the form, and if we do this we come to what is usually called
-               <lb facs="#facs_45_tr_1_tl_3" n="N003"/>style.
-               <lb facs="#facs_45_tr_1_tl_4" n="N004"/>Style is a very interesting phenomenon. Of course style expresses itself in both, in the
+               <lb facs="#facs_45_tr_1_tl_3" n="N003"/><Style>style.</Style>
+               <lb facs="#facs_45_tr_1_tl_4" n="N004"/><Style>Style</Style> is a very interesting phenomenon. Of course style expresses itself in both, in the
                <lb facs="#facs_45_tr_1_tl_5" n="N005"/>choice of subject matter and in the form. It is an overall form, if you want, but it is also an overall
                <lb facs="#facs_45_tr_1_tl_7" n="N006"/>term towards [i.e. for?] special subject matter. What is style in this sense? Style is the experience of life
                <lb facs="#facs_45_tr_1_tl_8" n="N007"/>as such, expressed as an overall form, or way of expression, in all realms of life. It is first and
                <lb facs="#facs_45_tr_1_tl_9" n="N008"/>mostly applied to the realm of arts, but there is not only artistic style, there is also style of thought.
-               <lb facs="#facs_45_tr_1_tl_10" n="N009"/>Logical positivism is not only a method, it is also a style of thought. And it is present in politics---
+               <lb facs="#facs_45_tr_1_tl_10" n="N009"/><Logical_Positivism>Logical positivism</Logical_Positivism> is not only a method, it is also a style of thought. And it is present in politics---
                <lb facs="#facs_45_tr_1_tl_11" n="N010"/>19th century balance-of-power politics in Europe was a style of politics expressing an ultimate
                <lb facs="#facs_45_tr_1_tl_12" n="N011"/>meaning in life. There are styles of social relations, in the relation of the sexes to each other, for
                <lb facs="#facs_45_tr_1_tl_13" n="N012"/>instance, and every period has a different style, in this relationship. Now I speak here about a
                <lb facs="#facs_45_tr_1_tl_14" n="N013"/>special realm, the artistic realm, which is dependent on the overall style but which has a most
             </ab>
             <ab facs="#facs_45_tr_2">
-               <lb facs="#facs_45_tr_2_tl_1" n="N001"/>impressive function within the overall style, because of what I called last time the expressive power
+               <lb facs="#facs_45_tr_2_tl_1" n="N001"/>impressive function within the overall style, because of what I called last time the <Expressive_function>expressive power</Expressive_function>
                <lb facs="#facs_45_tr_2_tl_2" n="N002"/>of a work of art. It is more expressive than any other style.
             </ab>
             <pb facs="#facs_46" n="part2_p046.jpg" xml:id="img_0046"/>
@@ -4451,12 +4451,12 @@
                <lb facs="#facs_46_tr_1_tl_1" n="N001"/>[325]
                <lb facs="#facs_46_tr_1_tl_2" n="N002"/>Now here I can tell you a little story of my own inquiries in past years. I had to
                <lb facs="#facs_46_tr_1_tl_3" n="N003"/>give lectures---I "had" to give because I WANTED to give---lectures on the "History of the
-               <lb facs="#facs_46_tr_1_tl_4" n="N004"/>Philosophy of Religion," as they were called, with a very clumsy name. Now I was decided not
+               <lb facs="#facs_46_tr_1_tl_4" n="N004"/><Philosophy_of_Religion>Philosophy of Religion</Philosophy_of_Religion>," as they were called, with a very clumsy name. Now I was decided not
                <lb facs="#facs_46_tr_1_tl_5" n="N005"/>to do this without changing the name. So what did I do? I gave what I call a theonomous
                <lb facs="#facs_46_tr_1_tl_7" n="N006"/>history of philosophy, a history of philosophy where the SPECIAL history [i.e. philosophy--ed.] of religion was a
                <lb facs="#facs_46_tr_1_tl_8" n="N007"/>very small section in my presentation, but there was a very large section dealing with the
                <lb facs="#facs_46_tr_1_tl_9" n="N008"/>religious meaning of epistemology, or of Aristotelian logic, or of the metaphysical concepts or
-               <lb facs="#facs_46_tr_1_tl_12" n="N009"/>of the ethical ideals. That means: I tried to show---and to find out myself, first ---the style of a
+               <lb facs="#facs_46_tr_1_tl_12" n="N009"/>of the ethical ideals. That means: I tried to show---and to find out myself, first ---the <Style>style </Style>of a
                <lb facs="#facs_46_tr_1_tl_14" n="N010"/>period in its philosophical self-expression. But in doing so, it happened to me that I learned
                <lb facs="#facs_46_tr_1_tl_15" n="N011"/>a little bit at that time about history of art and discovered that the history of art goes in a strict
                <lb facs="#facs_46_tr_1_tl_16" n="N012"/>analogy with the history of philosophical thought, and that you can illustrate the one by the other.
@@ -4464,46 +4464,46 @@
             </ab>
             <ab facs="#facs_46_tr_2">
                <lb facs="#facs_46_tr_2_tl_1" n="N001"/>If I can show them to you, you will see it has explained to me---together with the temples in southern
-               <lb facs="#facs_46_tr_2_tl_2" n="N002"/>Italy which I saw, from the 6th century before Christ---the whole meaning of the philosophy of
-               <lb facs="#facs_46_tr_2_tl_3" n="N003"/>Parmenides. WITHOUT them I wouldn't have understood Parmenides; WITH them, it was
+               <lb facs="#facs_46_tr_2_tl_2" n="N002"/><rs type="place">Italy</rs> which I saw, from the 6th century before Christ---the whole meaning of the philosophy of
+               <lb facs="#facs_46_tr_2_tl_3" n="N003"/><rs type="person" key=", tillich_person_id__1457">Parmenides</rs>. WITHOUT them I wouldn't have understood <rs type="person" key=", tillich_person_id__1457">Parmenides;</rs> WITH them, it was
                <lb facs="#facs_46_tr_2_tl_4" n="N004"/>suddenly like a lightning in which I felt able to understand not only the philosophical subject matter
                <lb facs="#facs_46_tr_2_tl_5" n="N005"/>but also the expression of that subject matter in artistic form.
-               <lb facs="#facs_46_tr_2_tl_6" n="N006"/>Now in this way we have styles in all periods of history, and these styles are present in all
+               <lb facs="#facs_46_tr_2_tl_6" n="N006"/>Now in this way we have <Style>styles</Style> in all periods of history, and these styles are present in all
             </ab>
             <pb facs="#facs_47" n="part2_p047.jpg" xml:id="img_0047"/>
             <ab facs="#facs_47_tr_2">
                <lb facs="#facs_47_tr_2_tl_1" n="N001"/>[326]
-               <lb facs="#facs_47_tr_2_tl_2" n="N002"/>functions of history, and these styles give you an answer to the question, "What about the ultimate
-               <lb facs="#facs_47_tr_2_tl_3" n="N003"/>concern of this period?" That was of course my task. My task was not a textbook knowledge---which
+               <lb facs="#facs_47_tr_2_tl_2" n="N002"/>functions of history, and these <Style>styles</Style> give you an answer to the question, "What about the <ultimate_concern>ultimate
+               <lb break="no" facs="#facs_47_tr_2_tl_3" n="N003"/>concern </ultimate_concern>of this period?" That was of course my task. My task was not a textbook knowledge---which
                <lb facs="#facs_47_tr_2_tl_4" n="N004"/>I don't have, and if I had it I wouldn't communicate it because I think it is superfluous, and dangerous---
                <lb facs="#facs_47_tr_2_tl_5" n="N005"/>but I wanted to give an interpretation of the religious self-understanding of the different periods as
                <lb facs="#facs_47_tr_2_tl_6" n="N006"/>expressed in the styles of these periods. And of course my personal realm was philosophy and
-               <lb facs="#facs_47_tr_2_tl_7" n="N007"/>theology, which also includes philosophy of religion---I didn't neglect it---but it was not the center
+               <lb facs="#facs_47_tr_2_tl_7" n="N007"/>theology, which also includes <Philosophy_of_Religion>philosophy of religion</Philosophy_of_Religion>---I didn't neglect it---but it was not the center
                <lb facs="#facs_47_tr_2_tl_8" n="N008"/>of the interest; the center of the interest was the style and what this style does and did express.
-               <lb facs="#facs_47_tr_2_tl_9" n="N009"/>Now this brings me to two fundamentally different styles which we find in all realms
+               <lb facs="#facs_47_tr_2_tl_9" n="N009"/>Now this brings me to two fundamentally different <Style>styles</Style> which we find in all realms
                <lb facs="#facs_47_tr_2_tl_10" n="N010"/>of life and which are decisive for the relationship of religion and art. The first and rarest in history
-               <lb facs="#facs_47_tr_2_tl_11" n="N011"/>is the naturalistic style. I say "the rarest" because in the history of mankind, naturalism in art, and
+               <lb facs="#facs_47_tr_2_tl_11" n="N011"/>is the naturalistic style. I say "the rarest" because in the history of mankind, <Naturalism>naturalism</Naturalism> in art, and
             </ab>
             <ab facs="#facs_47_tr_1">
                <lb facs="#facs_47_tr_1_tl_1" n="N001"/>in philosophy, is a rare event. NON-naturalistic expression is by far the predominant event in the
                <lb facs="#facs_47_tr_1_tl_2" n="N002"/>history of art and in the history of all cultural expressions. But let us stick now to the history
-               <lb facs="#facs_47_tr_1_tl_3" n="N003"/>of art. If I speak of naturalism, I mean not the photographic reproduction of nature---this I would
+               <lb facs="#facs_47_tr_1_tl_3" n="N003"/>of <Art>art</Art>. If I speak of naturalism, I mean not the photographic reproduction of nature---this I would
                <lb facs="#facs_47_tr_1_tl_4" n="N004"/>exclude from art, although modern photographers have ways of bringing artistic elements
                <lb facs="#facs_47_tr_1_tl_6" n="N005"/>in the way in which they organize the photographic situation; but that's an applied art. The genuine
                <lb facs="#facs_47_tr_1_tl_7" n="N006"/>art is never naturalistic in the sense of photographic. Nevertheless there is naturalistic art. This
                <lb facs="#facs_47_tr_1_tl_8" n="N007"/>naturalistic art uses the immediately encountered world in a non-disrupted way in order to use it for
-               <lb facs="#facs_47_tr_1_tl_9" n="N008"/>artistic symbols. I would count under this form of naturalistic art not only what we usually call
+               <lb facs="#facs_47_tr_1_tl_9" n="N008"/><Symbols_artistic>artistic symbols</Symbols_artistic>. I would count under this form of naturalistic art not only what we usually call
                <lb facs="#facs_47_tr_1_tl_10" n="N009"/>naturalistic in the narrower sense, but I would call also everything, every idealistic art, which is based
             </ab>
             <pb facs="#facs_48" n="part2_p048.jpg" xml:id="img_0048"/>
             <ab facs="#facs_48_tr_2">
                <lb facs="#facs_48_tr_2_tl_1" n="N001"/>[327]
-               <lb facs="#facs_48_tr_2_tl_2" n="N002"/>on the anticipatory function of which I spoke, where nature is idealized, but it remains nature.
+               <lb facs="#facs_48_tr_2_tl_2" n="N002"/>on the <Anticipatory_function>anticipatory function</Anticipatory_function> of which I spoke, where nature is idealized, but it remains nature.
                <lb facs="#facs_48_tr_2_tl_3" n="N003"/>This is unfortunately the predominant way in which parochial newspapers still believe that Christianity
                <lb facs="#facs_48_tr_2_tl_4" n="N004"/>should be presented to the poor people.
-               <lb facs="#facs_48_tr_2_tl_5" n="N005"/>Then I would also call impressionism naturalistic art, but it is naturalism of a special kind,
+               <lb facs="#facs_48_tr_2_tl_5" n="N005"/>Then I would also call impressionism <Art_naturalistic>naturalistic art</Art_naturalistic>, but it is <Naturalism>naturalism</Naturalism> of a special kind,
                <lb facs="#facs_48_tr_2_tl_6" n="N006"/>of the third type, namely in contrast to the ordinary naturalism which is objective, the impressionistic
-               <lb facs="#facs_48_tr_2_tl_7" n="N007"/>naturalism is subjective. Zola, when he fought for the French impressionists, has said: a work of
+               <lb facs="#facs_48_tr_2_tl_7" n="N007"/>naturalism is subjective. <rs type="person" key=", tillich_person_id__2125">Zola</rs>, when he fought for the French impressionists, has said: a work of
                <lb facs="#facs_48_tr_2_tl_8" n="N008"/>art is nature seen through a temperament. This means: through the subjectivity of the artist's
                <lb facs="#facs_48_tr_2_tl_9" n="N009"/>seeing and receiving. This certainly is an excellent description of impressionism and shows that
                <lb facs="#facs_48_tr_2_tl_10" n="N010"/>here objective and subjective nature, man's optical and psychological structure, work together
@@ -4515,12 +4515,12 @@
                <lb facs="#facs_48_tr_3_tl_3" n="N003"/>of the word.
                <lb facs="#facs_48_tr_3_tl_4" n="N004"/>The opposite is NON-naturalistic. Most of primitive art is non-naturalistic. Here the
                <lb facs="#facs_48_tr_3_tl_5" n="N005"/>semantic problem has induced me to use that negative term "non-naturalistic." I would call it
-               <lb facs="#facs_48_tr_3_tl_6" n="N006"/>expressionistic, but unfortunately that word has been used by the German expressionists in the
+               <lb facs="#facs_48_tr_3_tl_6" n="N006"/><Art_expressionistic>expressionistic, </Art_expressionistic>but unfortunately that word has been used by the German expressionists in the
                <lb facs="#facs_48_tr_3_tl_7" n="N007"/>first decades of the 20th century. So it must be liberated from this extreme limited use. And if
             </ab>
             <ab facs="#facs_48_tr_1">
                <lb facs="#facs_48_tr_1_tl_1" n="N001"/>you sometimes hear, instead of using the clumsy word "non-naturalistic" the quick word "expressionistic,"
-               <lb facs="#facs_48_tr_1_tl_2" n="N002"/>I mean it in the sense of non-naturalistic generally, and include all non- naturalistic art from the
+               <lb facs="#facs_48_tr_1_tl_2" n="N002"/>I mean it in the sense of non-naturalistic generally, and include all non-naturalistic art from the
                <lb facs="#facs_48_tr_1_tl_3" n="N003"/>very primitive to the present-day abstract, under this term. But let us perhaps not complicate the matter
             </ab>
             <pb facs="#facs_49" n="part2_p049.jpg" xml:id="img_0049"/>
@@ -4532,9 +4532,9 @@
                <lb facs="#facs_49_tr_1_tl_5" n="N005"/>in Baroque art. Then we have it again, after an increasing victory of naturalism, according to the
                <lb facs="#facs_49_tr_1_tl_7" n="N006"/>technical-scientific world in which we live, the new and very powerful reaction against
                <lb facs="#facs_49_tr_1_tl_8" n="N007"/>naturalism, from a non-naturalistic art in the 20th century, since 1900 almost exactly.
-               <lb facs="#facs_49_tr_1_tl_9" n="N008"/>Now this induces me also to give to all this quite another name, namely existentialistic art.
+               <lb facs="#facs_49_tr_1_tl_9" n="N008"/>Now this induces me also to give to all this quite another name, namely <Art_existentialistic>existentialistic art.</Art_existentialistic>
                <lb facs="#facs_49_tr_1_tl_10" n="N009"/>The reason for this, I will show you later on.
-               <lb facs="#facs_49_tr_1_tl_11" n="N010"/>All this shows that we have two different ways. Now what does expressionistic or
+               <lb facs="#facs_49_tr_1_tl_11" n="N010"/>All this shows that we have two different ways. Now what does <Art_expressionistic>expressionistic</Art_expressionistic> or
             </ab>
             <ab facs="#facs_49_tr_3">
                <lb facs="#facs_49_tr_3_tl_1" n="N001"/>non-naturalistic art do? In order to produce artistic symbols, it disrupts the naturalistic worldview.
@@ -4547,7 +4547,7 @@
                <lb facs="#facs_49_tr_3_tl_8" n="N008"/>everything physical, as in the mosaics. Or the Romanesque art.
             </ab>
             <ab facs="#facs_49_tr_2">
-               <lb facs="#facs_49_tr_2_tl_1" n="N001"/>Now this shows that we have to make a distinction of types of art from the point of
+               <lb facs="#facs_49_tr_2_tl_1" n="N001"/>Now this shows that we have to make a distinction of types of <Art>art </Art>from the point of
                <lb facs="#facs_49_tr_2_tl_2" n="N002"/>view of religion and art, according to the two principles: the one is non-naturalistic against naturalistic;
             </ab>
             <pb facs="#facs_50" n="part2_p050.jpg" xml:id="img_0050"/>
@@ -4556,25 +4556,25 @@
                <lb facs="#facs_50_tr_1_tl_2" n="N002"/>and the other is a religious subject matter and a non-religious subject matter. This leads us to the
                <lb facs="#facs_50_tr_1_tl_4" n="N003"/>four different levels, and I will show pictures Thursday which are ordered according to these four
                <lb facs="#facs_50_tr_1_tl_5" n="N004"/>levels:
-               <lb facs="#facs_50_tr_1_tl_6" n="N005"/>1) First a naturalistic style with a non-religious subject matter---there I start. But
-               <lb facs="#facs_50_tr_1_tl_8" n="N006"/>nevertheless, since religion is ULTIMATE concern, and the religious OBJECT is the GROUND of
+               <lb facs="#facs_50_tr_1_tl_6" n="N005"/>1) First a <Art_naturalistic>naturalistic</Art_naturalistic> <Style>style </Style>with a non-religious subject matter---there I start. But
+               <lb facs="#facs_50_tr_1_tl_8" n="N006"/>nevertheless, since religion is <ultimate_concern>ULTIMATE concern</ultimate_concern>, and the religious OBJECT is the GROUND of
                <lb facs="#facs_50_tr_1_tl_10" n="N007"/>everything that is, even in this way INDIRECTLY, religion shines through, although completely
                <lb facs="#facs_50_tr_1_tl_11" n="N008"/>indirectly and hidden.
-               <lb facs="#facs_50_tr_1_tl_12" n="N009"/>2) The second group is the non-naturalistic style: the expressionistic or existentialist
+               <lb facs="#facs_50_tr_1_tl_12" n="N009"/>2) The second group is the <Art_expressionistic>non-naturalistic</Art_expressionistic> <Style>style</Style>: the expressionistic or <Art_existentialistic>existentialist</Art_existentialistic>
             </ab>
             <ab facs="#facs_50_tr_3">
                <lb facs="#facs_50_tr_3_tl_1" n="N001"/>style in which nature is transformed, but in which there is no religious subject matter: it is still
                <lb facs="#facs_50_tr_3_tl_2" n="N002"/>faces, trees, landscapes, animals, buildings, etc., which are represented.
                <lb facs="#facs_50_tr_3_tl_3" n="N003"/>3) The third level: religious subject matter---Christs and Virgins and stories of the
-               <lb facs="#facs_50_tr_3_tl_4" n="N004"/>holy legend and myths; and on the other hand a naturalistic style. This is the Renaissance; this
+               <lb facs="#facs_50_tr_3_tl_4" n="N004"/>holy legend and myths; and on the other hand a naturalistic <Style>style</Style>. This is the Renaissance; this
                <lb facs="#facs_50_tr_3_tl_5" n="N005"/>is the late period in the ancient world; this is the 19th century naturalism.
                <lb facs="#facs_50_tr_3_tl_6" n="N006"/>4) Finally I will show you examples of a fourth level, in which we have non-naturalistic
-               <lb facs="#facs_50_tr_3_tl_7" n="N007"/>style and at the same time religious subject matter. These are the pictures which ideally should
+               <lb facs="#facs_50_tr_3_tl_7" n="N007"/><Style>style</Style> and at the same time religious subject matter. These are the pictures which ideally should
                <lb facs="#facs_50_tr_3_tl_8" n="N008"/>be used for cultic, for ritual, activities. ONLY on this fourth level are ritual activities possible.
             </ab>
             <ab facs="#facs_50_tr_2">
                <lb facs="#facs_50_tr_2_tl_1" n="N001"/>Now this is the menu to which I invite you for next Thursday. And I repeat the
-               <lb facs="#facs_50_tr_2_tl_2" n="N002"/>four levels once more, and I will go in this sequence:
+               <lb facs="#facs_50_tr_2_tl_2" n="N002"/><Style>four levels </Style>once more, and I will go in this sequence:
                <lb facs="#facs_50_tr_2_tl_3" n="N003"/>1) Naturalistic style and non-religious (or, if you want, secular) content.
                <lb facs="#facs_50_tr_2_tl_4" n="N004"/>2) Religious (or expressionistic) style and non-religious (secular) content.
                <lb facs="#facs_50_tr_2_tl_5" n="N005"/>3) Non-religious (secular, naturalistic) style and the religious content, subject matter.
@@ -4603,10 +4603,10 @@
                <lb facs="#facs_52_tr_2_tl_11" n="N010"/>4) Non-naturalistic style, religious subject matter.
             </ab>
             <ab facs="#facs_52_tr_3">
-               <lb facs="#facs_52_tr_3_tl_1" n="N001"/>I must have produced a little confusion at the end when sometimes, for "non-naturalistic" I said
+               <lb facs="#facs_52_tr_3_tl_1" n="N001"/>I must have produced a little confusion at the end when sometimes, for <Art_expressionistic>"non-naturalistic" </Art_expressionistic>I said
                <lb facs="#facs_52_tr_3_tl_2" n="N002"/>"expressionistic," or even "religious." What I want to do is to go from one of these levels to the other
-               <lb facs="#facs_52_tr_3_tl_3" n="N003"/>and start first with the naturalistic style and secular subject matter. Now let me say first a few things
-               <lb facs="#facs_52_tr_3_tl_4" n="N004"/>in general. This is not a lecture in history of art. Those ofyou [sic.] who are students of history of art will
+               <lb facs="#facs_52_tr_3_tl_3" n="N003"/>and start first with the <Art_naturalistic>naturalistic style </Art_naturalistic>and secular subject matter. Now let me say first a few things
+               <lb facs="#facs_52_tr_3_tl_4" n="N004"/>in general. This is not a lecture in history of<Art> art</Art>. Those ofyou [sic.] who are students of history of art will
                <lb facs="#facs_52_tr_3_tl_5" n="N005"/>be able to correct me and to imagine much better examples. What I want to do is to show you in
                <lb facs="#facs_52_tr_3_tl_6" n="N006"/>these four groups a large choice of pictures which can give you an impression of what is going on in all
                <lb facs="#facs_52_tr_3_tl_7" n="N007"/>four levels with respect to the relation of religion and art. So it is the main point of the lecture
@@ -4625,10 +4625,10 @@
                <lb facs="#facs_53_tr_1_tl_2" n="N002"/>and this country generally, is not too near to the visual arts---it is much nearer to music and to literature.
                <lb facs="#facs_53_tr_1_tl_3" n="N003"/>For this reason I think it would be good to show you not only one example for each, but many examples.
                <lb facs="#facs_53_tr_1_tl_4" n="N004"/>So let yourselves slide into the atmosphere of the artistic realm, and something will then come upon
-               <lb facs="#facs_53_tr_1_tl_5" n="N005"/>you, I hope, and give you a feeling of what I have explained in one of these lectures as artistic symbols,
-               <lb facs="#facs_53_tr_1_tl_6" n="N006"/>and in some of these levels, then, the relationship to religious symbols.
-               <lb facs="#facs_53_tr_1_tl_7" n="N007"/>We start with the first level: naturalistic style and secular subject matter.
-               <lb facs="#facs_53_tr_1_tl_8" n="N008"/>1) <hi style="font-style: italic;">LANDSCAPE</hi>, by Ruben---I start the consideration of this realm with landscapes because in them
+               <lb facs="#facs_53_tr_1_tl_5" n="N005"/>you, I hope, and give you a feeling of what I have explained in one of these lectures as <Symbols_artistic>artistic symbols,</Symbols_artistic>
+               <lb facs="#facs_53_tr_1_tl_6" n="N006"/>and in some of these levels, then, the relationship to <Symbols_religious>religious symbols</Symbols_religious>.
+               <lb facs="#facs_53_tr_1_tl_7" n="N007"/>We start with the first level: <Art_naturalistic>naturalistic style </Art_naturalistic>and secular subject matter.
+               <lb facs="#facs_53_tr_1_tl_8" n="N008"/>1) <hi style="font-style: italic;">LANDSCAPE</hi>, by <rs type="person" key=", tillich_person_id__1653">Ruben</rs>---I start the consideration of this realm with landscapes because in them
                <lb facs="#facs_53_tr_1_tl_9" n="N009"/>the duality of this level is especially easy to be seen and to be understood. We called this level
                <lb facs="#facs_53_tr_1_tl_10" n="N010"/>"naturalistic style and secular subject matter." Nevertheless I want to show you---but it cannot be
                <lb facs="#facs_53_tr_1_tl_11" n="N011"/>shown---I want to ask you to try to understand that in such a picture there is something present
@@ -4638,7 +4638,7 @@
                <lb facs="#facs_53_tr_2_tl_1" n="N001"/>the essence of landscape, seen through a special artistic patternment [??], is present in it. And then
                <lb facs="#facs_53_tr_2_tl_2" n="N002"/>you can go even beyond it---this is my main point---namely you can feel that in such a picture there is
                <lb facs="#facs_53_tr_2_tl_3" n="N003"/>also present ULTIMATE reality, because ultimate reality is not a reality BESIDE the concrete and
-               <lb facs="#facs_53_tr_2_tl_4" n="N004"/>finite reality, but it manifests itself THROUGH finite LESS-ultimate reality. The power of being in
+               <lb facs="#facs_53_tr_2_tl_4" n="N004"/>finite reality, but it manifests itself THROUGH finite LESS-ultimate reality. The <Power_of_Being>power of being </Power_of_Being>in
                <lb facs="#facs_53_tr_2_tl_5" n="N005"/>such a picture is manifest to everybody who goes into it. And of course, in order to enjoy a picture,
                <lb facs="#facs_53_tr_2_tl_6" n="N006"/>one must go INTO it, not into it as if it were a photograph or a landscape, in which you want to take
                <lb facs="#facs_53_tr_2_tl_7" n="N007"/>a walk or have a picnic or read a newspaper, but some of the power of reality which reveals itself
@@ -4647,41 +4647,41 @@
             <pb facs="#facs_54" n="part2_p054.jpg" xml:id="img_0054"/>
             <ab facs="#facs_54_tr_1">
                <lb facs="#facs_54_tr_1_tl_1" n="N001"/>[333]
-               <lb facs="#facs_54_tr_1_tl_2" n="N002"/>2) RUBENS -- I am especially fond of Rubens's landscapes because they show in a very special
+               <lb facs="#facs_54_tr_1_tl_2" n="N002"/>2) <rs type="person" key=", tillich_person_id__1653">RUBENS</rs> -- I am especially fond of <rs type="person" key=", tillich_person_id__1653">Rubens</rs>'s landscapes because they show in a very special
                <lb facs="#facs_54_tr_1_tl_3" n="N003"/>way, I would say, the difference of the naturalistic level, although the style is naturalistic, from the
                <lb facs="#facs_54_tr_1_tl_4" n="N004"/>level which art reveals. Here again the only thing I can ask you to do is to go, not physically but
-               <lb facs="#facs_54_tr_1_tl_5" n="N005"/>spiritually, "into" it and experience the power of being which reveals itself through the limited
+               <lb facs="#facs_54_tr_1_tl_5" n="N005"/>spiritually, "into" it and experience the <Power_of_Being>power of being</Power_of_Being> which reveals itself through the limited
                <lb facs="#facs_54_tr_1_tl_6" n="N006"/>power in form and matter of such a picture.
-               <lb facs="#facs_54_tr_1_tl_7" n="N007"/>3) <hi style="font-style: italic;">LANDSCAPE</hi> by Jacob Ruisdael -- Here I wanted to say a few words about that which is most
+               <lb facs="#facs_54_tr_1_tl_7" n="N007"/>3) <hi style="font-style: italic;">LANDSCAPE</hi> by <rs type="person" key=", tillich_person_id__3008">Jacob Ruisdael </rs>-- Here I wanted to say a few words about that which is most
                <lb facs="#facs_54_tr_1_tl_8" n="N008"/>prominent in this picture, namely the tree in the middle. This is TREEHOOD! Now if you ever are
             </ab>
             <ab facs="#facs_54_tr_3">
-               <lb facs="#facs_54_tr_3_tl_1" n="N001"/>asked in an examination about what a Platonic idea means, then think of this picture. This tree
+               <lb facs="#facs_54_tr_3_tl_1" n="N001"/>asked in an examination about what a<Platonism> Platonic</Platonism> idea means, then think of this picture. This tree
                <lb facs="#facs_54_tr_3_tl_2" n="N002"/>represents TREEHOOD, ESSENCE of tree, which repeats itself in every tree, but which of course,
                <lb facs="#facs_54_tr_3_tl_3" n="N003"/>in special most powerful trees, is more manifest than in others. Here you have this kind of tree
-               <lb facs="#facs_54_tr_3_tl_4" n="N004"/>which is of course repeated in many pictures of Ruisdael and other Dutch painters---you have that
-               <lb facs="#facs_54_tr_3_tl_5" n="N005"/>vision Plato had when he came to his doctrine of ideas, namely of the essential power which makes
+               <lb facs="#facs_54_tr_3_tl_4" n="N004"/>which is of course repeated in many pictures of <rs type="person" key=", tillich_person_id__3008">Ruisdael </rs>and other Dutch painters---you have that
+               <lb facs="#facs_54_tr_3_tl_5" n="N005"/>vision <rs type="person" key=", tillich_person_id__1510">Plato</rs> had when he came to his doctrine of ideas, namely of the essential power which makes
                <lb facs="#facs_54_tr_3_tl_6" n="N006"/>that every tree again becomes a tree and nothing else, this natural power which is based in an eternal
                <lb facs="#facs_54_tr_3_tl_7" n="N007"/>essence, an essence which would remain even if the surface of the earth with all trees disappeared.
             </ab>
             <ab facs="#facs_54_tr_2">
                <lb facs="#facs_54_tr_2_tl_1" n="N001"/>So think of this tree when you are asked about the meaning of a Platonic idea.
-               <lb facs="#facs_54_tr_2_tl_2" n="N002"/>4) <hi style="font-style: italic;">LANDSCAPE</hi> by Monet -- Here you have something else, and this is an important thing,
-               <lb facs="#facs_54_tr_2_tl_3" n="N003"/>namely, as you know, Monet is the most representative name, not the greatest perhaps---the greatest
-               <lb facs="#facs_54_tr_2_tl_4" n="N004"/>is Manet, who is more than any other painter in the 19th century, but Monet is most characteristic
+               <lb facs="#facs_54_tr_2_tl_2" n="N002"/>4) <hi style="font-style: italic;">LANDSCAPE</hi> by <rs type="person" key=", tillich_person_id__1343">Monet</rs> -- Here you have something else, and this is an important thing,
+               <lb facs="#facs_54_tr_2_tl_3" n="N003"/>namely, as you know, <rs type="person" key=", tillich_person_id__1343">Monet</rs> is the most representative name, not the greatest perhaps---the greatest
+               <lb facs="#facs_54_tr_2_tl_4" n="N004"/>is <rs type="person" key=", tillich_person_id__3034">Manet</rs>, who is more than any other painter in the 19th century, but <rs type="person" key=", tillich_person_id__1343">Monet </rs>is most characteristic
                <lb facs="#facs_54_tr_2_tl_5" n="N005"/>for what is called impressionism. I call this style, in my stylistic analysis, subjective naturalism
             </ab>
             <pb facs="#facs_55" n="part2_p055.jpg" xml:id="img_0055"/>
             <ab facs="#facs_55_tr_2">
                <lb facs="#facs_55_tr_2_tl_1" n="N001"/>[334]
-               <lb facs="#facs_55_tr_2_tl_2" n="N002"/>in contrast to the Ruisdaels and the Rubens, which I would call objective naturalism. It is subjective
-               <lb facs="#facs_55_tr_2_tl_3" n="N003"/>insofar as the nature which appears here is, as Zola has said, nature seen through a temperament.
+               <lb facs="#facs_55_tr_2_tl_2" n="N002"/>in contrast to the <rs type="person" key=", tillich_person_id__3008">Ruisdaels</rs> and the <rs type="person" key=", tillich_person_id__1653">Rubens</rs>, which I would call objective naturalism. It is subjective
+               <lb facs="#facs_55_tr_2_tl_3" n="N003"/>insofar as the nature which appears here is, as <rs type="person" key=", tillich_person_id__2125">Zola</rs> has said, nature seen through a temperament.
                <lb facs="#facs_55_tr_2_tl_4" n="N004"/>It is the optic organization not only of man generally, but of the seeing possibility of one great artist,
                <lb facs="#facs_55_tr_2_tl_5" n="N005"/>which appears here. Here again I would say, through this subjective naturalism which is present in all
                <lb facs="#facs_55_tr_2_tl_6" n="N006"/>the expressionistic pictures, we have the presence of ultimate reality, but now ultimate reality not
                <lb facs="#facs_55_tr_2_tl_7" n="N007"/>only in nature but IN OUR ENCOUNTER with nature. And this is the greatness and the beauty
                <lb facs="#facs_55_tr_2_tl_8" n="N008"/>of impressionistic art, that it brings in, in a way that was never before, the optical subjectivity of man.
-               <lb facs="#facs_55_tr_2_tl_10" n="N009"/>5) <hi style="font-style: italic;">RAILROAD STATION [La Gare]</hi> by Monet -- This means that the same Monet was able to make a picture of
+               <lb facs="#facs_55_tr_2_tl_10" n="N009"/>5) <hi style="font-style: italic;">RAILROAD STATION [La Gare]</hi> by <rs type="person" key=", tillich_person_id__1343">Monet</rs> -- This means that the same <rs type="person" key=", tillich_person_id__1343">Monet</rs> was able to make a picture of
                <lb facs="#facs_55_tr_2_tl_11" n="N010"/>the technical world, the second world man has created above nature, and in this world we have also
             </ab>
             <ab facs="#facs_55_tr_1">
@@ -4690,7 +4690,7 @@
                <lb facs="#facs_55_tr_1_tl_3" n="N003"/>The technical world is in this way able, through the artistic symbol, also to become a symbol for
                <lb facs="#facs_55_tr_1_tl_5" n="N004"/>ultimate reality, not directly in a religious sense---it is secular subject matter---but indirectly, through
                <lb facs="#facs_55_tr_1_tl_6" n="N005"/>the power of being which is revealed also in these creations of man.
-               <lb facs="#facs_55_tr_1_tl_7" n="N006"/>6) <hi style="font-style: italic;">UNLOADING THE CARGO</hi> (Monet) -- It is a mixture of technical and natural elements, and what
+               <lb facs="#facs_55_tr_1_tl_7" n="N006"/>6) <hi style="font-style: italic;">UNLOADING THE CARGO</hi> (<rs type="person" key=", tillich_person_id__1343">Monet</rs>) -- It is a mixture of technical and natural elements, and what
                <lb facs="#facs_55_tr_1_tl_8" n="N007"/>I said about both of them is here repeated in this very beautiful work of impressionist art. We will
                <lb facs="#facs_55_tr_1_tl_9" n="N008"/>call this realm, which is now finished, nature---and technic[s] and its relation to nature.
                <lb facs="#facs_55_tr_1_tl_10" n="N009"/>Next we will have another realm of naturalistic style and secular subject matter: human
