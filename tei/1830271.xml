@@ -8006,7 +8006,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_271">
          <graphic url="part1_p271.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=MCFHPSRXQWSVKDPHVTABXPBB&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MCFHPSRXQWSVKDPHVTABXPBB&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="200,264 200,3485 2334,3485 2334,264" rendition="TextRegion" xml:id="facs_271_tr_1">
             <zone points="1110,336 1138,346 1164,349 1194,349 1215,341 1230,341 1230,288 1179,285 1166,272 1148,285 1110,283" rendition="Line" xml:id="facs_271_tr_1_tl_1"/>
             <zone points="303,484 336,502 955,497 955,423 868,423 838,448 805,420 777,448 693,430 667,451 614,410 583,428 428,410 390,448 303,448" rendition="Line" xml:id="facs_271_tr_1_tl_2" subtype="heading"/>
@@ -15372,7 +15372,7 @@
                <lb facs="#facs_262_tr_2_tl_17" n="N015"/>to transcend it. And if you try to FORCE them to say such a sentence, they have what <rs type="person" key=", tillich_person_id__697">Goldstein</rs>
                <lb facs="#facs_262_tr_2_tl_18" n="N016"/>calls a catastrophic reaction; they fall into a tremendous state of anxiety and almost self-destruction.
                <lb facs="#facs_262_tr_2_tl_19" n="N017"/>Now this shows that man has the possibility of transcending himself. This was another
-               <lb facs="#facs_262_tr_2_tl_20" n="N018"/>element which was added to the <Gestalt>gestalt </Gestalt>psychology, it was the psychology of spontaneity in terms of the
+               <lb facs="#facs_262_tr_2_tl_20" n="N018"/>element which was added to the <Gestalt>gestalt </Gestalt>psychology, it was the psychology of <Spontaneity>spontaneity</Spontaneity> in terms of the
                <lb facs="#facs_262_tr_2_tl_21" n="N019"/>possibility of self-transcendence.
                <lb facs="#facs_262_tr_2_tl_22" n="N020"/>Out of this, another insight followed, namely the insight into the nature of the <Spontaneity>spontaneity</Spontaneity>
             </ab>
@@ -15557,7 +15557,7 @@
                <lb facs="#facs_271_tr_1_tl_2" n="N002"/>LECTURE XXII, Dec. 20, 1955
                <lb facs="#facs_271_tr_1_tl_3" n="N003"/>Since this is the last lecture, let me remind you of the idea of the whole lecture [course]
                <lb facs="#facs_271_tr_1_tl_4" n="N004"/>as we had it, and look forward to the lecture starting the beginning of February.
-               <lb facs="#facs_271_tr_1_tl_5" n="N005"/><RELIGION>Religion</RELIGION> and<Culture> culture</Culture> has been treated in such a way that we first discussed the meaning
+               <lb facs="#facs_271_tr_1_tl_5" n="N005"/><religion>Religion</religion> and<Culture> culture</Culture> has been treated in such a way that we first discussed the meaning
                <lb facs="#facs_271_tr_1_tl_6" n="N006"/>of religion, especially the meaning of <Faith>faith</Faith> as <ultimate_concern>ultimate concern</ultimate_concern>. Then we spoke about the <Symbols>symbolic</Symbols>
                <lb facs="#facs_271_tr_1_tl_7" n="N007"/>character of religious expression in practice and theory. Then we tried to find the religious element
                <lb facs="#facs_271_tr_1_tl_8" n="N008"/>and the relation of religion to the different cultural functions, on the basic presupposition that religion
@@ -15566,7 +15566,7 @@
                <lb facs="#facs_271_tr_1_tl_11" n="N011"/>is the form of religion.
                <lb facs="#facs_271_tr_1_tl_12" n="N012"/>With this principle, then, we first approached language as the immediate characteristic of
                <lb facs="#facs_271_tr_1_tl_14" n="N013"/>man as man; then we came to man as creating a world above the given world---
-               <lb facs="#facs_271_tr_1_tl_15" n="N014"/>the<technology> technical</technology> forms; then we came to the different forms of <Science>science</Science>---pure science, including the
+               <lb facs="#facs_271_tr_1_tl_15" n="N014"/>the <technology>technical </technology>forms; then we came to the different forms of <Science>science</Science>---pure science, including the
                <lb facs="#facs_271_tr_1_tl_16" n="N015"/>biological realm, leaving out the psychological, for special reasons, but going then to <History>history</History>
                <lb facs="#facs_271_tr_1_tl_17" n="N016"/>and to <Philosophy>philosophy</Philosophy>. Then I intended originally to deal with religion and art, but according to my
                <lb facs="#facs_271_tr_1_tl_18" n="N017"/>suggestion, and your agreement, we postponed this to next semester because of the difficulties of
@@ -15649,10 +15649,10 @@
                <lb facs="#facs_275_tr_1_tl_6" n="N006"/>Now such a belief, whenever it appeared---and I gave you the names: <rs type="person" key=", tillich_person_id__2982">Pelagius</rs>, <rs type="person" key=", tillich_person_id__536">Erasmus</rs>,
                <lb facs="#facs_275_tr_1_tl_8" n="N007"/><rs type="person" key=", tillich_person_id__452">Descartes</rs>, <rs type="person" key=", tillich_person_id__1020">Kant</rs>, and of course the English <Empiricism>empiricists</Empiricism>---was always, after a certain time, undercut
                <lb facs="#facs_275_tr_1_tl_9" n="N008"/>by forms of new realism, of a new understanding of the human situation. In this country it was
-               <lb facs="#facs_275_tr_1_tl_10" n="N009"/>especially the belief in<progress> progress </progress>through the man-of-good-will who slowly will renew society by
+               <lb facs="#facs_275_tr_1_tl_10" n="N009"/>especially the belief in <Progress>progress</Progress> through the man-of-good-will who slowly will renew society by
                <lb facs="#facs_275_tr_1_tl_11" n="N010"/>conscious decisions and conscious activities in such a way that the whole of human reality will be
                <lb facs="#facs_275_tr_1_tl_12" n="N011"/>changed.
-               <lb facs="#facs_275_tr_1_tl_13" n="N012"/>I already discussed the <progress>problem of progress,</progress> to the dismay of many of you, and there I said
+               <lb facs="#facs_275_tr_1_tl_13" n="N012"/>I already discussed the problem of <Progress>progress</Progress>, to the dismay of many of you, and there I said
                <lb facs="#facs_275_tr_1_tl_14" n="N013"/>that the model of progressivistic thinking is man's technical activity, and that in this model the
                <lb facs="#facs_275_tr_1_tl_15" n="N014"/>progress-idea is right, while if applied to man making conscious decisions, it is wrong.
                <lb facs="#facs_275_tr_1_tl_16" n="N015"/>The discovery of the <unconscious>unconscious</unconscious> showed this very clearly. It showed that this attitude
@@ -15688,7 +15688,7 @@
             <ab facs="#facs_277_tr_1">
                <lb facs="#facs_277_tr_1_tl_1" n="N001"/>[273]
                <lb facs="#facs_277_tr_1_tl_2" n="N002"/>But now I take a step beyond this. Here I take in much of the <Existentialism>existentialist</Existentialism> literature.
-               <lb facs="#facs_277_tr_1_tl_3" n="N003"/>The relationship of <Depth_psychology>psychoanalysis, or depth psychology,</Depth_psychology> and <Existentialism>existentialism</Existentialism> is a very rich one and a
+               <lb facs="#facs_277_tr_1_tl_3" n="N003"/>The relationship of <Depth_psychology>psychoanalysis, or depth psychology,</Depth_psychology> and existentialism is a very rich one and a
                <lb facs="#facs_277_tr_1_tl_5" n="N004"/>very interesting one, from many points of view. There is the fact, which you all know, that in drama
                <lb facs="#facs_277_tr_1_tl_6" n="N005"/>and novel and visual arts the results of depth-psychological analysis are effective, are working, and are
                <lb facs="#facs_277_tr_1_tl_7" n="N006"/>expressed, even. We had a whole series of plays in which depth-psychological elements were dramatically
@@ -15719,15 +15719,15 @@
                <lb facs="#facs_278_tr_3_tl_10" n="N008"/>blind. The history of philosophy and prophetism and every observation which you can make with people
                <lb facs="#facs_278_tr_3_tl_12" n="N009"/>of today with whom you are in relationship will show you that this is completely wrong.
                <lb facs="#facs_278_tr_3_tl_13" n="N010"/>The amount of knowledge is not in proportion to the amount of insight.
-               <lb facs="#facs_278_tr_3_tl_14" n="N011"/>Here I use the word "insight." This is a dangerous word, like "intuition," and it means exactly
+               <lb facs="#facs_278_tr_3_tl_14" n="N011"/>Here I use the word "<Insight>insight</Insight>." This is a dangerous word, like "intuition," and it means exactly
                <lb facs="#facs_278_tr_3_tl_17" n="N012"/>the same (<hi style="font-style: italic;">intuitio</hi> in Latin means "sight") , but both words must be used. The word "insight" is
                <lb facs="#facs_278_tr_3_tl_18" n="N013"/>especially interesting because its understanding is ALSO one of the great achievements of <Depth_psychology>depth psychology</Depth_psychology>,
                <lb facs="#facs_278_tr_3_tl_19" n="N014"/>namely the distinction between knowledge and insight with respect to the psychoanalytic process itself.
                <lb facs="#facs_278_tr_3_tl_20" n="N015"/>I don't know whether I said that already---if not, I will say it now, namely that if you ask an analyst
                <lb facs="#facs_278_tr_3_tl_21" n="N016"/>"Who are the most difficult patients?", then he will answer "Those who know everything about
                <lb facs="#facs_278_tr_3_tl_22" n="N017"/>analysis"---because they have the most deadly weapon of defense against insight into themselves.
-               <lb facs="#facs_278_tr_3_tl_23" n="N018"/>Now this is the best example for the fundamental difference between theoretical knowledge
-               <lb facs="#facs_278_tr_3_tl_24" n="N019"/>and participating insight---or perhaps I should have said: detached knowledge and involved insight.
+               <lb facs="#facs_278_tr_3_tl_23" n="N018"/>Now this is the best example for the fundamental difference between <Knowledge_theoretical>theoretical knowledge</Knowledge_theoretical>
+               <lb facs="#facs_278_tr_3_tl_24" n="N019"/>and <Insight>participating insight-</Insight>--or perhaps I should have said: detached knowledge and involved insight.
             </ab>
             <pb facs="#facs_279" n="part1_p279.jpg" xml:id="img_0279"/>
             <ab facs="#facs_279_tr_2">
@@ -15736,7 +15736,7 @@
                <lb facs="#facs_279_tr_2_tl_3" n="N003"/>of our situation here today. I myself must confess that I owe the clear distinction of these two things
                <lb facs="#facs_279_tr_2_tl_4" n="N004"/>to my practical and theoretical participation in psychoanalytic processes. It is something absolutely
                <lb facs="#facs_279_tr_2_tl_5" n="N005"/>different, if you know by heart the whole literature of <rs type="person" key=", tillich_person_id__619">Freud</rs> (or any other analyst whom you prefer),
-               <lb facs="#facs_279_tr_2_tl_6" n="N006"/>or whether you EVER were in the situation in which you tried to get insight into what is going on
+               <lb facs="#facs_279_tr_2_tl_6" n="N006"/>or whether you EVER were in the situation in which you tried to get <Insight>insight </Insight>into what is going on
                <lb facs="#facs_279_tr_2_tl_7" n="N007"/>in the depths of your own personality. The first, of course, has the toil of work---you must learn
                <lb facs="#facs_279_tr_2_tl_8" n="N008"/>and read and try to understand---the other includes the hell of suffering without which no one can win the
                <lb facs="#facs_279_tr_2_tl_9" n="N009"/>insight into oneself because participation in those movements of the soul, in which the character and the
@@ -15757,7 +15757,7 @@
                <lb facs="#facs_280_tr_2_tl_2" n="N002"/>old boy, and if professors boast, and ministers boast, that they have this superiority, and that
                <lb facs="#facs_280_tr_2_tl_3" n="N003"/>if they believe that if they do something good to<rs type="person" key=", tillich_person_id__1468"> Paul the Apostle,</rs> that he knew better than
                <lb facs="#facs_280_tr_2_tl_4" n="N004"/>Socrates---then they are simply childish. [?] What is really at stake here is ABSOLUTELY DIFFERENT.
-               <lb facs="#facs_280_tr_2_tl_5" n="N005"/>Socrates didn't speak of knowledge in the [sense] of detached knowledge, but he speaks of insight
+               <lb facs="#facs_280_tr_2_tl_5" n="N005"/>Socrates didn't speak of knowledge in the [sense] of detached knowledge, but he speaks of <Insight>insight</Insight>
                <lb facs="#facs_280_tr_2_tl_6" n="N006"/>in the sense of participation in one's <hi style="font-style: italic;">daemon</hi>, as he called [it], i.e., the <unconscious>unconscious</unconscious> power striving
                <lb facs="#facs_280_tr_2_tl_7" n="N007"/>in him. And only on the basis of such insight is it possible to understand his statement that
                <lb facs="#facs_280_tr_2_tl_8" n="N008"/>knowledge produces action. And why? Because this knowledge is already an action, and one of the,

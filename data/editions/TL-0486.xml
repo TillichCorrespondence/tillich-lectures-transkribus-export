@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_12">
          <graphic url="TL-0486.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=OSTULZZSRXTWGPBMVRTPQQOK&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=OSTULZZSRXTWGPBMVRTPQQOK&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="328,311 2277,311 2277,1756 328,1756" rendition="TextRegion" xml:id="facs_12_tr_1">
             <zone points="1137,370 1236,372 1246,365 1258,365 1258,312 1224,312 1210,297 1195,312 1180,312 1171,321 1137,321" rendition="Line" xml:id="facs_12_tr_1_tl_1"/>
             <zone points="319,538 1928,523 1952,470 321,494" rendition="Line" xml:id="facs_12_tr_1_tl_2"/>
@@ -109,7 +109,7 @@
                <lb facs="#facs_12_tr_1_tl_5" n="N005"/>the cultural life of <rs type="place">Germany </rs>was only indirect, but very little direct, in terms of education.
                <lb facs="#facs_12_tr_1_tl_6" n="N006"/>It was great on the English upper class, and it was fundamental on the French bureaucracy.
                <lb facs="#facs_12_tr_1_tl_7" n="N007"/>Now let us look at these three functions in their historical setting, and their relationship
-               <lb facs="#facs_12_tr_1_tl_8" n="N008"/>to the problem of religion. First the teaching function of the <rs type="keyword" ref="#University">university</rs>. From earliest times,
+               <lb facs="#facs_12_tr_1_tl_8" n="N008"/>to the problem of religion. First the <rs type="keyword" ref="#Teaching">teaching function</rs> of the <rs type="keyword" ref="#University">university</rs>. From earliest times,
                <lb facs="#facs_12_tr_1_tl_9" n="N009"/>two different emphases were at the university, namely the humanities and the professions.
                <lb facs="#facs_12_tr_1_tl_10" n="N010"/>In the Middle Ages they were the <hi style="font-style: italic;">artes liberales</hi>, the liberal arts–today called "the humanities,"
             </p>

@@ -80,17 +80,6 @@
             <zone points="251,1596 2200,1621 2200,1563 2122,1555 251,1550" rendition="Line" xml:id="facs_40_tr_2_tl_10"/>
             <zone points="251,1749 1924,1756 1924,1708 251,1696" rendition="Line" xml:id="facs_40_tr_2_tl_11"/>
          </zone>
-         <zone points="23,3335 1722,3335 1722,3476 23,3476" rendition="TextRegion" xml:id="facs_40_tr_1">
-            <zone points="10,3397 25,3397 30,3392 68,3397 75,3389 93,3394 103,3389 133,3392 135,3312 110,3309 98,3317 75,3317 58,3309 48,3319 13,3319" rendition="Line" xml:id="facs_40_tr_1_tl_1"/>
-            <zone points="339,3409 361,3397 419,3404 467,3394 572,3414 590,3399 645,3397 645,3327 479,3329 424,3319 339,3334" rendition="Line" xml:id="facs_40_tr_1_tl_2"/>
-            <zone points="845,3445 868,3455 943,3399 1051,3407 1114,3384 1232,3424 1330,3397 1510,3407 1510,3307 845,3302" rendition="Line" xml:id="facs_40_tr_1_tl_3"/>
-            <zone points="1570,3437 1598,3445 1641,3419 1673,3422 1716,3409 1716,3309 1678,3307 1666,3296 1651,3312 1636,3312 1603,3284 1573,3286" rendition="Line" xml:id="facs_40_tr_1_tl_4"/>
-            <zone points="961,3467 978,3467 988,3477 1056,3477 1071,3470 1086,3477 1106,3470 1116,3477 1152,3470 1184,3475 1194,3394 1152,3397 1144,3389 1111,3387 1081,3404 1064,3394 1046,3407 1034,3399 993,3407 983,3394 968,3394" rendition="Line" xml:id="facs_40_tr_1_tl_5"/>
-            <zone points="1365,3475 1385,3477 1400,3470 1410,3480 1427,3470 1440,3472 1458,3397 1445,3394 1440,3389 1432,3394 1415,3392 1400,3397 1382,3394" rendition="Line" xml:id="facs_40_tr_1_tl_6"/>
-            <zone points="13,3477 80,3477 120,3437 135,3439 135,3392 73,3389 63,3397 48,3399 30,3392 13,3394" rendition="Line" xml:id="facs_40_tr_1_tl_7"/>
-            <zone points="464,3470 487,3470 494,3477 547,3477 557,3470 575,3480 645,3477 647,3394 592,3404 575,3392 562,3402 549,3392 527,3407 514,3397 489,3404 464,3399" rendition="Line" xml:id="facs_40_tr_1_tl_8"/>
-            <zone points="103,3475 123,3480 135,3475 163,3480 168,3475 193,3477 216,3367 193,3364 186,3369 173,3369 128,3359" rendition="Line" xml:id="facs_40_tr_1_tl_9"/>
-         </zone>
       </surface>
       
    </facsimile>
@@ -100,28 +89,17 @@
             <pb facs="#TL-0514.jpg" n="part4_p040.jpg" xml:id="img_0040" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p040.jpg"/>
             
             <p facs="#facs_40_tr_2">
-               <lb facs="#facs_40_tr_2_tl_1" n="N001"/>-309-
+               <lb facs="#facs_40_tr_2_tl_1" n="N001"/>[509]
                <lb facs="#facs_40_tr_2_tl_2" n="N002"/>and then in all the others, the humanities, etc.
                <lb facs="#facs_40_tr_2_tl_3" n="N003"/>QN: How do you define the concept of symbols: is it against concrete reality, or are you taking in
-               <lb facs="#facs_40_tr_2_tl_4" n="N004"/>the sense, e.g., the flag is the symbol of the intependence of a country?
-               <lb facs="#facs_40_tr_2_tl_5" n="N005"/>PT: I take the concept of symbol by distinguishing it from the concept og sign. You can always
+               <lb facs="#facs_40_tr_2_tl_4" n="N004"/>the sense, e.g., the flag is the symbol of the independence of a country?
+               <lb facs="#facs_40_tr_2_tl_5" n="N005"/>PT: I take the concept of symbol by distinguishing it from the concept of sign. You can always
                <lb facs="#facs_40_tr_2_tl_6" n="N006"/>say "only a sign," because a sign has nothing to do with the reality to which it points. It can be
                <lb facs="#facs_40_tr_2_tl_7" n="N007"/>exchanged, it can be brought under the law of expediency, while symbol is a creation of the collective
-               <lb facs="#facs_40_tr_2_tl_8" n="N008"/>unconscious in its encounter with reality: it is born, it dies, it has its life and it expenses, in terms of
+               <lb facs="#facs_40_tr_2_tl_8" n="N008"/>unconscious in its encounter with reality: it is born, it dies, it has its life, and it expresses, in terms of
                <lb facs="#facs_40_tr_2_tl_9" n="N009"/>power, the reality to which it points. This is something quite different from a sign. I repeat, since
-               <lb facs="#facs_40_tr_2_tl_10" n="N010"/>this sin has been committed here today: don't say "only a symbol"!—it always means you confuse
-               <lb facs="#facs_40_tr_2_tl_11" n="N011"/>symbol and sign. You can always say "only a sign," but never say “only a symbol”
-            </p>
-            <p facs="#facs_40_tr_1">
-               <lb facs="#facs_40_tr_1_tl_1" n="N001"/>ouvrage
-               <lb facs="#facs_40_tr_1_tl_2" n="N002"/>cʼest une autre valeur avec son évouement éance
-               <lb facs="#facs_40_tr_1_tl_3" n="N003"/>Monsieur Mʼa fois quʼelle sʼentraîne vrai
-               <lb facs="#facs_40_tr_1_tl_4" n="N004"/>Monsieur,
-               <lb facs="#facs_40_tr_1_tl_5" n="N005"/>de votre beau moi de
-               <lb facs="#facs_40_tr_1_tl_6" n="N006"/>G.C.P.
-               <lb facs="#facs_40_tr_1_tl_7" n="N007"/>dʼune manière
-               <lb facs="#facs_40_tr_1_tl_8" n="N008"/>cʼest lʼautre
-               <lb facs="#facs_40_tr_1_tl_9" n="N009"/>toutes
+               <lb facs="#facs_40_tr_2_tl_10" n="N010"/>this sin has been committed here today: don't say "only a symbol"!---it always means you confuse
+               <lb facs="#facs_40_tr_2_tl_11" n="N011"/>symbol and sign. You can always say "only a sign," but never say "only a symbol" !
             </p>
             
         </div>

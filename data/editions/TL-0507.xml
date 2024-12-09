@@ -71,9 +71,7 @@
             <zone points="1114,321 1128,321 1143,334 1235,331 1232,264 1214,269 1193,269 1188,264 1172,277 1156,274 1135,287 1112,287" rendition="Line" xml:id="facs_33_tr_2_tl_1"/>
             <zone points="266,475 2260,504 2260,454 1887,441 1817,373 1710,441 266,436" rendition="Line" xml:id="facs_33_tr_2_tl_2"/>
             <zone points="266,624 2205,645 2203,585 1790,564 266,572" rendition="Line" xml:id="facs_33_tr_2_tl_3"/>
-            <zone points="900,739 929,741 937,733 992,733 1000,741 1015,741 1015,686 974,686 958,671 942,686 927,673 900,673" rendition="Line" xml:id="facs_33_tr_2_tl_4"/>
             <zone points="266,780 895,783 895,726 266,720" rendition="Line" xml:id="facs_33_tr_2_tl_5"/>
-            <zone points="1073,786 2205,796 2205,733 1543,754 1490,723 1073,723" rendition="Line" xml:id="facs_33_tr_2_tl_6"/>
             <zone points="256,924 2232,942 2232,887 256,877" rendition="Line" xml:id="facs_33_tr_2_tl_7"/>
          </zone>
          <zone points="238,1021 2325,1021 2325,2598 238,2598" rendition="TextRegion" xml:id="facs_33_tr_1">
@@ -95,22 +93,6 @@
             <zone points="258,2889 2200,2900 2117,2840 258,2834" rendition="Line" xml:id="facs_33_tr_3_tl_3"/>
             <zone points="258,2960 2101,2981 2203,2970 2203,2915 258,2934" rendition="Line" xml:id="facs_33_tr_3_tl_4"/>
             <zone points="253,3030 365,3054 394,3041 634,3048 655,3043 655,2988 608,2991 595,3004 577,2991 532,3002 519,2988 457,2988 431,3002 418,2988 407,2999 355,2988 253,3009" rendition="Line" xml:id="facs_33_tr_3_tl_5"/>
-            <zone points="947,3414 960,3414 976,3401 989,3398 1005,3398 1018,3414 1031,3409 1049,3411 1054,3299 1018,3302 1015,3296 1002,3296 976,3312 953,3309" rendition="Line" xml:id="facs_33_tr_3_tl_6"/>
-            <zone points="1616,3398 1639,3398 1660,3406 1681,3406 1702,3393 1730,3398 1728,3262 1691,3260 1670,3262 1663,3268 1652,3268 1647,3262 1636,3268 1613,3268" rendition="Line" xml:id="facs_33_tr_3_tl_7"/>
-            <zone points="1114,3469 1141,3466 1180,3424 1219,3430 1242,3411 1295,3403 1292,3302 1208,3304 1198,3315 1156,3302 1109,3302" rendition="Line" xml:id="facs_33_tr_3_tl_8"/>
-            <zone points="68,3406 86,3403 97,3411 110,3401 138,3411 180,3401 256,3406 248,3312 112,3315 60,3323" rendition="Line" xml:id="facs_33_tr_3_tl_9"/>
-            <zone points="595,3411 663,3414 681,3403 720,3422 786,3398 822,3414 882,3401 958,3430 960,3312 689,3315 681,3304 595,3328" rendition="Line" xml:id="facs_33_tr_3_tl_10"/>
-            <zone points="1339,3432 1375,3445 1396,3424 1412,3432 1477,3401 1506,3414 1537,3398 1576,3422 1600,3411 1626,3419 1636,3257 1584,3265 1477,3257 1412,3281 1349,3273" rendition="Line" xml:id="facs_33_tr_3_tl_11"/>
-            <zone points="1717,3422 1736,3422 1754,3437 1772,3419 1814,3396 1861,3398 1869,3249 1728,3239" rendition="Line" xml:id="facs_33_tr_3_tl_12"/>
-            <zone points="420,3427 436,3427 457,3406 485,3435 504,3443 527,3440 548,3450 569,3435 595,3445 595,3312 540,3304 499,3312 475,3312 467,3304 420,3309" rendition="Line" xml:id="facs_33_tr_3_tl_13"/>
-            <zone points="261,3414 277,3414 290,3403 292,3409 303,3409 311,3401 334,3414 347,3401 371,3403 389,3260 279,3247" rendition="Line" xml:id="facs_33_tr_3_tl_14"/>
-            <zone points="1890,3443 1924,3453 1947,3477 1973,3466 1994,3477 2036,3463 2070,3466 2065,3291 2028,3291 1997,3302 1944,3286 1884,3289" rendition="Line" xml:id="facs_33_tr_3_tl_15"/>
-            <zone points="1623,3479 1650,3477 1655,3469 1665,3466 1676,3469 1689,3458 1733,3461 1725,3398 1710,3398 1702,3393 1683,3403 1670,3403 1652,3390 1644,3401 1634,3396 1616,3401" rendition="Line" xml:id="facs_33_tr_3_tl_16"/>
-            <zone points="960,3479 979,3477 981,3469 992,3477 1021,3474 1031,3479 1052,3474 1041,3406 1028,3406 1026,3411 1013,3401 997,3398 984,3401 976,3396 963,3414 950,3416" rendition="Line" xml:id="facs_33_tr_3_tl_17"/>
-            <zone points="595,3453 652,3477 686,3479 908,3471 908,3406 783,3401 744,3411 720,3390 705,3406 652,3414 632,3393 621,3401 595,3393" rendition="Line" xml:id="facs_33_tr_3_tl_18"/>
-            <zone points="70,3448 89,3443 107,3448 117,3437 138,3445 175,3443 193,3432 217,3440 227,3432 232,3437 256,3435 256,3409 230,3409 214,3398 183,3406 162,3403 146,3411 128,3403 110,3403 102,3411 86,3403 70,3406" rendition="Line" xml:id="facs_33_tr_3_tl_19"/>
-            <zone points="1764,3427 1790,3430 1824,3456 1832,3456 1853,3435 1871,3445 1884,3445 1882,3401 1850,3406 1837,3396 1814,3396 1804,3406 1788,3401 1780,3406 1764,3406" rendition="Line" xml:id="facs_33_tr_3_tl_20"/>
-            <zone points="34,3474 308,3479 412,3466 457,3477 491,3458 491,3422 454,3414 405,3430 347,3401 321,3422 287,3403 219,3443 193,3432 102,3445 37,3416" rendition="Line" xml:id="facs_33_tr_3_tl_21"/>
          </zone>
       </surface>
       
@@ -121,49 +103,31 @@
             <pb facs="#TL-0507.jpg" n="part4_p033.jpg" xml:id="img_0033" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/part4_p033.jpg"/>
             
             <p facs="#facs_33_tr_2">
-               <lb facs="#facs_33_tr_2_tl_1" n="N001"/>-us¬
-               <lb facs="#facs_33_tr_2_tl_2" n="N002"/>and who are taxi divers, although they all have their symbolic expression in the same way, let us say,
-               <lb facs="#facs_33_tr_2_tl_3" n="N003"/>concentufed in the cred of that church, nevertheless the way in which theyTAKE these concrete
-               <lb facs="#facs_33_tr_2_tl_4" n="N004"/>jobs,
-               <lb facs="#facs_33_tr_2_tl_5" n="N005"/>symbols in relationship to their
-               <lb facs="#facs_33_tr_2_tl_6" n="N006"/>is already different, i.e., the immediate experience of the
-               <lb facs="#facs_33_tr_2_tl_7" n="N007"/> ultimate concern—if they all say "Jesus is the Christ"—they all do that (let us suppose so, in a special
+               <lb facs="#facs_33_tr_2_tl_1" n="N001"/>[502]
+               <lb facs="#facs_33_tr_2_tl_2" n="N002"/>and who are taxi drivers, although they all have their symbolic expression in the same way, let us say,
+               <lb facs="#facs_33_tr_2_tl_3" n="N003"/>concentrated in the creed of that church, nevertheless the way in which they TAKE these concrete
+               <lb facs="#facs_33_tr_2_tl_5" n="N004"/>symbols in relationship to their jobs, is already different, i.e., the immediate experience of the
+               <lb facs="#facs_33_tr_2_tl_7" n="N005"/>ultimate concern---if they all say "Jesus is the Christ"---they all do that (let us suppose so, in a special
             </p>
             <p facs="#facs_33_tr_1">
-               <lb facs="#facs_33_tr_1_tl_1" n="N001"/> group)—but what that means for them is colored by their personal destiny and therefore is different
+               <lb facs="#facs_33_tr_1_tl_1" n="N001"/>group)---but what that means for them is colored by their personal destiny and therefore is different
                <lb facs="#facs_33_tr_1_tl_2" n="N002"/>in each of them. And in the same way, I would say, in a community like that, where there is no
-               <lb facs="#facs_33_tr_1_tl_3" n="N003"/>such a common cred for all people, but there are different creeds and many people without a cred
-               <lb facs="#facs_33_tr_1_tl_4" n="N004"/>at all, perhaps the majority in the secular university now—there the ultimate concern is colored by
-               <lb facs="#facs_33_tr_1_tl_5" n="N005"/>very many elements: of personal character, of detmmunal character of a character of their function
-               <lb facs="#facs_33_tr_1_tl_6" n="N006"/>and activities, the way in which they have rencountered reality—we all have Jahr Maentered it differently.
-               <lb facs="#facs_33_tr_1_tl_7" n="N007"/>Even the encounter with nature is so different. Some people really encounter theritcan only as a
-               <lb facs="#facs_33_tr_1_tl_8" n="N008"/>mass of H2O; others encountered it as an object of pretty, others as a Knetaphysical symbol, as the
-               <lb facs="#facs_33_tr_1_tl_9" n="N009"/>Chaos; others as the Majesty of God, others, asthe Book of Proverts and Vob [describe it],
-               <lb facs="#facs_33_tr_1_tl_10" n="N010"/>as that which is put in boundary lines by the divine Wisdom [?]. You have innumerable encounter[s] with
-               <lb facs="#facs_33_tr_1_tl_11" n="N011"/>it. And that means the concrete symbolic expression is different. — Another question.
+               <lb facs="#facs_33_tr_1_tl_3" n="N003"/>such a common creed for all people, but there are different creeds and many people without a creed
+               <lb facs="#facs_33_tr_1_tl_4" n="N004"/>at all, perhaps the majority in the secular university now---there the ultimate concern is colored by
+               <lb facs="#facs_33_tr_1_tl_5" n="N005"/>very many elements: of personal character, of communal character, of a character of their functions
+               <lb facs="#facs_33_tr_1_tl_6" n="N006"/>and activities, the way in which they have encountered reality---we all have encountered it differently.
+               <lb facs="#facs_33_tr_1_tl_7" n="N007"/>Even the encounter with nature is so different. Some people really encounter the ocean only as a
+               <lb facs="#facs_33_tr_1_tl_8" n="N008"/>mass of H<hi>2</hi>O; others encountered it as an object of poetry, others as a metaphysical symbol, as the
+               <lb facs="#facs_33_tr_1_tl_9" n="N009"/>Chaos; others as the majesty of God, others, as the <hi style="font-style: italic;">Book of Proverbs</hi> and <hi style="font-style: italic;">Job</hi> [describe it],
+               <lb facs="#facs_33_tr_1_tl_10" n="N010"/>as that which is put in boundary lines by the divine Wisdom [?]. You have innumerable encounters with
+               <lb facs="#facs_33_tr_1_tl_11" n="N011"/>it. And that means the concrete symbolic expression is different. --- Another question.
             </p>
             <p facs="#facs_33_tr_3">
                <lb facs="#facs_33_tr_3_tl_1" n="N001"/>QN: You say that in religious education you must distinguish at an early age between the symbolic
                <lb facs="#facs_33_tr_3_tl_2" n="N002"/>and the literal, so that they won't be confused. Now many believe these symbolic facts are grounded
-               <lb facs="#facs_33_tr_3_tl_3" n="N003"/>in literal truths, e.g. literal miracle stories and liberal bodily resurrection of Christ. Are you safe in
-               <lb facs="#facs_33_tr_3_tl_4" n="N004"/>not making andumption that these are not literal truth, and if they are, isn’t your whole system
+               <lb facs="#facs_33_tr_3_tl_3" n="N003"/>in literal truths, e.g. literal miracle stories and literal bodily resurrection of Christ. Are you safe in
+               <lb facs="#facs_33_tr_3_tl_4" n="N004"/>not making an assumption that these are not literal truths, and if they are, isn't your whole system
                <lb facs="#facs_33_tr_3_tl_5" n="N005"/>ready to fall apart?
-               <lb facs="#facs_33_tr_3_tl_6" n="N006"/>pour lire
-               <lb facs="#facs_33_tr_3_tl_7" n="N007"/>chezte
-               <lb facs="#facs_33_tr_3_tl_8" n="N008"/>cʼest le
-               <lb facs="#facs_33_tr_3_tl_9" n="N009"/>lʼauteur de lʼautre
-               <lb facs="#facs_33_tr_3_tl_10" n="N010"/>Monsieur, que je mʼadresse à la
-               <lb facs="#facs_33_tr_3_tl_11" n="N011"/>Monsieur, que
-               <lb facs="#facs_33_tr_3_tl_12" n="N012"/>décrire
-               <lb facs="#facs_33_tr_3_tl_13" n="N013"/>Monsieur,
-               <lb facs="#facs_33_tr_3_tl_14" n="N014"/>Monsieur
-               <lb facs="#facs_33_tr_3_tl_15" n="N015"/>dʼune manière
-               <lb facs="#facs_33_tr_3_tl_16" n="N016"/>vous avez
-               <lb facs="#facs_33_tr_3_tl_17" n="N017"/>décrier de
-               <lb facs="#facs_33_tr_3_tl_18" n="N018"/>dʼune manière beaucoup
-               <lb facs="#facs_33_tr_3_tl_19" n="N019"/>dʼune manière est
-               <lb facs="#facs_33_tr_3_tl_20" n="N020"/>dʼadresse à
-               <lb facs="#facs_33_tr_3_tl_21" n="N021"/>dʼune manière beaucoup dʼaprès
             </p>
             
         </div>
