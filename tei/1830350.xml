@@ -1343,50 +1343,41 @@
             <zone points="296,691 1962,704 2128,696 2128,638 296,646" rendition="Line" xml:id="facs_46_tr_2_tl_3"/>
             <zone points="296,844 2143,849 2143,794 1995,789 296,796" rendition="Line" xml:id="facs_46_tr_2_tl_4"/>
             <zone points="965,992 2105,997 2105,945 1990,937 965,950" rendition="Line" xml:id="facs_46_tr_2_tl_5"/>
-            <zone points="299,1000 437,1013 776,1002 776,947 299,947" rendition="Line" xml:id="facs_46_tr_2_tl_6"/>
             <zone points="289,1143 1940,1161 2279,1148 2279,1090 289,1118" rendition="Line" xml:id="facs_46_tr_2_tl_7"/>
             <zone points="284,1309 1518,1332 2241,1301 2241,1244 284,1274" rendition="Line" xml:id="facs_46_tr_2_tl_8"/>
             <zone points="284,1442 296,1442 307,1452 334,1452 342,1460 364,1460 379,1452 389,1462 399,1462 407,1455 430,1470 442,1462 462,1462 462,1397 319,1394 296,1417 284,1417" rendition="Line" xml:id="facs_46_tr_2_tl_9"/>
-            <zone points="535,1523 2188,1533 2279,1523 2279,1460 535,1495" rendition="Line" xml:id="facs_46_tr_2_tl_10"/>
+            <zone points="535,1523 2188,1533 2279,1523 2279,1460 535,1495" rendition="Line" xml:id="facs_46_tr_2_tl_10" subtype="paragraph"/>
             <zone points="289,1688 2216,1683 2234,1621 289,1628" rendition="Line" xml:id="facs_46_tr_2_tl_11"/>
             <zone points="289,1824 2309,1829 2309,1751 289,1774" rendition="Line" xml:id="facs_46_tr_2_tl_12"/>
          </zone>
          <zone points="157,1917 2280,1917 2280,3494 157,3494" rendition="TextRegion" xml:id="facs_46_tr_1">
             <zone points="284,1972 2211,1990 2183,1912 1864,1884 1545,1947 284,1927" rendition="Line" xml:id="facs_46_tr_1_tl_1"/>
             <zone points="276,2123 1575,2141 1696,2133 1696,2075 276,2098" rendition="Line" xml:id="facs_46_tr_1_tl_2"/>
-            <zone points="530,2271 2274,2279 2274,2221 530,2221" rendition="Line" xml:id="facs_46_tr_1_tl_3"/>
+            <zone points="530,2271 2274,2279 2274,2221 530,2221" rendition="Line" xml:id="facs_46_tr_1_tl_3" subtype="paragraph"/>
             <zone points="276,2425 2121,2430 2121,2377 1761,2367 276,2379" rendition="Line" xml:id="facs_46_tr_1_tl_4"/>
             <zone points="276,2583 2043,2583 2078,2523 276,2533" rendition="Line" xml:id="facs_46_tr_1_tl_5"/>
             <zone points="276,2734 2083,2734 2083,2676 276,2683" rendition="Line" xml:id="facs_46_tr_1_tl_6"/>
             <zone points="332,2882 1543,2887 1543,2832 332,2834" rendition="Line" xml:id="facs_46_tr_1_tl_7"/>
-            <zone points="510,3028 2166,3030 2166,2965 510,3000" rendition="Line" xml:id="facs_46_tr_1_tl_8"/>
+            <zone points="510,3028 2166,3030 2166,2965 510,3000" rendition="Line" xml:id="facs_46_tr_1_tl_8" subtype="paragraph"/>
             <zone points="266,3178 525,3219 2093,3181 2093,3126 266,3131" rendition="Line" xml:id="facs_46_tr_1_tl_9"/>
-            <zone points="598,3492 613,3495 623,3487 641,3492 683,3482 714,3485 729,3259 613,3256" rendition="Line" xml:id="facs_46_tr_1_tl_10"/>
-            <zone points="143,3485 188,3485 196,3492 229,3485 239,3492 261,3492 264,3301 239,3299 196,3309 176,3301 168,3309 146,3309" rendition="Line" xml:id="facs_46_tr_1_tl_11"/>
-            <zone points="296,3455 309,3455 314,3460 322,3457 324,3462 334,3462 344,3470 359,3462 377,3465 382,3357 369,3354 352,3362 337,3362 327,3372 299,3372" rendition="Line" xml:id="facs_46_tr_1_tl_12"/>
-            <zone points="304,3490 319,3487 327,3492 342,3492 347,3487 352,3492 364,3495 379,3490 369,3452 367,3455 357,3457 349,3455 337,3457 324,3452 319,3457 314,3455 304,3460 296,3460" rendition="Line" xml:id="facs_46_tr_1_tl_13"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_47">
          <graphic url="part3_p047.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=DNCJCKJPLKZHTOLRCPJJXWGA&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DNCJCKJPLKZHTOLRCPJJXWGA&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="286,69 2269,69 2269,2287 286,2287" rendition="TextRegion" xml:id="facs_47_tr_1">
-            <zone points="1035,135 1048,132 1063,145 1095,137 1140,140 1133,85 1120,85 1115,80 1105,82 1098,77 1085,80 1078,72 1070,80 1068,77 1055,80 1043,67 1030,70" rendition="Line" xml:id="facs_47_tr_1_tl_1"/>
             <zone points="1145,384 1158,384 1170,397 1213,404 1225,404 1230,399 1235,404 1270,402 1270,339 1235,342 1223,329 1200,352 1190,347 1183,352 1175,344 1145,344" rendition="Line" xml:id="facs_47_tr_1_tl_2"/>
             <zone points="304,539 1811,546 1811,469 1564,509 1480,462 1435,506 1183,509 1095,472 676,509 636,469 382,509 304,469" rendition="Line" xml:id="facs_47_tr_1_tl_3"/>
-            <zone points="1984,546 2003,551 2111,549 2121,556 2161,551 2161,494 2148,494 2136,506 2098,506 2091,499 2076,499 2053,477 2031,499 1984,497" rendition="Line" xml:id="facs_47_tr_1_tl_4"/>
-            <zone points="1430,641 1829,634 1829,589 1669,589 1639,571 1607,586 1557,574 1539,589 1487,589 1472,574 1430,574" rendition="Line" xml:id="facs_47_tr_1_tl_5"/>
             <zone points="297,691 1355,694 1514,744 1579,701 1781,699 1781,644 297,644" rendition="Line" xml:id="facs_47_tr_1_tl_6"/>
-            <zone points="554,846 2023,853 2023,798 554,793" rendition="Line" xml:id="facs_47_tr_1_tl_7"/>
+            <zone points="554,846 2023,853 2023,798 554,793" rendition="Line" xml:id="facs_47_tr_1_tl_7" subtype="paragraph"/>
             <zone points="294,996 2023,1013 2158,1005 2158,953 294,966" rendition="Line" xml:id="facs_47_tr_1_tl_8"/>
-            <zone points="1599,1100 1664,1100 1672,1108 1722,1100 1719,1048 1702,1055 1687,1055 1682,1060 1674,1060 1659,1048 1652,1053 1629,1050 1617,1068 1599,1068" rendition="Line" xml:id="facs_47_tr_1_tl_9"/>
             <zone points="294,1158 1632,1190 2138,1158 2158,1100 294,1103" rendition="Line" xml:id="facs_47_tr_1_tl_10"/>
             <zone points="289,1302 2133,1310 2133,1255 289,1255" rendition="Line" xml:id="facs_47_tr_1_tl_11"/>
             <zone points="284,1450 2113,1465 2161,1407 284,1422" rendition="Line" xml:id="facs_47_tr_1_tl_12"/>
             <zone points="294,1617 2141,1614 2158,1557 294,1559" rendition="Line" xml:id="facs_47_tr_1_tl_13"/>
             <zone points="284,1682 2265,1684 2265,1639 2051,1624 284,1639" rendition="Line" xml:id="facs_47_tr_1_tl_14"/>
             <zone points="282,1826 1694,1859 1919,1836 1919,1769 282,1786" rendition="Line" xml:id="facs_47_tr_1_tl_15"/>
-            <zone points="531,1984 2101,1989 2101,1931 2048,1924 531,1934" rendition="Line" xml:id="facs_47_tr_1_tl_16"/>
+            <zone points="531,1984 2101,1989 2101,1931 2048,1924 531,1934" rendition="Line" xml:id="facs_47_tr_1_tl_16" subtype="paragraph"/>
             <zone points="279,2141 1851,2146 2016,2133 2016,2081 279,2106" rendition="Line" xml:id="facs_47_tr_1_tl_17"/>
             <zone points="272,2275 1939,2295 2106,2285 2106,2233 272,2253" rendition="Line" xml:id="facs_47_tr_1_tl_18"/>
          </zone>
@@ -1395,10 +1386,9 @@
             <zone points="272,2580 2248,2587 2248,2535 272,2537" rendition="Line" xml:id="facs_47_tr_2_tl_2"/>
             <zone points="267,2740 1961,2749 1961,2687 267,2707" rendition="Line" xml:id="facs_47_tr_2_tl_3"/>
             <zone points="267,2889 1018,2899 1018,2839 267,2837" rendition="Line" xml:id="facs_47_tr_2_tl_4"/>
-            <zone points="511,2959 2121,2967 2121,2907 2058,2904 511,2912" rendition="Line" xml:id="facs_47_tr_2_tl_5"/>
+            <zone points="511,2959 2121,2967 2121,2907 2058,2904 511,2912" rendition="Line" xml:id="facs_47_tr_2_tl_5" subtype="paragraph"/>
             <zone points="259,3111 1756,3126 2193,3116 2193,3074 259,3084" rendition="Line" xml:id="facs_47_tr_2_tl_6"/>
             <zone points="259,3278 976,3333 2265,3311 2265,3253 259,3251" rendition="Line" xml:id="facs_47_tr_2_tl_7"/>
-            <zone points="32,3468 47,3466 60,3476 75,3468 102,3483 120,3471 125,3476 135,3471 150,3483 175,3481 172,3438 80,3441 65,3436 30,3436" rendition="Line" xml:id="facs_47_tr_2_tl_8"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_48">
@@ -1422,20 +1412,17 @@
             <zone points="292,2215 1872,2230 2127,2220 2127,2168 292,2185" rendition="Line" xml:id="facs_48_tr_1_tl_4"/>
             <zone points="287,2362 2163,2376 2198,2315 287,2337" rendition="Line" xml:id="facs_48_tr_1_tl_5"/>
             <zone points="287,2514 345,2528 742,2526 782,2521 782,2470 323,2467 287,2487" rendition="Line" xml:id="facs_48_tr_1_tl_6"/>
-            <zone points="537,2587 2097,2597 2097,2536 537,2536" rendition="Line" xml:id="facs_48_tr_1_tl_7"/>
+            <zone points="537,2587 2097,2597 2097,2536 537,2536" rendition="Line" xml:id="facs_48_tr_1_tl_7" subtype="paragraph"/>
             <zone points="279,2742 2016,2756 2058,2695 279,2717" rendition="Line" xml:id="facs_48_tr_1_tl_8"/>
             <zone points="282,2898 2134,2901 2136,2844 284,2847" rendition="Line" xml:id="facs_48_tr_1_tl_9"/>
             <zone points="274,3045 850,3045 1007,3109 1142,3045 2215,3060 2215,2979 274,3021" rendition="Line" xml:id="facs_48_tr_1_tl_10"/>
             <zone points="274,3197 2185,3212 2185,3151 274,3170" rendition="Line" xml:id="facs_48_tr_1_tl_11"/>
-            <zone points="37,3494 61,3494 78,3479 100,3494 123,3486 157,3494 174,3491 169,3379 145,3383 118,3374 32,3374" rendition="Line" xml:id="facs_48_tr_1_tl_12"/>
-            <zone points="453,3494 490,3484 512,3462 549,3494 571,3486 590,3491 603,3479 620,3494 635,3494 632,3354 451,3354" rendition="Line" xml:id="facs_48_tr_1_tl_13"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_49">
          <graphic url="part3_p049.jpg" width="2479px" height="3508px"/>
          <graphic url="https://files.transkribus.eu/Get?id=GJYNQLFESTZFYGSJQIRSBBVW&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="310,57 2346,57 2346,813 310,813" rendition="TextRegion" xml:id="facs_49_tr_3">
-            <zone points="386,115 593,118 593,8 386,8" rendition="Line" xml:id="facs_49_tr_3_tl_1"/>
             <zone points="1143,348 1182,350 1189,358 1271,358 1271,274 1235,276 1230,271 1217,276 1205,289 1143,289" rendition="Line" xml:id="facs_49_tr_3_tl_2"/>
             <zone points="297,512 2187,512 2187,450 297,463" rendition="Line" xml:id="facs_49_tr_3_tl_3"/>
             <zone points="299,655 2107,662 2343,652 2343,591 299,619" rendition="Line" xml:id="facs_49_tr_3_tl_4"/>
@@ -1450,10 +1437,9 @@
             <zone points="289,1711 1857,1747 2271,1706 2271,1655 289,1680" rendition="Line" xml:id="facs_49_tr_1_tl_6"/>
             <zone points="294,1864 2123,1870 2179,1803 294,1811" rendition="Line" xml:id="facs_49_tr_1_tl_7"/>
             <zone points="284,2013 2230,2013 2230,1949 284,1982" rendition="Line" xml:id="facs_49_tr_1_tl_8"/>
-            <zone points="1859,2156 1882,2166 2228,2166 2228,2105 1859,2105" rendition="Line" xml:id="facs_49_tr_1_tl_9"/>
          </zone>
          <zone points="23,2105 2301,2105 2301,3485 23,3485" rendition="TextRegion" xml:id="facs_49_tr_2">
-            <zone points="535,2164 1693,2166 1708,2110 535,2133" rendition="Line" xml:id="facs_49_tr_2_tl_1"/>
+            <zone points="535,2164 1693,2166 1708,2110 535,2133" rendition="Line" xml:id="facs_49_tr_2_tl_1" subtype="paragraph"/>
             <zone points="281,2317 2146,2327 2146,2251 281,2286" rendition="Line" xml:id="facs_49_tr_2_tl_2"/>
             <zone points="279,2471 2015,2473 2105,2460 2105,2407 279,2419" rendition="Line" xml:id="facs_49_tr_2_tl_3"/>
             <zone points="281,2624 2286,2614 2286,2542 281,2558" rendition="Line" xml:id="facs_49_tr_2_tl_4"/>
@@ -1461,8 +1447,6 @@
             <zone points="281,2921 2207,2926 2274,2875 281,2893" rendition="Line" xml:id="facs_49_tr_2_tl_6"/>
             <zone points="276,3074 2010,3077 2153,3066 2153,3008 276,3026" rendition="Line" xml:id="facs_49_tr_2_tl_7"/>
             <zone points="271,3225 2092,3230 2245,3222 2245,3176 271,3197" rendition="Line" xml:id="facs_49_tr_2_tl_8"/>
-            <zone points="8,3463 212,3440 263,3460 355,3440 563,3483 563,3381 496,3396 478,3381 8,3378" rendition="Line" xml:id="facs_49_tr_2_tl_9"/>
-            <zone points="33,3481 120,3471 136,3486 194,3476 212,3486 233,3471 263,3486 481,3483 481,3455 358,3440 33,3453" rendition="Line" xml:id="facs_49_tr_2_tl_10"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_50">
@@ -1472,10 +1456,9 @@
             <zone points="1139,406 1152,406 1177,421 1239,421 1249,411 1274,411 1274,371 1259,371 1254,366 1242,371 1222,351 1209,346 1204,349 1187,334 1157,369 1139,369" rendition="Line" xml:id="facs_50_tr_1_tl_1"/>
             <zone points="301,569 2230,567 2175,487 301,497" rendition="Line" xml:id="facs_50_tr_1_tl_2"/>
             <zone points="299,715 1731,733 1806,718 1806,670 299,675" rendition="Line" xml:id="facs_50_tr_1_tl_3"/>
-            <zone points="549,866 2132,878 2283,868 2283,815 549,818" rendition="Line" xml:id="facs_50_tr_1_tl_4"/>
+            <zone points="549,866 2132,878 2283,868 2283,815 549,818" rendition="Line" xml:id="facs_50_tr_1_tl_4" subtype="paragraph"/>
             <zone points="291,1024 2168,1021 2190,966 291,996" rendition="Line" xml:id="facs_50_tr_1_tl_5"/>
             <zone points="1066,1169 2235,1174 2235,1119 1182,1111 1066,1141" rendition="Line" xml:id="facs_50_tr_1_tl_6"/>
-            <zone points="294,1172 401,1187 735,1177 790,1182 813,1204 855,1197 855,1121 544,1126 524,1146 504,1126 294,1129" rendition="Line" xml:id="facs_50_tr_1_tl_7"/>
             <zone points="283,1320 715,1327 768,1380 2092,1327 2022,1254 283,1274" rendition="Line" xml:id="facs_50_tr_1_tl_8"/>
             <zone points="294,1473 2168,1470 2168,1417 294,1422" rendition="Line" xml:id="facs_50_tr_1_tl_9"/>
             <zone points="283,1618 2140,1623 2163,1568 283,1575" rendition="Line" xml:id="facs_50_tr_1_tl_10"/>
@@ -1488,13 +1471,10 @@
          </zone>
          <zone points="62,2607 2298,2607 2298,3485 62,3485" rendition="TextRegion" xml:id="facs_50_tr_2">
             <zone points="278,2674 2180,2682 2290,2669 2290,2617 278,2632" rendition="Line" xml:id="facs_50_tr_2_tl_1"/>
-            <zone points="286,2762 2203,2767 2195,2719 2012,2704 286,2725" rendition="Line" xml:id="facs_50_tr_2_tl_2"/>
+            <zone points="286,2762 2203,2767 2195,2719 2012,2704 286,2725" rendition="Line" xml:id="facs_50_tr_2_tl_2" subtype="footnote"/>
             <zone points="356,2820 2032,2830 2235,2820 2235,2770 356,2775" rendition="Line" xml:id="facs_50_tr_2_tl_3"/>
             <zone points="351,2880 2230,2885 2230,2822 351,2852" rendition="Line" xml:id="facs_50_tr_2_tl_4"/>
             <zone points="354,2945 424,2958 467,2940 554,2958 569,2943 783,2940 871,2958 871,2895 740,2908 728,2895 595,2893 557,2910 469,2895 452,2913 354,2913" rendition="Line" xml:id="facs_50_tr_2_tl_5"/>
-            <zone points="48,3457 65,3455 73,3462 105,3462 110,3467 128,3457 146,3457 146,3382 108,3384 93,3377 48,3377" rendition="Line" xml:id="facs_50_tr_2_tl_6"/>
-            <zone points="517,3477 529,3477 544,3467 562,3485 597,3485 597,3342 517,3344" rendition="Line" xml:id="facs_50_tr_2_tl_7"/>
-            <zone points="55,3485 75,3485 78,3482 80,3485 95,3485 98,3482 115,3485 118,3482 120,3487 140,3487 143,3457 58,3455" rendition="Line" xml:id="facs_50_tr_2_tl_8"/>
          </zone>
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_51">
@@ -1503,7 +1483,7 @@
          <zone points="322,338 2334,338 2334,1237 322,1237" rendition="TextRegion" xml:id="facs_51_tr_1">
             <zone points="1215,396 1240,394 1248,402 1266,407 1327,404 1327,353 1315,353 1304,343 1294,355 1261,348 1251,355 1215,358" rendition="Line" xml:id="facs_51_tr_1_tl_1"/>
             <zone points="315,527 1448,545 1823,532 1823,488 312,486" rendition="Line" xml:id="facs_51_tr_1_tl_2"/>
-            <zone points="535,637 2194,652 2194,596 535,591" rendition="Line" xml:id="facs_51_tr_1_tl_3"/>
+            <zone points="535,637 2194,652 2194,596 535,591" rendition="Line" xml:id="facs_51_tr_1_tl_3" subtype="paragraph"/>
             <zone points="307,754 2327,770 2327,719 2054,701 307,708" rendition="Line" xml:id="facs_51_tr_1_tl_4"/>
             <zone points="307,880 1872,918 2210,885 2210,826 307,852" rendition="Line" xml:id="facs_51_tr_1_tl_5"/>
             <zone points="307,995 2248,1008 2248,939 307,949" rendition="Line" xml:id="facs_51_tr_1_tl_6"/>
@@ -1515,19 +1495,19 @@
             <zone points="304,1463 481,1506 2092,1468 2092,1419 1880,1409 304,1417" rendition="Line" xml:id="facs_51_tr_3_tl_2"/>
             <zone points="297,1581 2084,1588 2084,1540 1831,1527 297,1537" rendition="Line" xml:id="facs_51_tr_3_tl_3"/>
             <zone points="297,1698 2125,1716 2230,1708 2230,1652 297,1665" rendition="Line" xml:id="facs_51_tr_3_tl_4"/>
-            <zone points="522,1811 2174,1821 2174,1772 2089,1760 522,1757" rendition="Line" xml:id="facs_51_tr_3_tl_5"/>
+            <zone points="522,1811 2174,1821 2174,1772 2089,1760 522,1757" rendition="Line" xml:id="facs_51_tr_3_tl_5" subtype="paragraph"/>
             <zone points="289,1926 2199,1941 2199,1885 289,1900" rendition="Line" xml:id="facs_51_tr_3_tl_6"/>
             <zone points="284,2043 2176,2069 2176,2008 2105,1992 284,2003" rendition="Line" xml:id="facs_51_tr_3_tl_7"/>
             <zone points="289,2166 1936,2174 1936,2125 1729,2112 289,2118" rendition="Line" xml:id="facs_51_tr_3_tl_8"/>
          </zone>
          <zone points="283,2227 2337,2227 2337,3341 283,3341" rendition="TextRegion" xml:id="facs_51_tr_2">
-            <zone points="522,2284 2215,2294 2215,2240 522,2238" rendition="Line" xml:id="facs_51_tr_2_tl_1"/>
+            <zone points="522,2284 2215,2294 2215,2240 522,2238" rendition="Line" xml:id="facs_51_tr_2_tl_1" subtype="paragraph"/>
             <zone points="286,2401 2189,2414 2189,2343 286,2355" rendition="Line" xml:id="facs_51_tr_2_tl_2"/>
             <zone points="286,2522 2112,2524 2069,2471 286,2471" rendition="Line" xml:id="facs_51_tr_2_tl_3"/>
             <zone points="281,2639 2222,2642 2222,2588 281,2591" rendition="Line" xml:id="facs_51_tr_2_tl_4"/>
             <zone points="279,2747 2330,2765 2330,2708 2212,2693 279,2724" rendition="Line" xml:id="facs_51_tr_2_tl_5"/>
             <zone points="276,2864 882,2877 882,2826 637,2829 616,2811 568,2829 504,2795 471,2829 330,2818 276,2841" rendition="Line" xml:id="facs_51_tr_2_tl_6"/>
-            <zone points="504,2921 2297,2928 2297,2872 1647,2849 504,2875" rendition="Line" xml:id="facs_51_tr_2_tl_7"/>
+            <zone points="504,2921 2297,2928 2297,2872 1647,2849 504,2875" rendition="Line" xml:id="facs_51_tr_2_tl_7" subtype="paragraph"/>
             <zone points="271,3031 2136,3051 2202,2992 271,3008" rendition="Line" xml:id="facs_51_tr_2_tl_8"/>
             <zone points="271,3148 2294,3159 2294,3112 2110,3092 271,3110" rendition="Line" xml:id="facs_51_tr_2_tl_9"/>
             <zone points="269,3274 2307,3309 2304,3253 269,3230" rendition="Line" xml:id="facs_51_tr_2_tl_10"/>
@@ -3912,184 +3892,164 @@
             </ab>
             <pb facs="#facs_46" n="part3_p046.jpg" xml:id="img_0046"/>
             <ab facs="#facs_46_tr_2">
-               <lb facs="#facs_46_tr_2_tl_1" n="N001"/>-us¬
+               <lb facs="#facs_46_tr_2_tl_1" n="N001"/>[433]
                <lb facs="#facs_46_tr_2_tl_2" n="N002"/>in this. And this is so self-understood in a Christian culture that we don't remember any more
-               <lb facs="#facs_46_tr_2_tl_3" n="N003"/>OPPOSITE possibility, namely the possibility that the gods look at men according to their
+               <lb facs="#facs_46_tr_2_tl_3" n="N003"/>OPPOSITE possibility, namely the possibilities that the gods look at men according to their
                <lb facs="#facs_46_tr_2_tl_4" n="N004"/>hierarchical order, and that consequently SOME men are by birth nearer to the gods than the
-               <lb facs="#facs_46_tr_2_tl_5" n="N005"/>hierarchy is aìmirror of theannenly hierarchy; and that
-               <lb facs="#facs_46_tr_2_tl_6" n="N006"/>others; that the earthly
-               <lb facs="#facs_46_tr_2_tl_7" n="N007"/>therefore, after death, the religious-sacramental position a man has on this earth, the connected
-               <lb facs="#facs_46_tr_2_tl_8" n="N008"/>position in the hierarchy of beings—and finally in thĕhierarchy of man—is decisive for his ultimate
-               <lb facs="#facs_46_tr_2_tl_9" n="N009"/>destiny.
-               <lb facs="#facs_46_tr_2_tl_10" n="N010"/>Against this the development—to which I come later when I speak about the concept of
-               <lb facs="#facs_46_tr_2_tl_11" n="N011"/>person—has brought about an attitude which comes to absolute du[l]fillment in Christianity, namely
-               <lb facs="#facs_46_tr_2_tl_12" n="N012"/>that the individual human being, that his soul, is immediately related to God, in complete lndifference
+               <lb facs="#facs_46_tr_2_tl_5" n="N005"/>others; that the earthly hierarchy is a mirror of the heavenly hierarchy; and that
+               <lb facs="#facs_46_tr_2_tl_7" n="N006"/>therefore, after death, the religious-sacramental position a man has on this earth, the consecrated
+               <lb facs="#facs_46_tr_2_tl_8" n="N007"/>position in the hierarchy of beings--and finally in the hierarchy of man--is decisive for his ultimate
+               <lb facs="#facs_46_tr_2_tl_9" n="N008"/>destiny.
+               <lb facs="#facs_46_tr_2_tl_10" n="N009"/>Against this the development--to which I come later when I speak about the concept of
+               <lb facs="#facs_46_tr_2_tl_11" n="N010"/>person--has brought about an attitude which comes to absolute fulfillment in Christianity, namely
+               <lb facs="#facs_46_tr_2_tl_12" n="N011"/>that the individual human being, that his soul, is immediately related to God, in complete indifference
             </ab>
             <ab facs="#facs_46_tr_1">
-               <lb facs="#facs_46_tr_1_tl_1" n="N001"/>to his Status in time and space; it is dependent on other factors: on his justice (on rightousness),
-               <lb facs="#facs_46_tr_1_tl_2" n="N002"/>and on the righteousness of God, which is donfilled in His forgiving love.
-               <lb facs="#facs_46_tr_1_tl_3" n="N003"/>This kind of individualism is always in the basis of Christian thinking. But don’t forget
+               <lb facs="#facs_46_tr_1_tl_1" n="N001"/>to his status in time and space; it is dependent on other factors: on his justice (on righteousness),
+               <lb facs="#facs_46_tr_1_tl_2" n="N002"/>and on the righteousness of God, which is fulfilled in His forgiving love.
+               <lb facs="#facs_46_tr_1_tl_3" n="N003"/>This kind of individualism is always in the basis of Christian thinking. But don't forget
                <lb facs="#facs_46_tr_1_tl_4" n="N004"/>that this Christian individualism is ONLY valid seen from the Christian tradition with respect
-               <lb facs="#facs_46_tr_1_tl_5" n="N005"/>to the relation of God and man, or of man to God. It has NOT the consequence to fbolish
-               <lb facs="#facs_46_tr_1_tl_6" n="N006"/>hierarchical orders in time and space. There the equality before God, the evolution of the
-               <lb facs="#facs_46_tr_1_tl_7" n="N007"/> Kividual, is dependent on the herarchical order as a whole.
+               <lb facs="#facs_46_tr_1_tl_5" n="N005"/>to the relation of God and man, or of man to God. It has NOT the consequence to abolish
+               <lb facs="#facs_46_tr_1_tl_6" n="N006"/>hierarchical orders in time and space. There the equality before God, the evaluation of the
+               <lb facs="#facs_46_tr_1_tl_7" n="N007"/>individual, is dependent on the hierarchical order as a whole.
                <lb facs="#facs_46_tr_1_tl_8" n="N008"/>Now this is the one concept of individualism, and Christianity should be clear that
-               <lb facs="#facs_46_tr_1_tl_9" n="N009"/>this is in the relation between God and man and not in the relation betweenMAN and man.
-               <lb facs="#facs_46_tr_1_tl_10" n="N010"/>dans le
-               <lb facs="#facs_46_tr_1_tl_11" n="N011"/>dʼune manière
-               <lb facs="#facs_46_tr_1_tl_12" n="N012"/>pour la
-               <lb facs="#facs_46_tr_1_tl_13" n="N013"/>P.S.
+               <lb facs="#facs_46_tr_1_tl_9" n="N009"/>this is in the relation between God and man and not in the relation between MAN and man.
             </ab>
             <pb facs="#facs_47" n="part3_p047.jpg" xml:id="img_0047"/>
             <ab facs="#facs_47_tr_1">
-               <lb facs="#facs_47_tr_1_tl_1" n="N001"/>dʼêtre
-               <lb facs="#facs_47_tr_1_tl_2" n="N002"/>„
-               <lb facs="#facs_47_tr_1_tl_3" n="N003"/>There, collect 18.1. c.ql.
-               <lb facs="#facs_47_tr_1_tl_4" n="N004"/>without
-               <lb facs="#facs_47_tr_1_tl_5" n="N005"/>[i.e. significance to
-               <lb facs="#facs_47_tr_1_tl_6" n="N006"/>inter ference from the point of view of the individual meaning before God.
-               <lb facs="#facs_47_tr_1_tl_7" n="N007"/>The second type is rational individualism. The national individualism is the
-               <lb facs="#facs_47_tr_1_tl_8" n="N008"/>result of the development of the modern mind since the second half of the Renaissance, and is
-               <lb facs="#facs_47_tr_1_tl_9" n="N009"/>mind
-               <lb facs="#facs_47_tr_1_tl_10" n="N010"/> based on the idea that the divine logos is present in every individual and makes it possible
-               <lb facs="#facs_47_tr_1_tl_11" n="N011"/>for every individual mind to act according to the principles of reason. Of course this concept
-               <lb facs="#facs_47_tr_1_tl_12" n="N012"/>of reason is not the deteriorized concept of reasonING, which we use today in theuseriorized
-               <lb facs="#facs_47_tr_1_tl_13" n="N013"/>philosophies of the 19th century; but it is the classical concept of reason, reason as a structure
-               <lb facs="#facs_47_tr_1_tl_14" n="N014"/>of the human mind and the structure of the world which is Jahre exeuntered by the human mid-reason
-               <lb facs="#facs_47_tr_1_tl_15" n="N015"/>as structure of MEANING, in all realms of life, in—theoretical as well as in practical.
-               <lb facs="#facs_47_tr_1_tl_16" n="N016"/>Now this concept of reason is applied to every individual human being, and the
-               <lb facs="#facs_47_tr_1_tl_17" n="N017"/>presupposition is that every individual is able to develop, out of this potentiality, actual
-               <lb facs="#facs_47_tr_1_tl_18" n="N018"/>nationality. The people ofernlightenment were not stupid enough to think that people ARE
+               <lb facs="#facs_47_tr_1_tl_2" n="N001"/>[434]
+               <lb facs="#facs_47_tr_1_tl_3" n="N002"/>There, collectivism, hierarchy, aristocracy, and many other forms can prevail without
+               <lb facs="#facs_47_tr_1_tl_6" n="N003"/>interference from the point of view of the individual meaning before [i.e. significance to] God.
+               <lb facs="#facs_47_tr_1_tl_7" n="N004"/>The second type is rational individualism. The rational individualism is the
+               <lb facs="#facs_47_tr_1_tl_8" n="N005"/>result of the development of the modern mind since the second half of the Renaissance, and is
+               <lb facs="#facs_47_tr_1_tl_10" n="N006"/>based on the idea that the divine <hi style="font-style: italic;">logos</hi> is present in every individual mind and makes it possible
+               <lb facs="#facs_47_tr_1_tl_11" n="N007"/>for every individual mind to act according to the principles of reason. Of course this concept
+               <lb facs="#facs_47_tr_1_tl_12" n="N008"/>of reason is not the deteriorized concept of reasonING, which we use today in the deteriorized
+               <lb facs="#facs_47_tr_1_tl_13" n="N009"/>philosophies of the 19th century; but it is the classical concept of reason, reason as a structure
+               <lb facs="#facs_47_tr_1_tl_14" n="N010"/>of the human mind and the structure of the world which is encountered by the human mind--reason
+               <lb facs="#facs_47_tr_1_tl_15" n="N011"/>as structure of MEANING, in all realms of life, in theoretical as well as in practical.
+               <lb facs="#facs_47_tr_1_tl_16" n="N012"/>Now this concept of reason is applied to every individual human being, and the
+               <lb facs="#facs_47_tr_1_tl_17" n="N013"/>presupposition is that every individual is able to develop, out of this potentiality, actual
+               <lb facs="#facs_47_tr_1_tl_18" n="N014"/>rationality. The people of Enlightenment were not stupid enough to think that people ARE
             </ab>
             <ab facs="#facs_47_tr_2">
                <lb facs="#facs_47_tr_2_tl_1" n="N001"/>reasonable, but they were convinced that people can BECOME reasonable, because they all
-               <lb facs="#facs_47_tr_2_tl_2" n="N002"/>have potentially the same nationality, and if they are develpped in the adequate way, by (ducatiy)n
-               <lb facs="#facs_47_tr_2_tl_3" n="N003"/>and political insitutions, they can come to the age of reason, to the àge of rationality
+               <lb facs="#facs_47_tr_2_tl_2" n="N002"/>have potentially the same rationality, and if they are developed in the adequate way, by educational
+               <lb facs="#facs_47_tr_2_tl_3" n="N003"/>and political institutions, they can come to the age of reason, to the age of rationality
                <lb facs="#facs_47_tr_2_tl_4" n="N004"/>in themselves and generally speaking.
                <lb facs="#facs_47_tr_2_tl_5" n="N005"/>This produces the individualism which underlies democracy, namely the rational
-               <lb facs="#facs_47_tr_2_tl_6" n="N006"/> individualism of every one able to make decisions about universal problems, theoretical as well as
+               <lb facs="#facs_47_tr_2_tl_6" n="N006"/>individualism of every one able to make decisions about universal problems, theoretical as well as
                <lb facs="#facs_47_tr_2_tl_7" n="N007"/>practical, on the basis of the development of his own rationality. This of course has the consequence
-               <lb facs="#facs_47_tr_2_tl_8" n="N008"/>cʼest lʼobligation
             </ab>
             <pb facs="#facs_48" n="part3_p048.jpg" xml:id="img_0048"/>
             <ab facs="#facs_48_tr_2">
-               <lb facs="#facs_48_tr_2_tl_1" n="N001"/>«435-
-               <lb facs="#facs_48_tr_2_tl_2" n="N002"/>that every individual is ultimately Heolated from the other one, in theòvelopment of his own
-               <lb facs="#facs_48_tr_2_tl_3" n="N003"/>nationality. The classical philosophical expression of this situation is Leibniz’s monadology, his
-               <lb facs="#facs_48_tr_2_tl_4" n="N004"/>doctrine that the world vongists of monads, each of which is developing within itself, each of which
-               <lb facs="#facs_48_tr_2_tl_5" n="N005"/>is more or less clear or dark consciousness—even in the inorganic matter, there are innumerable
+               <lb facs="#facs_48_tr_2_tl_1" n="N001"/>[435]
+               <lb facs="#facs_48_tr_2_tl_2" n="N002"/>that every individual is ultimately isolated from the other one, in the development of his own
+               <lb facs="#facs_48_tr_2_tl_3" n="N003"/>rationality. The classical philosophical expression of this situation is Leibniz’s monadology, his
+               <lb facs="#facs_48_tr_2_tl_4" n="N004"/>doctrine that the world concists of monads, each of which is developing within itself, each of which
+               <lb facs="#facs_48_tr_2_tl_5" n="N005"/>is more or less clear or dark consciousness--even in the inorganic matter, there are innumerable
                <lb facs="#facs_48_tr_2_tl_6" n="N006"/>monads of this type; they have a very dark consciousness in the inorganic matter, a lighter one
-               <lb facs="#facs_48_tr_2_tl_7" n="N007"/>or brighter one in the realm of living brings; and a potentially complete one, namely the state of
-               <lb facs="#facs_48_tr_2_tl_8" n="N008"/>nationality, in the human monad, the human which makes man man. Now this monad
-               <lb facs="#facs_48_tr_2_tl_9" n="N009"/>develops within itself and has noussdows and doors, as Leibnitz says, towards other monads.
+               <lb facs="#facs_48_tr_2_tl_7" n="N007"/>or brighter one in the realm of living beings; and a potentially complete one, namely the state of
+               <lb facs="#facs_48_tr_2_tl_8" n="N008"/>rationality, in the human monad, the human which makes man man. Now this monad
+               <lb facs="#facs_48_tr_2_tl_9" n="N009"/>develops within itself and has no windows and doors, as Leibnitz says, towards other monads.
             </ab>
             <ab facs="#facs_48_tr_1">
-               <lb facs="#facs_48_tr_1_tl_1" n="N001"/>Every monad and hisÓ development of rationality is completely included in itself. This is the
-               <lb facs="#facs_48_tr_1_tl_2" n="N002"/>clusi.cal philosophy of society, in contrast to a philosophy of community. It is society which
-               <lb facs="#facs_48_tr_1_tl_3" n="N003"/>consists of atomized monads, which are besides each other, which have no possible communion with
+               <lb facs="#facs_48_tr_1_tl_1" n="N001"/>Every monad and his development of rationality is completely included in itself. This is the
+               <lb facs="#facs_48_tr_1_tl_2" n="N002"/>classical philosophy of society, in contrast to a philosophy of community. It is society which
+               <lb facs="#facs_48_tr_1_tl_3" n="N003"/>consists of atomized monads, which are beside each other, which have no possible communion with
                <lb facs="#facs_48_tr_1_tl_4" n="N004"/>each other, and if they communicate with each other, they do it by signs, by signs which are
-               <lb facs="#facs_48_tr_1_tl_5" n="N005"/>mutually understood, but there is no Grarticipation of the one in the other, and each is left to his
+               <lb facs="#facs_48_tr_1_tl_5" n="N005"/>mutually understood, but there is no participation of the one in the other, and each is left to his
                <lb facs="#facs_48_tr_1_tl_6" n="N006"/>own inner development.
-               <lb facs="#facs_48_tr_1_tl_7" n="N007"/>This has many consequence, for instance for language: language is a means of
-               <lb facs="#facs_48_tr_1_tl_8" n="N008"/>Communication; externalhujns are enough because words and letters are nothing but signs
-               <lb facs="#facs_48_tr_1_tl_9" n="N009"/>in the social Kooperation which makes this Kooperation possible. I may make here a footnote
-               <lb facs="#facs_48_tr_1_tl_10" n="N010"/>about the new language, for which I am too old, unfortunately (orNazily—I don't know yet),
+               <lb facs="#facs_48_tr_1_tl_7" n="N007"/>This has many consequences, for instance for language: language is a means of
+               <lb facs="#facs_48_tr_1_tl_8" n="N008"/>communication; external signs are enough because words and letters are nothing but signs
+               <lb facs="#facs_48_tr_1_tl_9" n="N009"/>in the social cooperation which makes this cooperation possible. I may make here a footnote
+               <lb facs="#facs_48_tr_1_tl_10" n="N010"/>about the new language, for which I am too old, unfortunately (or fortunately--I don't know yet),
                <lb facs="#facs_48_tr_1_tl_11" n="N011"/>namely the language of abbreviations. There are very few people who still use words; when they
-               <lb facs="#facs_48_tr_1_tl_12" n="N012"/>cʼest avec
-               <lb facs="#facs_48_tr_1_tl_13" n="N013"/>dʼune manière
             </ab>
             <pb facs="#facs_49" n="part3_p049.jpg" xml:id="img_0049"/>
             <ab facs="#facs_49_tr_3">
-               <lb facs="#facs_49_tr_3_tl_1" n="N001"/>dʼauteur avec
-               <lb facs="#facs_49_tr_3_tl_2" n="N002"/>„34
-               <lb facs="#facs_49_tr_3_tl_3" n="N003"/>are in business relations, they use the abbreviations for the great Iorporation, [such] as "G.M.,
-               <lb facs="#facs_49_tr_3_tl_4" n="N004"/>the Jo manufacturer, and I am supposed to know this language, when I speak to someone, but I never
-               <lb facs="#facs_49_tr_3_tl_5" n="N005"/>was in school to learn it! And it is at least a thousand words which are in common use; and who
+               <lb facs="#facs_49_tr_3_tl_2" n="N001"/>[436]
+               <lb facs="#facs_49_tr_3_tl_3" n="N002"/>are in business relations, they use the abbreviations for the great corporation, [such] as ''G.M.,''
+               <lb facs="#facs_49_tr_3_tl_4" n="N003"/>the auto manufacturer, and I am supposed to know this language, when I speak to someone, but I never
+               <lb facs="#facs_49_tr_3_tl_5" n="N004"/>was in school to learn it! And it is at least a thousand words which are in common use; and who
             </ab>
             <ab facs="#facs_49_tr_1">
                <lb facs="#facs_49_tr_1_tl_1" n="N001"/>can know all of them? What to do these words mean? They mean that the word doesn't mean anything
-               <lb facs="#facs_49_tr_1_tl_2" n="N002"/>any more--the original words of which the dembined words are the letters. These original words are
+               <lb facs="#facs_49_tr_1_tl_2" n="N002"/>any more--the original words of which the combined words are the letters. These original words are
                <lb facs="#facs_49_tr_1_tl_3" n="N003"/>not necessary for the technical communication of separated monads, but they are sufficient in order
                <lb facs="#facs_49_tr_1_tl_4" n="N004"/>to point to something which, if you have learned it, you know, and no more is needed. The whole
                <lb facs="#facs_49_tr_1_tl_5" n="N005"/>realm of connotations, the power of language which lies in the connotations and the history of
                <lb facs="#facs_49_tr_1_tl_6" n="N006"/>the words and the rhythms and the combinations, in which all participate, which then are real doors
-               <lb facs="#facs_49_tr_1_tl_7" n="N007"/>and lvindows from one to the other: they are taken away, and what is left are sign pointing to
-               <lb facs="#facs_49_tr_1_tl_8" n="N008"/>something in which Kooperation is possible, for instance "buying" what somebody else wants to sell!
-               <lb facs="#facs_49_tr_1_tl_9" n="N009"/>individual who is
+               <lb facs="#facs_49_tr_1_tl_7" n="N007"/>and windows from one to the other: they are taken away, and what is left are signs pointing to
+               <lb facs="#facs_49_tr_1_tl_8" n="N008"/>something in which cooperation is possible, for instance buying what somebody else wants to sell!
             </ab>
             <ab facs="#facs_49_tr_2">
-               <lb facs="#facs_49_tr_2_tl_1" n="N001"/>Now this is the second form of individualism, the rational
-               <lb facs="#facs_49_tr_2_tl_2" n="N002"/>attomized, goes his way, and where only the doctrine of reerstablished harmony, which is lying
+               <lb facs="#facs_49_tr_2_tl_1" n="N001"/>Now this is the second form of individualism, the rational individual who is
+               <lb facs="#facs_49_tr_2_tl_2" n="N002"/>atomized, goes his way, and where only the doctrine of reestablished harmony, which is lying
                <lb facs="#facs_49_tr_2_tl_3" n="N003"/>in God, is able to make understandable that communication is possible at all! When I speak
-               <lb facs="#facs_49_tr_2_tl_4" n="N004"/>to you—according to this doctrine—it is not me whom you hear, but the movement ofdunds which
-               <lb facs="#facs_49_tr_2_tl_5" n="N005"/>come to you arebringing to the movements of my thoughts in myself, and my thoughts have
+               <lb facs="#facs_49_tr_2_tl_4" n="N004"/>to you--according to this doctrine--it is not me whom you hear, but the movements of sounds which
+               <lb facs="#facs_49_tr_2_tl_5" n="N005"/>come to you are coordinated to the movements of my thoughts in myself, and my thoughts have
                <lb facs="#facs_49_tr_2_tl_6" n="N006"/>no direct causality on the movements, the waves, which hit your ears and then are perceived by you.
                <lb facs="#facs_49_tr_2_tl_7" n="N007"/>And even more, what is perceived by your body has no direct influence on what is going on in
                <lb facs="#facs_49_tr_2_tl_8" n="N008"/>your central monad, which is your soul; and the only way in which such communication is possible
-               <lb facs="#facs_49_tr_2_tl_9" n="N009"/>Mais elle est vrai avec lʼhonneur dʼautre vérité
-               <lb facs="#facs_49_tr_2_tl_10" n="N010"/>Monsieur Mʼa paruilà lʼécrire séance
             </ab>
             <pb facs="#facs_50" n="part3_p050.jpg" xml:id="img_0050"/>
             <ab facs="#facs_50_tr_1">
-               <lb facs="#facs_50_tr_1_tl_1" n="N001"/> spol.
-               <lb facs="#facs_50_tr_1_tl_2" n="N002"/>is a direct intreference of God, i.e., a fundamental substance which is the point of unity in all this.
+               <lb facs="#facs_50_tr_1_tl_1" n="N001"/>[437]
+               <lb facs="#facs_50_tr_1_tl_2" n="N002"/>is a direct interference of God, i.e., a fundamental substance which is the point of unity in all this.
                <lb facs="#facs_50_tr_1_tl_3" n="N003"/>When we today speak of atomizing individualism, we usually mean this type.
-               <lb facs="#facs_50_tr_1_tl_4" n="N004"/>Then there is a third type of individualism—I called it the Renaissance type, but you can
-               <lb facs="#facs_50_tr_1_tl_5" n="N005"/>also call it the romantic type, but it has negative connotations, and "Renaissance" does not have
-               <lb facs="#facs_50_tr_1_tl_6" n="N006"/>theologians! This Renaisaance type of individualism has a
-               <lb facs="#facs_50_tr_1_tl_7" n="N007"/>too much—except for some
-               <lb facs="#facs_50_tr_1_tl_8" n="N008"/>basis in the philosophy of Nicholas Cusanus, namely the idea that in every individual being,
-               <lb facs="#facs_50_tr_1_tl_9" n="N009"/>especially in man, the whole universe is mirrored. For this reason, man is called the microcosm
-               <lb facs="#facs_50_tr_1_tl_10" n="N010"/>in contrast to the macrocosm, but representing the matrocosm and being at the same time a
-               <lb facs="#facs_50_tr_1_tl_11" n="N011"/>part of it. And since the macrocosm is the self-manifestation of the Divine, is the Divine
-               <lb facs="#facs_50_tr_1_tl_12" n="N012"/>going over into manifestness, according to the Renaissance man, every individual becomes the morror
-               <lb facs="#facs_50_tr_1_tl_13" n="N013"/>of the divine ground of being himself. As such, the individual represents something unique, but not
-               <lb facs="#facs_50_tr_1_tl_14" n="N014"/>étnique as before God, in CHRISTIAN thinking, namely an object of the love of God, but unique
-               <lb facs="#facs_50_tr_1_tl_15" n="N015"/>in the kultural sense, the Cepresentative of unique creative possibility. This is the DIFTERANCE
-               <lb facs="#facs_50_tr_1_tl_16" n="N016"/>from the ration) concept also, because it is not the development of CONSCIOUSNESS which is
+               <lb facs="#facs_50_tr_1_tl_4" n="N004"/>Then there is a third type of individualism--I called it the Renaissance type, but you can
+               <lb facs="#facs_50_tr_1_tl_5" n="N005"/>also call it the romantic type, but it has negative connotations, and ''Renaissance'' does not have
+               <lb facs="#facs_50_tr_1_tl_6" n="N006"/>too much--except for some theologians! This Renaissance type of individualism has a
+               <lb facs="#facs_50_tr_1_tl_8" n="N007"/>basis in the philosophy of Nicholas Cusanus, namely the idea that in every individual being,
+               <lb facs="#facs_50_tr_1_tl_9" n="N008"/>especially in man, the whole universe is mirrored. For this reason, man is called the microcosm
+               <lb facs="#facs_50_tr_1_tl_10" n="N009"/>in contrast to the macrocosm, but representing the macrocosm and being at the same time a
+               <lb facs="#facs_50_tr_1_tl_11" n="N010"/>part of it. And since the macrocosm is the self-manifestation of the Divine, is the Divine
+               <lb facs="#facs_50_tr_1_tl_12" n="N011"/>going over into manifoldness, according to the Renaissance man, every individual becomes the mirror
+               <lb facs="#facs_50_tr_1_tl_13" n="N012"/>of the divine ground of being himself. As such, the individual represents something unique, but not
+               <lb facs="#facs_50_tr_1_tl_14" n="N013"/>unique as before God, in CHRISTIAN thinking, namely an object of the love of God, but unique
+               <lb facs="#facs_50_tr_1_tl_15" n="N014"/>in the cultural sense, the representative of unique creative possibilities. This is the DIFFERENCE
+               <lb facs="#facs_50_tr_1_tl_16" n="N015"/>from the rational concept also, because it is not the development of CONSCIOUSNESS which is
             </ab>
             <ab facs="#facs_50_tr_2">
-               <lb facs="#facs_50_tr_2_tl_1" n="N001"/>decjaive here, but it is a Wnalitative character, qualitive elements, which are potentially in every man¬
-               <lb facs="#facs_50_tr_2_tl_2" n="N002"/>*Cf. Karl-Hermann Kandler, "Die Einheit von Endlichem und Unendlichem. Zum Verhältnis von
-               <lb facs="#facs_50_tr_2_tl_3" n="N003"/>Paul Tillich und Nikolaus von Kues.” KuD 25, 1974, 106-122. [Noted in his article, “Nikolaus
-               <lb facs="#facs_50_tr_2_tl_4" n="N004"/>von Kues als Theologe." Theologische Literaturzeitung, 115, No. 7, July 1890, cols. 481-490,
-               <lb facs="#facs_50_tr_2_tl_5" n="N005"/>esp. 488, 49on.68.— PHJ
-               <lb facs="#facs_50_tr_2_tl_6" n="N006"/>zyn
-               <lb facs="#facs_50_tr_2_tl_7" n="N007"/>de mon ami
-               <lb facs="#facs_50_tr_2_tl_8" n="N008"/>dʼadresse à
+               <lb facs="#facs_50_tr_2_tl_1" n="N001"/>decisive here, but it is a qualitative character, qualitative elements, which are potentially in every man
+               <lb facs="#facs_50_tr_2_tl_2" n="N002"/>*Cf. Karl-Hermann Kandler, ''Die Einheit von Endlichem und Unendlichem. Zum Verhältnis von
+               <lb facs="#facs_50_tr_2_tl_3" n="N003"/>Paul Tillich und Nikolaus von Kues.'' KuD 25, 1979, 106-122. [Noted in his article, ''Nikolaus
+               <lb facs="#facs_50_tr_2_tl_4" n="N004"/>von Kues als Theologe.'' <hi style="font-style: italic;">Theologische Literaturzeitung</hi>, 115, No. 7, July 1990, cols. 481-490,
+               <lb facs="#facs_50_tr_2_tl_5" n="N005"/>esp. 488, 490n.68.--PHJ
             </ab>
             <pb facs="#facs_51" n="part3_p051.jpg" xml:id="img_0051"/>
             <ab facs="#facs_51_tr_1">
-               <lb facs="#facs_51_tr_1_tl_1" n="N001"/>d.
-               <lb facs="#facs_51_tr_1_tl_2" n="N002"/>and which he is supposed to bevelop. This is the third type of individualism.
+               <lb facs="#facs_51_tr_1_tl_1" n="N001"/>[438]
+               <lb facs="#facs_51_tr_1_tl_2" n="N002"/>and which he is supposed to develop. This is the third type of individualism.
                <lb facs="#facs_51_tr_1_tl_3" n="N003"/>Now if we look at our historical situation, then we can say: Christianity, and in the
                <lb facs="#facs_51_tr_1_tl_4" n="N004"/>whole culture which is dependent on Christianity, the religious form of individualism is IN PRINCIPLE
                <lb facs="#facs_51_tr_1_tl_5" n="N005"/>ACCEPTED. Even in the French Revolution, or in the period before it, where a noble lady of the
-               <lb facs="#facs_51_tr_1_tl_6" n="N006"/>hierarchy of theistoridly powers asked her minister how her standing before God is, and he showed
-               <lb facs="#facs_51_tr_1_tl_7" n="N007"/>his head a little bit because he didn’t believe it was too great! — for many reasons. (little daughter)
-               <lb facs="#facs_51_tr_1_tl_8" n="N008"/>Then she said: But God cannot condemn a member of my class to Hell! — Now that was an
+               <lb facs="#facs_51_tr_1_tl_6" n="N006"/>hierarchy of the worldly powers asked her minister how her standing before God is, and he shaked
+               <lb facs="#facs_51_tr_1_tl_7" n="N007"/>his head a little bit because he didn't believe it was too great!--for many reasons. <hi style="font-style: italic;">[little laughter]</hi>
+               <lb facs="#facs_51_tr_1_tl_8" n="N008"/>Then she said: But God cannot condemn a member of my class to Hell!--Now that was an
             </ab>
             <ab facs="#facs_51_tr_3">
-               <lb facs="#facs_51_tr_3_tl_1" n="N001"/>exception. In [ancient] Egypt and before that, the king (who is God Himself) and the somstocracy
-               <lb facs="#facs_51_tr_3_tl_2" n="N002"/>wouldn’t have considered this to be an impossible thing. In this sense the Christian idea of
-               <lb facs="#facs_51_tr_3_tl_3" n="N003"/> individualism is unconsciously accepted even by every anti-Christian in our culture, except
-               <lb facs="#facs_51_tr_3_tl_4" n="N004"/>very few who are, radical naturalists, and have dupped this idea of ULLIMATE relation anyhow.
-               <lb facs="#facs_51_tr_3_tl_5" n="N005"/>The second type is the predominant one in this country, the national individualism:
+               <lb facs="#facs_51_tr_3_tl_1" n="N001"/>exception. In [ancient] Egypt and before that, the king (who is God Himself) and the aristocracy
+               <lb facs="#facs_51_tr_3_tl_2" n="N002"/>wouldn't have considered this to be an impossible thing. In this sense the Christian idea of
+               <lb facs="#facs_51_tr_3_tl_3" n="N003"/>individualism is unconsciously accepted even by every anti-Christian in our culture, except
+               <lb facs="#facs_51_tr_3_tl_4" n="N004"/>very few who are radical naturalists, and have dropped this idea of ULTIMATE relation anyhow.
+               <lb facs="#facs_51_tr_3_tl_5" n="N005"/>The second type is the predominant one in this country, the rational individualism:
                <lb facs="#facs_51_tr_3_tl_6" n="N006"/>the individual must decide; everybody has to vote; but in order to make him reasonable, he must
-               <lb facs="#facs_51_tr_3_tl_7" n="N007"/>be aducated. And therefore education, as we have discussion in the many lectures on education,
-               <lb facs="#facs_51_tr_3_tl_8" n="N008"/>is almost the most important act in every democracy—it is certainly in this country.
+               <lb facs="#facs_51_tr_3_tl_7" n="N007"/>be educated. And therefore education, as we have discussed in the many lectures on education,
+               <lb facs="#facs_51_tr_3_tl_8" n="N008"/>is almost the most important act in every democracy--it is certainly in this country.
             </ab>
             <ab facs="#facs_51_tr_2">
-               <lb facs="#facs_51_tr_2_tl_1" n="N001"/>Then the third belong to the Continental Iountries, where the unique individuality of
-               <lb facs="#facs_51_tr_2_tl_2" n="N002"/>everything is dmptasized, not only of every individual man but also of every historical period
-               <lb facs="#facs_51_tr_2_tl_3" n="N003"/>and every social group. Therefore the longing back to the Middle Age, where the romantics
-               <lb facs="#facs_51_tr_2_tl_4" n="N004"/>believed that an individual culture was present, and this culture was not measure by the principles
-               <lb facs="#facs_51_tr_2_tl_5" n="N005"/>of reason and kriticized as primitive or back ward over against the progressive powers of Enlightenment,
+               <lb facs="#facs_51_tr_2_tl_1" n="N001"/>Then the third belongs to the Continental countries, where the unique individuality of
+               <lb facs="#facs_51_tr_2_tl_2" n="N002"/>everything is emphasized, not only of every individual man but also of every historical period
+               <lb facs="#facs_51_tr_2_tl_3" n="N003"/>and every social group. Therefore the longing back to the Middle Ages, where the romantics
+               <lb facs="#facs_51_tr_2_tl_4" n="N004"/>believed that an individual culture was present, and this culture was not measured by the principles
+               <lb facs="#facs_51_tr_2_tl_5" n="N005"/>of reason and criticized as primitive or backward over against the progressive powers of Enlightenment,
                <lb facs="#facs_51_tr_2_tl_6" n="N006"/>of the individualism of reason.
                <lb facs="#facs_51_tr_2_tl_7" n="N007"/>Then we can say that this last type has been more reduced than the two others; it had been
-               <lb facs="#facs_51_tr_2_tl_8" n="N008"/>reduced often to an existence—and a very précarious existence—in Bohemianism, while the higher
-               <lb facs="#facs_51_tr_2_tl_9" n="N009"/>bourgeoisie has accepted, generally speaking, the rational type of individualism, if, as we shall see later
-               <lb facs="#facs_51_tr_2_tl_10" n="N010"/>the WIOLE concept of the individual in these three senses has not beenque dropped for the sake of radical
+               <lb facs="#facs_51_tr_2_tl_8" n="N008"/>reduced often to an existence--and a very precarious existence--in Bohemianism, while the higher
+               <lb facs="#facs_51_tr_2_tl_9" n="N009"/>bourgeoisie has accepted, generally speaking, the rational type of individualism, if, as we shall see later,
+               <lb facs="#facs_51_tr_2_tl_10" n="N010"/>the WHOLE concept of the individual in these three senses has not been dropped for the sake of radical
                <lb facs="#facs_51_tr_2_tl_11" n="N011"/>collectivism.
             </ab>
             <pb facs="#facs_52" n="part3_p052.jpg" xml:id="img_0052"/>
