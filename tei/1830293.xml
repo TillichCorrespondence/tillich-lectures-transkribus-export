@@ -58,7 +58,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_2">
          <graphic url="part2_p002.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=QQEZEKDNHGWVPKFDILCPQNMR&amp;amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=QQEZEKDNHGWVPKFDILCPQNMR&amp;amp;amp;amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="188,245 1865,245 1865,783 188,783" rendition="TextRegion" xml:id="facs_2_tr_2">
             <zone points="989,295 1002,295 1020,308 1035,311 1110,311 1107,254 1071,254 1066,259 1053,254 1038,254 1033,259 1025,254 1012,267 989,267" rendition="Line" xml:id="facs_2_tr_2_tl_1"/>
             <zone points="175,452 1731,437 1734,357 175,393" rendition="Line" xml:id="facs_2_tr_2_tl_2"/>
@@ -110,7 +110,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_3">
          <graphic url="part2_p003.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=AZMLZJSNDBDGZRRXVJBKPAAM&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AZMLZJSNDBDGZRRXVJBKPAAM&amp;amp;amp;amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="167,272 2328,272 2328,3446 167,3446" rendition="TextRegion" xml:id="facs_3_tr_1">
             <zone points="1066,330 1089,334 1095,340 1138,342 1182,338 1184,281 1161,276 1140,293 1134,293 1124,281 1105,281 1089,297 1068,295" rendition="Line" xml:id="facs_3_tr_1_tl_1"/>
             <zone points="206,509 1728,476 1730,402 206,448" rendition="Line" xml:id="facs_3_tr_1_tl_2"/>
@@ -1645,7 +1645,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_56">
          <graphic url="part2_p056.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=RCCZOMTEIXDKVTHHBTBGUAIS&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RCCZOMTEIXDKVTHHBTBGUAIS&amp;amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="268,290 2271,290 2303,2060 246,2082" rendition="TextRegion" xml:id="facs_56_tr_1">
             <zone points="1101,347 1159,357 1206,357 1211,352 1224,355 1226,295 1191,295 1176,282 1164,292 1151,292 1139,305 1104,305" rendition="Line" xml:id="facs_56_tr_1_tl_1"/>
             <zone points="262,547 2060,507 1993,452 265,475" rendition="Line" xml:id="facs_56_tr_1_tl_2"/>
@@ -1672,7 +1672,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_57">
          <graphic url="part2_p057.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=ASNINIONJEYKCJJVRXQYIVEM&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ASNINIONJEYKCJJVRXQYIVEM&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="262,308 2233,308 2233,983 262,983" rendition="TextRegion" xml:id="facs_57_tr_3">
             <zone points="1069,364 1086,366 1101,381 1139,381 1143,376 1168,376 1178,369 1191,369 1191,316 1156,316 1143,304 1131,314 1114,314 1104,324 1069,324" rendition="Line" xml:id="facs_57_tr_3_tl_1"/>
             <zone points="257,536 2058,526 2227,516 2227,466 257,488" rendition="Line" xml:id="facs_57_tr_3_tl_2"/>
@@ -1701,7 +1701,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_58">
          <graphic url="part2_p058.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=KHSFFCTIOTSWFAWNVFTVSOQI&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KHSFFCTIOTSWFAWNVFTVSOQI&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="274,45 2218,45 2218,1729 274,1729" rendition="TextRegion" xml:id="facs_58_tr_1">
             <zone points="1074,352 1087,352 1100,365 1112,365 1127,357 1173,357 1178,352 1190,352 1190,289 1165,289 1150,304 1137,302 1127,312 1122,307 1112,312 1105,304 1074,304" rendition="Line" xml:id="facs_58_tr_1_tl_2"/>
             <zone points="264,506 2094,508 2094,453 944,420 901,463 264,471" rendition="Line" xml:id="facs_58_tr_1_tl_3"/>
@@ -1731,7 +1731,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_59">
          <graphic url="part2_p059.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=RSQMKLVSBULMOSGHWXXJOLVY&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RSQMKLVSBULMOSGHWXXJOLVY&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="1058,340 1217,340 1217,372 1058,372" rendition="TextRegion" xml:id="facs_59_r">
             <zone points="1058,370 1217,372 1217,342 1059,340" rendition="Line" xml:id="facs_59_l"/>
          </zone>
@@ -1818,7 +1818,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_62">
          <graphic url="part2_p062.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=KXBMGXFSUFXCCVISGBDQFWPM&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KXBMGXFSUFXCCVISGBDQFWPM&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="262,299 2340,299 2340,1878 262,1878" rendition="TextRegion" xml:id="facs_62_tr_1">
             <zone points="1106,358 1125,360 1135,371 1151,371 1156,365 1169,363 1200,373 1213,363 1226,363 1228,285 1187,288 1174,298 1109,301" rendition="Line" xml:id="facs_62_tr_1_tl_1"/>
             <zone points="262,505 2203,516 2203,466 1570,433 262,469" rendition="Line" xml:id="facs_62_tr_1_tl_2"/>
@@ -1845,7 +1845,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_63">
          <graphic url="part2_p063.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=RKEYFMHAAMXBMMGYPEWPWVUP&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RKEYFMHAAMXBMMGYPEWPWVUP&amp;amp;amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="271,69 2271,69 2271,1305 271,1305" rendition="TextRegion" xml:id="facs_63_tr_1">
             <zone points="1096,373 1108,373 1118,383 1123,380 1131,388 1143,390 1206,390 1223,385 1218,308 1191,308 1181,318 1091,323" rendition="Line" xml:id="facs_63_tr_1_tl_3"/>
             <zone points="260,545 1711,540 1758,533 1758,460 375,510 318,470 260,510" rendition="Line" xml:id="facs_63_tr_1_tl_4"/>
@@ -1989,7 +1989,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_66">
          <graphic url="part2_p066.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=ERRPIPRPVCUDSVFTOGGWCKPL&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ERRPIPRPVCUDSVFTOGGWCKPL&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="235,329 2295,329 2295,2126 235,2126" rendition="TextRegion" xml:id="facs_66_tr_1">
             <zone points="1063,388 1081,385 1091,395 1112,398 1168,398 1173,390 1188,390 1188,314 1165,316 1150,332 1127,332 1122,326 1063,329" rendition="Line" xml:id="facs_66_tr_1_tl_1"/>
             <zone points="242,505 946,518 946,464 887,459 678,462 558,439 533,464 242,462" rendition="Line" xml:id="facs_66_tr_1_tl_2" subtype="heading"/>
@@ -2017,7 +2017,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_67">
          <graphic url="part2_p067.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=LTVPUXVMJLLJSHJLVTGBNCCT&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LTVPUXVMJLLJSHJLVTGBNCCT&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="256,317 2194,317 2194,1419 256,1419" rendition="TextRegion" xml:id="facs_67_tr_1">
             <zone points="1108,372 1120,372 1145,392 1155,392 1165,382 1180,389 1218,389 1223,382 1238,382 1233,314 1215,314 1195,337 1185,334 1158,309 1143,327 1108,327" rendition="Line" xml:id="facs_67_tr_1_tl_1"/>
             <zone points="257,497 2083,521 2066,467 1739,439 257,462" rendition="Line" xml:id="facs_67_tr_1_tl_2"/>
@@ -2047,7 +2047,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_68">
          <graphic url="part2_p068.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=QUIIUGQIUADEZMGKGALWFCXT&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=QUIIUGQIUADEZMGKGALWFCXT&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="211,72 2218,72 2218,1126 211,1126" rendition="TextRegion" xml:id="facs_68_tr_1">
             <zone points="1051,360 1063,360 1079,372 1107,367 1117,375 1153,372 1163,362 1176,362 1176,291 1148,288 1137,298 1114,301 1099,288 1086,301 1051,301" rendition="Line" xml:id="facs_68_tr_1_tl_2"/>
             <zone points="209,525 2203,510 2165,449 1920,426 334,479 212,436" rendition="Line" xml:id="facs_68_tr_1_tl_3"/>
@@ -3232,7 +3232,7 @@
                <lb facs="#facs_1_tr_3_tl_1" n="N001"/>[281]
                <lb facs="#facs_1_tr_3_tl_2" n="N002"/>RELIGION and CULTURE — Semester II *
                <lb facs="#facs_1_tr_3_tl_3" n="N003"/>1. The special character of <Art>art</Art> between theory and practice.
-               <lb facs="#facs_1_tr_3_tl_4" n="N004"/>2. The doctrine of artistic symbols. (Reflective and representative symbols, psychological symbols,
+               <lb facs="#facs_1_tr_3_tl_4" n="N004"/>2. The doctrine of <Symbols_Artistic>artistic symbols</Symbols_Artistic>. (Reflective and representative symbols, psychological symbols,
                <lb facs="#facs_1_tr_3_tl_5" n="N005"/>symbols in the different arts---music, architecture)
                <lb facs="#facs_1_tr_3_tl_6" n="N006"/>3. Theory of the four levels in the different arts. (The problem of subject matter in music)
                <lb facs="#facs_1_tr_3_tl_7" n="N007"/>4. Examples of the four levels in the visual arts. (Slides)
@@ -3260,7 +3260,7 @@
                <lb facs="#facs_1_l_302" n="N029"/>7. Continuation of the analysis of present day industrial society. Its relation to religion.
                <lb facs="#facs_1_l_309" n="N030"/><rs type="person" key=", tillich_person_id__1255">Mannheim, K.</rs> DIAGNOSIS OF OUR TIME
                <lb facs="#facs_1_l_316" n="N031"/>*<rs type="person" key=", tillich_person_id__2996">Mumford, L</rs>. TECHNICS AND CIVILIZATION
-               <lb facs="#facs_1_l_323" n="N032"/>8. Religion and Education. The meaning of education (the wherefrom and the whereto)
+               <lb facs="#facs_1_l_323" n="N032"/>8. Religion and <Education>Education</Education>. The meaning of education (the wherefrom and the whereto)
                <lb facs="#facs_1_l_330" n="N033"/>9. The meaning and method of religious education. (Question and answer. Symbols and interpretation.)
                <lb facs="#facs_1_l_337" n="N034"/>*<rs type="person" key=", tillich_person_id__1965">Ulich</rs> HISTORY OF EDUCATIONAL THOUGHT
                <lb facs="#facs_1_l_344" n="N035"/>*THE MEANING OF EDUCATION
@@ -3273,7 +3273,7 @@
             <pb facs="#facs_2" n="part2_p002.jpg" xml:id="img_0002"/>
             <ab facs="#facs_2_tr_2">
                <lb facs="#facs_2_tr_2_tl_1" n="N001"/>[282]
-               <lb facs="#facs_2_tr_2_tl_2" n="N002"/>10. Religion and the University. (The possible function of a theological faculty)
+               <lb facs="#facs_2_tr_2_tl_2" n="N002"/>10. Religion and the <University>University</University>. (The possible function of a <Theological_faculty>theological faculty</Theological_faculty>)
                <lb facs="#facs_2_tr_2_tl_3" n="N003"/>*<rs type="person" key=", tillich_person_id__1334">Moberly, Sir W. </rs>THE CRISIS IN THE UNIVERSITY
                <lb facs="#facs_2_tr_2_tl_5" n="N004"/><rs type="person" key=", tillich_person_id__1375">Nash, A.</rs> THE UNIVERSITY AND THE MODERN WORLD
                <lb facs="#facs_2_tr_2_tl_7" n="N005"/>RELIGIOUS PERSPECTIVES IN COLLEGE TEACHING
@@ -3281,7 +3281,7 @@
                <lb facs="#facs_2_tr_2_tl_10" n="N007"/>*<rs type="person" key=", tillich_person_id__2999">Thomas, G.</rs> RELIGION IN AN AGE OF SECULARISM
             </ab>
             <ab facs="#facs_2_tr_1">
-               <lb facs="#facs_2_tr_1_tl_1" n="N001"/>11. Religion and Ethics: General (Formal ethics). The source of the moral "ought" and the source
+               <lb facs="#facs_2_tr_1_tl_1" n="N001"/>11. Religion and <Ethics>Ethics</Ethics>: General (Formal ethics). The source of the moral "ought" and the source
                <lb facs="#facs_2_tr_1_tl_2" n="N002"/>of the content. The unconditional character and the question of guilt.
                <lb facs="#facs_2_tr_1_tl_3" n="N003"/>12. Ethical relativism, love and kairos.
                <lb facs="#facs_2_tr_1_tl_4" n="N004"/>13. Ethics of being and ethics of law (ought to be)- (law, grace and depth psychology, demonic structure)
@@ -3323,47 +3323,47 @@
             <ab facs="#facs_3_tr_1">
                <lb facs="#facs_3_tr_1_tl_1" n="N001"/>[283]
                <lb facs="#facs_3_tr_1_tl_2" n="N002"/>17. Family and sex relations. (Historical relativity. The two meanings of sex)
-               <lb facs="#facs_3_tr_1_tl_3" n="N003"/>Russell, G. MEN AND WOMEN
-               <lb facs="#facs_3_tr_1_tl_5" n="N004"/>*Cole, W. CHRISTIANITY AND SEX
-               <lb facs="#facs_3_tr_1_tl_7" n="N005"/>Bailey, D.S. MYSTERY OF LOVE AND MARRIAGE
+               <lb facs="#facs_3_tr_1_tl_3" n="N003"/><rs type="person" key=", tillich_person_id__3077">Russell, G.</rs> MEN AND WOMEN
+               <lb facs="#facs_3_tr_1_tl_5" n="N004"/><rs type="person" key=", tillich_person_id__3078">*Cole, W. </rs>CHRISTIANITY AND SEX
+               <lb facs="#facs_3_tr_1_tl_7" n="N005"/><rs type="person" key=", tillich_person_id__3079">Bailey, D.S.</rs> MYSTERY OF LOVE AND MARRIAGE
                <lb facs="#facs_3_tr_1_tl_9" n="N006"/>HOMOSEXUALITY IN THE WESTERN CHRISTIAN TRADITION
                <lb facs="#facs_3_tr_1_tl_10" n="N007"/>"Christianity and sex," in Student World, No. 4, 1955
-               <lb facs="#facs_3_tr_1_tl_11" n="N008"/>18. The concept and function of "the economic.” (Economic materialism)
-               <lb facs="#facs_3_tr_1_tl_12" n="N009"/>*Tawney CHRISTIANITY AND THE RISE OF CAPITALISM
-               <lb facs="#facs_3_tr_1_tl_14" n="N010"/>* Heimann, E. FREEDOM AND ORDER
+               <lb facs="#facs_3_tr_1_tl_11" n="N008"/>18. The concept and function of "the <Economy>economic</Economy>.” (Economic materialism)
+               <lb facs="#facs_3_tr_1_tl_12" n="N009"/><rs type="person" key=", tillich_person_id__3080">*Tawney</rs> CHRISTIANITY AND THE RISE OF CAPITALISM
+               <lb facs="#facs_3_tr_1_tl_14" n="N010"/><rs type="person" key=", tillich_person_id__846">* Heimann, E.</rs> FREEDOM AND ORDER
                <lb facs="#facs_3_tr_1_tl_16" n="N011"/>HISTORY OF ECONOMIC DOCTRINES
-               <lb facs="#facs_3_tr_1_tl_17" n="N012"/>Brunner, E. JUSTICE AND THE SOCIAL ORDER
-               <lb facs="#facs_3_tr_1_tl_19" n="N013"/>*Weber, M. the protest THE PROTESTANT ETHIC AND THE SPIRIT OF CAPITALISM
-               <lb facs="#facs_3_tr_1_tl_21" n="N014"/>*Troeltsch, E. THE SOCIAL TEACHINGS OF THE CHURCH
-               <lb facs="#facs_3_tr_1_tl_23" n="N015"/>19. Religious Socialism. Basic ideas and limitations.
-               <lb facs="#facs_3_tr_1_tl_24" n="N016"/>*Rauschenbusch, W. THE THEOLOGY OF THE SOCIAL GOSPEL
-               <lb facs="#facs_3_tr_1_tl_26" n="N017"/>*HUTCHISON, J. CHRISTIAN FAITH AND SOCIAL ACTION (1953). Symposium with articles
+               <lb facs="#facs_3_tr_1_tl_17" n="N012"/><rs type="person" key=", tillich_person_id__300">Brunner, E. </rs>JUSTICE AND THE SOCIAL ORDER
+               <lb facs="#facs_3_tr_1_tl_19" n="N013"/><rs type="person" key=", tillich_person_id__2017">*Weber, M. </rs>the protest THE PROTESTANT ETHIC AND THE SPIRIT OF CAPITALISM
+               <lb facs="#facs_3_tr_1_tl_21" n="N014"/><rs type="person" key=", tillich_person_id__1954">*Troeltsch, E.</rs> THE SOCIAL TEACHINGS OF THE CHURCH
+               <lb facs="#facs_3_tr_1_tl_23" n="N015"/>19. <Religious_socialism>Religious Socialism</Religious_socialism>. Basic ideas and limitations.
+               <lb facs="#facs_3_tr_1_tl_24" n="N016"/><rs type="person" key=", tillich_person_id__1566">*Rauschenbusch, W. </rs>THE THEOLOGY OF THE SOCIAL GOSPEL
+               <lb facs="#facs_3_tr_1_tl_26" n="N017"/><rs type="person" key=", tillich_person_id__3081">*HUTCHISON, J.</rs> CHRISTIAN FAITH AND SOCIAL ACTION (1953). Symposium with articles
                <lb facs="#facs_3_tr_1_tl_28" n="N018"/>by P. Tillich, R. Niebuhr, J. Bennett
-               <lb facs="#facs_3_tr_1_tl_29" n="N019"/>*TILLICH, P. THE PROTESTANT ERA
+               <lb facs="#facs_3_tr_1_tl_29" n="N019"/><rs type="person" key=", tillich_person_id__1928">*TILLICH, P.</rs> THE PROTESTANT ERA
                <lb facs="#facs_3_tr_1_tl_31" n="N020"/>Kegley/Bretall THE THEOLOGY OF PAUL TILLICH (chapter on Religious Socialism)
                <lb facs="#facs_3_tr_1_tl_34" n="N021"/>20. Justice, power and love. (The realm of law)
-               <lb facs="#facs_3_tr_1_tl_35" n="N022"/>*Tillich, P. LOVE, POWER AND JUSTICE
-               <lb facs="#facs_3_tr_1_tl_37" n="N023"/>Brunner, E. “Love and Justice,” in JUSTICE AND THE SOCIAL ORDER
-               <lb facs="#facs_3_tr_1_tl_39" n="N024"/>*Nietzsche THE WILL TO POWER, OR AGAINST THE CHRISTIAN IDEA
+               <lb facs="#facs_3_tr_1_tl_35" n="N022"/><rs type="person" key=", tillich_person_id__1928">*Tillich, P.</rs> LOVE, POWER AND JUSTICE
+               <lb facs="#facs_3_tr_1_tl_37" n="N023"/><rs type="person" key=", tillich_person_id__300">Brunner, E.</rs> “Love and Justice,” in JUSTICE AND THE SOCIAL ORDER
+               <lb facs="#facs_3_tr_1_tl_39" n="N024"/><rs type="person" key=", tillich_person_id__1394">*Nietzsche </rs>THE WILL TO POWER, OR AGAINST THE CHRISTIAN IDEA
                <lb facs="#facs_3_tr_1_tl_41" n="N025"/>OF COMPASSION
-               <lb facs="#facs_3_tr_1_tl_42" n="N026"/>*Tolstoy, L. THE LAW OF LOVE AND THE LAW OF VIOLENCE
+               <lb facs="#facs_3_tr_1_tl_42" n="N026"/><rs type="person" key=", tillich_person_id__1945">*Tolstoy, L.</rs> THE LAW OF LOVE AND THE LAW OF VIOLENCE
                <lb facs="#facs_3_tr_1_tl_44" n="N027"/>Haroutunian, J. LUST FOR POWER
                <lb facs="#facs_3_tr_1_tl_46" n="N028"/>Riordan, F. THE CONCEPT OF LOVE IN FRENCH LITERARY REVIVAL
                <lb facs="#facs_3_tr_1_tl_48" n="N029"/>*Montague, M.F.A. SYMPOSIUM ON THE MEANING OF LOVE
                <lb facs="#facs_3_tr_1_tl_50" n="N030"/>Barnaby, J. AMOR DEI
                <lb facs="#facs_3_tr_1_tl_52" n="N031"/>21. Religion and political systems.
-               <lb facs="#facs_3_tr_1_tl_53" n="N032"/>*Niebuhr, R. CHRISTIANITY AND POWER POLITICS
-               <lb facs="#facs_3_tr_1_tl_55" n="N033"/>*Bennett, J. CHRISTIANITY AND COMMUNISM
+               <lb facs="#facs_3_tr_1_tl_53" n="N032"/><rs type="person" key=", tillich_person_id__1390">*Niebuhr, R.</rs> CHRISTIANITY AND POWER POLITICS
+               <lb facs="#facs_3_tr_1_tl_55" n="N033"/><rs type="person" key=", tillich_person_id__3082">*Bennett, J.</rs> CHRISTIANITY AND COMMUNISM
                <lb facs="#facs_3_tr_1_tl_57" n="N034"/>Miller, A. THE CHRISTIAN SIGNIFICANCE OF KARL MARX
                <lb facs="#facs_3_tr_1_tl_59" n="N035"/>HEIMann [sic.], E. COMMUNISM, FASCISM OR DEMOCRACY?
                <lb facs="#facs_3_tr_1_tl_61" n="N036"/>22. Religious pacifism. (Its right and wrong)
-               <lb facs="#facs_3_tr_1_tl_62" n="N037"/>*Bennett, J. CHRISTIANITY AT WAR
-               <lb facs="#facs_3_tr_1_tl_64" n="N038"/>Niebuhr, R. CHRISTIAN REALISM AND POLITICAL PROBLEMS
+               <lb facs="#facs_3_tr_1_tl_62" n="N037"/>*<rs type="person" key=", tillich_person_id__3082">Bennett, J.</rs> CHRISTIANITY AT WAR
+               <lb facs="#facs_3_tr_1_tl_64" n="N038"/><rs type="person" key=", tillich_person_id__1390">Niebuhr, R. </rs>CHRISTIAN REALISM AND POLITICAL PROBLEMS
                <lb facs="#facs_3_tr_1_tl_66" n="N039"/>*Fosdick, H. RUFUS JONES SPEAKS TO OUR TIME (Chapter on pacifism)
                <lb facs="#facs_3_tr_1_tl_68" n="N040"/>Speir / Kahler WAR IN OUR TIME
                <lb facs="#facs_3_tr_1_tl_70" n="N041"/>23. State and Church
                <lb facs="#facs_3_tr_1_tl_71" n="N042"/>*Bergraav, E. MAN AND STATE
-               <lb facs="#facs_3_tr_1_tl_73" n="N043"/>Brunner, E. THE MISUNDERSTANDING OF THE CHURCH
+               <lb facs="#facs_3_tr_1_tl_73" n="N043"/><rs type="person" key=", tillich_person_id__300">Brunner, E. </rs>THE MISUNDERSTANDING OF THE CHURCH
             </ab>
             <pb facs="#facs_4" n="part2_p004.jpg" xml:id="img_0004"/>
             <ab facs="#facs_4_tr_1">
@@ -4701,18 +4701,18 @@
                <lb facs="#facs_56_tr_1_tl_1" n="N001"/>[335]
                <lb facs="#facs_56_tr_1_tl_2" n="N002"/>7) Carpaccio: <hi style="font-style: italic;">EXORCISM OF A DEMON</hi>--Yes, now, this sounds religious--<hi style="font-style: italic;">[laughter]</hi>--
                <lb facs="#facs_56_tr_1_tl_3" n="N003"/>I didn't choose it for that purpose, but it was one of the few pictures available about the behavior
-               <lb facs="#facs_56_tr_1_tl_4" n="N004"/>of Renaissance society. This is a very secular society, and the subject matter doesn't make it
+               <lb facs="#facs_56_tr_1_tl_4" n="N004"/>of <Renaissance>Renaissance</Renaissance> society. This is a very <Secular>secular</Secular> society, and the subject matter doesn't make it
                <lb facs="#facs_56_tr_1_tl_5" n="N005"/>religious at all. So we can take it actually as a picture which has not only a naturalistic style,
                <lb facs="#facs_56_tr_1_tl_6" n="N006"/>but also a secular subject matter. Now look at it, and I go on and will then speak about another
                <lb facs="#facs_56_tr_1_tl_7" n="N007"/>one in the same realm.
-               <lb facs="#facs_56_tr_1_tl_8" n="N008"/>8) Ostade: <hi style="font-style: italic;">TAVERN</hi>--This is one of these very not only naturalistic but also realistic pictures,
+               <lb facs="#facs_56_tr_1_tl_8" n="N008"/>8) <rs type="person" key=", tillich_person_id__3085">Ostade</rs>: <hi style="font-style: italic;">TAVERN</hi>--This is one of these very not only naturalistic but also realistic pictures,
                <lb facs="#facs_56_tr_1_tl_9" n="N009"/>by one of the great Dutch naturalists. While the first also has most of the Italian Renaissance painters
-               <lb facs="#facs_56_tr_1_tl_10" n="N010"/>in the idealistic shadow or idealistic color, let us say, of naturalism, this is more in the realistic form.
+               <lb facs="#facs_56_tr_1_tl_10" n="N010"/>in the <Idealism>idealistic</Idealism> shadow or idealistic color, let us say, of <Naturalism>naturalism</Naturalism>, this is more in the realistic form.
                <lb facs="#facs_56_tr_1_tl_11" n="N011"/>Both are naturalism, the one more idealistic (idealizing beauty), this more realistic, making a picture
                <lb facs="#facs_56_tr_1_tl_12" n="N012"/>out of something which in itself is ugly.
             </ab>
             <ab facs="#facs_56_tr_2">
-               <lb facs="#facs_56_tr_2_tl_1" n="N001"/>9) Jan Steen: <hi style="font-style: italic;">LOOSE LIVING</hi>--About Steen, I must tell you a personal story. When I first
+               <lb facs="#facs_56_tr_2_tl_1" n="N001"/>9) <rs type="person" key=", tillich_person_id__3084">Jan Steen</rs>: <hi style="font-style: italic;">LOOSE LIVING</hi>--About Steen, I must tell you a personal story. When I first
                <lb facs="#facs_56_tr_2_tl_2" n="N002"/>was asked to give a lecture on religion and art in the National Gallery in Washington, I walked
                <lb facs="#facs_56_tr_2_tl_3" n="N003"/>through the Gallery there, which is one of the first galleries of the world--''first'' in the value sense--
                <lb facs="#facs_56_tr_2_tl_4" n="N004"/>and thought, ''Now, what will I see?'' I simply let myself go--not my mind, but my foot, was
@@ -4724,17 +4724,17 @@
             <ab facs="#facs_57_tr_3">
                <lb facs="#facs_57_tr_3_tl_1" n="N001"/>[336]
                <lb facs="#facs_57_tr_3_tl_2" n="N002"/>that I didn't immediately realize that in these peasant scenes, pointed by the Dutch painters, there is
-               <lb facs="#facs_57_tr_3_tl_3" n="N003"/>one element of power of being, which I always praise in my lectures, namely vitality, besides
-               <lb facs="#facs_57_tr_3_tl_4" n="N004"/>rationality or intentionality. It is an expression of life, vitality, in its not destructive but uninhibited
+               <lb facs="#facs_57_tr_3_tl_3" n="N003"/>one element of <Power_of_Being>power of being</Power_of_Being>, which I always praise in my lectures, namely vitality, besides
+               <lb facs="#facs_57_tr_3_tl_4" n="N004"/>rationality or intentionality. It is an expression of life, <Vitality>vitality</Vitality>, in its not destructive but uninhibited
                <lb facs="#facs_57_tr_3_tl_5" n="N005"/>self-expression. And for this reason, I showed this picture at that time, and now I show a similar
             </ab>
             <ab facs="#facs_57_tr_1">
                <lb facs="#facs_57_tr_1_tl_1" n="N001"/>picture to you, in order to feel what perhaps the artist felt when he painted it, namely his joy,
-               <lb facs="#facs_57_tr_1_tl_2" n="N002"/><hi style="font-style: italic;">joie de vivre</hi> (as the French call it), his ecstatic joy about this kind of ecstatic together.
+               <lb facs="#facs_57_tr_1_tl_2" n="N002"/><hi style="font-style: italic;">joie de vivre</hi> (as the French call it), his ecstatic joy about this kind of ecstatic togetherness.
                <lb facs="#facs_57_tr_1_tl_3" n="N003"/>It is the same in the two others I showed you. In all these cases it is the vitality of social inter-
                <lb facs="#facs_57_tr_1_tl_4" n="N004"/>relations shown uninhibited by conventional repressions. And this is the profounder meaning of
                <lb facs="#facs_57_tr_1_tl_5" n="N005"/>these pictures.
-               <lb facs="#facs_57_tr_1_tl_6" n="N006"/>10) Rembrandt: <hi style="font-style: italic;">DESCENT FROM THE CROSS</hi>--Here we come to another kind of vitality--
+               <lb facs="#facs_57_tr_1_tl_6" n="N006"/>10) <rs type="person" key=", tillich_person_id__1580">Rembrandt</rs>: <hi style="font-style: italic;">DESCENT FROM THE CROSS</hi>--Here we come to another kind of vitality--
                <lb facs="#facs_57_tr_1_tl_7" n="N007"/>something soldierly--perhaps his most famous, most understandable picture of Rembrandt,
                <lb facs="#facs_57_tr_1_tl_9" n="N008"/>11) the <hi style="font-style: italic;">NIGHT WATCH</hi>, it is usually called, and is something which gives, in the same way as the
                <lb facs="#facs_57_tr_1_tl_10" n="N009"/>others (but on a level of a not festival [?] direct[ly?], but anyhow something very near to it,
@@ -4743,27 +4743,27 @@
             </ab>
             <ab facs="#facs_57_tr_2">
                <lb facs="#facs_57_tr_2_tl_1" n="N001"/>philosophy of light, which was the great philosophy of nature of the Middle Ages and is not so far
-               <lb facs="#facs_57_tr_2_tl_2" n="N002"/>removed from some of our presentday [sic.] philosophies of nature, as if this power of being which we find
+               <lb facs="#facs_57_tr_2_tl_2" n="N002"/>removed from some of our presentday [sic.] philosophies of nature, as if this <Power_of_Being>power of being</Power_of_Being> which we find
                <lb facs="#facs_57_tr_2_tl_3" n="N003"/>in the miraculous phenomenon of light is brought into the surface of such a picture.
             </ab>
             <pb facs="#facs_58" n="part2_p058.jpg" xml:id="img_0058"/>
             <ab facs="#facs_58_tr_1">
                <lb facs="#facs_58_tr_1_tl_2" n="N001"/>[337]
-               <lb facs="#facs_58_tr_1_tl_3" n="N002"/>12) Rembrandt: <hi style="font-style: italic;">ANATOMY LESSON</hi>--Now here these men, with great seriousness, study
+               <lb facs="#facs_58_tr_1_tl_3" n="N002"/>12) <rs type="person" key=", tillich_person_id__1580">Rembrandt</rs>: <hi style="font-style: italic;">ANATOMY LESSON</hi>--Now here these men, with great seriousness, study
                <lb facs="#facs_58_tr_1_tl_4" n="N003"/>medicine. This was an unheard-of picture, at that time, to show such a scene of which certainly
                <lb facs="#facs_58_tr_1_tl_5" n="N004"/>you would say it is not beautiful in the ordinary sense; it has all the ugliness of the reality,
-               <lb facs="#facs_58_tr_1_tl_6" n="N005"/>of disorganization of bodies. But at the same time, in the community of the teacher, with the
-               <lb facs="#facs_58_tr_1_tl_7" n="N006"/>men who are learning from him, there is again in this secular scene, ultimate reality communicated.
-               <lb facs="#facs_58_tr_1_tl_8" n="N007"/>13) <hi style="font-style: italic;">COMEDIANS</hi>, by Watteau--This is Rococo, the middle of the French 18th century, and is
+               <lb facs="#facs_58_tr_1_tl_6" n="N005"/>of disorganization of <Body>bodies</Body>. But at the same time, in the community of the teacher, with the
+               <lb facs="#facs_58_tr_1_tl_7" n="N006"/>men who are learning from him, there is again in this secular scene, <Ultimate_Reality>ultimate reality</Ultimate_Reality> communicated.
+               <lb facs="#facs_58_tr_1_tl_8" n="N007"/>13) <hi style="font-style: italic;">COMEDIANS</hi>, by <rs type="person" key=", tillich_person_id__3086">Watteau</rs>--This is Rococo, the middle of the French 18th century, and is
                <lb facs="#facs_58_tr_1_tl_9" n="N008"/>painted by the greatest of the French artists of the 18th century, and the greatest artist of any of
                <lb facs="#facs_58_tr_1_tl_10" n="N009"/>the 18th century, namely Watteau--the title is <hi style="font-style: italic;">Les Comédiens</hi>, or Comedians.--Now go to the
                <lb facs="#facs_58_tr_1_tl_11" n="N010"/>next, because there I want to say a few other things.
             </ab>
             <ab facs="#facs_58_tr_3">
-               <lb facs="#facs_58_tr_3_tl_1" n="N001"/>14) <hi style="font-style: italic;">LOVE IN AN ITALIAN COMEDY</hi>, by Watteau--Here again, comedians. Now look at these
+               <lb facs="#facs_58_tr_3_tl_1" n="N001"/>14) <hi style="font-style: italic;">LOVE IN AN ITALIAN COMEDY</hi>, by <rs type="person" key=", tillich_person_id__3086">Watteau</rs>--Here again, comedians. Now look at these
                <lb facs="#facs_58_tr_3_tl_2" n="N002"/>faces. Here I will say something which leads to our second level, and where I will come back to the
                <lb facs="#facs_58_tr_3_tl_3" n="N003"/>second level, namely the forces of the comedians, of the <hi style="font-style: italic;">Pierrot</hi>, of the harlequin, of the clown.
-               <lb facs="#facs_58_tr_3_tl_4" n="N004"/>They will reappear again and again. And they represent some ultimate reality in a very special
+               <lb facs="#facs_58_tr_3_tl_4" n="N004"/>They will reappear again and again. And they represent some <Ultimate_Reality>ultimate reality</Ultimate_Reality> in a very special
                <lb facs="#facs_58_tr_3_tl_5" n="N005"/>way: they represent ALSO, like the <hi style="font-style: italic;">Comédiens français</hi> in the picture before, and the other
                <lb facs="#facs_58_tr_3_tl_6" n="N006"/>scenes, and in the Dutch way, the <hi style="font-style: italic;">joie de vivre</hi>, the joy of living, the power of vital self-realization.
                <lb facs="#facs_58_tr_3_tl_7" n="N007"/>But at the same time, they show an element of tragic sadness, in their faces, and that is something
@@ -4771,14 +4771,14 @@
             </ab>
             <ab facs="#facs_58_tr_2">
                <lb facs="#facs_58_tr_2_tl_1" n="N001"/>something comes through, inescapably, from the underground of life, from the demonic underground,
-               <lb facs="#facs_58_tr_2_tl_2" n="N002"/>from the tragic, in this case. We have seen something of it in the one picture of Ruisdael, and here
+               <lb facs="#facs_58_tr_2_tl_2" n="N002"/>from the tragic, in this case. We have seen something of it in the one picture of <rs type="person" key=", tillich_person_id__3008">Ruisdael</rs>, and here
             </ab>
             <pb facs="#facs_59" n="part2_p059.jpg" xml:id="img_0059"/>
             <ab facs="#facs_59_r">
                <lb facs="#facs_59_l" n="N001"/>[338]
             </ab>
             <ab facs="#facs_59_tr_2">
-               <lb facs="#facs_59_tr_2_tl_1" n="N001"/>it appears again. We will see later on how much that means for our modern art, this duality of
+               <lb facs="#facs_59_tr_2_tl_1" n="N001"/>it appears again. We will see later on how much that means for our <Modern_Art>modern art</Modern_Art>, this duality of
                <lb facs="#facs_59_tr_2_tl_2" n="N002"/>the tragic AND the vital self-affirmation of man.
                <lb facs="#facs_59_tr_2_tl_3" n="N003"/>QN: What do these naturalistic pictures signify because they have been represented in artistic symbols
                <lb facs="#facs_59_tr_2_tl_4" n="N004"/>as over against what they would signify just as they exist before they were painted?
@@ -4786,45 +4786,45 @@
                <lb facs="#facs_59_tr_2_tl_6" n="N006"/>QN: What is added to the subject matter of these pictures by their having been painted?
                <lb facs="#facs_59_tr_2_tl_7" n="N007"/>PT: Oh. Have you ever seen comedians like that in such a landscape, in such a kind of oscillating
                <lb facs="#facs_59_tr_2_tl_8" n="N008"/>light and darkness, in some atmosphere of mist which is natural and non-natural at the same time?
-               <lb facs="#facs_59_tr_2_tl_9" n="N009"/>You remember from my lecture about the symbols of art: they are taken from nature, from the
+               <lb facs="#facs_59_tr_2_tl_9" n="N009"/>You remember from my lecture about the <Symbols_Artistic>symbols of art</Symbols_Artistic>: they are taken from nature, from the
                <lb facs="#facs_59_tr_2_tl_10" n="N010"/>world as we encounter it, but then they lead, by a special way of using this material, into
             </ab>
             <ab facs="#facs_59_tr_1">
                <lb facs="#facs_59_tr_1_tl_1" n="N001"/>a level which is not the level of our ordinary encounter with reality. That is what the artist does,
                <lb facs="#facs_59_tr_1_tl_2" n="N002"/>beyond that which happens. This is the first step. Now I go one step beyond this: I say [that]
                <lb facs="#facs_59_tr_1_tl_3" n="N003"/>in this way something which we also can have often, in meeting nature, reveals itself in a special
-               <lb facs="#facs_59_tr_1_tl_4" n="N004"/>way, namely ultimate reality in NON-ultimate reality. And here the traits of non-ultimate
+               <lb facs="#facs_59_tr_1_tl_4" n="N004"/>way, namely<Ultimate_Reality> ultimate reality</Ultimate_Reality> in NON-ultimate reality. And here the traits of non-ultimate
                <lb facs="#facs_59_tr_1_tl_5" n="N005"/>reality come out in the unity of the comic and the tragic, which we see especially in this picture.
                <lb facs="#facs_59_tr_1_tl_6" n="N006"/>But before we come to this analysis, the FIRST step has to be made, namely the step to the
                <lb facs="#facs_59_tr_1_tl_7" n="N007"/>artistic symbols, AS artistic symbols, which use the material but make something new out of it, and
                <lb facs="#facs_59_tr_1_tl_8" n="N008"/>NOW--perhaps this is one of the reasons for your question--we are able, with our eyes (which are
-               <lb facs="#facs_59_tr_1_tl_9" n="N009"/>educated by the history of art), to see with the eyes of Watteau a reality which we encounter in
+               <lb facs="#facs_59_tr_1_tl_9" n="N009"/>educated by the history of art), to see with the eyes of <rs type="person" key=", tillich_person_id__3086">Watteau</rs> a reality which we encounter in
             </ab>
             <pb facs="#facs_60" n="part2_p060.jpg" xml:id="img_0060"/>
             <ab facs="#facs_60_tr_2">
                <lb facs="#facs_60_tr_2_tl_1" n="N001"/>[339]
                <lb facs="#facs_60_tr_2_tl_2" n="N002"/>our daily life. Now I hope you all had this experience. When you came from a gallery and were under
-               <lb facs="#facs_60_tr_2_tl_3" n="N003"/>the strong impression of a great artist, now you saw, with his eyes, the ordinary nature... in the woods,
-               <lb facs="#facs_60_tr_2_tl_4" n="N004"/>and in the faces of men. This has happened to me very often, and not only with usual arts by but also
+               <lb facs="#facs_60_tr_2_tl_3" n="N003"/>the strong impression of a great <Artist>artist</Artist>, now you saw, with his eyes, the ordinary nature... in the woods,
+               <lb facs="#facs_60_tr_2_tl_4" n="N004"/>and in the faces of men. This has happened to me very often, and not only with visual arts by but also
                <lb facs="#facs_60_tr_2_tl_5" n="N005"/>with novels, etc: reality is opened. And now if it is opened, we can see this reality ALSO with the eyes of
                <lb facs="#facs_60_tr_2_tl_6" n="N006"/>the artist in our ordinary world, i.e. we do the same thing then WITHOUT painting it--but we SEE it
-               <lb facs="#facs_60_tr_2_tl_7" n="N007"/>also. And that is one of the great things of the education by art, that even in the ordinary life
+               <lb facs="#facs_60_tr_2_tl_7" n="N007"/>also. And that is one of the great things of the education by <Art>art</Art>, that even in the ordinary life
                <lb facs="#facs_60_tr_2_tl_8" n="N008"/>the vision of the artist comes out.
             </ab>
             <ab facs="#facs_60_tr_1">
-               <lb facs="#facs_60_tr_1_tl_1" n="N001"/>QN: Is it essentially the artist who teaches us to see these things?
+               <lb facs="#facs_60_tr_1_tl_1" n="N001"/>QN: Is it essentially the <Artist>artist</Artist> who teaches us to see these things?
                <lb facs="#facs_60_tr_1_tl_2" n="N002"/>PT: Yes. I think that the history of art has educated the eyes of mankind in all ALL periods of
-               <lb facs="#facs_60_tr_1_tl_3" n="N003"/>history, and in all countries.
-               <lb facs="#facs_60_tr_1_tl_4" n="N004"/>13) A Roman painting of the Hellenistic period--I come to the portrait, another group of the naturalistic.
+               <lb facs="#facs_60_tr_1_tl_3" n="N003"/><History>history</History>, and in all countries.
+               <lb facs="#facs_60_tr_1_tl_4" n="N004"/>13) A Roman painting of the Hellenistic period--I come to the portrait, another group of the <Naturalism>naturalistic</Naturalism>.
                <lb facs="#facs_60_tr_1_tl_5" n="N005"/>14) Another Roman painting from Pompeii--This shows how old, naturalism is, and it is not
-               <lb facs="#facs_60_tr_1_tl_6" n="N006"/>only an invention of the Renaissance; and how old, portraits are which tried to be as near to life as
+               <lb facs="#facs_60_tr_1_tl_6" n="N006"/>only an invention of the <Renaissance>Renaissance</Renaissance>; and how old, portraits are which tried to be as near to life as
                <lb facs="#facs_60_tr_1_tl_7" n="N007"/>possible.
                <lb facs="#facs_60_tr_1_tl_8" n="N008"/>15) Roman painting, 3rd century--
                <lb facs="#facs_60_tr_1_tl_9" n="N009"/>16) Greek painting, Hellenistic period--
-               <lb facs="#facs_60_tr_1_tl_10" n="N010"/>17) Portrait, by Bronzino--We come to the Renaissance, not only because it is a beautiful picture
+               <lb facs="#facs_60_tr_1_tl_10" n="N010"/>17) Portrait, by <rs type="person" key=", tillich_person_id__3087">Bronzino</rs>--We come to the <Renaissance>Renaissance</Renaissance>, not only because it is a beautiful picture
                <lb facs="#facs_60_tr_1_tl_11" n="N011"/>but also because I want to say something about it, about this whole realm. This whole realm of the
                <lb facs="#facs_60_tr_1_tl_12" n="N012"/>portrait is a very interesting one. For me this has much to do with the Christian doctrine of the
-               <lb facs="#facs_60_tr_1_tl_13" n="N013"/>resurrection of the body, which of course I understand symbolically, but as a true symbol.
+               <lb facs="#facs_60_tr_1_tl_13" n="N013"/><Resurrection>resurrection</Resurrection> of the <Body>body</Body>, which of course I understand symbolically, but as a true <Symbols>symbol</Symbols>.
                <lb facs="#facs_60_tr_1_tl_14" n="N014"/>And the symbol is true because man is a whole, and, as a whole, the bodily existence participates
             </ab>
             <pb facs="#facs_61" n="part2_p061.jpg" xml:id="img_0061"/>
@@ -4832,7 +4832,7 @@
                <lb facs="#facs_61_tr_2_tl_1" n="N001"/>[340]
                <lb facs="#facs_61_tr_2_tl_2" n="N002"/>in the spiritual, and vice versa. They are expressions of the one reality which is man. This makes it
                <lb facs="#facs_61_tr_2_tl_3" n="N003"/>possible to recognize the identity of every individual person in his face-expression. This is something
-               <lb facs="#facs_61_tr_2_tl_4" n="N004"/>very miraculous, if you ever think about it, that the cells of the body, the cells of the face, are able
+               <lb facs="#facs_61_tr_2_tl_4" n="N004"/>very miraculous, if you ever think about it, that the cells of the <Body>body</Body>, the cells of the face, are able
                <lb facs="#facs_61_tr_2_tl_5" n="N005"/>to express the spirituality which is in you. And this is the importance of the portrait. Now the
                <lb facs="#facs_61_tr_2_tl_6" n="N006"/>portrait had the same problem, where somebody might ask, ''Why not the reality itself? Why a portrait?
                <lb facs="#facs_61_tr_2_tl_7" n="N007"/>What is changed?'' What is changed is the following, that in a creative portrait the WHOLE of this
@@ -4841,44 +4841,44 @@
                <lb facs="#facs_61_tr_1_tl_1" n="N001"/>human being is expressed in the moment in which the painter brings it into existence as a picture.
                <lb facs="#facs_61_tr_1_tl_2" n="N002"/>We will find something of it more characteristic later on, but it is something which is very decisive
                <lb facs="#facs_61_tr_1_tl_3" n="N003"/>for the art of the portrait itself. Perhaps we go on, because I must say more about it.
-               <lb facs="#facs_61_tr_1_tl_4" n="N004"/>16) Titian, <hi style="font-style: italic;">THE DUKE OF URBINO</hi>--another Renaissance portrait.
+               <lb facs="#facs_61_tr_1_tl_4" n="N004"/>16) <rs type="person" key=", tillich_person_id__3088">Titian</rs>, <hi style="font-style: italic;">THE DUKE OF URBINO</hi>--another Renaissance portrait.
                <lb facs="#facs_61_tr_1_tl_6" n="N005"/>17) Here I want to stop for a moment. Here you see what I said
                <lb facs="#facs_61_tr_1_tl_7" n="N006"/>much more realized than in the two others, namely you see here the history of this old woman
                <lb facs="#facs_61_tr_1_tl_8" n="N007"/>embodied, represented, in every trait of her face. It is not a photograph of her in her 70th year,
                <lb facs="#facs_61_tr_1_tl_9" n="N008"/>or whatever it may be, but it is a reproduction and concentration of the spiritual pilgrimage of this
                <lb facs="#facs_61_tr_1_tl_10" n="N009"/>human being embodying the ultimate meaning of such a being in the dimension of the eternal.
-               <lb facs="#facs_61_tr_1_tl_11" n="N010"/>For this reason, secular portraits can, in spite of the fact that they are not religious, mediate ultimate
-               <lb facs="#facs_61_tr_1_tl_12" n="N011"/>reality by their power to bring into our vision something about a person which otherwise we never
+               <lb facs="#facs_61_tr_1_tl_11" n="N010"/>For this reason, secular portraits can, in spite of the fact that they are not religious, mediate <Ultimate_Reality>ultimate
+               <lb break="no" facs="#facs_61_tr_1_tl_12" n="N011"/>reality</Ultimate_Reality> by their power to bring into our vision something about a person which otherwise we never
                <lb facs="#facs_61_tr_1_tl_14" n="N012"/>would be able to realize in this way.
             </ab>
             <pb facs="#facs_62" n="part2_p062.jpg" xml:id="img_0062"/>
             <ab facs="#facs_62_tr_1">
                <lb facs="#facs_62_tr_1_tl_1" n="N001"/>[341]
                <lb facs="#facs_62_tr_1_tl_2" n="N002"/>18) Frans Hals--Here we are again in the more joyous element of Frans Hals, also a Dutch painter
-               <lb facs="#facs_62_tr_1_tl_3" n="N003"/>who preceded Rembrandt and who is nearer to the Renaissance pictures I gave you before. Here
+               <lb facs="#facs_62_tr_1_tl_3" n="N003"/>who preceded <rs type="person" key=", tillich_person_id__1580">Rembrandt</rs> and who is nearer to the Renaissance pictures I gave you before. Here
                <lb facs="#facs_62_tr_1_tl_4" n="N004"/>the vitality is seen.
                <lb facs="#facs_62_tr_1_tl_5" n="N005"/>19) Now here is Sargent, the American painter <hi style="font-style: italic;">[PORTRAIT OF HENRY JAMES]</hi>--What has
                <lb facs="#facs_62_tr_1_tl_6" n="N006"/>happened, when you compare him with the Renaissance or Rembrandt pictures you saw? We are in the
-               <lb facs="#facs_62_tr_1_tl_7" n="N007"/>industrial society now, and I will start with this when we are through with the whole relation of
+               <lb facs="#facs_62_tr_1_tl_7" n="N007"/><Industrialism>industrial</Industrialism> society now, and I will start with this when we are through with the whole relation of
                <lb facs="#facs_62_tr_1_tl_8" n="N008"/>religion and art. In the industrial society, even the human face gets a technical element <hi style="font-style: italic;">[some laughter]</hi>
                <lb facs="#facs_62_tr_1_tl_9" n="N009"/>not in itself, perhaps, but in the way in which it is reproduced. This picture is an approximation to
-               <lb facs="#facs_62_tr_1_tl_10" n="N010"/>photography, and photography is an invention of the industrial age. Now many people may say today,
+               <lb facs="#facs_62_tr_1_tl_10" n="N010"/><Photography>photography</Photography>, and photography is an invention of the industrial age. Now many people may say today,
                <lb facs="#facs_62_tr_1_tl_11" n="N011"/>''Why portrait at all? We can have that much-nearer to the truth when we have good photographs.''
             </ab>
             <ab facs="#facs_62_tr_2">
                <lb facs="#facs_62_tr_2_tl_1" n="N001"/>This is a complete misunderstanding of the meaning of a portrait. If you want me to say it in a
-               <lb facs="#facs_62_tr_2_tl_2" n="N002"/>little bit paradoxical religious term, I would say: if God [regards] a man in the totality of
+               <lb facs="#facs_62_tr_2_tl_2" n="N002"/>little bit paradoxical religious term, I would say: if <God>God</God> [regards] a man in the totality of
                <lb facs="#facs_62_tr_2_tl_4" n="N003"/>his being, He might see the Rembrandt portrait, but He would not see the modern photograph--
                <lb facs="#facs_62_tr_2_tl_5" n="N004"/>because the modern photograph is that which is transitory, in this moment, here and now; the portrait,
                <lb facs="#facs_62_tr_2_tl_6" n="N005"/>if it is a great portrait, is the WHOLE of the reality of this human being, which is seen in one moment
-               <lb facs="#facs_62_tr_2_tl_7" n="N006"/>by the artist, as God so to speak symbolically sees it from the eternal, in one moment of time.
+               <lb facs="#facs_62_tr_2_tl_7" n="N006"/>by the <Artist>artist</Artist>, as God so to speak symbolically sees it from the eternal, in one moment of time.
                <lb facs="#facs_62_tr_2_tl_8" n="N007"/>This is the meaning of portrait, and therefore portrait has a very special religious dignity, according
                <lb facs="#facs_62_tr_2_tl_10" n="N008"/>to the fact that the individual person has a very special religious dignity.
             </ab>
             <pb facs="#facs_63" n="part2_p063.jpg" xml:id="img_0063"/>
             <ab facs="#facs_63_tr_1">
                <lb facs="#facs_63_tr_1_tl_3" n="N001"/>[342]
-               <lb facs="#facs_63_tr_1_tl_4" n="N002"/>QN: To what extent is modern so-called art-photography not photography?
+               <lb facs="#facs_63_tr_1_tl_4" n="N002"/>QN: To what extent is modern so-called art-photography not <Photography>photography</Photography>?
                <lb facs="#facs_63_tr_1_tl_5" n="N003"/>PT: It is applied art, I would say. It is first of all photography, but then the photographer has learned
                <lb facs="#facs_63_tr_1_tl_6" n="N004"/>to see faces through the eyes of the previous artistic works and is able to give to the photographs
                <lb facs="#facs_63_tr_1_tl_7" n="N005"/>twists which are at least quasi-artistic, but they never can replace the art because they are bound to
@@ -4887,18 +4887,18 @@
             </ab>
             <ab facs="#facs_63_tr_3">
                <lb facs="#facs_63_tr_3_tl_1" n="N001"/>=The transition to the second realm:
-               <lb facs="#facs_63_tr_3_tl_3" n="N002"/>20) <hi style="font-style: italic;">TOLEDO</hi>, El Greco--Now we come to that which I call non-naturalistic style and
-               <lb facs="#facs_63_tr_3_tl_5" n="N003"/>secular subject matter. You can all see this in the Metropolitan Museum of Art in New York.
+               <lb facs="#facs_63_tr_3_tl_3" n="N002"/>20) <hi style="font-style: italic;">TOLEDO</hi>, <rs type="person" key=", tillich_person_id__3089">El Greco</rs>--Now we come to that which I call non-naturalistic style and
+               <lb facs="#facs_63_tr_3_tl_5" n="N003"/><Secular>secular</Secular> subject matter. You can all see this in the <rs type="place" key="tillich_place_id__676">Metropolitan Museum of Art in New York</rs>.
                <lb facs="#facs_63_tr_3_tl_6" n="N004"/>Here you have a nature in which obviously the uncanny, the dark, the terrifying shines through
                <lb facs="#facs_63_tr_3_tl_7" n="N005"/>not by the fact that he has painted a thunderstorm--that can be done in a quite different way--
             </ab>
             <ab facs="#facs_63_tr_2">
                <lb facs="#facs_63_tr_2_tl_1" n="N001"/>but by the art in which the naturalistic elements of a city are transformed into a visionary reality.
-               <lb facs="#facs_63_tr_2_tl_2" n="N002"/>21) Goya, <hi style="font-style: italic;">CITY ON A ROCK</hi>--This also is obviously not naturalistic, it is a fantastic imagination,
+               <lb facs="#facs_63_tr_2_tl_2" n="N002"/>21) <rs type="person" key=", tillich_person_id__3090">Goya</rs>, <hi style="font-style: italic;">CITY ON A ROCK</hi>--This also is obviously not naturalistic, it is a fantastic imagination,
                <lb facs="#facs_63_tr_2_tl_3" n="N003"/>and the fantastic element is increased by the three demonic animal figures on the right upper part
                <lb facs="#facs_63_tr_2_tl_4" n="N004"/>which go around this city, which ITSELF is neither Heavenly nor Hell, but is in some way between
                <lb facs="#facs_63_tr_2_tl_5" n="N005"/>them, and gives us a feeling of something which is trans-naturalistic, as Mannerism and Baroque were.
-               <lb facs="#facs_63_tr_2_tl_6" n="N006"/>22) Cézanne--Now we are in the modern period--we start with 1900, Cézanne, and we start with
+               <lb facs="#facs_63_tr_2_tl_6" n="N006"/>22) <rs type="person" key=", tillich_person_id__367">Cézanne</rs>--Now we are in the modern period--we start with 1900, Cézanne, and we start with
                <lb facs="#facs_63_tr_2_tl_7" n="N007"/><hi style="font-style: italic;">STILL LIFE</hi>. I will show you first a few more still lifes. Go through them.
                <lb facs="#facs_63_tr_2_tl_8" n="N008"/>23) Braque--Cézanne is more important, in the development.
             </ab>
@@ -4906,8 +4906,8 @@
             <ab facs="#facs_64_tr_1">
                <lb facs="#facs_64_tr_1_tl_1" n="N001"/>[343]
                <lb facs="#facs_64_tr_1_tl_2" n="N002"/>24) Braque--
-               <lb facs="#facs_64_tr_1_tl_3" n="N003"/>25) Braque--[The slide] was upside down... it is not much different!--Now what does a
-               <lb facs="#facs_64_tr_1_tl_4" n="N004"/>still life since 1900 mean? This is a tremendously metaphysical question, and I must answer it
+               <lb facs="#facs_64_tr_1_tl_3" n="N003"/>25) <rs type="person" key=", tillich_person_id__272">Braque</rs>--[The slide] was upside down... it is not much different!--Now what does a
+               <lb facs="#facs_64_tr_1_tl_4" n="N004"/>still life since 1900 mean? This is a tremendously <Metaphysics>metaphysical</Metaphysics> question, and I must answer it
                <lb facs="#facs_64_tr_1_tl_5" n="N005"/>at the end of this hour metaphysically, because we want to go on there, then, next Tuesday.
                <lb facs="#facs_64_tr_1_tl_6" n="N006"/>When I was in Paris two years ago, there was an exhibition of still lives from the 16th century on.
                <lb facs="#facs_64_tr_1_tl_7" n="N007"/>And the nearer one comes to the 20th century, the more the importance of still lives increases.
@@ -4926,7 +4926,7 @@
             <ab facs="#facs_64_tr_2">
                <lb facs="#facs_64_tr_2_tl_2" n="N001"/>mathematical [realm], but they are expressions of ultimate reality in going below the surface of
                <lb facs="#facs_64_tr_2_tl_4" n="N002"/>things and then finding in the deeper levels representatives of the ultimate reality in the non-organic
-               <lb facs="#facs_64_tr_2_tl_5" n="N003"/>realm. That is the meaning of cubism, and I will speak more about it. We must stop now.
+               <lb facs="#facs_64_tr_2_tl_5" n="N003"/>realm. That is the meaning of <Cubism>cubism</Cubism>, and I will speak more about it. We must stop now.
                <lb facs="#facs_64_tr_2_tl_7" n="N004"/>So I can promise you we will use the whole hour on Tuesday, but then we will be through.
             </ab>
             <pb facs="#facs_65" n="part2_p065.jpg" xml:id="img_0065"/>
@@ -5017,12 +5017,12 @@
                <lb facs="#facs_66_tr_1_tl_3" n="N003"/>You remember that in the last hour I spoke to you about the nature of still life, about the
                <lb facs="#facs_66_tr_1_tl_4" n="N004"/>nature of still life, the nature of pictures in which the organic elements are taken away, are not shown,
                <lb facs="#facs_66_tr_1_tl_5" n="N005"/>and the inorganic elements out of which reality is constructed are visible. This is the foundation for the
-               <lb facs="#facs_66_tr_1_tl_6" n="N006"/>understanding of much of modern art, of that which is called abstract art.
-               <lb facs="#facs_66_tr_1_tl_7" n="N007"/>1) <hi style="font-style: italic;">MAN WITH A GUITAR</hi>, Braque--Here what you see is not the dissolution--yes, the dissolution
+               <lb facs="#facs_66_tr_1_tl_6" n="N006"/>understanding of much of <Modern_Art>modern art</Modern_Art>, of that which is called abstract art.
+               <lb facs="#facs_66_tr_1_tl_7" n="N007"/>1) <hi style="font-style: italic;">MAN WITH A GUITAR</hi>, <rs type="person" key=", tillich_person_id__272">Braque</rs>--Here what you see is not the dissolution--yes, the dissolution
                <lb facs="#facs_66_tr_1_tl_8" n="N008"/>of the surface reality of the human body into fundamental mathematical and physical structures.
                <lb facs="#facs_66_tr_1_tl_9" n="N009"/>If you ask why is this a man with a guitar, I cannot give an answer, but it shouldn't be the problem;
                <lb facs="#facs_66_tr_1_tl_10" n="N010"/>the problem should be that in such pictures, which have appeared in large numbers especially by
-               <lb facs="#facs_66_tr_1_tl_11" n="N011"/>Picasso and Braque and many of their followers, that in such pictures new forms of reality are
+               <lb facs="#facs_66_tr_1_tl_11" n="N011"/><rs type="person" key=", tillich_person_id__1495">Picasso</rs> and Braque and many of their followers, that in such pictures new forms of reality are
                <lb facs="#facs_66_tr_1_tl_12" n="N012"/>discovered below the surface of reality, and this discovery is the decisive thing. The way in which
                <lb facs="#facs_66_tr_1_tl_13" n="N013"/>it is composed doesn't indicate very much of the naturalistic basis out of which it has been
             </ab>
@@ -5038,7 +5038,7 @@
             <pb facs="#facs_67" n="part2_p067.jpg" xml:id="img_0067"/>
             <ab facs="#facs_67_tr_1">
                <lb facs="#facs_67_tr_1_tl_1" n="N001"/>[346]
-               <lb facs="#facs_67_tr_1_tl_2" n="N002"/>2) Kadinsky: <hi style="font-style: italic;">COMPOSITION</hi>--I can tell you of myself that long ago, in Wester Germany
+               <lb facs="#facs_67_tr_1_tl_2" n="N002"/>2) <rs type="person" key=", tillich_person_id__1018">Kadinsky</rs>: <hi style="font-style: italic;">COMPOSITION</hi>--I can tell you of myself that long ago, in Western Germany
                <lb facs="#facs_67_tr_1_tl_3" n="N003"/>where Kandinsky often was, I was sitting in a house which has an original by Kandinsky,
                <lb facs="#facs_67_tr_1_tl_4" n="N004"/>and first I had a feeling, ''Now what can I do with this?''(--this should be in colors, by the way--)
                <lb facs="#facs_67_tr_1_tl_5" n="N005"/>but slowly something happened to me when I was sitting there, again and again, and looking at it,
@@ -5047,8 +5047,8 @@
                <lb facs="#facs_67_tr_1_tl_8" n="N008"/>reality of the universe in terms of lines and colors.
             </ab>
             <ab facs="#facs_67_tr_3">
-               <lb facs="#facs_67_tr_3_tl_1" n="N001"/>3) <hi style="font-style: italic;">BREAKFAST</hi>--Leger--Leger has a very interesting character and has become more and more
-               <lb facs="#facs_67_tr_3_tl_2" n="N002"/>known and important in modern art. What he actually has done is that he takes the cubes and
+               <lb facs="#facs_67_tr_3_tl_1" n="N001"/>3) <hi style="font-style: italic;">BREAKFAST</hi>--<rs type="person" key=", tillich_person_id__3093">Leger</rs>--Leger has a very interesting character and has become more and more
+               <lb facs="#facs_67_tr_3_tl_2" n="N002"/>known and important in <Modern_Art>modern art</Modern_Art>. What he actually has done is that he takes the cubes and
                <lb facs="#facs_67_tr_3_tl_3" n="N003"/>other instruments of modern industrial machine production and uses them as the fundamental
                <lb facs="#facs_67_tr_3_tl_4" n="N004"/>elements in order to indicate not only inorganic nature but also human beings and other organic
                <lb facs="#facs_67_tr_3_tl_5" n="N005"/>nature. In this way a kind of uncanny feeling of man constructed out of elements of the machine
@@ -5056,20 +5056,20 @@
             </ab>
             <ab facs="#facs_67_tr_2">
                <lb facs="#facs_67_tr_2_tl_1" n="N001"/>art to introduce you to my analysis of our genuine situation with respect to religion and culture,
-               <lb facs="#facs_67_tr_2_tl_2" n="N002"/>without dealing then with a very special subject, just because art, on the basis of its expressive
+               <lb facs="#facs_67_tr_2_tl_2" n="N002"/>without dealing then with a very special subject, just because <Art>art</Art>, on the basis of its expressive
                <lb facs="#facs_67_tr_2_tl_3" n="N003"/>power, can show us more, perhaps, than external, sociological or historical description are able to do.
-               <lb facs="#facs_67_tr_2_tl_4" n="N004"/>4) Picasso, <hi style="font-style: italic;">GUERNICA</hi>--Here we come to a picture which from the beginning was extremely
+               <lb facs="#facs_67_tr_2_tl_4" n="N004"/>4) <rs type="person" key=", tillich_person_id__1495">Picasso</rs>, <hi style="font-style: italic;">GUERNICA</hi>--Here we come to a picture which from the beginning was extremely
                <lb facs="#facs_67_tr_2_tl_5" n="N005"/>controversial and which has now become almost a classic. It is Picasso's <hi style="font-style: italic;">Guernica</hi>, this little
                <lb facs="#facs_67_tr_2_tl_6" n="N006"/>village in northern Spain which was bombed by the Fascist countries before the beginning of the
             </ab>
             <pb facs="#facs_68" n="part2_p068.jpg" xml:id="img_0068"/>
             <ab facs="#facs_68_tr_1">
                <lb facs="#facs_68_tr_1_tl_2" n="N001"/>[347]
-               <lb facs="#facs_68_tr_1_tl_3" n="N002"/>Second World War, as an exercise for their military airplanes! The horrors were incredible, the whole
+               <lb facs="#facs_68_tr_1_tl_3" n="N002"/><Second_World_War>Second World War,</Second_World_War> as an exercise for their military airplanes! The horrors were incredible, the whole
                <lb facs="#facs_68_tr_1_tl_4" n="N003"/>little town was destroyed, and the expression of this horror is given in the disruptedness [sic.] of all the
                <lb facs="#facs_68_tr_1_tl_5" n="N004"/>elements of the reality which are shown here—inorganic elements, human forces in horror, animals, etc.
                <lb facs="#facs_68_tr_1_tl_6" n="N005"/>In one of my utterances, or sometimes in lectures, I have said this is the most Protestant picture--
-               <lb facs="#facs_68_tr_1_tl_7" n="N006"/>which does not mean that exhausts Protestantism—but when I said that, I meant that the Protestant
+               <lb facs="#facs_68_tr_1_tl_7" n="N006"/>which does not mean that exhausts <Protestantism>Protestantism</Protestantism>—but when I said that, I meant that the Protestant
             </ab>
             <ab facs="#facs_68_tr_2">
                <lb facs="#facs_68_tr_2_tl_1" n="N001"/>attitude, which ALWAYS sees the disruptedness [sic.] and estrangement of reality, is most powerfully
@@ -5078,13 +5078,13 @@
                <lb facs="#facs_68_tr_2_tl_4" n="N004"/>later on, for instance, in Christ pictures, that the disruptedness [sic.] IS REALITY, but is overcome in itself
                <lb facs="#facs_68_tr_2_tl_5" n="N005"/>not by a beautifying naturalism, but by an understanding of the depth of the problems. And in this
                <lb facs="#facs_68_tr_2_tl_6" n="N006"/>sense this picture has a very profound meaning for the understanding of man’s situation in the world--
-               <lb facs="#facs_68_tr_2_tl_7" n="N007"/>it is in the Museum of Modern Art in New York and is acknowledged now as one of the most important
+               <lb facs="#facs_68_tr_2_tl_7" n="N007"/>it is in the <rs type="place" key="tillich_place_id__676">Museum of Modern Art in New York</rs> and is acknowledged now as one of the most important
                <lb facs="#facs_68_tr_2_tl_8" n="N008"/>expressions of our world in the modern period.
             </ab>
             <ab facs="#facs_68_tr_3">
-               <lb facs="#facs_68_tr_3_tl_1" n="N001"/>5) Rouault, <hi style="font-style: italic;">CIRCUS TRIO</hi>--You remember what I said in the very beginning last hour,
-               <lb facs="#facs_68_tr_3_tl_2" n="N002"/>when we came to the first harlequins in the French opera by Watteau, that the unity of joy and
-               <lb facs="#facs_68_tr_3_tl_3" n="N003"/>tragedy was expressed in them, and that the preference of modern art for Pierrots, harlequins
+               <lb facs="#facs_68_tr_3_tl_1" n="N001"/>5) <rs type="person" key=", tillich_person_id__3094">Rouault</rs>, <hi style="font-style: italic;">CIRCUS TRIO</hi>--You remember what I said in the very beginning last hour,
+               <lb facs="#facs_68_tr_3_tl_2" n="N002"/>when we came to the first harlequins in the French opera by <rs type="person" key=", tillich_person_id__3086">Watteau</rs>, that the unity of joy and
+               <lb facs="#facs_68_tr_3_tl_3" n="N003"/>tragedy was expressed in them, and that the preference of <Modern_Art>modern art</Modern_Art> for Pierrots, harlequins
                <lb facs="#facs_68_tr_3_tl_4" n="N004"/>and figures like this, is in itself an expression of the tragic feeling especially in those figures which
                <lb facs="#facs_68_tr_3_tl_5" n="N005"/>are supposed to express the <hi style="font-style: italic;">joie de vivre</hi>, the joy of living.
             </ab>
@@ -5102,13 +5102,13 @@
                <lb facs="#facs_69_tr_1_tl_12" n="N010"/>I will answer with something else, what this picture means for me: it means possibilities
                <lb facs="#facs_69_tr_1_tl_13" n="N011"/>of things in time and space which do not appear there, but are results of the continuing creativity
                <lb facs="#facs_69_tr_1_tl_14" n="N012"/>of man. We will come to back to [sic.] this in one of our great sculptures, in one of the next pictures.
-               <lb facs="#facs_69_tr_1_tl_15" n="N013"/>8) Chirico, <hi style="font-style: italic;">THE CONSOLER</hi>--Now here the problem, why I used this, was the disappearance
+               <lb facs="#facs_69_tr_1_tl_15" n="N013"/>8) <rs type="person" key=", tillich_person_id__3095">Chirico</rs>, <hi style="font-style: italic;">THE CONSOLER</hi>--Now here the problem, why I used this, was the disappearance
                <lb facs="#facs_69_tr_1_tl_16" n="N014"/>of the human face. There we have a great problem in modern art. I spoke very intensively about the
                <lb facs="#facs_69_tr_1_tl_17" n="N015"/>question of portrait, the last time. And I said that the portrait expresses the incomparable uniqueness
             </ab>
             <ab facs="#facs_69_tr_2">
                <lb facs="#facs_69_tr_2_tl_1" n="N001"/>of the individual person in the eternal dimension. Now here this face is gone, and the difficulty
-               <lb facs="#facs_69_tr_2_tl_2" n="N002"/>of ALL expressionistic art is that the portrait is supposed to be similar--i.e., naturalism--and that
+               <lb facs="#facs_69_tr_2_tl_2" n="N002"/>of ALL <Expressionistic_Art>expressionistic art</Expressionistic_Art> is that the portrait is supposed to be similar--i.e., naturalism--and that
                <lb facs="#facs_69_tr_2_tl_3" n="N003"/>at the same time, as a work of art, it is supposed to express, whereby the naturalistic surface is
                <lb facs="#facs_69_tr_2_tl_4" n="N004"/>disrupted or, as here, completely disappears. These of you who have read a little about it know
                <lb facs="#facs_69_tr_2_tl_5" n="N005"/>that there is a controversy--some Catholic authorities take the point that the human face is divinely
