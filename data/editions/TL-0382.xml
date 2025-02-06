@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_98">
          <graphic url="TL-0382.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=PMKXMWJDIAQJMLLTLGEYTYGO&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=PMKXMWJDIAQJMLLTLGEYTYGO&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="244,266 2277,266 2277,1257 244,1257" rendition="TextRegion" xml:id="facs_98_tr_1">
             <zone points="1058,325 1078,325 1088,333 1103,331 1106,336 1157,328 1170,331 1172,259 1157,257 1134,262 1121,275 1060,275" rendition="Line" xml:id="facs_98_tr_1_tl_1"/>
             <zone points="239,491 2146,468 2148,414 239,450" rendition="Line" xml:id="facs_98_tr_1_tl_2"/>
@@ -104,7 +104,7 @@
             <p facs="#facs_98_tr_1">
                <lb facs="#facs_98_tr_1_tl_1" n="N001"/>[377]
                <lb facs="#facs_98_tr_1_tl_2" n="N002"/>The witness before the court TESTS something. But the test method uses those elements of man
-               <lb facs="#facs_98_tr_1_tl_3" n="N003"/>which can be mechanized, which can be brought down to the functions of an artificial brain, or
+               <lb facs="#facs_98_tr_1_tl_3" n="N003"/>which can be mechanized, which can be brought down to the functions of an <rs type="keyword" ref="#Artificial_Intelligence">artificial brain</rs>, or
                <lb facs="#facs_98_tr_1_tl_4" n="N004"/>of a Frankenstein, or of a product which acts like a man but does not have the elements of spontaneity.
                <lb facs="#facs_98_tr_1_tl_5" n="N005"/>Now there are many of these elements, and by skillful order of the test you can find out the quickness
                <lb facs="#facs_98_tr_1_tl_6" n="N006"/>of reaction, the ability of perception, and many other things like that; but if you don't count on one
@@ -118,7 +118,7 @@
                <lb facs="#facs_98_tr_3_tl_5" n="N005"/>he experiences something at home which produces in him a catastrophic reaction and to which
                <lb facs="#facs_98_tr_3_tl_6" n="N006"/>he must make a creative answer--or it might be a destructive answer. In both cases the test is valid
                <lb facs="#facs_98_tr_3_tl_7" n="N007"/>only in a limited way. Of course the <hi style="font-style: italic;">Tendenz</hi> [tendency] of interest and skill are still there,
-               <lb facs="#facs_98_tr_3_tl_8" n="N008"/>but they are changed in the totality of the personality. Now this means that we have to say:
+               <lb facs="#facs_98_tr_3_tl_8" n="N008"/>but they are changed in the totality of the <rs type="keyword" ref="#Personality">personality</rs>. Now this means that we have to say:
             </p>
             <p facs="#facs_98_tr_2">
                <lb facs="#facs_98_tr_2_tl_1" n="N001"/>it is a highly abstract group of functions which are under inquiry--but no more than this.

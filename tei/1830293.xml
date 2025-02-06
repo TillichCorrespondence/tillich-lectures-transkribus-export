@@ -2104,7 +2104,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_70">
          <graphic url="part2_p070.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=DQBWVXAOWGJDVZUOZMNXMUNF&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DQBWVXAOWGJDVZUOZMNXMUNF&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="223,302 2203,302 2203,986 223,986" rendition="TextRegion" xml:id="facs_70_tr_2">
             <zone points="1047,354 1060,354 1077,371 1090,376 1104,374 1112,366 1134,374 1154,366 1174,366 1176,295 1164,295 1139,317 1114,317 1099,302 1085,314 1050,314" rendition="Line" xml:id="facs_70_tr_2_tl_1"/>
             <zone points="210,535 2023,525 2196,510 2196,463 210,490" rendition="Line" xml:id="facs_70_tr_2_tl_2"/>
@@ -2133,7 +2133,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_71">
          <graphic url="part2_p071.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=ZXRUHMDEYORCFZDNNMRWKUAQ&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZXRUHMDEYORCFZDNNMRWKUAQ&amp;amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="256,72 2116,72 2116,1156 256,1156" rendition="TextRegion" xml:id="facs_71_tr_2">
             <zone points="1097,387 1109,387 1132,400 1183,398 1221,390 1221,311 1205,311 1183,332 1097,332" rendition="Line" xml:id="facs_71_tr_2_tl_2"/>
             <zone points="243,544 1611,557 2110,542 2110,496 1003,507 917,461 866,507 243,509" rendition="Line" xml:id="facs_71_tr_2_tl_3"/>
@@ -2162,7 +2162,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_72">
          <graphic url="part2_p072.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=OTQWJWLYFMKRRBZJUPFRLNEQ&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=OTQWJWLYFMKRRBZJUPFRLNEQ&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="226,326 2242,326 2242,1750 226,1750" rendition="TextRegion" xml:id="facs_72_tr_1">
             <zone points="1053,380 1066,380 1084,398 1102,401 1125,390 1151,390 1159,383 1171,383 1174,339 1151,339 1143,331 1135,339 1128,331 1110,334 1102,329 1092,339 1056,339" rendition="Line" xml:id="facs_72_tr_1_tl_1"/>
             <zone points="226,534 2235,532 2235,434 226,496" rendition="Line" xml:id="facs_72_tr_1_tl_2"/>
@@ -2190,7 +2190,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_73">
          <graphic url="part2_p073.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=VRFIFKBNXDLCRWTZXELEJYNX&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=VRFIFKBNXDLCRWTZXELEJYNX&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="23,72 2313,72 2313,1741 23,1741" rendition="TextRegion" xml:id="facs_73_tr_1">
             <zone points="1104,367 1125,367 1132,375 1224,372 1224,306 1181,306 1163,319 1153,316 1142,324 1104,324" rendition="Line" xml:id="facs_73_tr_1_tl_2"/>
             <zone points="260,530 2129,528 2310,518 2310,472 260,490" rendition="Line" xml:id="facs_73_tr_1_tl_3"/>
@@ -2251,7 +2251,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_75">
          <graphic url="part2_p075.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=NFEXLIZNNKFYJNJLNNDMFTLD&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=NFEXLIZNNKFYJNJLNNDMFTLD&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="244,302 2206,302 2206,1281 244,1281" rendition="TextRegion" xml:id="facs_75_tr_1">
             <zone points="1047,356 1060,356 1078,374 1127,372 1133,366 1146,374 1174,372 1174,307 1112,304 1102,292 1078,310 1047,310" rendition="Line" xml:id="facs_75_tr_1_tl_1"/>
             <zone points="240,529 2098,519 2098,467 240,480" rendition="Line" xml:id="facs_75_tr_1_tl_2"/>
@@ -2280,7 +2280,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_76">
          <graphic url="part2_p076.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=ERAVZYQGBNFAGTVCVBTHQEZI&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ERAVZYQGBNFAGTVCVBTHQEZI&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="38,66 2274,66 2274,1272 38,1272" rendition="TextRegion" xml:id="facs_76_tr_2">
             <zone points="1192,355 1204,355 1222,370 1252,375 1319,372 1317,305 1254,302 1242,290 1224,305 1189,305" rendition="Line" xml:id="facs_76_tr_2_tl_3"/>
             <zone points="270,507 1979,527 2049,467 1832,425 1792,467 267,457" rendition="Line" xml:id="facs_76_tr_2_tl_4"/>
@@ -2306,7 +2306,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_77">
          <graphic url="part2_p077.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=EVTKKKENMYKGXAEZRRCOMTLC&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=EVTKKKENMYKGXAEZRRCOMTLC&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="268,293 2325,293 2325,2147 268,2147" rendition="TextRegion" xml:id="facs_77_tr_1">
             <zone points="1123,354 1168,360 1173,365 1186,365 1194,357 1238,357 1241,292 1209,295 1196,287 1183,297 1173,295 1162,305 1126,305" rendition="Line" xml:id="facs_77_tr_1_tl_1"/>
             <zone points="271,500 2158,508 2106,451 1314,464 1178,414 271,464" rendition="Line" xml:id="facs_77_tr_1_tl_2"/>
@@ -2334,7 +2334,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_78">
          <graphic url="part2_p078.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=EYEFXNTTEQHOKYEQFJQUJCKY&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=EYEFXNTTEQHOKYEQFJQUJCKY&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="280,317 2316,317 2316,1765 280,1765" rendition="TextRegion" xml:id="facs_78_tr_1">
             <zone points="1127,381 1150,383 1155,388 1201,388 1214,399 1229,394 1239,381 1252,381 1249,300 1229,302 1211,322 1188,320 1175,307 1155,322 1125,322" rendition="Line" xml:id="facs_78_tr_1_tl_1"/>
             <zone points="287,531 906,541 906,487 795,487 777,470 287,477" rendition="Line" xml:id="facs_78_tr_1_tl_2"/>
@@ -2391,7 +2391,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_80">
          <graphic url="part2_p080.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=SLTZPXIGCIPDPXLSUEKXUWHC&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=SLTZPXIGCIPDPXLSUEKXUWHC&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="298,33 2334,33 2334,965 298,965" rendition="TextRegion" xml:id="facs_80_tr_1">
             <zone points="1153,341 1171,341 1179,348 1234,351 1282,343 1282,275 1257,275 1244,288 1232,288 1219,285 1204,273 1189,288 1153,288" rendition="Line" xml:id="facs_80_tr_1_tl_3"/>
             <zone points="293,482 2059,517 1989,449 954,452 866,376 734,454 439,409 290,449" rendition="Line" xml:id="facs_80_tr_1_tl_4"/>
@@ -2435,7 +2435,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_82">
          <graphic url="part2_p082.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=HUNREBYASSVWOJBTZXZEEKCW&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=HUNREBYASSVWOJBTZXZEEKCW&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="29,24 2301,24 2301,1422 29,1422" rendition="TextRegion" xml:id="facs_82_tr_2">
             <zone points="1130,352 1143,352 1155,364 1227,364 1237,357 1252,357 1252,292 1217,295 1212,290 1192,292 1187,288 1165,310 1130,310" rendition="Line" xml:id="facs_82_tr_2_tl_3"/>
             <zone points="283,508 652,528 949,516 949,439 848,441 788,382 709,459 662,473 602,439 283,444" rendition="Line" xml:id="facs_82_tr_2_tl_4" subtype="heading"/>
@@ -2525,7 +2525,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_85">
          <graphic url="part2_p085.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=CLANBQUMKLKIOFDTSNKILPGZ&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=CLANBQUMKLKIOFDTSNKILPGZ&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="226,210 2230,216 2218,1592 238,1592" rendition="TextRegion" xml:id="facs_85_tr_2">
             <zone points="1079,365 1228,365 1228,335 1079,335" rendition="Line" xml:id="facs_85_l"/>
             <zone points="224,523 1946,525 2200,468 224,488" rendition="Line" xml:id="facs_85_tr_2_tl_1"/>
@@ -2555,7 +2555,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_86">
          <graphic url="part2_p086.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=HAYPQQCPEPCRKMXGBQENHUNR&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=HAYPQQCPEPCRKMXGBQENHUNR&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="26,27 2155,27 2155,1251 26,1251" rendition="TextRegion" xml:id="facs_86_tr_1">
             <zone points="1085,331 1110,333 1128,348 1140,341 1155,348 1206,341 1208,281 1148,281 1138,268 1120,286 1085,286" rendition="Line" xml:id="facs_86_tr_1_tl_2"/>
             <zone points="1155,484 2138,501 2138,449 2088,434 1835,449 1799,414 1764,449 1672,424 1519,451 1318,451 1283,414 1216,414 1155,451" rendition="Line" xml:id="facs_86_tr_1_tl_3"/>
@@ -2612,7 +2612,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_88">
          <graphic url="part2_p088.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=MQYMUYZISKMCETFQXIMVMDZI&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MQYMUYZISKMCETFQXIMVMDZI&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="256,299 2242,299 2242,1278 256,1278" rendition="TextRegion" xml:id="facs_88_tr_2">
             <zone points="1037,347 1050,347 1070,365 1147,365 1152,360 1165,360 1165,286 1142,289 1126,304 1037,304" rendition="Line" xml:id="facs_88_tr_2_tl_1"/>
             <zone points="248,518 2204,518 2204,462 524,472 465,424 248,478" rendition="Line" xml:id="facs_88_tr_2_tl_2"/>
@@ -2670,7 +2670,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_90">
          <graphic url="part2_p090.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=FFYGVBJVZYMDVWJLESYIMYVW&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=FFYGVBJVZYMDVWJLESYIMYVW&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="256,287 2331,287 2331,2034 256,2034" rendition="TextRegion" xml:id="facs_90_tr_2">
             <zone points="1045,349 1063,349 1071,357 1154,357 1159,287 1146,287 1126,305 1107,305 1100,295 1087,303 1048,300" rendition="Line" xml:id="facs_90_tr_2_tl_1"/>
             <zone points="246,505 2280,494 2280,435 569,466 492,388 409,468 248,468" rendition="Line" xml:id="facs_90_tr_2_tl_2"/>
@@ -2728,7 +2728,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_92">
          <graphic url="part2_p092.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=DGLXPTBZLFNDHOTLQYPLWNFY&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DGLXPTBZLFNDHOTLQYPLWNFY&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="250,305 2319,305 2319,1732 250,1732" rendition="TextRegion" xml:id="facs_92_tr_1">
             <zone points="1050,359 1063,359 1076,371 1101,374 1176,366 1176,300 1140,302 1124,292 1112,292 1086,318 1050,318" rendition="Line" xml:id="facs_92_tr_1_tl_1"/>
             <zone points="254,517 2128,517 2128,474 254,482" rendition="Line" xml:id="facs_92_tr_1_tl_2"/>
@@ -2816,7 +2816,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_95">
          <graphic url="part2_p095.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=MIRUGBQSPURSQBKVSUPCVXZJ&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MIRUGBQSPURSQBKVSUPCVXZJ&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="244,275 2334,275 2334,1410 244,1410" rendition="TextRegion" xml:id="facs_95_tr_2">
             <zone points="1111,330 1124,330 1142,348 1152,350 1168,340 1183,345 1194,335 1204,343 1233,343 1233,270 1207,270 1189,288 1173,291 1157,285 1144,293 1111,293" rendition="Line" xml:id="facs_95_tr_2_tl_1"/>
             <zone points="244,490 2325,488 2328,428 247,457" rendition="Line" xml:id="facs_95_tr_2_tl_2"/>
@@ -2891,7 +2891,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_98">
          <graphic url="part2_p098.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=PMKXMWJDIAQJMLLTLGEYTYGO&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=PMKXMWJDIAQJMLLTLGEYTYGO&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="244,266 2277,266 2277,1257 244,1257" rendition="TextRegion" xml:id="facs_98_tr_1">
             <zone points="1058,325 1078,325 1088,333 1103,331 1106,336 1157,328 1170,331 1172,259 1157,257 1134,262 1121,275 1060,275" rendition="Line" xml:id="facs_98_tr_1_tl_1"/>
             <zone points="239,491 2146,468 2148,414 239,450" rendition="Line" xml:id="facs_98_tr_1_tl_2"/>
@@ -2950,7 +2950,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_100">
          <graphic url="part2_p100.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=XZDVKGCTBUBPXMEUXMGOUOQC&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=XZDVKGCTBUBPXMEUXMGOUOQC&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="71,24 2218,24 2218,1729 71,1729" rendition="TextRegion" xml:id="facs_100_tr_1">
             <zone points="1039,347 1061,350 1074,360 1111,355 1156,360 1163,285 1136,285 1099,305 1076,300 1061,312 1044,310" rendition="Line" xml:id="facs_100_tr_1_tl_2"/>
             <zone points="414,506 1996,501 2091,494 2091,449 1476,419 1428,461 570,474 469,434 414,474" rendition="Line" xml:id="facs_100_tr_1_tl_3"/>
@@ -2980,7 +2980,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_101">
          <graphic url="part2_p101.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=EQCWYEMJFVPOKJGMXEETLLNT&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=EQCWYEMJFVPOKJGMXEETLLNT&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="232,263 2230,263 2230,1696 232,1696" rendition="TextRegion" xml:id="facs_101_tr_2">
             <zone points="1038,325 1057,328 1062,323 1070,331 1127,331 1132,336 1161,328 1158,281 1142,284 1122,263 1103,276 1036,278" rendition="Line" xml:id="facs_101_tr_2_tl_1"/>
             <zone points="226,479 1952,463 2087,455 2090,406 226,437" rendition="Line" xml:id="facs_101_tr_2_tl_2"/>
@@ -3039,7 +3039,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_103">
          <graphic url="part2_p103.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=RCPCDOYCSHSQUDGFEUCAXTDT&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RCPCDOYCSHSQUDGFEUCAXTDT&amp;amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="295,239 2248,239 2248,1162 295,1162" rendition="TextRegion" xml:id="facs_103_tr_2">
             <zone points="1129,292 1143,290 1166,308 1185,303 1216,305 1227,311 1253,308 1250,234 1224,232 1195,247 1127,247" rendition="Line" xml:id="facs_103_tr_2_tl_1"/>
             <zone points="287,445 2235,448 2235,398 287,408" rendition="Line" xml:id="facs_103_tr_2_tl_2"/>
@@ -3133,7 +3133,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_106">
          <graphic url="part2_p106.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=RMICXENFYGFDHTTBJPBZJZFG&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RMICXENFYGFDHTTBJPBZJZFG&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="113,239 2352,239 2352,1738 113,1738" rendition="TextRegion" xml:id="facs_106_tr_2">
             <zone points="1124,297 1170,313 1175,308 1203,310 1208,305 1220,308 1233,300 1248,300 1251,254 1225,252 1213,257 1190,257 1170,234 1144,259 1126,257" rendition="Line" xml:id="facs_106_tr_2_tl_1"/>
             <zone points="275,478 775,516 2166,453 2169,346 275,422" rendition="Line" xml:id="facs_106_tr_2_tl_2"/>
@@ -5116,14 +5116,14 @@
             <pb facs="#facs_70" n="part2_p070.jpg" xml:id="img_0070"/>
             <ab facs="#facs_70_tr_2">
                <lb facs="#facs_70_tr_2_tl_1" n="N001"/>[349]
-               <lb facs="#facs_70_tr_2_tl_2" n="N002"/>given and therefore should not be a matter of expressionistic art at all but should always be preserved
-               <lb facs="#facs_70_tr_2_tl_3" n="N003"/>in terms of its natural form which is given by God. Now I would say: this is not a real argument,
+               <lb facs="#facs_70_tr_2_tl_2" n="N002"/>given and therefore should not be a matter of <Expressionistic_Art>expressionistic art</Expressionistic_Art> at all but should always be preserved
+               <lb facs="#facs_70_tr_2_tl_3" n="N003"/>in terms of its natural form which is given by <God>God</God>. Now I would say: this is not a real argument,
                <lb facs="#facs_70_tr_2_tl_4" n="N004"/>because it is given by God but it EXPRESSES something--that is its greatness, not its always-similar
                <lb facs="#facs_70_tr_2_tl_5" n="N005"/>natural forms. And this expression can be intensive to such a degree that the similarity with the
             </ab>
             <ab facs="#facs_70_tr_1">
                <lb facs="#facs_70_tr_1_tl_1" n="N001"/>individual almost disappears. But I leave this open as a problem to your thinking about it.
-               <lb facs="#facs_70_tr_1_tl_4" n="N002"/>9) Henry Moore: <hi style="font-style: italic;">FAMILY GROUP</hi>--He has done with the human body what I showed you in the
+               <lb facs="#facs_70_tr_1_tl_4" n="N002"/>9) <rs type="person" key=", tillich_person_id__3096">Henry Moore</rs>: <hi style="font-style: italic;">FAMILY GROUP</hi>--He has done with the human <Body>body</Body> what I showed you in the
                <lb facs="#facs_70_tr_1_tl_5" n="N003"/>picture before: he has taken away for sculptural expression all the naturalistic elements which
                <lb facs="#facs_70_tr_1_tl_6" n="N004"/>characterize the surface of the human body, as we see it, and has so to speak banished the bodily
                <lb facs="#facs_70_tr_1_tl_7" n="N005"/>existence of man for the sake of structure in which the empty spaces (e.g. Moore's <hi style="font-style: italic;">RECLINING</hi>
@@ -5135,9 +5135,9 @@
             </ab>
             <ab facs="#facs_70_tr_3">
                <lb facs="#facs_70_tr_3_tl_1" n="N001"/>III: NATURALISTIC STYLE &amp; RELIGIOUS SUBJECT MATTER:
-               <lb facs="#facs_70_tr_3_tl_2" n="N002"/>10) Giotto, <hi style="font-style: italic;">SAINT FRANCIS AND THE BIRDS</hi>--This is certainly not yet naturalistic style.
-               <lb facs="#facs_70_tr_3_tl_3" n="N003"/>Here I want to say something about transitions. Sometimes the transitory moments in history
-               <lb facs="#facs_70_tr_3_tl_4" n="N004"/>are the most important ones. Here the expressionistic power of being is seen in everything,
+               <lb facs="#facs_70_tr_3_tl_2" n="N002"/>10) <rs type="person" key=", tillich_person_id__681">Giotto</rs>, <hi style="font-style: italic;">SAINT FRANCIS AND THE BIRDS</hi>--This is certainly not yet naturalistic style.
+               <lb facs="#facs_70_tr_3_tl_3" n="N003"/>Here I want to say something about transitions. Sometimes the transitory moments in <History>history</History>
+               <lb facs="#facs_70_tr_3_tl_4" n="N004"/>are the most important ones. Here the <Expressionistic_Art>expressionistic</Expressionistic_Art> <Power_of_Being>power of being</Power_of_Being> is seen in everything,
             </ab>
             <pb facs="#facs_71" n="part2_p071.jpg" xml:id="img_0071"/>
             <ab facs="#facs_71_tr_2">
@@ -5149,21 +5149,21 @@
                <lb facs="#facs_71_tr_2_tl_7" n="N006"/>which we come to in the end of this third level.
             </ab>
             <ab facs="#facs_71_tr_3">
-               <lb facs="#facs_71_tr_3_tl_1" n="N001"/>11) Piero della Francesca: <hi style="font-style: italic;">RESURRECTION</hi>--Here you see how the approximation to nature
+               <lb facs="#facs_71_tr_3_tl_1" n="N001"/>11) <rs type="person" key=", tillich_person_id__3098">Piero della Francesca</rs>: <hi style="font-style: italic;">RESURRECTION</hi>--Here you see how the approximation to nature
                <lb facs="#facs_71_tr_3_tl_2" n="N002"/>has made a progress. This Christ is still speaking out of another world to us, but He is also in
-               <lb facs="#facs_71_tr_3_tl_3" n="N003"/>time and space as a definite separated body. I must hurry to the next, I'm sorry.
-               <lb facs="#facs_71_tr_3_tl_4" n="N004"/>12) Masaccio, <hi style="font-style: italic;">TRIBUTE MONEY</hi>--Masaccio's pictures show the development of the human figure.
+               <lb facs="#facs_71_tr_3_tl_3" n="N003"/><Time>time</Time> and <Space>space</Space> as a definite separated <Body>body</Body>. I must hurry to the next, I'm sorry.
+               <lb facs="#facs_71_tr_3_tl_4" n="N004"/>12) <rs type="person" key=", tillich_person_id__3099">Masaccio</rs>, <hi style="font-style: italic;">TRIBUTE MONEY</hi>--Masaccio's pictures show the development of the human figure.
                <lb facs="#facs_71_tr_3_tl_5" n="N005"/>Here the human figure becomes grandiose, powerful. Man as microcosmos, as the center and mirror
-               <lb facs="#facs_71_tr_3_tl_6" n="N006"/>of the universe, is discovered. The figures, not only that of the Christ, represent this central
+               <lb facs="#facs_71_tr_3_tl_6" n="N006"/>of the universe, is discovered. The figures, not only that of the <Jesus_as_the_Christ>Christ</Jesus_as_the_Christ>, represent this central
             </ab>
             <ab facs="#facs_71_tr_1">
-               <lb facs="#facs_71_tr_1_tl_2" n="N001"/>character of humanity in this period of the Renaissance.
-               <lb facs="#facs_71_tr_1_tl_3" n="N002"/>13) Bellini, <hi style="font-style: italic;">MADONNA AND CHILD</hi>--Here I would say it shows how, in the finite, without
+               <lb facs="#facs_71_tr_1_tl_2" n="N001"/>character of humanity in this period of the <Renaissance>Renaissance</Renaissance>.
+               <lb facs="#facs_71_tr_1_tl_3" n="N002"/>13) <rs type="person" key=", tillich_person_id__3027">Bellini</rs>, <hi style="font-style: italic;">MADONNA AND CHILD</hi>--Here I would say it shows how, in the finite, without
                <lb facs="#facs_71_tr_1_tl_4" n="N003"/>necessary distortion, without disruption of the surface, the infinite is present. And this is the principle
-               <lb facs="#facs_71_tr_1_tl_5" n="N004"/>of the Renaissance, the immanence of the infinite in the finite. In this sense the religious background
+               <lb facs="#facs_71_tr_1_tl_5" n="N004"/>of the <Renaissance>Renaissance</Renaissance>, the immanence of the infinite in the finite. In this sense the religious background
                <lb facs="#facs_71_tr_1_tl_6" n="N005"/>is still visible here, but it is brought completely into a human relationship between Mother and Child,
                <lb facs="#facs_71_tr_1_tl_7" n="N006"/>and into subjective piety as expressed in the eyes of the mother.
-               <lb facs="#facs_71_tr_1_tl_8" n="N007"/>14) Raphael, <hi style="font-style: italic;">Madonna Colonna</hi>--Here you have the fulfilment of this development. Here you don’t
+               <lb facs="#facs_71_tr_1_tl_8" n="N007"/>14) <rs type="person" key=", tillich_person_id__3100">Raphael</rs>, <hi style="font-style: italic;">Madonna Colonna</hi>--Here you have the fulfilment of this development. Here you don’t
             </ab>
             <pb facs="#facs_72" n="part2_p072.jpg" xml:id="img_0072"/>
             <ab facs="#facs_72_tr_1">
@@ -5173,7 +5173,7 @@
                <lb facs="#facs_72_tr_1_tl_4" n="N004"/>from her eyes, and lovingly she looks at the nice Baby, but the babies in the Byzantine period
                <lb facs="#facs_72_tr_1_tl_5" n="N005"/>were already, as babies, if you look at their faces, <hi style="font-style: italic;">Pantokrator</hi>, world-governing powers, even as
                <lb facs="#facs_72_tr_1_tl_6" n="N006"/>babies. Of this, nothing is seen here any more.
-               <lb facs="#facs_72_tr_1_tl_7" n="N007"/>15) Reni, <hi style="font-style: italic;">MAGDALEN</hi>--Now you come into the realm of sentimentality, which is the object of
+               <lb facs="#facs_72_tr_1_tl_7" n="N007"/>15) <rs type="person" key=", tillich_person_id__1582">Reni</rs>, <hi style="font-style: italic;">MAGDALEN</hi>--Now you come into the realm of <Sentimentality>sentimentality</Sentimentality>, which is the object of
                <lb facs="#facs_72_tr_1_tl_8" n="N008"/>my fight, and I want to call upon all of you to follow me in this fight against the sentimental religious
                <lb facs="#facs_72_tr_1_tl_9" n="N009"/>art. Out of the feeling of the terrible distortion of religion, in terms of sentimentality, much of my
                <lb facs="#facs_72_tr_1_tl_10" n="N010"/>interest in religion and the visual arts has really arisen. And this polemic still has to go on in many
@@ -5182,22 +5182,22 @@
                <lb facs="#facs_72_tr_2_tl_1" n="N001"/>places of this country, although there is a break already, and I hope that in more and more
                <lb facs="#facs_72_tr_2_tl_2" n="N002"/>of the parish papers, Sunday papers, etc., such things like this will disappear very soon. But that is
                <lb facs="#facs_72_tr_2_tl_3" n="N003"/>a matter of a crusade, to which I call you!
-               <lb facs="#facs_72_tr_2_tl_4" n="N004"/>16) Fritz von Uhde, <hi style="font-style: italic;">THE CHRIST WITH THE PEASANTS</hi>--German painter, end of the 19th century.
+               <lb facs="#facs_72_tr_2_tl_4" n="N004"/>16) <rs type="person" key=", tillich_person_id__1964">Fritz von Uhde</rs>, <hi style="font-style: italic;">THE CHRIST WITH THE PEASANTS</hi>--German painter, end of the 19th century.
                <lb facs="#facs_72_tr_2_tl_5" n="N005"/>Now from the point of view of naturalistic, half-impressionistic painting, this is not a bad picture.
                <lb facs="#facs_72_tr_2_tl_6" n="N006"/>But from the point of view of a village school teacher coming to a poor surroundings and having a
                <lb facs="#facs_72_tr_2_tl_7" n="N007"/>meal together with them, it is a terrible expression of the deterioration of the meaning of the Christ
                <lb facs="#facs_72_tr_2_tl_8" n="N008"/>in the period in which He was either a social reformer or a teacher of morals, or something like that,
                <lb facs="#facs_72_tr_2_tl_9" n="N009"/>and the real metaphysical power of CHRIST was completely gone!
-               <lb facs="#facs_72_tr_2_tl_10" n="N010"/>17) Manet, <hi style="font-style: italic;">ECCE HOMO</hi>--Here I will speak about a very interesting phenomenon. Manet is
+               <lb facs="#facs_72_tr_2_tl_10" n="N010"/>17) <rs type="person" key=", tillich_person_id__3034">Manet</rs>, <hi style="font-style: italic;">ECCE HOMO</hi>--Here I will speak about a very interesting phenomenon. Manet is
             </ab>
             <pb facs="#facs_73" n="part2_p073.jpg" xml:id="img_0073"/>
             <ab facs="#facs_73_tr_1">
                <lb facs="#facs_73_tr_1_tl_2" n="N001"/>[352]
                <lb facs="#facs_73_tr_1_tl_3" n="N002"/>certainly the greatest painter of the 19th century. He is greater than his Impressionistic period, in which
-               <lb facs="#facs_73_tr_1_tl_4" n="N003"/>he was the leader. But in this picture it is obvious that he is not able to manage it. It is a Christ
+               <lb facs="#facs_73_tr_1_tl_4" n="N003"/>he was the leader. But in this picture it is obvious that he is not able to manage it. It is a <Jesus_as_the_Christ>Christ</Jesus_as_the_Christ>
                <lb facs="#facs_73_tr_1_tl_5" n="N004"/>of which you would say there is equally nothing of the divine left. Now this means--and now I say
                <lb facs="#facs_73_tr_1_tl_6" n="N005"/>something which may horrify you a little bit, I hope--namely that from 1650 to 1900, there was a
-               <lb facs="#facs_73_tr_1_tl_7" n="N006"/>great gap in religious art, and that in these 250 years, even by one of the greatest artists like Manet,
+               <lb facs="#facs_73_tr_1_tl_7" n="N006"/>great gap in religious art, and that in these 250 years, even by one of the greatest artists like <rs type="person" key=", tillich_person_id__3034">Manet</rs>,
                <lb facs="#facs_73_tr_1_tl_8" n="N007"/>nothing of religious power could have been produced. This is the reason why I bring you this
                <lb facs="#facs_73_tr_1_tl_10" n="N008"/>picture. If you see, instead of that, a racetrack, or his other pictures, then we are in a quite
                <lb facs="#facs_73_tr_1_tl_12" n="N009"/>different situation.
@@ -5205,7 +5205,7 @@
             </ab>
             <ab facs="#facs_73_tr_2">
                <lb facs="#facs_73_tr_2_tl_1" n="N001"/>PT: No--he accepts the symbol of the Christ. But I mean the style--it is not so, that there is really
-               <lb facs="#facs_73_tr_2_tl_2" n="N002"/>religious power any more. It is a sad, almost sentimental look, in the eyes of the Christ.
+               <lb facs="#facs_73_tr_2_tl_2" n="N002"/>religious power any more. It is a sad, almost <Sentimentality>sentimental</Sentimentality> look, in the eyes of the Christ.
                <lb facs="#facs_73_tr_2_tl_5" n="N003"/>QN: Would you say that in those pictures that did not use religious subjects,
                <lb facs="#facs_73_tr_2_tl_7" n="N004"/>there was any religious power?
                <lb facs="#facs_73_tr_2_tl_8" n="N005"/>PT: Yes, very much so. Yes. Thank you for asking.
@@ -5213,16 +5213,16 @@
             <ab facs="#facs_73_tr_3">
                <lb facs="#facs_73_l" n="N001"/>===
                <lb facs="#facs_73_tr_3_tl_1" n="N002"/>IV--I come to the fourth period, which in some ways is most important. Most of the
-               <lb facs="#facs_73_tr_3_tl_2" n="N003"/>history of art is expressionistic and therefore able to produce sculptures and pictures which are
-               <lb facs="#facs_73_tr_3_tl_3" n="N004"/>expressive for the divine and can be used for religious symbols. We are now in the fourth level
+               <lb facs="#facs_73_tr_3_tl_2" n="N003"/>history of art is <Expressionistic_Art>expressionistic</Expressionistic_Art> and therefore able to produce sculptures and pictures which are
+               <lb facs="#facs_73_tr_3_tl_3" n="N004"/>expressive for the divine and can be used for<Symbols_religious> religious symbols</Symbols_religious>. We are now in the fourth level
                <lb facs="#facs_73_tr_3_tl_4" n="N005"/>which combines expressionistic style with religious subject matter, and that is the style which
-               <lb facs="#facs_73_tr_3_tl_5" n="N006"/>is able [to be used] for the cult. This is an archaic Greek god, <hi style="font-style: italic;">APOLLO</hi>. Here you see how he
+               <lb facs="#facs_73_tr_3_tl_5" n="N006"/>is able [to be used] for the cult. This is an archaic <Greek_religion>Greek god, <hi style="font-style: italic;">APOLLO</hi></Greek_religion>. Here you see how he
             </ab>
             <pb facs="#facs_74" n="part2_p074.jpg" xml:id="img_0074"/>
             <ab facs="#facs_74_tr_1">
                <lb facs="#facs_74_tr_1_tl_1" n="N001"/>[353]
-               <lb facs="#facs_74_tr_1_tl_2" n="N002"/>looks. You cannot go around him. He is not a figure which stands in time and space. In the Greek
-               <lb facs="#facs_74_tr_1_tl_3" n="N003"/>temple, you had to go AT him, in a long way, and he was half in the dark and looked at you.
+               <lb facs="#facs_74_tr_1_tl_2" n="N002"/>looks. You cannot go around him. He is not a figure which stands in <Time>time</Time> and <Space>space</Space>. <Greek_religion>In the Greek
+               <lb break="no" facs="#facs_74_tr_1_tl_3" n="N003"/>temple</Greek_religion>, you had to go AT him, in a long way, and he was half in the dark and looked at you.
                <lb facs="#facs_74_tr_1_tl_4" n="N004"/>He didn’t go out to you, but he remained in his divine majesty, often in terms of what one calls the
                <lb facs="#facs_74_tr_1_tl_5" n="N005"/>archaic smile, which is not laughing, in any way, and not ''keep smiling,'' but which is the inner
                <lb facs="#facs_74_tr_1_tl_6" n="N006"/>fulfilment and perfection of the divine in itself in relationship to the world.
@@ -5233,41 +5233,41 @@
                <lb facs="#facs_74_tr_2_tl_1" n="N001"/>her, but not going around her, as if she were the figure in time and space.
                <lb facs="#facs_74_tr_2_tl_2" n="N002"/>20) GREEK SCULPTURE...
                <lb facs="#facs_74_tr_2_tl_3" n="N003"/>21) MOSAIC, CONSTANTINOPLE--Now we come to that art which I would like to call the
-               <lb facs="#facs_74_tr_2_tl_4" n="N004"/>most expressive religious art in Western culture: the Byzantine. Here are the elements of
+               <lb facs="#facs_74_tr_2_tl_4" n="N004"/>most expressive religious art in Western culture: the <Byzantine_Art>Byzantine</Byzantine_Art>. Here are the elements of
                <lb facs="#facs_74_tr_2_tl_5" n="N005"/>Greek and Roman naturalistic possibilities, but they have been made transparent. It is again a
                <lb facs="#facs_74_tr_2_tl_6" n="N006"/>kind of transitory style, if you want, although it covers the whole Byzantine period, which means
-               <lb facs="#facs_74_tr_2_tl_7" n="N007"/>from about 400 or even earlier after Christ, till 900. This is a Christ Pantokrator [sic.], which always
+               <lb facs="#facs_74_tr_2_tl_7" n="N007"/>from about 400 or even earlier after Christ, till 900. This is a <Christ>Christ</Christ> Pantokrator [sic.], which always
             </ab>
             <ab facs="#facs_74_tr_3">
                <lb facs="#facs_74_tr_3_tl_1" n="N001"/>means the Christ as the Ruler of the world, the Christ as a cosmic figure. The decisive thing--which
                <lb facs="#facs_74_tr_3_tl_2" n="N002"/>would come out much better if it were in color--is the transparence of the color, the translucency of
                <lb facs="#facs_74_tr_3_tl_3" n="N003"/>the Spiritual through the material, of the infinite through the finite.
-               <lb facs="#facs_74_tr_3_tl_4" n="N004"/>22) BYZANTINE SCHOOL...--This shows you in the same way the transparency of the natural,
+               <lb facs="#facs_74_tr_3_tl_4" n="N004"/>22) <Byzantine_Art>BYZANTINE</Byzantine_Art> SCHOOL...--This shows you in the same way the transparency of the natural,
                <lb facs="#facs_74_tr_3_tl_5" n="N005"/>the fact that it has become translucent for the divine, and the Spiritual (capital ''S'') translucent
             </ab>
             <pb facs="#facs_75" n="part2_p075.jpg" xml:id="img_0075"/>
             <ab facs="#facs_75_tr_1">
                <lb facs="#facs_75_tr_1_tl_1" n="N001"/>[354]
                <lb facs="#facs_75_tr_1_tl_2" n="N002"/>through it. Here you can also see what I said before: this Baby is already the same world-ruler
-               <lb facs="#facs_75_tr_1_tl_3" n="N003"/>as in the picture before is, the Christ on His throne. This is the interpretation of the Eastern church,
+               <lb facs="#facs_75_tr_1_tl_3" n="N003"/>as in the picture before is, the <Christ>Christ</Christ> on His throne. This is the interpretation of the Eastern church,
                <lb facs="#facs_75_tr_1_tl_4" n="N004"/>of the divine Presence in the human, the infinite in the finite, so that the finite is almost swallowed.
                <lb facs="#facs_75_tr_1_tl_5" n="N005"/>For those who know history of Christian though, [you] will remember that this was the
-               <lb facs="#facs_75_tr_1_tl_6" n="N006"/>monophysitic [sic.] trend, the trend to eliminate the human nature for the sake of the divine nature.
+               <lb facs="#facs_75_tr_1_tl_6" n="N006"/><Monophysitism>monophysitic</Monophysitism> [sic.] trend, the trend to eliminate the human nature for the sake of the divine nature.
                <lb facs="#facs_75_tr_1_tl_8" n="N007"/>But just this transparency made these pictures so religiously great and powerful.
             </ab>
             <ab facs="#facs_75_tr_2">
                <lb facs="#facs_75_tr_2_tl_1" n="N001"/>23) BYZANTINE, 15th century--<hi style="font-style: italic;">RESURRECTION</hi>--I don't need to say anything. Here you have
-               <lb facs="#facs_75_tr_2_tl_2" n="N002"/>the same situation--nothing naturalistic in time and space. I will say one more--the two-dimensional
+               <lb facs="#facs_75_tr_2_tl_2" n="N002"/>the same situation--nothing naturalistic in <Time>time</Time> and <Space>space</Space>. I will say one more--the two-dimensional
                <lb facs="#facs_75_tr_2_tl_3" n="N003"/>character of the religious picture is a very important element in it, because the 3-dimensional character,
                <lb facs="#facs_75_tr_2_tl_4" n="N004"/>which was really invented in the Renaissance, and of course before that sometime in the ancient period,
                <lb facs="#facs_75_tr_2_tl_5" n="N005"/>puts the divine into time and space. THIS takes it into a dimension which is in itself beyond the actuality
                <lb facs="#facs_75_tr_2_tl_6" n="N006"/>in time and space; what I called ''going-around,'' even in an illusionistic naturalistic way, doesn’t
-               <lb facs="#facs_75_tr_2_tl_7" n="N007"/>exist here--there is no illusion of a depth of space. It is simply totality of symbols, which appear
+               <lb facs="#facs_75_tr_2_tl_7" n="N007"/>exist here--there is no illusion of a depth of space. It is simply totality of <Symbols>symbols</Symbols>, which appear
                <lb facs="#facs_75_tr_2_tl_8" n="N008"/>here [in this picture].
             </ab>
             <ab facs="#facs_75_tr_3">
                <lb facs="#facs_75_tr_3_tl_1" n="N001"/>24) ITALIAN--We are now [in] the Romanesque era, where we have such, and many less beautiful,
-               <lb facs="#facs_75_tr_3_tl_2" n="N002"/>Crucifixions. I remind you of the cover of the <hi style="font-style: italic;">Life [Magazine]</hi> issue for Christmas, where the Christ
+               <lb facs="#facs_75_tr_3_tl_2" n="N002"/>Crucifixions. I remind you of the cover of the <hi style="font-style: italic;">Life [Magazine]</hi> issue for Christmas, where the <Christ>Christ</Christ>
                <lb facs="#facs_75_tr_3_tl_3" n="N003"/>pictures were given. There we have a similar Romanesque picture, but more distorted, even,
                <lb facs="#facs_75_tr_3_tl_4" n="N004"/>than this, and less naturalistic. But this is the Romanesque period.
             </ab>
@@ -5284,12 +5284,12 @@
             <ab facs="#facs_76_tr_1">
                <lb facs="#facs_76_tr_1_tl_1" n="N001"/>have here. And such pictures have more religious power than all of the later pictures I showed you
                <lb facs="#facs_76_tr_1_tl_2" n="N002"/>in the third level together.
-               <lb facs="#facs_76_tr_1_tl_3" n="N003"/>26) BRUEGHEL, <hi style="font-style: italic;">ADORATION</hi>--Now the divine unites with the demonic.
+               <lb facs="#facs_76_tr_1_tl_3" n="N003"/>26) <rs type="person" key=", tillich_person_id__295">BRUEGHEL</rs>, <hi style="font-style: italic;">ADORATION</hi>--Now the divine unites with the demonic.
                <lb facs="#facs_76_tr_1_tl_4" n="N004"/>27) We will go immediately to the next which is also a Breughel [sic.], <hi style="font-style: italic;">TRIUMPH OF DEATH</hi>--Now this picture is the world of the
-               <lb facs="#facs_76_tr_1_tl_6" n="N005"/>demonic ruling the earth. Here you have the depth dimension towards ''below'' and not towards ''up''
+               <lb facs="#facs_76_tr_1_tl_6" n="N005"/><Demonic>demonic</Demonic> ruling the earth. Here you have the depth dimension towards ''below'' and not towards ''up''
                <lb facs="#facs_76_tr_1_tl_8" n="N006"/>but towards ''down.'' If you look at it, you have here not [a] realistic or beautiful picture;
                <lb facs="#facs_76_tr_1_tl_9" n="N007"/>it is the triumph of death, which it really means, is expressed in everything, and everything in such a
-               <lb facs="#facs_76_tr_1_tl_10" n="N008"/>way that the demonic background of the feeling of the later Renaissance is tremendously expressed
+               <lb facs="#facs_76_tr_1_tl_10" n="N008"/>way that the demonic background of the feeling of the later <Renaissance>Renaissance</Renaissance> is tremendously expressed
                <lb facs="#facs_76_tr_1_tl_11" n="N009"/>in such a picture, and you can say it is the predecessor of surrealism. The special things are also
                <lb facs="#facs_76_tr_1_tl_12" n="N010"/>very photographic sometimes, but the composition of the parts into the whole is something of a
                <lb facs="#facs_76_tr_1_tl_14" n="N011"/>demonic imagination as it has hardly reached in any painting of the 20th century.
@@ -5297,23 +5297,23 @@
             <pb facs="#facs_77" n="part2_p077.jpg" xml:id="img_0077"/>
             <ab facs="#facs_77_tr_1">
                <lb facs="#facs_77_tr_1_tl_1" n="N001"/>[356]
-               <lb facs="#facs_77_tr_1_tl_2" n="N002"/>28) HIERONYMOUS BOSCH, <hi style="font-style: italic;">TEMPTATION</hi>--I can simply repeat the same thing about the
-               <lb facs="#facs_77_tr_1_tl_3" n="N003"/>demonic character of the world. It is astonishing that these figures have been invented at that time
+               <lb facs="#facs_77_tr_1_tl_2" n="N002"/>28) <rs type="person" key=", tillich_person_id__261">HIERONYMOUS BOSCH</rs>, <hi style="font-style: italic;">TEMPTATION</hi>--I can simply repeat the same thing about the
+               <lb facs="#facs_77_tr_1_tl_3" n="N003"/><Demonic>demonic</Demonic> character of the world. It is astonishing that these figures have been invented at that time
                <lb facs="#facs_77_tr_1_tl_4" n="N004"/>and have been brought to the surface. In former pictures they were kept in the Hell, as Hell demons.
-               <lb facs="#facs_77_tr_1_tl_5" n="N005"/>Now they rule the surface, which means the unconscious has come into the open, in these pictures--
+               <lb facs="#facs_77_tr_1_tl_5" n="N005"/>Now they rule the surface, which means the <unconscious>unconscious</unconscious> has come into the open, in these pictures--
                <lb facs="#facs_77_tr_1_tl_6" n="N006"/>...the coming of the unconscious anxiety elements. This period became increasingly a period of
-               <lb facs="#facs_77_tr_1_tl_8" n="N007"/>tremendous anxiety, anxiety both of death and of guilt--that’s combined--and [in the] hope to overcome it,
+               <lb facs="#facs_77_tr_1_tl_8" n="N007"/>tremendous <Anxiety>anxiety</Anxiety>, anxiety both of death and of guilt--that’s combined--and [in the] hope to overcome it,
                <lb facs="#facs_77_tr_1_tl_10" n="N008"/>the Reformation came, to a great extent.
                <lb facs="#facs_77_tr_1_tl_11" n="N009"/>29) EL GRECO, <hi style="font-style: italic;">CORONATION OF THE VIRGIN</hi>--This is post-Renaissance, while the others
                <lb facs="#facs_77_tr_1_tl_12" n="N010"/>were mostly pre-Renaissance. What has happened here? The religious spirit broke into the later
-               <lb facs="#facs_77_tr_1_tl_14" n="N011"/>Renaissance and produced what we call Mannerism [this] and Baroque--the attempt to give the mood of the
+               <lb facs="#facs_77_tr_1_tl_14" n="N011"/><Renaissance>Renaissance</Renaissance> and produced what we call Mannerism [this] and Baroque--the attempt to give the mood of the
                <lb facs="#facs_77_tr_1_tl_15" n="N012"/>natural forms again in religious ecstasy, just as the Spanish mystics tried to do it in steps going up,
                <lb facs="#facs_77_tr_1_tl_16" n="N013"/>while Medieval mysticism, so to speak, was something lying above us, which comes down to us.
             </ab>
             <ab facs="#facs_77_tr_2">
                <lb facs="#facs_77_tr_2_tl_1" n="N001"/>Now the tremendous bodily, even, and vital naturalistic ecstasy is needed in order to reach the
                <lb facs="#facs_77_tr_2_tl_2" n="N002"/>religious expression.
-               <lb facs="#facs_77_tr_2_tl_3" n="N003"/>30) REMBRANDT, three crosses--Here we come to the end of that period after which the great
+               <lb facs="#facs_77_tr_2_tl_3" n="N003"/>30) <rs type="person" key=", tillich_person_id__1580">REMBRANDT</rs>, three crosses--Here we come to the end of that period after which the great
                <lb facs="#facs_77_tr_2_tl_4" n="N004"/>gap started, as I told you--this is also one of the greatest religious pictures, I would say, because it
                <lb facs="#facs_77_tr_2_tl_5" n="N005"/>expresses, with the MEANS of Rembrandt (light and lines), the reality of the human situation, in all
                <lb facs="#facs_77_tr_2_tl_6" n="N006"/>these figures, but nevertheless in the triangular lines going up, at the same time the triumph.
@@ -5323,10 +5323,10 @@
             <ab facs="#facs_78_tr_1">
                <lb facs="#facs_78_tr_1_tl_1" n="N001"/>[357]
                <lb facs="#facs_78_tr_1_tl_2" n="N002"/>--not a visible triumph as such.
-               <lb facs="#facs_78_tr_1_tl_3" n="N003"/>31) REMBRANDT, <hi style="font-style: italic;">DESCENT FROM THE CROSS</hi>--Now here I only ask you to look at it,
+               <lb facs="#facs_78_tr_1_tl_3" n="N003"/>31) <rs type="person" key=", tillich_person_id__1580">REMBRANDT</rs>, <hi style="font-style: italic;">DESCENT FROM THE CROSS</hi>--Now here I only ask you to look at it,
                <lb facs="#facs_78_tr_1_tl_4" n="N004"/>to compare it with this beautifying naturalism which we have seen, and the infinite superiority,
                <lb facs="#facs_78_tr_1_tl_5" n="N005"/>religiously speaking, of such a picture.
-               <lb facs="#facs_78_tr_1_tl_6" n="N006"/>32) GRÜNEWALD--I go a little bit back now to the picture which many people, including myself,
+               <lb facs="#facs_78_tr_1_tl_6" n="N006"/>32) <rs type="person" key=", tillich_person_id__730">GRÜNEWALD</rs>--I go a little bit back now to the picture which many people, including myself,
                <lb facs="#facs_78_tr_1_tl_7" n="N007"/>consider to be the greatest picture ever painted in Germany. It was in the beginning of the Reformation
                <lb facs="#facs_78_tr_1_tl_8" n="N008"/>period, beginning of the 16th century, earlier than Rembrandt. And you keep this picture of the Cross
                <lb facs="#facs_78_tr_1_tl_9" n="N009"/>in your mind because I show you at the end a modern picture which is very similar. Now here, in the
@@ -5335,33 +5335,33 @@
             <ab facs="#facs_78_tr_3">
                <lb facs="#facs_78_tr_3_tl_1" n="N001"/>in the church? Or would you say this is blasphemy of the Son of God, this His body is really
                <lb facs="#facs_78_tr_3_tl_2" n="N002"/>as it is described in Isaiah 53, full of green spots, expressions the decay of the body, and the swelling
-               <lb facs="#facs_78_tr_3_tl_3" n="N003"/>of the feet and of the other things. That is expressionism, if you want, but expressionism in terms
+               <lb facs="#facs_78_tr_3_tl_3" n="N003"/>of the feet and of the other things. That is <Expressionistic_Art>expressionism</Expressionistic_Art>, if you want, but expressionism in terms
                <lb facs="#facs_78_tr_3_tl_4" n="N004"/>of something which is at the same time concrete. It is again a transitory moment here, and therefore
-               <lb facs="#facs_78_tr_3_tl_5" n="N005"/>one of the greatest. He and Giotto and Rembrandt are the great transitories [sic.] in whom the spirit
+               <lb facs="#facs_78_tr_3_tl_5" n="N005"/>one of the greatest. He and <rs type="person" key=", tillich_person_id__681">Giotto</rs> and Rembrandt are the great transitories [sic.] in whom the spirit
                <lb facs="#facs_78_tr_3_tl_6" n="N006"/>of what I called expressionism is united with understanding of the natural forms in a way which cannot
             </ab>
             <ab facs="#facs_78_tr_2">
                <lb facs="#facs_78_tr_2_tl_1" n="N001"/>artificially be produced and certainly not imitated.
                <lb facs="#facs_78_tr_2_tl_2" n="N002"/>33) GRÜNEWALD, <hi style="font-style: italic;">RESURRECTION</hi>--It is on the same [Isenheim] altarpiece--and I want to
-               <lb facs="#facs_78_tr_2_tl_3" n="N003"/>say this is almost the ONLY picture of resurrection which I personally can accept because it doesn't
-               <lb facs="#facs_78_tr_2_tl_4" n="N004"/>make the resurrection into a physical event of special events of a special body, but it puts the body
+               <lb facs="#facs_78_tr_2_tl_3" n="N003"/>say this is almost the ONLY picture of <Resurrection>resurrection</Resurrection> which I personally can accept because it doesn't
+               <lb facs="#facs_78_tr_2_tl_4" n="N004"/>make the resurrection into a physical event of special events of a special <Body>body</Body>, but it puts the body
             </ab>
             <pb facs="#facs_79" n="part2_p079.jpg" xml:id="img_0079"/>
             <ab facs="#facs_79_tr_4">
                <lb facs="#facs_79_l" n="N001"/>[358]
                <lb facs="#facs_79_tr_4_tl_1" n="N002"/>into the sun, which means it is a completely transcendent event, and not an event of a physical
                <lb facs="#facs_79_tr_4_tl_2" n="N003"/>transformation of atoms. And according to this, perhaps we might be able again to paint the
-               <lb facs="#facs_79_tr_4_tl_3" n="N004"/>resurrection, but not in terms of those where Jesus then walks around as if nothing had happened,
+               <lb facs="#facs_79_tr_4_tl_3" n="N004"/><Resurrection>resurrection</Resurrection>, but not in terms of those where Jesus then walks around as if nothing had happened,
                <lb facs="#facs_79_tr_4_tl_4" n="N005"/>and there He is again, He had disappeared for a few days, which is entirely against the Christian
                <lb facs="#facs_79_tr_4_tl_5" n="N006"/>and the religious meaning of the resurrection.
-               <lb facs="#facs_79_tr_4_tl_6" n="N007"/>34) ROUAULT, <hi style="font-style: italic;">CRUCIFIXION</hi>--Now here you have the modern attempts--I come to them now--
+               <lb facs="#facs_79_tr_4_tl_6" n="N007"/>34) <rs type="person" key=", tillich_person_id__3094">ROUAULT</rs>, <hi style="font-style: italic;">CRUCIFIXION</hi>--Now here you have the modern attempts--I come to them now--
                <lb facs="#facs_79_tr_4_tl_7" n="N008"/>to show in modern forms, in the forms which have been created by the modern development, not
             </ab>
             <ab facs="#facs_79_tr_3">
                <lb facs="#facs_79_tr_3_tl_1" n="N001"/>only the secular contents, but also religious symbols coming from the tradition. I feel not able to judge,
                <lb facs="#facs_79_tr_3_tl_2" n="N002"/>myself, about the success with full conviction. And that is [what] your generation will have to do
                <lb facs="#facs_79_tr_3_tl_3" n="N003"/>more than we are able to do it. In any case, as an attempt to overcome that against which we have
-               <lb facs="#facs_79_tr_3_tl_4" n="N004"/>to fight, the beautifying naturalism combined with sentimentality, this is a tremendous progress.
+               <lb facs="#facs_79_tr_3_tl_4" n="N004"/>to fight, the beautifying naturalism combined with <Sentimentality>sentimentality</Sentimentality>, this is a tremendous progress.
                <lb facs="#facs_79_tr_3_tl_5" n="N005"/>35) ROUAULT, <hi style="font-style: italic;">HEAD OF CHRIST</hi>--This is also in the <hi style="font-style: italic;">Life Magazine</hi> issue of Christmas.
                <lb facs="#facs_79_tr_3_tl_6" n="N006"/>We chose it because it is a Rouault, which is most radical, while sometimes his stained-
                <lb facs="#facs_79_tr_3_tl_7" n="N007"/>window method makes him less radical. This is not colored, but this is something in which he
@@ -5373,20 +5373,20 @@
             <pb facs="#facs_80" n="part2_p080.jpg" xml:id="img_0080"/>
             <ab facs="#facs_80_tr_1">
                <lb facs="#facs_80_tr_1_tl_3" n="N001"/>[359]
-               <lb facs="#facs_80_tr_1_tl_4" n="N002"/>36) NOLDE, <hi style="font-style: italic;">THE LAST SUPPER</hi>--Nolde is a German expressionist who tried to bring,
+               <lb facs="#facs_80_tr_1_tl_4" n="N002"/>36) <rs type="person" key=", tillich_person_id__1404">NOLDE</rs>, <hi style="font-style: italic;">THE LAST SUPPER</hi>--Nolde is a German <Expressionistic_Art>expressionist</Expressionistic_Art> who tried to bring,
                <lb facs="#facs_80_tr_1_tl_5" n="N003"/>with his means of painting (which were expressionistic) the ecstatic character of all the religious events.
                <lb facs="#facs_80_tr_1_tl_6" n="N004"/>You must not think that he meant that this was a photograph of the SCENE of the Last Supper,
                <lb facs="#facs_80_tr_1_tl_7" n="N005"/>but you must imagine WHAT SPIRITUALLY HAPPENED in this event. He tried to express
             </ab>
             <ab facs="#facs_80_tr_3">
-               <lb facs="#facs_80_tr_3_tl_1" n="N001"/>in the different ecstatic and DEMONIC forms of this tremendous scene. And I think he came very
+               <lb facs="#facs_80_tr_3_tl_1" n="N001"/>in the different ecstatic and <Demonic>DEMONIC</Demonic> forms of this tremendous scene. And I think he came very
                <lb facs="#facs_80_tr_3_tl_2" n="N002"/>near to it. But again, I don’t know how far he solved the problem for our situation. But this is
                <lb facs="#facs_80_tr_3_tl_3" n="N003"/>the DIRECTION in which it has to lie. I must confess [to] you, when I first saw this picture in
                <lb facs="#facs_80_tr_3_tl_4" n="N004"/>Dresden in the twenties, then I was tremendously expressed by it. Then came a period in which I
                <lb facs="#facs_80_tr_3_tl_5" n="N005"/>became very skeptical. TODAY, when I see it, I have the feeling it keeps up, it is more than I thought
                <lb facs="#facs_80_tr_3_tl_6" n="N006"/>it to be when I first saw it than in my later more critical period about it. But these are partly
                <lb facs="#facs_80_tr_3_tl_7" n="N007"/>subjective developments, and they may be different in all of you.
-               <lb facs="#facs_80_tr_3_tl_8" n="N008"/>37) PICASSO, <hi style="font-style: italic;">CRUCIFIXION</hi>--Here he tries the same thing he tried in the <hi style="font-style: italic;">Guernica</hi>
+               <lb facs="#facs_80_tr_3_tl_8" n="N008"/>37) <rs type="person" key=", tillich_person_id__1495">PICASSO</rs>, <hi style="font-style: italic;">CRUCIFIXION</hi>--Here he tries the same thing he tried in the <hi style="font-style: italic;">Guernica</hi>
             </ab>
             <ab facs="#facs_80_tr_2">
                <lb facs="#facs_80_tr_2_tl_1" n="N001"/>picture. I would say this attempt can go as religious art, but certainly it cannot go as ritual art.
@@ -5398,7 +5398,7 @@
             <pb facs="#facs_81" n="part2_p081.jpg" xml:id="img_0081"/>
             <ab facs="#facs_81_tr_1">
                <lb facs="#facs_81_tr_1_tl_1" n="N001"/>[360]
-               <lb facs="#facs_81_tr_1_tl_2" n="N002"/>38) SUTHERLAND, <hi style="font-style: italic;">CRUCIFIXION</hi>--This is the last picture, by an American painter. You see
+               <lb facs="#facs_81_tr_1_tl_2" n="N002"/>38) <rs type="person" key=", tillich_person_id__3101">SUTHERLAND</rs>, <hi style="font-style: italic;">CRUCIFIXION</hi>--This is the last picture, by an American painter. You see
                <lb facs="#facs_81_tr_1_tl_3" n="N003"/>the similarity to the Grünewald in many respects. It is with modern means an attempt to produce
                <lb facs="#facs_81_tr_1_tl_4" n="N004"/>the same powerful impression which we have in this Grünewald picture. I only want to tell you
                <lb facs="#facs_81_tr_1_tl_5" n="N005"/>at the end of this section, that this is not a matter of mere subjectivity, but that in this development
@@ -5412,17 +5412,17 @@
             <ab facs="#facs_82_tr_2">
                <lb facs="#facs_82_tr_2_tl_3" n="N001"/>[361]
                <lb facs="#facs_82_tr_2_tl_4" n="N002"/>LECTURE XXIX, Feb. 23, 1956
-               <lb facs="#facs_82_tr_2_tl_5" n="N003"/>QN [Paul A. Lee, Jr.] : Valéry, when asked if he could give a definition of beauty, answered easily,
+               <lb facs="#facs_82_tr_2_tl_5" n="N003"/>QN [Paul A. Lee, Jr.] : Valéry, when asked if he could give a definition of <Beauty>beauty</Beauty>, answered easily,
                <lb facs="#facs_82_tr_2_tl_6" n="N004"/>''It is that which makes us despair.'' Please comment on this in reference to your formulation
                <lb facs="#facs_82_tr_2_tl_7" n="N005"/>regarding the revelation character of art.
-               <lb facs="#facs_82_tr_2_tl_8" n="N006"/>PT: Now I want to refer to another great poet, Rilke, who in the Duino Elegies says:
+               <lb facs="#facs_82_tr_2_tl_8" n="N006"/>PT: Now I want to refer to another great poet, <rs type="person" key=", tillich_person_id__1611">Rilke</rs>, who in the <hi style="font-style: italic;">Duino Elegies</hi> says:
                <lb facs="#facs_82_tr_2_tl_9" n="N007"/>every angel is terrible, and the beautiful is just the beginning of the horrible which we still can
                <lb facs="#facs_82_tr_2_tl_10" n="N008"/>stand.--In both of these statements there is a feeling for the unity of the beautiful-creative and
                <lb facs="#facs_82_tr_2_tl_11" n="N009"/>the horrible-destructive. To this I could simply refer to the fact of the ambiguity of life in which the
             </ab>
             <ab facs="#facs_82_tr_3">
                <lb facs="#facs_82_tr_3_tl_2" n="N001"/>creative always implies the destructive, and the destructive is the first in the process which
-               <lb facs="#facs_82_tr_3_tl_3" n="N002"/>leads to the creative. But this is a general statement which refers to all life. With respect to art,
+               <lb facs="#facs_82_tr_3_tl_3" n="N002"/>leads to the creative. But this is a general statement which refers to all life. With respect to <Art>art</Art>,
                <lb facs="#facs_82_tr_3_tl_4" n="N003"/>I could refer to what I said about the anticipatory character of art, out of which the idealistic
                <lb facs="#facs_82_tr_3_tl_5" n="N004"/>forms of art come which are usually covered by the term beauty. You remember that I tried
             </ab>
@@ -5433,7 +5433,7 @@
                <lb facs="#facs_82_tr_1_tl_4" n="N004"/>the feeling of despair. So I have answered, I think, this question as far as I can. Since I don't
                <lb facs="#facs_82_tr_1_tl_5" n="N005"/>know the context in which Valéry says this, I cannot answer the question fully, but the
                <lb facs="#facs_82_tr_1_tl_6" n="N006"/>phrase of Rilke, where I know the context, in his doctrine of angels, I can tell you for sure that he
-               <lb facs="#facs_82_tr_1_tl_7" n="N007"/>points to the hidden demonic backward of the angelic form...
+               <lb facs="#facs_82_tr_1_tl_7" n="N007"/>points to the hidden <Demonic>demonic</Demonic> backward of the angelic form...
             </ab>
             <pb facs="#facs_83" n="part2_p083.jpg" xml:id="img_0083"/>
             <ab facs="#facs_83_tr_3">
@@ -5450,8 +5450,8 @@
                <lb facs="#facs_83_tr_2_tl_4" n="N004"/>part, namely the theoretical and the practical side of culture--it is more filled with content for
                <lb facs="#facs_83_tr_2_tl_5" n="N005"/>your mind, and especially since you have seen, in the visual arts, an expression of our time and
                <lb facs="#facs_83_tr_2_tl_7" n="N006"/>the whole reality in which we are living.
-               <lb facs="#facs_83_tr_2_tl_8" n="N007"/>One of the function of art--and perhaps you remember that I said the main function of
-               <lb facs="#facs_83_tr_2_tl_9" n="N008"/>art is its revelation character and it reveals in unity two things: the human situation as such,
+               <lb facs="#facs_83_tr_2_tl_8" n="N007"/>One of the functions of <Art>art</Art>--and perhaps you remember that I said the main function of
+               <lb facs="#facs_83_tr_2_tl_9" n="N008"/>art is its <Revelation>revelation</Revelation> character and it reveals in unity two things: the human situation as such,
                <lb facs="#facs_83_tr_2_tl_10" n="N009"/>or generally; and the special situation in which this general situation becomes concrete. This
             </ab>
             <ab facs="#facs_83_tr_1">
@@ -5471,7 +5471,7 @@
                <lb facs="#facs_84_tr_1_tl_5" n="N005"/>I have discussed these problems--to say there are underlying structures which make the changes
                <lb facs="#facs_84_tr_1_tl_7" n="N006"/>possible. If there is no point of identity which makes [change?] possible, no change EITHER does exist.
                <lb facs="#facs_84_tr_1_tl_8" n="N007"/>Now this answer of course must be concretely carried through. I remember in my discussion with
-               <lb facs="#facs_84_tr_1_tl_9" n="N008"/>Marxists that there always was the point that they said: if you say anything about man, this is
+               <lb facs="#facs_84_tr_1_tl_9" n="N008"/><Marxism>Marxists</Marxism> that there always was the point that they said: if you say anything about man, this is
                <lb facs="#facs_84_tr_1_tl_10" n="N009"/>reactionary because that means that man cannot be changed, that presentday [sic.] society must be maintained,
                <lb facs="#facs_84_tr_1_tl_11" n="N010"/>etc. Now there is much truth in this. Many people use [the concept] ''an eternal nature of man''--
                <lb facs="#facs_84_tr_1_tl_12" n="N011"/>especially Lutheran theologians--namely the distorted nature of man, which makes any political change
@@ -5487,16 +5487,16 @@
             </ab>
             <ab facs="#facs_84_tr_2">
                <lb facs="#facs_84_tr_2_tl_1" n="N001"/>only different social structures, they all are different in different societies, and that is what we have
-               <lb facs="#facs_84_tr_2_tl_2" n="N002"/>to deal with. There is no basic anxiety, there is no basic courage, there is no basic freedom, there is
+               <lb facs="#facs_84_tr_2_tl_2" n="N002"/>to deal with. There is no basic <Anxiety>anxiety</Anxiety>, there is no basic <Courage>courage</Courage>, there is no basic <Freedom>freedom</Freedom>, there is
             </ab>
             <pb facs="#facs_85" n="part2_p085.jpg" xml:id="img_0085"/>
             <ab facs="#facs_85_tr_2">
                <lb facs="#facs_85_l" n="N001"/>[364]
-               <lb facs="#facs_85_tr_2_tl_1" n="N002"/>no basic destiny, there is no structure of mind, there is structure of body, all this changes--and it is
+               <lb facs="#facs_85_tr_2_tl_1" n="N002"/>no basic <Destiny>destiny</Destiny>, there is no structure of <Mind>mind</Mind>, there is structure of <Body>body</Body>, all this changes--and it is
                <lb facs="#facs_85_tr_2_tl_2" n="N003"/>meaningless to speak about man at all.
                <lb facs="#facs_85_tr_2_tl_3" n="N004"/>Unfortunately they fall into the same self-contradiction by calling their disciplines
                <lb facs="#facs_85_tr_2_tl_4" n="N005"/>''anthropology'' or ''sociology,'' presupposing a concept of man--<hi style="font-style: italic;">anthropos</hi> means man, and
-               <lb facs="#facs_85_tr_2_tl_5" n="N006"/>sociology is the science of society. So they have concepts of what man is, because they don’t
+               <lb facs="#facs_85_tr_2_tl_5" n="N006"/><Sociology>sociology</Sociology> is the science of society. So they have concepts of what man is, because they don’t
                <lb facs="#facs_85_tr_2_tl_6" n="N007"/>speak about animals; they must have some point of difference between man and animals which
                <lb facs="#facs_85_tr_2_tl_7" n="N008"/>makes it possible that they deal with these funny beings called ''men'' for which they don’t
                <lb facs="#facs_85_tr_2_tl_8" n="N009"/>want to have any characteristics, but actually of course they have; and this is a methodological trick.
@@ -5511,7 +5511,7 @@
             </ab>
             <ab facs="#facs_85_tr_1">
                <lb facs="#facs_85_tr_1_tl_1" n="N001"/>necessary that you make them as clear as possible, and that after you have done it, you simply
-               <lb facs="#facs_85_tr_1_tl_2" n="N002"/>go ahead and ask the philosophical question, ''What does it mean if use the term 'anthropology'
+               <lb facs="#facs_85_tr_1_tl_2" n="N002"/>go ahead and ask the philosophical question, ''What does it mean if use the term '<Anthropology>anthropology</Anthropology>'
                <lb facs="#facs_85_tr_1_tl_3" n="N003"/>instead of 'zoology?' '' And if you ask that question, then they MUST give an answer, and the
                <lb facs="#facs_85_tr_1_tl_4" n="N004"/>same is true for sociology in contrast to the analysis of plantations of plants and their living together,
                <lb facs="#facs_85_tr_1_tl_5" n="N005"/>which ALSO is a reality.
@@ -5520,8 +5520,8 @@
             <ab facs="#facs_86_tr_1">
                <lb facs="#facs_86_tr_1_tl_2" n="N001"/>[365] 
                <lb facs="#facs_86_tr_1_tl_3" n="N002"/>Alright. After this has been said, I think I can say: in dealing with our presentday [sic.]
-               <lb facs="#facs_86_tr_1_tl_5" n="N003"/>society, I also deal with that being which HAS created the present day society by freedom and
-               <lb facs="#facs_86_tr_1_tl_6" n="N004"/>destiny together, that being which must have characteristics which make such a society possible,
+               <lb facs="#facs_86_tr_1_tl_5" n="N003"/>society, I also deal with that being which HAS created the present day society by <Freedom>freedom</Freedom> and
+               <lb facs="#facs_86_tr_1_tl_6" n="N004"/><Destiny>destiny</Destiny> together, that being which must have characteristics which make such a society possible,
                <lb facs="#facs_86_tr_1_tl_7" n="N005"/>so that our consideration is always dual--and here a real difficulty arises, namely how much
                <lb facs="#facs_86_tr_1_tl_8" n="N006"/>belongs to the structure of man as man, and how much belongs to the structure of the Middle
                <lb facs="#facs_86_tr_1_tl_9" n="N007"/>Westerner in the year 1956? To distinguish these two elements, the one most universal and the
@@ -5530,7 +5530,7 @@
                <lb facs="#facs_86_tr_3_tl_1" n="N001"/>one most concrete, IS a continuous work of intellectual analysis. But this need [?] doesn't take
                <lb facs="#facs_86_tr_3_tl_2" n="N002"/>away the one or the other side.
                <lb facs="#facs_86_tr_3_tl_3" n="N003"/>When we gave the analysis of visual arts, I spoke about the concept of style, and I called
-               <lb facs="#facs_86_tr_3_tl_4" n="N004"/>''style'' an overall form in which a period expresses its ultimate concern. The term style was applied
+               <lb facs="#facs_86_tr_3_tl_4" n="N004"/>''<Style>style</Style>'' an overall form in which a period expresses its <ultimate_concern>ultimate concern</ultimate_concern>. The term style was applied
                <lb facs="#facs_86_tr_3_tl_5" n="N005"/>also to thinking, to politics, to science, philosophy, etc. But there is a difference between
                <lb facs="#facs_86_tr_3_tl_6" n="N006"/>the arts and all the other functions of man’s spiritual life: they all are directed to their subject matter
                <lb facs="#facs_86_tr_3_tl_7" n="N007"/>while art has, by its very nature, the function of expression. Of course a scientific method ALSO
@@ -5546,15 +5546,15 @@
             <pb facs="#facs_87" n="part2_p087.jpg" xml:id="img_0087"/>
             <ab facs="#facs_87_tr_1">
                <lb facs="#facs_87_tr_1_tl_1" n="N001"/>[366]
-               <lb facs="#facs_87_tr_1_tl_2" n="N002"/>If we ask this question, we come certainly to the distinction between the naturalistic and the
-               <lb facs="#facs_87_tr_1_tl_3" n="N003"/>expressionistic styles. You remember that I took them to be overall styles, through the whole
+               <lb facs="#facs_87_tr_1_tl_2" n="N002"/>If we ask this question, we come certainly to the distinction between the <Naturalistic_Art>naturalistic</Naturalistic_Art> and the
+               <lb facs="#facs_87_tr_1_tl_3" n="N003"/><Expressionistic_Art>expressionistic</Expressionistic_Art> styles. You remember that I took them to be overall styles, through the whole
                <lb facs="#facs_87_tr_1_tl_4" n="N004"/>history of art, and that both of them express a special relationship to reality. Here we have
                <lb facs="#facs_87_tr_1_tl_5" n="N005"/>something which both characterizes a special period and man's situation universally. Actually
                <lb facs="#facs_87_tr_1_tl_6" n="N006"/>the situation is such that we can say: artistic style is expressionistic style because expression is the
                <lb facs="#facs_87_tr_1_tl_7" n="N007"/>meaning of art. But in some small moments of history, the naturalistic trend became dominant.
                <lb facs="#facs_87_tr_1_tl_8" n="N008"/>This was so since the classical period in Greece, the 5th century, up to the first century before Christ
                <lb facs="#facs_87_tr_1_tl_9" n="N009"/>when a new archaism started, a return to the pre-naturalistic style, into which, then, Christianity
-               <lb facs="#facs_87_tr_1_tl_10" n="N010"/>could easily enter. And the second period in Western civilization started with the early Renaissance
+               <lb facs="#facs_87_tr_1_tl_10" n="N010"/>could easily enter. And the second period in Western civilization started with the early <Renaissance>Renaissance</Renaissance>
                <lb facs="#facs_87_tr_1_tl_11" n="N011"/>and went through with a strong interruption in the period of Reformation and Counter-Reformation,
                <lb facs="#facs_87_tr_1_tl_12" n="N012"/>up to the end of the 19th century.
                <lb facs="#facs_87_tr_1_tl_13" n="N013"/>Now these are two periods in Western history as far as we know it, in which naturalistic
@@ -5562,28 +5562,28 @@
             <ab facs="#facs_87_tr_2">
                <lb facs="#facs_87_tr_2_tl_1" n="N001"/>tendencies prevail over against expressionistic tendencies. Let me repeat what I tried to show in
                <lb facs="#facs_87_tr_2_tl_2" n="N002"/>connection with the pictures, that even in naturalistic style it is not the negation of the
-               <lb facs="#facs_87_tr_2_tl_4" n="N003"/>ultimate AS SUCH, which is meant, but as the philosophy of the early Renaissance clearly shows,
-               <lb facs="#facs_87_tr_2_tl_5" n="N004"/>it is the desire to find the ultimate, the infinite, in nature, society and man. And the philosophers
-               <lb facs="#facs_87_tr_2_tl_6" n="N005"/>and artists in early Florence of the Renaissance worked intimately together. The philosophers
+               <lb facs="#facs_87_tr_2_tl_4" n="N003"/><Ultimacy>ultimate</Ultimacy> AS SUCH, which is meant, but as the philosophy of the early Renaissance clearly shows,
+               <lb facs="#facs_87_tr_2_tl_5" n="N004"/>it is the desire to find the ultimate, the infinite, in nature, society and man. And the <Philosopher>philosophers</Philosopher>
+               <lb facs="#facs_87_tr_2_tl_6" n="N005"/>and <Artist>artists</Artist> in early Florence of the Renaissance worked intimately together. The philosophers
                <lb facs="#facs_87_tr_2_tl_7" n="N006"/>tried to express rationally, or better, conceptually, what the artists did visually,and vice versa.
             </ab>
             <pb facs="#facs_88" n="part2_p088.jpg" xml:id="img_0088"/>
             <ab facs="#facs_88_tr_2">
                <lb facs="#facs_88_tr_2_tl_1" n="N001"/>[367]
-               <lb facs="#facs_88_tr_2_tl_2" n="N002"/>In all these men there was not the tendency to deny what is always present in expressionistic styles,
-               <lb facs="#facs_88_tr_2_tl_3" n="N003"/>namely the ultimate breaking into the surface of reality. But they believed that the surface of
-               <lb facs="#facs_88_tr_2_tl_4" n="N004"/>reality in its anticipatory form--as beauty, as perfection--is able to take into itself the ultimate itself.
+               <lb facs="#facs_88_tr_2_tl_2" n="N002"/>In all these men there was not the tendency to deny what is always present in <Expressionistic_Art>expressionistic</Expressionistic_Art> styles,
+               <lb facs="#facs_88_tr_2_tl_3" n="N003"/>namely the <Ultimacy>ultimate</Ultimacy> breaking into the surface of reality. But they believed that the surface of
+               <lb facs="#facs_88_tr_2_tl_4" n="N004"/>reality in its anticipatory form--as <Beauty>beauty</Beauty>, as perfection--is able to take into itself the ultimate itself.
                <lb facs="#facs_88_tr_2_tl_5" n="N005"/>Now I leave, for a certain time, the artistic realm and come to the sociological reality
                <lb facs="#facs_88_tr_2_tl_7" n="N006"/>which is expressed IN the artistic creativity. The naturalism that starts with the early
-               <lb facs="#facs_88_tr_2_tl_8" n="N007"/>Renaissance is an expression of the general attitude of industrial society. The naturalism of modern
+               <lb facs="#facs_88_tr_2_tl_8" n="N007"/><Renaissance>Renaissance</Renaissance> is an expression of the general attitude of industrial society. The naturalism of modern
             </ab>
             <ab facs="#facs_88_tr_1">
                <lb facs="#facs_88_tr_1_tl_1" n="N001"/>art, starting with the Renaissance and interrupted only briefly in the Baroque period, is an expression of
-               <lb facs="#facs_88_tr_1_tl_3" n="N002"/>the ultimate self-interpretation of industrial society in the Western world.
+               <lb facs="#facs_88_tr_1_tl_3" n="N002"/>the ultimate self-interpretation of <Industrialism>industrial</Industrialism> society in the Western world.
                <lb facs="#facs_88_tr_1_tl_5" n="N003"/>From here I want to characterize now this Western world in which we are living. First
                <lb facs="#facs_88_tr_1_tl_6" n="N004"/>in a very general way, and then going down to many concrete elements which confirm this general
                <lb facs="#facs_88_tr_1_tl_7" n="N005"/>statement. Now the general statement is: MAN CONTROLLING NATURE AND SOCIETY,
-               <lb facs="#facs_88_tr_1_tl_8" n="N006"/>IN THE POWER OF THE LOGOS.
+               <lb facs="#facs_88_tr_1_tl_8" n="N006"/>IN THE POWER OF THE <Logos>LOGOS</Logos>.
                <lb facs="#facs_88_tr_1_tl_9" n="N007"/>I avoid the word ''reason,'' which I could use, if that deteriorization [sic.] of
                <lb facs="#facs_88_tr_1_tl_10" n="N008"/>the word had not occurred, so that if I say ''reason'' today, you immediately think of the calculating
                <lb facs="#facs_88_tr_1_tl_12" n="N009"/>businessman or the analytic philosopher. But I don't mean either of them--although they
@@ -5605,25 +5605,25 @@
                <lb facs="#facs_89_tr_2_tl_8" n="N008"/>ENCOUNTER a period.
                <lb facs="#facs_89_tr_2_tl_9" n="N009"/>Now the same is true of the periodization of which I am speaking here. From the Renaissance
                <lb facs="#facs_89_tr_2_tl_10" n="N010"/>to the end of the 19th century, we have a period which is completely determined, in all its special
-               <lb facs="#facs_89_tr_2_tl_11" n="N011"/>characteristics, by man controlling nature and society in the power of the logos. In order to make
+               <lb facs="#facs_89_tr_2_tl_11" n="N011"/>characteristics, by man controlling nature and society in the power of the <Logos>logos</Logos>. In order to make
             </ab>
             <ab facs="#facs_89_tr_1">
                <lb facs="#facs_89_tr_1_tl_1" n="N001"/>this clearer, let us compare it for a moment with other periods.
                <lb facs="#facs_89_tr_1_tl_2" n="N002"/>The immediately preceding periods, from 900 to about 1500, we can call the Middle Age.
-               <lb facs="#facs_89_tr_1_tl_3" n="N003"/>These Middle Ages have an entirely different principle. They have the principle of nature
+               <lb facs="#facs_89_tr_1_tl_3" n="N003"/>These <Middle_Ages>Middle Ages</Middle_Ages> have an entirely different principle. They have the principle of nature
                <lb facs="#facs_89_tr_1_tl_5" n="N004"/>and society shaped on the basis of the sacramental presence of the ultimate, in the
-               <lb facs="#facs_89_tr_1_tl_7" n="N005"/>Church and its sacramental activities. This was changed slowly but broke through in the Renaissance--
+               <lb facs="#facs_89_tr_1_tl_7" n="N005"/><Church>Church</Church> and its sacramental activities. This was changed slowly but broke through in the <Renaissance>Renaissance</Renaissance>--
                <lb facs="#facs_89_tr_1_tl_8" n="N006"/>the opposite to it.
-               <lb facs="#facs_89_tr_1_tl_10" n="N007"/>We can compare it also with another period, which we can call the Byzantine period.
+               <lb facs="#facs_89_tr_1_tl_10" n="N007"/>We can compare it also with another period, which we can call the <Byzantine_Art>Byzantine</Byzantine_Art> period.
                <lb facs="#facs_89_tr_1_tl_13" n="N008"/>I showed you pictures of this great period in which religious art, perhaps, flourishes more than in any
                <lb facs="#facs_89_tr_1_tl_14" n="N009"/>other of the Western periods, namely the translucency of the spiritual to the material--in philosophy, in
-               <lb facs="#facs_89_tr_1_tl_15" n="N010"/>life, in everything. Or we can compare it with the period in which Neoplatonism and Christianity fought
+               <lb facs="#facs_89_tr_1_tl_15" n="N010"/>life, in everything. Or we can compare it with the period in which <Neoplatonism>Neoplatonism</Neoplatonism> and <Christianity>Christianity</Christianity> fought
             </ab>
             <pb facs="#facs_90" n="part2_p090.jpg" xml:id="img_0090"/>
             <ab facs="#facs_90_tr_2">
                <lb facs="#facs_90_tr_2_tl_1" n="N001"/>[369]
                <lb facs="#facs_90_tr_2_tl_2" n="N002"/>with each other, from 100 before to 400 after Christ, the so-called religious period of the ancient world
-               <lb facs="#facs_90_tr_2_tl_3" n="N003"/>in which the only question was the salvation of the individual soul out of a demonically controlled world.
+               <lb facs="#facs_90_tr_2_tl_3" n="N003"/>in which the only question was the salvation of the individual <Soul>soul</Soul> out of a demonically controlled world.
                <lb facs="#facs_90_tr_2_tl_4" n="N004"/>Or we can compare it with the still earlier period, from 600 to 100, especially with relation to Greece,
                <lb facs="#facs_90_tr_2_tl_5" n="N005"/>where the question was to find the immovable in the changes of the movable. Now I would like to go
                <lb facs="#facs_90_tr_2_tl_6" n="N006"/>into this, and I have an appointment with the History Department to speak about this in one of the
@@ -5635,12 +5635,12 @@
                <lb facs="#facs_90_tr_2_tl_12" n="N012"/>which starts around 1900, OUR period, might be called, in a few hundred years, the period in which the
             </ab>
             <ab facs="#facs_90_tr_1">
-               <lb facs="#facs_90_tr_1_tl_1" n="N001"/>central emergency was our historical existence. Sometimes I still believe I was right. But since no one
+               <lb facs="#facs_90_tr_1_tl_1" n="N001"/>central emergency was our <Historical_Existence>historical existence</Historical_Existence>. Sometimes I still believe I was right. But since no one
                <lb facs="#facs_90_tr_1_tl_2" n="N002"/>can say what the underlying problem of one's own period is, this is more an anticipation and a guess
                <lb facs="#facs_90_tr_1_tl_4" n="N003"/>than a statement which I could make with the same conviction in which I can make (and prove, in all
                <lb facs="#facs_90_tr_1_tl_5" n="N004"/>special things) the other statements about the other periods.
                <lb facs="#facs_90_tr_1_tl_6" n="N005"/>Now if I say our period is the period of man controlling nature and society in the power
-               <lb facs="#facs_90_tr_1_tl_7" n="N006"/>of reason, or the logos, then I can immediately make a short intermission in the process of my
+               <lb facs="#facs_90_tr_1_tl_7" n="N006"/>of reason, or the <Logos>logos</Logos>, then I can immediately make a short intermission in the process of my
                <lb facs="#facs_90_tr_1_tl_8" n="N007"/>thought, namely that this period is not unbroken, and the pictures I gave you have shown this quality
                <lb facs="#facs_90_tr_1_tl_11" n="N008"/>I hope very closely. In the late Renaissance, a reaction against the naturalistic self-interpretation
             </ab>
@@ -5654,10 +5654,10 @@
             </ab>
             <ab facs="#facs_91_tr_2">
                <lb facs="#facs_91_tr_2_tl_1" n="N001"/>the period of bourgeois absolutism, of the absolutistic powers of the kings, or of special groups.
-               <lb facs="#facs_91_tr_2_tl_2" n="N002"/>All this is a reaction against what first broke out in the Renaissance. If we have similar
+               <lb facs="#facs_91_tr_2_tl_2" n="N002"/>All this is a reaction against what first broke out in the <Renaissance>Renaissance</Renaissance>. If we have similar
                <lb facs="#facs_91_tr_2_tl_3" n="N003"/>reactions, since the end of the 19th century, then we must be very humble in praising these reactions
                <lb facs="#facs_91_tr_2_tl_4" n="N004"/>as I did when I showed you the second and the fourth levels of art, namely humble in the knowledge
-               <lb facs="#facs_91_tr_2_tl_5" n="N005"/>that this may be ALSO a transitory reaction, and that finally the spirit of industrial society
+               <lb facs="#facs_91_tr_2_tl_5" n="N005"/>that this may be ALSO a transitory reaction, and that finally the spirit of <Industrialism>industrial society</Industrialism>
                <lb facs="#facs_91_tr_2_tl_6" n="N006"/>will remain victorious--we don't know. But one thing we know is that from the point of view
                <lb facs="#facs_91_tr_2_tl_7" n="N007"/>of RELIGION and culture, this reaction, since the end of the 19th century, has behind itself
                <lb facs="#facs_91_tr_2_tl_8" n="N008"/>great religious motives: it is a BREAKTHROUGH, not because of the success of revivalist preachers,
@@ -5666,7 +5666,7 @@
             <ab facs="#facs_91_tr_1">
                <lb facs="#facs_91_tr_1_tl_1" n="N001"/>breaking under our feet.
                <lb facs="#facs_91_tr_1_tl_2" n="N002"/>The reaction which I called Mannerism and Baroque, or Counter-Reformation and Reformation,
-               <lb facs="#facs_91_tr_1_tl_3" n="N003"/>or absolutism in different realms, was shown to you in pictures of El Greco and Rembrandt--
+               <lb facs="#facs_91_tr_1_tl_3" n="N003"/>or absolutism in different realms, was shown to you in pictures of<rs type="person" key=", tillich_person_id__3089"> El Greco</rs> and <rs type="person" key=", tillich_person_id__1580">Rembrandt</rs>--
                <lb facs="#facs_91_tr_1_tl_4" n="N004"/>El Greco, an expression of the Counter-Reformation; in Rembrandt, an expression of the
                <lb facs="#facs_91_tr_1_tl_5" n="N005"/>Reformation in its combination with humanism. About the Counter-Reformation, I can say that here--
                <lb facs="#facs_91_tr_1_tl_6" n="N006"/>and I think I said it briefly when I showed you pictures of El Greco--the mystical reality which in
@@ -5674,11 +5674,11 @@
             <pb facs="#facs_92" n="part2_p092.jpg" xml:id="img_0092"/>
             <ab facs="#facs_92_tr_1">
                <lb facs="#facs_92_tr_1_tl_1" n="N001"/>[371]
-               <lb facs="#facs_92_tr_1_tl_2" n="N002"/>the whole Middle Ages comes from above and is GIVEN to man, now comes from below and is
-               <lb facs="#facs_92_tr_1_tl_3" n="N003"/>aspired [toward], and is fought for, with the distortion of the bodily existence as it was rediscovered
-               <lb facs="#facs_92_tr_1_tl_4" n="N004"/>by the Renaissance. Therefore these long figures, these winding bodies, as we have them in the Baroque.
+               <lb facs="#facs_92_tr_1_tl_2" n="N002"/>the whole <Middle_Ages>Middle Ages</Middle_Ages> comes from above and is GIVEN to man, now comes from below and is
+               <lb facs="#facs_92_tr_1_tl_3" n="N003"/>aspired [toward], and is fought for, with the distortion of the <Body>bodily</Body> existence as it was rediscovered
+               <lb facs="#facs_92_tr_1_tl_4" n="N004"/>by the <Renaissance>Renaissance</Renaissance>. Therefore these long figures, these winding bodies, as we have them in the Baroque.
                <lb facs="#facs_92_tr_1_tl_5" n="N005"/>It is an ecstasy from below, in contrast to the Middle Ages where the ecstasy comes from above.
-               <lb facs="#facs_92_tr_1_tl_6" n="N006"/>In the Protestant form of the reaction, we pointed to Rembrandt because here the individual
+               <lb facs="#facs_92_tr_1_tl_6" n="N006"/>In the <Protestantism>Protestant</Protestantism> form of the reaction, we pointed to <rs type="person" key=", tillich_person_id__1580">Rembrandt</rs> because here the individual
                <lb facs="#facs_92_tr_1_tl_7" n="N007"/>relation of the individual to God is the decisive thing, not in terms of special acts of piety, but in terms
                <lb facs="#facs_92_tr_1_tl_8" n="N008"/>of a biography painted in the faces of these old men and women, in which destiny and freedom
                <lb facs="#facs_92_tr_1_tl_9" n="N009"/>in the light of the ultimate is visible, and is visible as a fight between destructive and creative
@@ -5691,7 +5691,7 @@
                <lb facs="#facs_92_tr_3_tl_5" n="N004"/>in which I would say NO picture religiously worthwhile has been produced. Those which have been
                <lb facs="#facs_92_tr_3_tl_6" n="N005"/>produced had certainly religious content, religious subject matter, but without a style in which the
                <lb facs="#facs_92_tr_3_tl_7" n="N006"/>ground of reality broke through. And this is natural--that couldn’t be avoided--because in these
-               <lb facs="#facs_92_tr_3_tl_8" n="N007"/>250 years we see the development of industrial society, prepared under absolutism, fighting
+               <lb facs="#facs_92_tr_3_tl_8" n="N007"/>250 years we see the development of <Industrialism>industrial society</Industrialism>, prepared under absolutism, fighting
             </ab>
             <ab facs="#facs_92_tr_2">
                <lb facs="#facs_92_tr_2_tl_1" n="N001"/>against absolutism, victorious in the 19th century, attacked at the same time by movements which
@@ -5702,8 +5702,8 @@
             <ab facs="#facs_93_tr_1">
                <lb facs="#facs_93_tr_1_tl_1" n="N001"/>[372]
                <lb facs="#facs_93_tr_1_tl_2" n="N002"/>could be painted.
-               <lb facs="#facs_93_tr_1_tl_3" n="N003"/>What is the character of this bourgeois society?--or better, industrial society, because it
-               <lb facs="#facs_93_tr_1_tl_4" n="N004"/>transcends by far the mere bourgeois leaders of it. It is the problem of objectivation: man transofmred [sic.]
+               <lb facs="#facs_93_tr_1_tl_3" n="N003"/>What is the character of this bourgeois society?--or better, <Industrialism>industrial society</Industrialism>, because it
+               <lb facs="#facs_93_tr_1_tl_4" n="N004"/>transcends by far the mere bourgeois leaders of it. It is the problem of <Objectivation>objectivation</Objectivation>: man transofmred [sic.]
                <lb facs="#facs_93_tr_1_tl_5" n="N005"/>with his world into object, for his own activities as subject, or for himself as subject. Man a thing.
                <lb facs="#facs_93_tr_1_tl_6" n="N006"/>In German, we use for this phenomenon the word <hi style="font-style: italic;">Verdinglichung</hi>, making-into-a-thing--which is a
                <lb facs="#facs_93_tr_1_tl_8" n="N007"/>very good word because there is another German word, <hi style="font-style: italic;">bedingt</hi>, which means conditioned, and a thing
@@ -5722,7 +5722,7 @@
             </ab>
             <ab facs="#facs_93_tr_3">
                <lb facs="#facs_93_tr_3_tl_1" n="N001"/>determined exclusively by their use, and he produces tools which become partly independent of himself,
-               <lb facs="#facs_93_tr_3_tl_4" n="N002"/>namely the machine. From tool to machine is a long way, but in principle, in relation to man, they
+               <lb facs="#facs_93_tr_3_tl_4" n="N002"/>namely the <Machine>machine</Machine>. From tool to machine is a long way, but in principle, in relation to man, they
                <lb facs="#facs_93_tr_3_tl_5" n="N003"/>have the same character. Both tool and machine have a tremendously liberating power. And I would
             </ab>
             <pb facs="#facs_94" n="part2_p094.jpg" xml:id="img_0094"/>
@@ -5733,7 +5733,7 @@
                <lb facs="#facs_94_tr_1_tl_4" n="N004"/>subject to automation ARE subject to it, the less unnecessary mechanical work has to be done by man.
                <lb facs="#facs_94_tr_1_tl_5" n="N005"/>One has metaphorically called the machines ''slaves.'' They are not slaves because in the slave-
                <lb facs="#facs_94_tr_1_tl_6" n="N006"/>relationship, there is an element of person-to-person relationship, and if this is not accepted by the
-               <lb facs="#facs_94_tr_1_tl_7" n="N007"/>master, he not only destroys the slave but also himself. Machine has not such a relationship;
+               <lb facs="#facs_94_tr_1_tl_7" n="N007"/>master, he not only destroys the slave but also himself. <Machine>Machine</Machine> has not such a relationship;
                <lb facs="#facs_94_tr_1_tl_8" n="N008"/>it is merely tool, and it liberates man--in this case especially the worker--from activities which can
                <lb facs="#facs_94_tr_1_tl_9" n="N009"/>be taken over. When we speak about the machine age, or the age of automation, or however we
                <lb facs="#facs_94_tr_1_tl_10" n="N010"/>call it, we never forget, for a romanticizing theology, the liberating blessing produced by the machine,
@@ -5755,8 +5755,8 @@
                <lb facs="#facs_95_tr_2_tl_1" n="N001"/>[374]
                <lb facs="#facs_95_tr_2_tl_2" n="N002"/>this fact. And even the assembly line can largely reduce, in the big factories, so that the mechanical
                <lb facs="#facs_95_tr_2_tl_3" n="N003"/>things which still--when I first came to this country, I saw it in the Ford factory--were done by
-               <lb facs="#facs_95_tr_2_tl_4" n="N004"/>human brings which in this moment ceased to be human beings, now can be done by machines.
-               <lb facs="#facs_95_tr_2_tl_5" n="N005"/>Now this praise of the machine shall precede my criticism of objectivation THROUGH the machine.
+               <lb facs="#facs_95_tr_2_tl_4" n="N004"/>human beings which in this moment ceased to be human beings, now can be done by machines.
+               <lb facs="#facs_95_tr_2_tl_5" n="N005"/>Now this praise of the <Machine>machine</Machine> shall precede my criticism of <Objectivation>objectivation</Objectivation> THROUGH the machine.
                <lb facs="#facs_95_tr_2_tl_6" n="N006"/>But I don't want to appear to you as a cheap romantic critic of the machine age, as it is very often
                <lb facs="#facs_95_tr_2_tl_7" n="N007"/>to be found today in booklets, and even in larger books, which do not take into consideration
                <lb facs="#facs_95_tr_2_tl_8" n="N008"/>the blessing, of which the curse is the other side.
@@ -5766,14 +5766,14 @@
                <lb facs="#facs_96_tr_3_tl_1" n="N001"/>[375]
                <lb facs="#facs_96_tr_3_tl_2" n="N002"/>LECTURE XXX, Feb. 28, 1956
                <lb facs="#facs_96_tr_3_tl_3" n="N003"/>We started to give an analysis of our present situation with respect to religion and culture.
-               <lb facs="#facs_96_tr_3_tl_4" n="N004"/>The reason was that art is excessive in its style for a special situation. What I wanted to communicate
+               <lb facs="#facs_96_tr_3_tl_4" n="N004"/>The reason was that <Art>art</Art> is excessive in its <Style>style</Style> for a special situation. What I wanted to communicate
                <lb facs="#facs_96_tr_3_tl_5" n="N005"/>is the expressive power of the visual arts which we have seen for the understanding of our present world
                <lb facs="#facs_96_tr_3_tl_6" n="N006"/>situation.
                <lb facs="#facs_96_tr_3_tl_7" n="N007"/>The first point was the question of man becoming an object. The way in which this has
             </ab>
             <ab facs="#facs_96_tr_2">
-               <lb facs="#facs_96_tr_2_tl_1" n="N001"/>happened in industrial society was described by man becoming, by that which he makes himself, namely
-               <lb facs="#facs_96_tr_2_tl_2" n="N002"/>the tool, and in a fuller and more refined sense, the comparatively independent reality of the machine.
+               <lb facs="#facs_96_tr_2_tl_1" n="N001"/>happened in <Industrialism>industrial society</Industrialism> was described by man becoming, by that which he makes himself, namely
+               <lb facs="#facs_96_tr_2_tl_2" n="N002"/>the tool, and in a fuller and more refined sense, the comparatively independent reality of the <Machine>machine</Machine>.
                <lb facs="#facs_96_tr_2_tl_3" n="N003"/>It is very frequent today, in our literature of cultural criticism, to give all guilt, all
                <lb facs="#facs_96_tr_2_tl_4" n="N004"/>responsibility, to the machine as such, and to attack our age as ''Machine Age.'' To prevent this unambi-
                <lb facs="#facs_96_tr_2_tl_5" n="N005"/>guous negation of the machine, I gave a kind of praise of automation, which is produced by the building
@@ -5781,7 +5781,7 @@
                <lb facs="#facs_96_tr_2_tl_7" n="N007"/>Nothing which is creative in man can ever be taken over by a machine, but that which can be brought
                <lb facs="#facs_96_tr_2_tl_8" n="N008"/>into mathematical equations and can be brought into a mechanically calculated and managed process,
                <lb facs="#facs_96_tr_2_tl_9" n="N009"/>can be taken over in principle by the machine. This is a point of view for our valuation of what has
-               <lb facs="#facs_96_tr_2_tl_10" n="N010"/>been called the artificial brain--you know these calculating machines which can do in a few seconds
+               <lb facs="#facs_96_tr_2_tl_10" n="N010"/>been called the <Artificial_Intelligence>artificial brain</Artificial_Intelligence>--you know these calculating machines which can do in a few seconds
             </ab>
             <ab facs="#facs_96_tr_1">
                <lb facs="#facs_96_tr_1_tl_1" n="N001"/>what hundreds of men could do in a year, if you put the right thing into them. And this of course
@@ -5792,8 +5792,8 @@
             <pb facs="#facs_97" n="part2_p097.jpg" xml:id="img_0097"/>
             <ab facs="#facs_97_tr_2">
                <lb facs="#facs_97_tr_2_tl_2" n="N001"/>[376]
-               <lb facs="#facs_97_tr_2_tl_3" n="N002"/>about the existence of the artificial brain and who do something else very foolish: they interpret
-               <lb facs="#facs_97_tr_2_tl_4" n="N003"/>man's USE of HIS brain, man’s creativity which always uses the human brain, in terms of the
+               <lb facs="#facs_97_tr_2_tl_3" n="N002"/>about the existence of the <Artificial_Intelligence>artificial brain </Artificial_Intelligence>and who do something else very foolish: they interpret
+               <lb facs="#facs_97_tr_2_tl_4" n="N003"/>man's USE of HIS brain, man’s <Creativity>creativity</Creativity> which always uses the human brain, in terms of the
                <lb facs="#facs_97_tr_2_tl_5" n="N004"/>artificial brain. They derive the creator from the creation. They derive that which is completely
                <lb facs="#facs_97_tr_2_tl_6" n="N005"/>mechanized, and can be mechanized, from that which makes the mechanization possible,
                <lb facs="#facs_97_tr_2_tl_7" n="N006"/>namely man’s inventive analysis of reality and synthesis of technical tools.
@@ -5803,13 +5803,13 @@
                <lb facs="#facs_97_tr_3_tl_2" n="N002"/>calculable functions. This is never possible because the functions are always the product of a
                <lb facs="#facs_97_tr_3_tl_3" n="N003"/>creative center. This difference is decisive. But of course the CONSEQUENCES for man's
                <lb facs="#facs_97_tr_3_tl_4" n="N004"/>interpretation of himself as an object are tremendous in the moment in which this confusion
-               <lb facs="#facs_97_tr_3_tl_5" n="N005"/>is maintained and in which creator and creation, in which man's freedom and the tool
+               <lb facs="#facs_97_tr_3_tl_5" n="N005"/>is maintained and in which creator and creation, in which man's <Freedom>freedom</Freedom> and the tool
                <lb facs="#facs_97_tr_3_tl_7" n="N006"/>which he produces in the power of his freedom, are confused.
             </ab>
             <ab facs="#facs_97_tr_1">
                <lb facs="#facs_97_tr_1_tl_1" n="N001"/>Another of these objectifying powers is something which you meet in your psychological
                <lb facs="#facs_97_tr_1_tl_2" n="N002"/>studies. I was in a school in New York two days ago where the president told me that by far
-               <lb facs="#facs_97_tr_1_tl_3" n="N003"/>his biggest department is the department of psychology, although it is a school, mostly an evening
+               <lb facs="#facs_97_tr_1_tl_3" n="N003"/>his biggest department is the department of <Psychology>psychology</Psychology>, although it is a school, mostly an evening
                <lb facs="#facs_97_tr_1_tl_4" n="N004"/>school, for people who are in business or [the] professions. And I asked him how is that understandable?
                <lb facs="#facs_97_tr_1_tl_5" n="N005"/>The answer was that all the industrial enterprises needed psychologists who are able to use the
                <lb facs="#facs_97_tr_1_tl_6" n="N006"/>mechanized methods of test psychology. This means that much of what belongs to man is now
@@ -5820,7 +5820,7 @@
             <ab facs="#facs_98_tr_1">
                <lb facs="#facs_98_tr_1_tl_1" n="N001"/>[377]
                <lb facs="#facs_98_tr_1_tl_2" n="N002"/>The witness before the court TESTS something. But the test method uses those elements of man
-               <lb facs="#facs_98_tr_1_tl_3" n="N003"/>which can be mechanized, which can be brought down to the functions of an artificial brain, or
+               <lb facs="#facs_98_tr_1_tl_3" n="N003"/>which can be mechanized, which can be brought down to the functions of an <Artificial_Intelligence>artificial brain</Artificial_Intelligence>, or
                <lb facs="#facs_98_tr_1_tl_4" n="N004"/>of a Frankenstein, or of a product which acts like a man but does not have the elements of spontaneity.
                <lb facs="#facs_98_tr_1_tl_5" n="N005"/>Now there are many of these elements, and by skillful order of the test you can find out the quickness
                <lb facs="#facs_98_tr_1_tl_6" n="N006"/>of reaction, the ability of perception, and many other things like that; but if you don't count on one
@@ -5834,7 +5834,7 @@
                <lb facs="#facs_98_tr_3_tl_5" n="N005"/>he experiences something at home which produces in him a catastrophic reaction and to which
                <lb facs="#facs_98_tr_3_tl_6" n="N006"/>he must make a creative answer--or it might be a destructive answer. In both cases the test is valid
                <lb facs="#facs_98_tr_3_tl_7" n="N007"/>only in a limited way. Of course the <hi style="font-style: italic;">Tendenz</hi> [tendency] of interest and skill are still there,
-               <lb facs="#facs_98_tr_3_tl_8" n="N008"/>but they are changed in the totality of the personality. Now this means that we have to say:
+               <lb facs="#facs_98_tr_3_tl_8" n="N008"/>but they are changed in the totality of the <Personality>personality</Personality>. Now this means that we have to say:
             </ab>
             <ab facs="#facs_98_tr_2">
                <lb facs="#facs_98_tr_2_tl_1" n="N001"/>it is a highly abstract group of functions which are under inquiry--but no more than this.
@@ -5852,15 +5852,15 @@
                <lb facs="#facs_99_tr_1_tl_6" n="N005"/>whole book, if you want, and then you have the person, and you decide, on the basis of this test,
                <lb facs="#facs_99_tr_1_tl_7" n="N006"/>you want to marry her or him or not. Now this is the absurdity which in this very radical case
                <lb facs="#facs_99_tr_1_tl_8" n="N007"/>shows how absurd these methods are if they are observed for more than realms of possible
-               <lb facs="#facs_99_tr_1_tl_9" n="N008"/>abstraction from the totality of the personality. There they CAN be used. If they are used
+               <lb facs="#facs_99_tr_1_tl_9" n="N008"/>abstraction from the totality of the <Personality>personality</Personality>. There they CAN be used. If they are used
                <lb facs="#facs_99_tr_1_tl_10" n="N009"/>for the valuation of the personality AS A WHOLE, then they are absurd and can never produce
             </ab>
             <ab facs="#facs_99_tr_3">
-               <lb facs="#facs_99_tr_3_tl_1" n="N001"/>a life relationship. Here you have methods which produce objectivation, which consider man as an
+               <lb facs="#facs_99_tr_3_tl_1" n="N001"/>a life relationship. Here you have methods which produce <Objectivation>objectivation</Objectivation>, which consider man as an
                <lb facs="#facs_99_tr_3_tl_2" n="N002"/>objective thing. It is very interesting and perhaps not too well known to you because you did not
                <lb facs="#facs_99_tr_3_tl_3" n="N003"/>have much experience about it, but the Europe had [it] with the dictators, that even a dictator
                <lb facs="#facs_99_tr_3_tl_4" n="N004"/>of such an uneducated past like Hitler, was an excellent psychologist from the point of view of
-               <lb facs="#facs_99_tr_3_tl_5" n="N005"/>test psychology. In his <hi style="font-style: italic;">Mein Kampf</hi>, which is his basic book, he developed the psychology of
+               <lb facs="#facs_99_tr_3_tl_5" n="N005"/>test <Psychology>psychology</Psychology>. In his <hi style="font-style: italic;">Mein Kampf</hi>, which is his basic book, he developed the psychology of
                <lb facs="#facs_99_tr_3_tl_6" n="N006"/>mass guidance, and insofar as you can abstract from man, in terms of mass society (to which
             </ab>
             <ab facs="#facs_99_tr_2">
@@ -5872,21 +5872,21 @@
             <pb facs="#facs_100" n="part2_p100.jpg" xml:id="img_0100"/>
             <ab facs="#facs_100_tr_1">
                <lb facs="#facs_100_tr_1_tl_2" n="N001"/>[379]
-               <lb facs="#facs_100_tr_1_tl_3" n="N002"/>This leads me to a more fundamental anthropological problem that belongs here, the
+               <lb facs="#facs_100_tr_1_tl_3" n="N002"/>This leads me to a more fundamental <Anthropology>anthropological</Anthropology> problem that belongs here, the
                <lb facs="#facs_100_tr_1_tl_4" n="N003"/>problem of conditioned reflexes. You know that this is the most beloved Russian theory because
-               <lb facs="#facs_100_tr_1_tl_5" n="N004"/>it was a Russian who invented it, Pavlov, and today the Russian philosophers--if we call them like
+               <lb facs="#facs_100_tr_1_tl_5" n="N004"/>it was a Russian who invented it, <rs type="person" key=", tillich_person_id__3107">Pavlov</rs>, and today the Russian philosophers--if we call them like
                <lb facs="#facs_100_tr_1_tl_6" n="N005"/>that (at least the interpreters of the system)--are determined by this idea. But unfortunately there is
                <lb facs="#facs_100_tr_1_tl_7" n="N006"/>so much truth in this idea that many people in the Western world also have accepted this truth
-               <lb facs="#facs_100_tr_1_tl_8" n="N007"/>and have now generalized it into a doctrine of man: man is a bearer of conditioned reflexes,
+               <lb facs="#facs_100_tr_1_tl_8" n="N007"/>and have now generalized it into a <Doctrine_of_man>doctrine of man</Doctrine_of_man>: man is a bearer of conditioned reflexes,
                <lb facs="#facs_100_tr_1_tl_9" n="N008"/>so if you condition him, then the outcome will be as you want it to be. And we are here in the
                <lb facs="#facs_100_tr_1_tl_10" n="N009"/>sphere of two books which have carried through this caricature to the most radical point. The one
-               <lb facs="#facs_100_tr_1_tl_11" n="N010"/>is Huxley’s <hi style="font-style: italic;">Brave New World</hi>, and the other is the year, <hi style="font-style: italic;">1984</hi>, by Orwell. These two books are
+               <lb facs="#facs_100_tr_1_tl_11" n="N010"/>is <rs type="person" key=", tillich_person_id__948">Huxley’s</rs> <hi style="font-style: italic;">Brave New World</hi>, and the other is the year, <hi style="font-style: italic;">1984</hi>, by <rs type="person" key=", tillich_person_id__1432">Orwell</rs>. These two books are
             </ab>
             <ab facs="#facs_100_tr_3">
                <lb facs="#facs_100_tr_3_tl_1" n="N001"/>completely dependent on the theory of conditioned reflexes and use this theory to the extreme.
                <lb facs="#facs_100_tr_3_tl_2" n="N002"/>The dictators also did it in the concentration camps and in many other ways--marching, working
                <lb facs="#facs_100_tr_3_tl_3" n="N003"/>in gangs, etc. And they had a very good result, especially in the concentration camps where
-               <lb facs="#facs_100_tr_3_tl_4" n="N004"/>they wanted to transform human beings completely into objects determined exclusively by
+               <lb facs="#facs_100_tr_3_tl_4" n="N004"/>they wanted to transform human beings completely into <Objectivation>objects</Objectivation> determined exclusively by
                <lb facs="#facs_100_tr_3_tl_5" n="N005"/>conditioned reflexes. That was the meaning of these institutions, which had no meaning otherwise
                <lb facs="#facs_100_tr_3_tl_6" n="N006"/>because when they were in full swing, there were no enemies any more. But the intention was to
                <lb facs="#facs_100_tr_3_tl_7" n="N007"/>point within a whole nation, places where the whole nation is subjected to radical conditioned
@@ -5902,7 +5902,7 @@
                <lb facs="#facs_101_tr_2_tl_2" n="N002"/>became horrible, atrocious practice, namely that there a resistance still was left. I know a man
                <lb facs="#facs_101_tr_2_tl_3" n="N003"/>who is now in a very important position in Hamburg, an old friend of mine, who was for 12 years
                <lb facs="#facs_101_tr_2_tl_4" n="N004"/>in concentration camps and prisons and who kept his resistance under all these conditions and was
-               <lb facs="#facs_101_tr_2_tl_5" n="N005"/>able to assert his spiritual freedom, his freedom of finite creativity under conditions in which
+               <lb facs="#facs_101_tr_2_tl_5" n="N005"/>able to assert his <Spiritual_Freedom>spiritual freedom</Spiritual_Freedom>, his freedom of finite creativity under conditions in which
                <lb facs="#facs_101_tr_2_tl_6" n="N006"/>many broke down, but not all of them, and perhaps comparatively few of them. And the finite
                <lb facs="#facs_101_tr_2_tl_7" n="N007"/>freedom was still preserved in opposition to the conditioned reflexes. Now here you see--and that is
                <lb facs="#facs_101_tr_2_tl_8" n="N008"/>why I emphasized this--because as the title of a book says: <hi style="font-style: italic;">Ideas Have Consequences</hi>
@@ -5911,20 +5911,20 @@
             </ab>
             <ab facs="#facs_101_tr_1">
                <lb facs="#facs_101_tr_1_tl_1" n="N001"/>consequences if they are tools in the hands of people who are interested in transforming human beings
-               <lb facs="#facs_101_tr_1_tl_2" n="N002"/>into objects.
+               <lb facs="#facs_101_tr_1_tl_2" n="N002"/>into <Objectivation>objects</Objectivation>.
                <lb facs="#facs_101_tr_1_tl_3" n="N003"/>All this happened, as I already pointed to, in a special type of society, a type which we call
                <lb facs="#facs_101_tr_1_tl_4" n="N004"/>mass society. In a mass society, the individual characteristics are taken away. The word ''mass''
                <lb facs="#facs_101_tr_1_tl_5" n="N005"/>is a physical concept, and in a physical mass we have a quantity of moving matter in which all parties
                <lb facs="#facs_101_tr_1_tl_6" n="N006"/>move in the same direction with the same gravity with which the mass itself is moving. The characteristic
                <lb facs="#facs_101_tr_1_tl_7" n="N007"/>thing in a physical mass is that the independent movements of the particles have no effect on the
                <lb facs="#facs_101_tr_1_tl_8" n="N008"/>movement of the mass as such. They are deprived of their independence, or the independence has
-               <lb facs="#facs_101_tr_1_tl_9" n="N009"/>become irrelevant for the mass. Now that is what happens in mass society. Mass society is a society
-               <lb facs="#facs_101_tr_1_tl_10" n="N010"/>in which the individual reactions which have the character of spontaneity or finite freedom, are of
+               <lb facs="#facs_101_tr_1_tl_9" n="N009"/>become irrelevant for the mass. Now that is what happens in mass society. <Mass_Society>Mass society</Mass_Society> is a society
+               <lb facs="#facs_101_tr_1_tl_10" n="N010"/>in which the individual reactions which have the character of spontaneity or finite <Freedom>freedom</Freedom>, are of
             </ab>
             <pb facs="#facs_102" n="part2_p102.jpg" xml:id="img_0102"/>
             <ab facs="#facs_102_tr_1">
                <lb facs="#facs_102_tr_1_tl_2" n="N001"/>[381]
-               <lb facs="#facs_102_tr_1_tl_3" n="N002"/>no importance for the movement of the whole. The word ''mass society'' has little to do--
+               <lb facs="#facs_102_tr_1_tl_3" n="N002"/>no importance for the movement of the whole. The word ''<Mass_Society>mass society</Mass_Society>'' has little to do--
                <lb facs="#facs_102_tr_1_tl_4" n="N003"/>under certain circumstances, it has something to do--with great masses. But the CHARACTERISTICS
                <lb facs="#facs_102_tr_1_tl_5" n="N004"/>of mass society can be seen in very small groups. The most famous example is a theater in which
                <lb facs="#facs_102_tr_1_tl_6" n="N005"/>someone suddenly cries ''Fire!''--and in this moment the reaction of everybody is, for the first
@@ -5944,7 +5944,7 @@
             </ab>
             <ab facs="#facs_102_tr_2">
                <lb facs="#facs_102_tr_2_tl_1" n="N001"/>often very short.
-               <lb facs="#facs_102_tr_2_tl_2" n="N002"/>Now what happens in a long-lasting mass society? The individual resistance against the
+               <lb facs="#facs_102_tr_2_tl_2" n="N002"/>Now what happens in a long-lasting <Mass_Society>mass society</Mass_Society>? The individual resistance against the
                <lb facs="#facs_102_tr_2_tl_3" n="N003"/>movement of the mass as such--the activities and the ideas and the conventions--is reduced
                <lb facs="#facs_102_tr_2_tl_4" n="N004"/>(slowly, but safely); and is reduced more and more, ideally to a point where it is of [no] influence
                <lb facs="#facs_102_tr_2_tl_6" n="N005"/>on the movement of the whole any more. This is the definition of a mass society. This takes much
@@ -5953,10 +5953,10 @@
             <ab facs="#facs_103_tr_2">
                <lb facs="#facs_103_tr_2_tl_1" n="N001"/>[382]
                <lb facs="#facs_103_tr_2_tl_2" n="N002"/>time, perhaps decades, perhaps centuries, but somehow then the mass has developed. We have now
-               <lb facs="#facs_103_tr_2_tl_3" n="N003"/>two developments in the whole world, which go in the direction of mass society. I gave you many
+               <lb facs="#facs_103_tr_2_tl_3" n="N003"/>two developments in the whole world, which go in the direction of <Mass_Society>mass society</Mass_Society>. I gave you many
                <lb facs="#facs_103_tr_2_tl_4" n="N004"/>examples already; now I come to the overall picture.
                <lb facs="#facs_103_tr_2_tl_5" n="N005"/>There are two ways of pressures which do this. The one is the predominantly external
-               <lb facs="#facs_103_tr_2_tl_6" n="N006"/>pressure--this is the East, what we usually mean the Communist system of totalitarianism. There
+               <lb facs="#facs_103_tr_2_tl_6" n="N006"/>pressure--this is the East, what we usually mean the <Communism>Communist</Communism> system of totalitarianism. There
                <lb facs="#facs_103_tr_2_tl_7" n="N007"/>we have a pressure to mass society by the external means, which I partly described in pointing to
             </ab>
             <ab facs="#facs_103_tr_3">
@@ -5966,14 +5966,14 @@
                <lb facs="#facs_103_tr_3_tl_4" n="N004"/>If we describe such things, I must always ask you: don’t make them into either-or’s--life is never
                <lb facs="#facs_103_tr_3_tl_5" n="N005"/>like this. There is much propagandistic influence of a hidden and often psychological character also in the
                <lb facs="#facs_103_tr_3_tl_6" n="N006"/>East; merely external pressure never works in the long run. That is what all politicians and statesmen
-               <lb facs="#facs_103_tr_3_tl_7" n="N007"/>know, or should know. On the other hand, in our Western world the influence toward mass society
+               <lb facs="#facs_103_tr_3_tl_7" n="N007"/>know, or should know. On the other hand, in our Western world the influence toward <Mass_Society>mass society</Mass_Society>
                <lb facs="#facs_103_tr_3_tl_8" n="N008"/>is not only psychological one, but it is also supposed by internal power, especially economic
             </ab>
             <ab facs="#facs_103_tr_1">
                <lb facs="#facs_103_tr_1_tl_1" n="N001"/>power.
                <lb facs="#facs_103_tr_1_tl_2" n="N002"/>Now which are these influences? We will come to them after I finish this general
                <lb facs="#facs_103_tr_1_tl_3" n="N003"/>survey about the situation, but I must name them now. One of them, the earliest--and emphasized
-               <lb facs="#facs_103_tr_1_tl_4" n="N004"/>mostly in <hi style="font-style: italic;">Brave New World</hi> and <hi style="font-style: italic;">1984</hi>--is the education to adjustment. Whenever you speak with
+               <lb facs="#facs_103_tr_1_tl_4" n="N004"/>mostly in <hi style="font-style: italic;">Brave New World</hi> and <hi style="font-style: italic;">1984</hi>--is the <Education>education</Education> to adjustment. Whenever you speak with
                <lb facs="#facs_103_tr_1_tl_5" n="N005"/>educators, you can hear: ''He is a very good educator; all the pupils in his class are well-adjusted.''
                <lb facs="#facs_103_tr_1_tl_6" n="N006"/>Now I could say, ''They are well-adjusted to what?'' If he then answers, ''They are well-
                <lb facs="#facs_103_tr_1_tl_7" n="N007"/>adjusted to behave in the class so that we can work together,'' then it is alright; that is good adjustment.
@@ -5982,7 +5982,7 @@
             <ab facs="#facs_104_tr_3">
                <lb facs="#facs_104_tr_3_tl_1" n="N001"/>[383]
                <lb facs="#facs_104_tr_3_tl_2" n="N002"/>If they say they are adjusted to the general standards of the way in which one should think and
-               <lb facs="#facs_104_tr_3_tl_3" n="N003"/>act, then I would say this ''adjustment'' is adjustment to mass society and is a fundamental way
+               <lb facs="#facs_104_tr_3_tl_3" n="N003"/>act, then I would say this ''adjustment'' is adjustment to <Mass_Society>mass society</Mass_Society> and is a fundamental way
                <lb facs="#facs_104_tr_3_tl_4" n="N004"/>of preventing people to remain non-conformists and to say No! And a teacher who tells me,
                <lb facs="#facs_104_tr_3_tl_5" n="N005"/>if I ask him, ''How often do your pupils say NO to what you say, either in papers or in questions?''--
                <lb facs="#facs_104_tr_3_tl_6" n="N006"/>and he says either ''Usually they don't'' or ''They don't dare!'' [<hi style="font-style: italic;">laughter</hi>], or something like that,
@@ -5994,7 +5994,7 @@
                <lb facs="#facs_104_tr_2_tl_2" n="N002"/>him, namely the ability of dialectical discussion about problems which can anyhow be solved
                <lb facs="#facs_104_tr_2_tl_3" n="N003"/>ONLY through the process of Yes and No, and never through a monolithic statement of the
                <lb facs="#facs_104_tr_2_tl_4" n="N004"/>teacher to the pupils.
-               <lb facs="#facs_104_tr_2_tl_5" n="N005"/>The other ways of hidden psychological influence are the means of mass communication,
+               <lb facs="#facs_104_tr_2_tl_5" n="N005"/>The other ways of hidden <Psychology>psychological</Psychology> influence are the means of <Mass_Communication>mass communication</Mass_Communication>,
                <lb facs="#facs_104_tr_2_tl_6" n="N006"/>to which I already referred and which are so much discussed today. These means of mass communica-
                <lb facs="#facs_104_tr_2_tl_7" n="N007"/>tion (the older one, the newspaper, the radio; and the newer one, the movie and television) are
                <lb facs="#facs_104_tr_2_tl_8" n="N008"/>extremely strong, even to those who listen or look at them very little. They are strong because
@@ -6012,7 +6012,7 @@
                <lb facs="#facs_105_tr_2_tl_4" n="N002"/>who make the same decisions, who have the same ideals, the same conventions, the same
                <lb facs="#facs_105_tr_2_tl_5" n="N003"/>criticisms and rejections, etc.
                <lb facs="#facs_105_tr_2_tl_6" n="N004"/>Now I leave the realm of intellectual influences which work DIRECTLY, and
-               <lb facs="#facs_105_tr_2_tl_7" n="N005"/>come to others which INdirectly, namely the industrial society <hi style="font-style: italic;">qua</hi> industrial society.
+               <lb facs="#facs_105_tr_2_tl_7" n="N005"/>come to others which INdirectly, namely the <Industrialism>industrial</Industrialism> society <hi style="font-style: italic;">qua</hi> industrial society.
                <lb facs="#facs_105_tr_2_tl_9" n="N006"/>There are different forms. The first is industry itself, namely using men as cogs in a machine.
                <lb facs="#facs_105_tr_2_tl_10" n="N007"/>Here you see an example that we never should say ''Never!'', that this kind of work which is done
                <lb facs="#facs_105_tr_2_tl_11" n="N008"/>in the assembly line is most dehumanizing for man--it certainly is. But on the other hand, it can
@@ -6028,7 +6028,7 @@
                <lb facs="#facs_105_tr_3_tl_7" n="N007"/>shoe which he sells, and he knows all the processes and all the irrationalities and all the tricks of the
             </ab>
             <ab facs="#facs_105_tr_1">
-               <lb facs="#facs_105_tr_1_tl_1" n="N001"/>trade. This gives creative joy, because an element of freedom and creativity is left. If you only
+               <lb facs="#facs_105_tr_1_tl_1" n="N001"/>trade. This gives creative joy, because an element of <Freedom>freedom</Freedom> and <Creativity>creativity</Creativity> is left. If you only
                <lb facs="#facs_105_tr_1_tl_2" n="N002"/>push one place all the time with your hammer, or if you work even more than this, but don’t see what
                <lb facs="#facs_105_tr_1_tl_3" n="N003"/>the result is and are not responsible for it, then the creative element is almost destroyed. This was
                <lb facs="#facs_105_tr_1_tl_5" n="N004"/>one of the things which made the difference between the old crafts, where people worked usually
@@ -6038,7 +6038,7 @@
             <ab facs="#facs_106_tr_2">
                <lb facs="#facs_106_tr_2_tl_1" n="N001"/>[385]
                <lb facs="#facs_106_tr_2_tl_2" n="N002"/>or even less, but who doesn't see what he does and has lost what I would like to call the creative
-               <lb facs="#facs_106_tr_2_tl_3" n="N003"/><hi style="font-style: italic;">eros</hi>--again I want to refer to Mr. Marcuse’s book on <hi style="font-style: italic;">Civilization and Eros</hi>, who dwells on this.
+               <lb facs="#facs_106_tr_2_tl_3" n="N003"/><Eros><hi style="font-style: italic;">eros</hi></Eros>--again I want to refer to Mr. <rs type="person" key=", tillich_person_id__1263">Marcuse’s</rs> book on <hi style="font-style: italic;">Civilization and Eros</hi>, who dwells on this.
                <lb facs="#facs_106_tr_2_tl_4" n="N004"/>Now I come to another consequence, namely the reduction of working time. Nothing
                <lb facs="#facs_106_tr_2_tl_5" n="N005"/>should be better than this. And it was a tremendous thing when this reduction took place, from
                <lb facs="#facs_106_tr_2_tl_6" n="N006"/>sixteen to eight hours, step by step, and when children were excluded from participating in this
@@ -6049,8 +6049,8 @@
                <lb facs="#facs_106_tr_2_tl_13" n="N011"/>in which it is commercialized, it has little to give in terms of creativity of one's own. And this
             </ab>
             <ab facs="#facs_106_tr_3">
-               <lb facs="#facs_106_tr_3_tl_1" n="N001"/>perhaps is the worse thing about the means of mass communication: they not only unify, but they
-               <lb facs="#facs_106_tr_3_tl_3" n="N002"/>make creativity impossible. If all your imagination is taken care of by television and similar things,
+               <lb facs="#facs_106_tr_3_tl_1" n="N001"/>perhaps is the worse thing about the means of <Mass_Communication>mass communication</Mass_Communication>: they not only unify, but they
+               <lb facs="#facs_106_tr_3_tl_3" n="N002"/>make <Creativity>creativity</Creativity> impossible. If all your imagination is taken care of by television and similar things,
                <lb facs="#facs_106_tr_3_tl_5" n="N003"/>then your own imagination dies off. The pictures which lie in your minds are given to you
                <lb facs="#facs_106_tr_3_tl_7" n="N004"/>by the leaders of the mass means of communication, but there is no filled leisure time where there is
                <lb facs="#facs_106_tr_3_tl_8" n="N005"/>no creativity. Man is essentially creative--for this he is created, as the Paradise story tells.
@@ -6066,7 +6066,7 @@
             <ab facs="#facs_107_tr_3">
                <lb facs="#facs_107_tr_3_tl_1" n="N001"/>[386]
                <lb facs="#facs_107_tr_3_tl_2" n="N002"/>with respect to the time which is given to them and which now COULD be used by them.
-               <lb facs="#facs_107_tr_3_tl_3" n="N003"/>The industrial way has another side, namely the commercial side. This side has the
+               <lb facs="#facs_107_tr_3_tl_3" n="N003"/>The <Industrialism>industrial</Industrialism> way has another side, namely the commercial side. This side has the
                <lb facs="#facs_107_tr_3_tl_5" n="N004"/>problem of competition. When I spoke of objectivation, and mass society, I again come down
                <lb facs="#facs_107_tr_3_tl_6" n="N005"/>to a question which is in all our minds, named competition. I don’t speak about competition
                <lb facs="#facs_107_tr_3_tl_7" n="N006"/>in terms of the hostility which it produces--the Business School, which has asked me to have
@@ -6075,7 +6075,7 @@
             <ab facs="#facs_107_tr_2">
                <lb facs="#facs_107_tr_2_tl_1" n="N001"/>problem is only one of them--the hostility against the successful competitor, or the use of
                <lb facs="#facs_107_tr_2_tl_2" n="N002"/>immoral means of competition, and all this. But there is another problem involved in it,
-               <lb facs="#facs_107_tr_2_tl_3" n="N003"/>namely the conformism, the mass society, which is created by competition. In order to be
+               <lb facs="#facs_107_tr_2_tl_3" n="N003"/>namely the conformism, the <Mass_Society>mass society</Mass_Society>, which is created by competition. In order to be
                <lb facs="#facs_107_tr_2_tl_4" n="N004"/>a successful seller, you must adapt yourselves to the rules of the game, namely to the customer
                <lb facs="#facs_107_tr_2_tl_5" n="N005"/>who is ''always right.'' And if you are a salesman, in the more noble sense of the chief executive
                <lb facs="#facs_107_tr_2_tl_6" n="N006"/>of a big concern, or a salesman like the man whose death is described in this famous play
@@ -6084,7 +6084,7 @@
                <lb facs="#facs_107_tr_2_tl_9" n="N009"/>implication of that play, whose tremendous success seems to me based on the fact that so many
             </ab>
             <ab facs="#facs_107_tr_1">
-               <lb facs="#facs_107_tr_1_tl_1" n="N001"/>people in our competitive society felt hit by it. Personality has to be sold, so to speak, in order
+               <lb facs="#facs_107_tr_1_tl_1" n="N001"/>people in our competitive society felt hit by it. <Personality>Personality</Personality> has to be sold, so to speak, in order
                <lb facs="#facs_107_tr_1_tl_2" n="N002"/>to sell. You cannot sell as long as you have maintained your creative personality; the adaptation
                <lb facs="#facs_107_tr_1_tl_3" n="N003"/>to the norms of the game, of competition, are tremendous. And this refers not only to the salesman
                <lb facs="#facs_107_tr_1_tl_4" n="N004"/>on the street, it also refers to the four million chief executives who have to conform themselves
@@ -6094,7 +6094,7 @@
             <ab facs="#facs_108_tr_2">
                <lb facs="#facs_108_tr_2_tl_2" n="N001"/>[387]
                <lb facs="#facs_108_tr_2_tl_3" n="N002"/>see the whole tragedy of the force to adjustment, under the necessity of competition.
-               <lb facs="#facs_108_tr_2_tl_4" n="N003"/>This leads finally to the problem of advertisement. Advertisement is the means of
+               <lb facs="#facs_108_tr_2_tl_4" n="N003"/>This leads finally to the problem of <Advertisement>advertisement</Advertisement>. Advertisement is the means of
                <lb facs="#facs_108_tr_2_tl_5" n="N004"/>conditioning the customer for special products. Now this means that the products are not
                <lb facs="#facs_108_tr_2_tl_6" n="N005"/>conditioned by the needs felt by the customer, but by the need to sell, and especially by the
                <lb facs="#facs_108_tr_2_tl_7" n="N006"/>need to sell ever-new things in a dynamic society--to OVER-sell, all the time, in order to keep

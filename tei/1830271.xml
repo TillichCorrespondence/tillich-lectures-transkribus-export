@@ -402,7 +402,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_12">
          <graphic url="part1_p012.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=LCAHBNHHHXIVGYQRKZOSGPWV&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=LCAHBNHHHXIVGYQRKZOSGPWV&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="1152,266 1349,266 1349,375 1152,375" rendition="TextRegion" xml:id="facs_12_r">
             <zone points="1176,359 1314,361 1315,341 1176,339" rendition="Line" xml:id="facs_12_l"/>
          </zone>
@@ -6384,7 +6384,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_207">
          <graphic url="part1_p207.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=YMJGHTZJJTKFTJCWBENQPINQ&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=YMJGHTZJJTKFTJCWBENQPINQ&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="262,190 262,3460 2322,3460 2322,190" rendition="TextRegion" xml:id="facs_207_tr_1">
             <zone points="1172,272 1185,272 1198,285 1271,285 1289,280 1294,198 1269,198 1251,206 1223,203 1205,219 1175,219" rendition="Line" xml:id="facs_207_tr_1_tl_1"/>
             <zone points="249,445 2003,422 2110,409 2113,358 249,399" rendition="Line" xml:id="facs_207_tr_1_tl_2"/>
@@ -8671,10 +8671,10 @@
             </ab>
             <ab facs="#facs_10_tr_1">
                <lb facs="#facs_10_tr_1_tl_1" n="N001"/>This is usually not done, but there is no possible understanding of the relation of <Culture>culture</Culture>
-               <lb facs="#facs_10_tr_1_tl_2" n="N002"/>and <religion>religion </religion>without an understanding of <Language>language </Language>and religion. Much unnecessary <Fundamentalism>funda-
-               <lb break="no" facs="#facs_10_tr_1_tl_3" n="N003"/>mentalism</Fundamentalism> could have been avoided, in the history of Christianity, if the theologians and
-               <lb facs="#facs_10_tr_1_tl_4" n="N004"/>philosophers (the ones from the one side, the others from the other side) would have realized
-               <lb facs="#facs_10_tr_1_tl_5" n="N005"/>that language is present in religion as much as in any cultural human creativity, in spite of
+               <lb facs="#facs_10_tr_1_tl_2" n="N002"/>and <RELIGION>religion </RELIGION>without an understanding of <Language>language </Language>and religion. Much unnecessary <Fundamentalism>funda-
+               <lb break="no" facs="#facs_10_tr_1_tl_3" n="N003"/>mentalism</Fundamentalism> could have been avoided, in the history of <Christianity>Christianity</Christianity>, if the <Theologian>theologians</Theologian> and
+               <lb facs="#facs_10_tr_1_tl_4" n="N004"/><Philosopher>philosophers</Philosopher> (the ones from the one side, the others from the other side) would have realized
+               <lb facs="#facs_10_tr_1_tl_5" n="N005"/>that language is present in religion as much as in any cultural human <Creativity>creativity</Creativity>, in spite of
                <lb facs="#facs_10_tr_1_tl_6" n="N006"/>the fact that religion in its essence is not a part of man's cultural creativity, but in a similar
                <lb facs="#facs_10_tr_1_tl_7" n="N007"/>relationship to it as man is to his world: belonging to it, and not belonging to it.
                <lb facs="#facs_10_tr_1_tl_8" n="N008"/>This is the first consideration. After we have finished the fundamental analysis
@@ -8727,7 +8727,7 @@
             </ab>
             <ab facs="#facs_12_tr_1">
                <lb facs="#facs_12_tr_1_tl_1" n="N001"/>which has a <Power_of_Being>power-of-being</Power_of_Being> independently of the act of creation, which has an impact
-               <lb facs="#facs_12_tr_1_tl_2" n="N002"/>on other people which can be acknowledged, at least sometimes, by the community of
+               <lb facs="#facs_12_tr_1_tl_2" n="N002"/>on other people which can be acknowledged, at least sometimes, by the <Community>community</Community> of
                <lb facs="#facs_12_tr_1_tl_3" n="N003"/>those who are under its impact. That is what I meant when I spoke of the power-of independent-
                <lb facs="#facs_12_tr_1_tl_4" n="N004"/>being.
                <lb facs="#facs_12_tr_1_tl_5" n="N005"/>Take another example from the practical realm, e.g., a<Political_Movement> political movement</Political_Movement>.
@@ -8745,7 +8745,7 @@
                <lb facs="#facs_12_tr_1_tl_18" n="N017"/><Language>language</Language>, because language has the power of liberating man from the bondage to the given
                <lb facs="#facs_12_tr_1_tl_19" n="N018"/>in time and space. He can transcend it, he can produce abstractions, <Universals>universals</Universals>, and language
                <lb facs="#facs_12_tr_1_tl_20" n="N019"/>lives in universals and their connections. Nothing is more astonishing than this power of the
-               <lb facs="#facs_12_tr_1_tl_21" n="N020"/>human mind to see and to create universals. This power is language. And therefore I said the
+               <lb facs="#facs_12_tr_1_tl_21" n="N020"/>human <Mind>mind</Mind> to see and to create universals. This power is language. And therefore I said the
                <lb facs="#facs_12_tr_1_tl_22" n="N021"/>first section of our lectures, with which we shall start next week, will be the problem:
                <lb facs="#facs_12_tr_1_tl_23" n="N022"/>"Religion and Language."
                <lb facs="#facs_12_tr_1_tl_24" n="N023"/>I come now to the activity of man towards reality in his encounter with it,
@@ -13617,7 +13617,7 @@
                <lb facs="#facs_184_tr_1_tl_2" n="N002"/>of your existence implicitly and explicitly.
                <lb facs="#facs_184_tr_1_tl_3" n="N003"/>===
                <lb facs="#facs_184_l" n="N004"/>(
-               <lb facs="#facs_184_tr_1_tl_4" n="N005"/><hi style="font-style: italic;">[After the lecture, in conversation with student, <rs type="person">Edwin Knopf</rs>:]</hi>
+               <lb facs="#facs_184_tr_1_tl_4" n="N005"/><hi style="font-style: italic;">[After the lecture, in conversation with student, <rs type="person" key=", tillich_person_id__3112">Edwin Knopf</rs>:]</hi>
                <lb facs="#facs_184_tr_1_tl_5" n="N006"/><hi style="font-style: italic;">–concerning the question about the existence, etc., of Christ--</hi>
                <lb facs="#facs_184_tr_1_tl_6" n="N007"/>The transformation of personal reality can only happen in personal reality. ...
                <lb facs="#facs_184_tr_1_tl_7" n="N008"/>QN: What difference does it make whether or not He was forced and unwilling to sacrifice....?
@@ -14134,11 +14134,11 @@
                <lb facs="#facs_207_tr_1_tl_10" n="N010"/>them, as is usually [done], [into] <Idealism>idealist</Idealism>s or <Mysticism>mystics,</Mysticism> and then refute them philosophically.
                <lb facs="#facs_207_tr_1_tl_11" n="N011"/>The situation is not as easy as that.
                <lb facs="#facs_207_tr_1_tl_13" n="N012"/>Another example, to which I just referred: the discussion between <Naturalism>naturalism</Naturalism> and
-               <lb facs="#facs_207_tr_1_tl_15" n="N013"/>what we TODAY call<Idealism> idealism</Idealism>. Here again are a lot of philosophical arguments which are very valid.
-               <lb facs="#facs_207_tr_1_tl_16" n="N014"/>There are epistemological arguments for both of them---<Naturalism>naturalism </Naturalism>as well as <Idealism>idealism.</Idealism> The question
+               <lb facs="#facs_207_tr_1_tl_15" n="N013"/>what we TODAY call <Idealism>idealism</Idealism>. Here again are a lot of philosophical arguments which are very valid.
+               <lb facs="#facs_207_tr_1_tl_16" n="N014"/>There are epistemological arguments for both of them---naturalism as well as idealism. The question
                <lb facs="#facs_207_tr_1_tl_17" n="N015"/>of knowledge ALWAYS has driven people to idealistic consequences, because the poblem of the
-               <lb facs="#facs_207_tr_1_tl_18" n="N016"/>real, ouside of our mind, is an eternal problem, and a problem where <Idealism>idealism </Idealism>has IMMEDIATELY
-               <lb facs="#facs_207_tr_1_tl_19" n="N017"/>speaking, a better answer. Of course<Idealism> idealism</Idealism> does not mean, in this use of the word here, subjectivism,
+               <lb facs="#facs_207_tr_1_tl_18" n="N016"/>real, ouside of our mind, is an eternal problem, and a problem where idealism has IMMEDIATELY
+               <lb facs="#facs_207_tr_1_tl_19" n="N017"/>speaking, a better answer. Of course idealism does not mean, in this use of the word here, subjectivism,
                <lb facs="#facs_207_tr_1_tl_20" n="N018"/>that the world consists only of stream-of-consciousness, but it means that things in themselves
                <lb facs="#facs_207_tr_1_tl_21" n="N019"/>are, for us, nothing we can approach, but that the reality as we have it, as we encounter it, is formed
             </ab>
@@ -14429,7 +14429,7 @@
                <lb facs="#facs_221_tr_3_tl_3" n="N003"/>In which sense can one speak of the <Truth_of_faith>truth of faith</Truth_of_faith>, or of religion, if the truth of faith
                <lb facs="#facs_221_tr_3_tl_4" n="N004"/>cannot be judged by any other kind of truth, neither scientific nor historical nor philosophical?
                <lb facs="#facs_221_tr_3_tl_5" n="N005"/>The whole argument of the last two weeks was to remove the possibility of conflict, or of a judgment
-               <lb facs="#facs_221_tr_3_tl_8" n="N006"/>of the religious truth by scientific <Truth_historical>historical </Truth_historical>or <Truth_philosophical>philosophical truth</Truth_philosophical>.
+               <lb facs="#facs_221_tr_3_tl_8" n="N006"/>of the religious truth by scientific <Truth_Historical>historical </Truth_Historical>or <Truth_Philosophical>philosophical truth</Truth_Philosophical>.
                <lb facs="#facs_221_tr_3_tl_9" n="N007"/>But then the question is: what kind of truth IS the <Truth_of_faith>truth of faith?</Truth_of_faith> The answer follows
                <lb facs="#facs_221_tr_3_tl_10" n="N008"/>from the nature of faith as the state of being <ultimate_concern>ultimately concerned</ultimate_concern>. It has, like the term "concern"
                <lb facs="#facs_221_tr_3_tl_11" n="N009"/>itself, a subjective and an objective side. The truth of faith must be considered both from the subjective
@@ -14551,7 +14551,7 @@
                <lb facs="#facs_226_tr_1_tl_15" n="N015"/>Therefore I said: the ONLY real ultimate is that finite which sacrifices itself AS
                <lb facs="#facs_226_tr_1_tl_16" n="N016"/><Finitude>finite.</Finitude> I referred this to the Messiah who, against all expectations, instead of bringing a new
                <lb facs="#facs_226_tr_1_tl_17" n="N017"/>period of history, was crucified by the OLD period of history. Then I got from many of you the
-               <lb facs="#facs_226_tr_1_tl_18" n="N018"/>question, "Now there are so MANY martyrs; <Sacrifice>self-sacrifice</Sacrifice> canNOT be a criterion, because in
+               <lb facs="#facs_226_tr_1_tl_18" n="N018"/>question, "Now there are so MANY martyrs; <Self-Sacrifice>self-sacrifice</Self-Sacrifice> canNOT be a criterion, because in
                <lb facs="#facs_226_tr_1_tl_19" n="N019"/>every very<Idolatrous> idolatrous</Idolatrous> or quasi-religious movement, there are people who sacrifice themselves."
                <lb facs="#facs_226_tr_1_tl_20" n="N020"/>Now this was a misunderstanding, for which I am responsible, and therefore I am glad that
             </ab>
@@ -14559,16 +14559,16 @@
             <ab facs="#facs_227_tr_2">
                <lb facs="#facs_227_tr_2_tl_1" n="N001"/>[223]
                <lb facs="#facs_227_tr_2_tl_2" n="N002"/>I can express myself sharper, after all the other lectures.
-               <lb facs="#facs_227_tr_2_tl_3" n="N003"/>I didn't speak of <Sacrifice>personal sacrifice </Sacrifice>as an ethical act of a person sacrificing himself, but
+               <lb facs="#facs_227_tr_2_tl_3" n="N003"/>I didn't speak of <Self-Sacrifice>personal sacrifice </Self-Sacrifice>as an ethical act of a person sacrificing himself, but
                <lb facs="#facs_227_tr_2_tl_4" n="N004"/>I spoke of the content of his <Finitude>finite </Finitude>message which, with all the finite elements in his religious
                <lb facs="#facs_227_tr_2_tl_5" n="N005"/>life, are negated by him in the moment in which the Disciples wanted to make them absolute---
                <lb facs="#facs_227_tr_2_tl_6" n="N006"/>THAT was the idea. And this idea means that the Jesus of the Gospels is the greatest enemy of
                <lb facs="#facs_227_tr_2_tl_7" n="N007"/>theological "Jesu-ology"---a theology of Jesus---THAT's what He denied radically, in His fights with
                <lb facs="#facs_227_tr_2_tl_8" n="N008"/>His disciples and in the rejection of their attempt to make Him, without the Cross (without the
-               <lb facs="#facs_227_tr_2_tl_9" n="N009"/><Sacrifice>sacrifice</Sacrifice> of His individual existence) the Messiah, the bringer of the New Reality. He knew that
+               <lb facs="#facs_227_tr_2_tl_9" n="N009"/><Self-Sacrifice>sacrifice</Self-Sacrifice> of His individual existence) the Messiah, the bringer of the New Reality. He knew that
                <lb facs="#facs_227_tr_2_tl_10" n="N010"/>this was the great temptation, and I think TO KNOW THIS WAS THE GREATEST in Him---to know
                <lb facs="#facs_227_tr_2_tl_11" n="N011"/>that every finite truth, even the truth of His own being, if it is directly elevated to <Ultimacy>ultimacy,</Ultimacy>
-               <lb facs="#facs_227_tr_2_tl_12" n="N012"/>misses the really ultimate. This is the ultimate criterion, and THEREFORE H<Sacrifice>e sacrificed it.</Sacrifice>
+               <lb facs="#facs_227_tr_2_tl_12" n="N012"/>misses the really ultimate. This is the ultimate criterion, and THEREFORE He <Self-Sacrifice>sacrificed </Self-Sacrifice>it.
                <lb facs="#facs_227_tr_2_tl_13" n="N013"/>And <rs type="person" key=", tillich_person_id__1468">Paul</rs>, as always, gives the formulation for it: we don't know Him any more according to the flesh,
                <lb facs="#facs_227_tr_2_tl_14" n="N014"/>but the Lord is Spirit. And as Spirit---although it is the Spirit of Jesus-as-the-Christ---
                <lb facs="#facs_227_tr_2_tl_15" n="N015"/>is also the Spirit which liberates from a Jesu-logical subjection to that which is
@@ -14632,7 +14632,7 @@
                <lb facs="#facs_230_tr_2_tl_12" n="N012"/>On the other hand, the theologian, if he uses the <hi style="font-style: italic;">logos</hi>, however he tries to avoid
                <lb facs="#facs_230_tr_2_tl_13" n="N013"/>philosophical <Concept>concepts, </Concept>he can do even this only by using them. All the attacks by theologians
                <lb facs="#facs_230_tr_2_tl_14" n="N014"/>against philosophy are made with the help of philosophical concepts which then are used against
-               <lb facs="#facs_230_tr_2_tl_15" n="N015"/>philosophy. These inner contradictions show that the theologian, since he uses human <language>language</language>
+               <lb facs="#facs_230_tr_2_tl_15" n="N015"/>philosophy. These inner contradictions show that the theologian, since he uses human <Language>language</Language>
                <lb facs="#facs_230_tr_2_tl_16" n="N016"/>and since human language is formed by all kinds of man's self-expression---amongst them by
                <lb facs="#facs_230_tr_2_tl_17" n="N017"/>philosophy---he cannot escape philosophy at all. And he shouldn't even want to because, as theologian,
                <lb facs="#facs_230_tr_2_tl_18" n="N018"/>he has to do with the <hi style="font-style: italic;">logos</hi> of that in which <hi style="font-style: italic;">theos</hi> reveals Himself.
@@ -15556,7 +15556,7 @@
                <lb facs="#facs_271_tr_1_tl_2" n="N002"/>LECTURE XXII, Dec. 20, 1955
                <lb facs="#facs_271_tr_1_tl_3" n="N003"/>Since this is the last lecture, let me remind you of the idea of the whole lecture [course]
                <lb facs="#facs_271_tr_1_tl_4" n="N004"/>as we had it, and look forward to the lecture starting the beginning of February.
-               <lb facs="#facs_271_tr_1_tl_5" n="N005"/><religion>Religion</religion> and<Culture> culture</Culture> has been treated in such a way that we first discussed the meaning
+               <lb facs="#facs_271_tr_1_tl_5" n="N005"/><RELIGION>Religion</RELIGION> and<Culture> culture</Culture> has been treated in such a way that we first discussed the meaning
                <lb facs="#facs_271_tr_1_tl_6" n="N006"/>of religion, especially the meaning of <Faith>faith</Faith> as <ultimate_concern>ultimate concern</ultimate_concern>. Then we spoke about the <Symbols>symbolic</Symbols>
                <lb facs="#facs_271_tr_1_tl_7" n="N007"/>character of religious expression in practice and theory. Then we tried to find the religious element
                <lb facs="#facs_271_tr_1_tl_8" n="N008"/>and the relation of religion to the different cultural functions, on the basic presupposition that religion
@@ -15565,7 +15565,7 @@
                <lb facs="#facs_271_tr_1_tl_11" n="N011"/>is the form of religion.
                <lb facs="#facs_271_tr_1_tl_12" n="N012"/>With this principle, then, we first approached language as the immediate characteristic of
                <lb facs="#facs_271_tr_1_tl_14" n="N013"/>man as man; then we came to man as creating a world above the given world---
-               <lb facs="#facs_271_tr_1_tl_15" n="N014"/>the <technology>technical </technology>forms; then we came to the different forms of <Science>science</Science>---pure science, including the
+               <lb facs="#facs_271_tr_1_tl_15" n="N014"/>the <Technology>technical</Technology> forms; then we came to the different forms of <Science>science</Science>---pure science, including the
                <lb facs="#facs_271_tr_1_tl_16" n="N015"/>biological realm, leaving out the psychological, for special reasons, but going then to <History>history</History>
                <lb facs="#facs_271_tr_1_tl_17" n="N016"/>and to <Philosophy>philosophy</Philosophy>. Then I intended originally to deal with religion and art, but according to my
                <lb facs="#facs_271_tr_1_tl_18" n="N017"/>suggestion, and your agreement, we postponed this to next semester because of the difficulties of
