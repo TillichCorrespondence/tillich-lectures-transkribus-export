@@ -3223,7 +3223,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_108">
          <graphic url="part4_p108.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=RJLQUEUOOGLSVEBGADNNBKWF&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RJLQUEUOOGLSVEBGADNNBKWF&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="268,241 268,3455 2298,3455 2298,241" rendition="TextRegion" xml:id="facs_108_tr_3">
             <zone points="1064,299 1081,299 1089,306 1109,306 1116,311 1136,306 1159,309 1167,301 1187,301 1189,238 1162,243 1149,238 1126,253 1066,251" rendition="Line" xml:id="facs_108_tr_3_tl_1"/>
             <zone points="291,459 735,459 765,487 815,459 966,462 966,384 843,386 790,349 730,409 291,389" rendition="Line" xml:id="facs_108_tr_3_tl_2" subtype="heading"/>
@@ -6296,7 +6296,7 @@
             <ab facs="#facs_86_tr_1">
                <lb facs="#facs_86_tr_1_tl_1" n="N001"/>not, as in Protestantism, every layman, and not even every theological faculty, as in early
                <lb facs="#facs_86_tr_1_tl_2" n="N002"/>Protestantism often was the replacement of the Pope.
-               <lb facs="#facs_86_tr_1_tl_4" n="N003"/>This is a much more consistent ultimate <Authority>authority</Authority>, or authority in principle. And it is
+               <lb facs="#facs_86_tr_1_tl_4" n="N003"/>This is a much more consistent ultimate <Authority>authority</Authority>, or <Authority_in_principle>authority in principle</Authority_in_principle>. And it is
                <lb facs="#facs_86_tr_1_tl_5" n="N004"/>much more <Demonic>demonic</Demonic> for this very reason. Now why is this so? Because here ONE PLACE,
                <lb facs="#facs_86_tr_1_tl_6" n="N005"/>IN HISTORY, is made the place in which no error is possible; that means, in which the human
                <lb facs="#facs_86_tr_1_tl_7" n="N006"/>existential situation is radically transcended. And the formula "Vicar of Christ" is a very good
@@ -6318,7 +6318,7 @@
                <lb facs="#facs_87_tr_3_tl_6" n="N006"/>secondly it is impossible because it is more honest to acknowledge that Jesus is not an infallible
                <lb facs="#facs_87_tr_3_tl_7" n="N007"/>teacher but that He is the bearer of the New Reality, of the Spirit, and the Spirit is not an
                <lb facs="#facs_87_tr_3_tl_8" n="N008"/>infallible teacher but a creative interpreter who guides into all truth.
-               <lb facs="#facs_87_tr_3_tl_9" n="N009"/>Now if this is seen, then we can accept the consistency of the Roman Church and are
+               <lb facs="#facs_87_tr_3_tl_9" n="N009"/>Now if this is seen, then we can accept the consistency of the <Roman_church>Roman Church</Roman_church> and are
                <lb facs="#facs_87_tr_3_tl_10" n="N010"/>at the same time radically aware of the fact that neither the Vicar of Christ, nor Jesus in His
                <lb facs="#facs_87_tr_3_tl_11" n="N011"/>words, can be called an authority in principle.
             </ab>
@@ -6343,9 +6343,9 @@
                <lb facs="#facs_88_tr_1_tl_5" n="N005"/>this kind of naivete or primitivism, which can be FULL OF SPIRIT, in relation to God, and which
                <lb facs="#facs_88_tr_1_tl_6" n="N006"/>therefore one should not break wilfully.
                <lb facs="#facs_88_tr_1_tl_7" n="N007"/>2) There is the second way, namely to accept this doctrine and to interpret it. This is
-               <lb facs="#facs_88_tr_1_tl_8" n="N008"/>the way which liberal Catholicism always tries to go. And there is always a kind of margin within
+               <lb facs="#facs_88_tr_1_tl_8" n="N008"/>the way which liberal <Catholicism>Catholicism</Catholicism> always tries to go. And there is always a kind of margin within
                <lb facs="#facs_88_tr_1_tl_9" n="N009"/>which it can do this. But this margin, in the course of history, has become narrower and narrower.
-               <lb facs="#facs_88_tr_1_tl_10" n="N010"/>The last great attempt to escape the demonic authority of an authority in principle, was the
+               <lb facs="#facs_88_tr_1_tl_10" n="N010"/>The last great attempt to escape the demonic authority of an <Authority_in_principle>authority in principle</Authority_in_principle>, was the
                <lb facs="#facs_88_tr_1_tl_11" n="N011"/>symbolism of the <hi style="font-style: italic;">symbolae fideistes [?sp]</hi>, in the beginning and middle of the 19th century.
             </ab>
             <ab facs="#facs_88_tr_2">
@@ -6376,8 +6376,8 @@
             </ab>
             <ab facs="#facs_89_tr_2">
                <lb facs="#facs_89_tr_2_tl_1" n="N001"/>ultimate and often very desperate way out of this situation. Now this means we have here the
-               <lb facs="#facs_89_tr_2_tl_2" n="N002"/>greatest example of authority in principle, or of what Erich Fromm calls irrational authority.
-               <lb facs="#facs_89_tr_2_tl_3" n="N003"/>Perhaps we should, besides this, go to the family authority and the authority of society,
+               <lb facs="#facs_89_tr_2_tl_2" n="N002"/>greatest example of <Authority_in_principle>authority in principle</Authority_in_principle>, or of what<rs type="person" key=", tillich_person_id__647"> Erich Fromm</rs> calls irrational authority.
+               <lb facs="#facs_89_tr_2_tl_3" n="N003"/>Perhaps we should, besides this, go to the <Authority_family>family authority </Authority_family>and the <Authority_society>authority of society</Authority_society>,
                <lb facs="#facs_89_tr_2_tl_4" n="N004"/>because this is something even more actual for most of you than the other two forms. Now the
                <lb facs="#facs_89_tr_2_tl_5" n="N005"/>family authority is normally an authority partly in terms of expert---in this case called maturity---
                <lb facs="#facs_89_tr_2_tl_6" n="N006"/>partly in terms of trust. But it goes often beyond this: there is sometimes a religious sanctification
@@ -6387,7 +6387,7 @@
                <lb facs="#facs_90_tr_2_tl_1" n="N001"/>[559]
                <lb facs="#facs_90_tr_2_tl_2" n="N002"/>of the authority of father or mother which has almost papal or Hitlerite character, and where the
                <lb facs="#facs_90_tr_2_tl_3" n="N003"/>same phenomena then develop. This sanctification, which makes the authority of the parents into an
-               <lb facs="#facs_90_tr_2_tl_4" n="N004"/>authority in principle, has all the dangers of the three great examples in the history of religion and
+               <lb facs="#facs_90_tr_2_tl_4" n="N004"/><Authority_in_principle>authority in principle</Authority_in_principle>, has all the dangers of the three great examples in the history of religion and
                <lb facs="#facs_90_tr_2_tl_5" n="N005"/>politics which I gave you. And perhaps the dangers are even greater because this authority is
                <lb facs="#facs_90_tr_2_tl_6" n="N006"/>implanted usually earlier than all the others by the reality of the parents, from the first day on, in the
             </ab>
@@ -6397,15 +6397,15 @@
                <lb facs="#facs_90_tr_3_tl_3" n="N003"/>things which they think are true, and good for their children, and the feeling that this perhaps is not
                <lb facs="#facs_90_tr_3_tl_4" n="N004"/>the right way---but they DON'T KNOW which decision to give, and they feel permissiveness is
                <lb facs="#facs_90_tr_3_tl_5" n="N005"/>not the right way either. Then in the children who not only have the element of trust, where a very
-               <lb facs="#facs_90_tr_3_tl_6" n="N006"/>personal form comes in, but also accept something of the sacred character of the family authority,
-               <lb facs="#facs_90_tr_3_tl_7" n="N007"/>if not perhaps consciouly, certainly unciously, and the breaking-away from this is one of those inner
+               <lb facs="#facs_90_tr_3_tl_6" n="N006"/>personal form comes in, but also accept something of the sacred character of the <Authority_family>family authority</Authority_family>,
+               <lb facs="#facs_90_tr_3_tl_7" n="N007"/>if not perhaps consciously, certainly unciously, and the breaking-away from this is one of those inner
             </ab>
             <ab facs="#facs_90_tr_1">
                <lb facs="#facs_90_tr_1_tl_1" n="N001"/>struggles and conflicts which most younger human beings have to do, and it canNOT be avoided,
                <lb facs="#facs_90_tr_1_tl_2" n="N002"/>they MUST do it, and they are always tragic, i.e. always connected with tragic guilt on BOTH sides,
                <lb facs="#facs_90_tr_1_tl_3" n="N003"/>the side of the parents and the side of the children.
                <lb facs="#facs_90_tr_1_tl_4" n="N004"/>When we look at this whole situation, then we must obviously say: the human situation
-               <lb facs="#facs_90_tr_1_tl_5" n="N005"/>is such that an authority in principle cannot be accepted, must be rejected in all its forms.
+               <lb facs="#facs_90_tr_1_tl_5" n="N005"/>is such that an <Authority_in_principle>authority in principle</Authority_in_principle> cannot be accepted, must be rejected in all its forms.
                <lb facs="#facs_90_tr_1_tl_6" n="N006"/>But this doesn't mean that AUTHORITY must be rejected. And these two sides of authority---
                <lb facs="#facs_90_tr_1_tl_7" n="N007"/>authority of expert and authority of trust---must be there. BOTH of them are actual in the reality
                <lb facs="#facs_90_tr_1_tl_8" n="N008"/>of the tradition.
@@ -6414,7 +6414,7 @@
             <ab facs="#facs_91_tr_3">
                <lb facs="#facs_91_tr_3_tl_3" n="N001"/>[560]
                <lb facs="#facs_91_tr_3_tl_4" n="N002"/>This brings me immediately to the problem which belongs already to social ethics,
-               <lb facs="#facs_91_tr_3_tl_5" n="N003"/>namely tradition and revolt, or tradition and autonomy. Now how is this relationship? Religion is
+               <lb facs="#facs_91_tr_3_tl_5" n="N003"/>namely<Tradition> tradition</Tradition> and revolt, or tradition and autonomy. Now how is this relationship? Religion is
                <lb facs="#facs_91_tr_3_tl_6" n="N004"/>usually identified with tradition because of the long authoritarian history of the Church and the
                <lb facs="#facs_91_tr_3_tl_7" n="N005"/>continuous relapse to authoritarian elements, even in the ANTI-authoritarian Protestants.
             </ab>
@@ -6427,7 +6427,7 @@
                <lb facs="#facs_91_tr_1_tl_6" n="N006"/>of tradition from which nobody can extricate himself because in order to do so, he NEEDS the
                <lb facs="#facs_91_tr_1_tl_7" n="N007"/>traditional language itself.
                <lb facs="#facs_91_tr_1_tl_8" n="N008"/>The same is true of all other realms. On no place can one start completely anew.
-               <lb facs="#facs_91_tr_1_tl_10" n="N009"/>America is especially interested in this problem because the history of the United States is the
+               <lb facs="#facs_91_tr_1_tl_10" n="N009"/><rs type="place">America</rs> is especially interested in this problem because the history of the United States is the
                <lb facs="#facs_91_tr_1_tl_11" n="N010"/>history of a new beginning, or a radical way, as it has seldom happened in the history of mankind.
                <lb facs="#facs_91_tr_1_tl_12" n="N011"/>Therefore the historical sense, which is also the sense for tradition, is often very poorly developed
                <lb facs="#facs_91_tr_1_tl_13" n="N012"/>in this country, and historical knowledge cannot be presupposed, if you teach theology or
@@ -6444,7 +6444,7 @@
                <lb facs="#facs_92_tr_1_tl_3" n="N003"/>On the other hand, the traditionalist who is willing to maintain all the traditions doesn't know
                <lb facs="#facs_92_tr_1_tl_4" n="N004"/>that his act of maintaining them is already an act of transforming them, namely of taking them
                <lb facs="#facs_92_tr_1_tl_5" n="N005"/>into the category of the situation out of which he wants to reestablish them. So we have here the
-               <lb facs="#facs_92_tr_1_tl_6" n="N006"/>situation that, since there cannot be authority in principle but there must be authority in fact,
+               <lb facs="#facs_92_tr_1_tl_6" n="N006"/>situation that, since there cannot be <Authority_in_principle>authority in principle</Authority_in_principle> but there must be authority in fact,
                <lb facs="#facs_92_tr_1_tl_7" n="N007"/>so there cannot be a tradition which is immovable, but there must be tradition even for those
                <lb facs="#facs_92_tr_1_tl_8" n="N008"/>who rebel against a fixed tradition. They can rebel against it only in the power of elements which
                <lb facs="#facs_92_tr_1_tl_9" n="N009"/>are present IN the tradition. This, I hope, gives some answers.
@@ -6456,7 +6456,7 @@
             <ab facs="#facs_93_tr_2">
                <lb facs="#facs_93_tr_2_tl_1" n="N001"/>[562]
                <lb facs="#facs_93_tr_2_tl_2" n="N002"/>LECTURE XLIII, April 24, 1956
-               <lb facs="#facs_93_tr_2_tl_3" n="N003"/>The last lecture discussed the problem of the idea and the ideal of personality,
+               <lb facs="#facs_93_tr_2_tl_3" n="N003"/>The last lecture discussed the problem of the idea and the ideal of <Personality>personality</Personality>,
                <lb facs="#facs_93_tr_2_tl_4" n="N004"/>in their relation to each other. I came to the conclusion that the ideal of personality and the
                <lb facs="#facs_93_tr_2_tl_5" n="N005"/>separation of the personal center from the unconscious elements of our personality, and from
                <lb facs="#facs_93_tr_2_tl_6" n="N006"/>the community with other beings, has consequences of a devastating  character for Western
@@ -6468,9 +6468,9 @@
                <lb facs="#facs_93_tr_1_tl_3" n="N003"/>and I want to discuss the social, economic and political problems of the relationship of religion
                <lb facs="#facs_93_tr_1_tl_4" n="N004"/>and culture.
                <lb facs="#facs_93_tr_1_tl_5" n="N005"/>The first is a sociological remark with which I want to start because it has much to do
-               <lb facs="#facs_93_tr_1_tl_6" n="N006"/>with the discussion of the idea and the ideal of personality. We can say that more genuine than the
+               <lb facs="#facs_93_tr_1_tl_6" n="N006"/>with the discussion of the idea and the ideal of <Personality>personality</Personality>. We can say that more genuine than the
                <lb facs="#facs_93_tr_1_tl_7" n="N007"/>development of personality is something which one could call genuine collectivism, or original
-               <lb facs="#facs_93_tr_1_tl_8" n="N008"/>we-consciousness. We-consciousness precedes, historically and ontologically, the I-consciousness.
+               <lb facs="#facs_93_tr_1_tl_8" n="N008"/><We-consciousness>we-consciousness</We-consciousness>. We-consciousness precedes, historically and ontologically, the I-consciousness.
                <lb facs="#facs_93_tr_1_tl_9" n="N009"/>Beings don't feel separated, in the beginning of cultural development, from each other as
                <lb facs="#facs_93_tr_1_tl_10" n="N010"/>centered beings. Of course this was always given potentially, but in order to transform this
                <lb facs="#facs_93_tr_1_tl_11" n="N011"/>potentiality into actuality, very fundamental events had to happen, and I gave you two of them.
@@ -6487,24 +6487,24 @@
                <lb facs="#facs_94_tr_2_tl_3" n="N003"/>something against the laws of his own being and the being of the group, is responsible for it
                <lb facs="#facs_94_tr_2_tl_4" n="N004"/>and therefore must expiate his own guilt. And you remember the other development
                <lb facs="#facs_94_tr_2_tl_6" n="N005"/>to which I referred was the development of questioning. Asking the question
-               <lb facs="#facs_94_tr_2_tl_7" n="N006"/>means separating oneself from the unity with the universe. The universal we-consciousness is
+               <lb facs="#facs_94_tr_2_tl_7" n="N006"/>means separating oneself from the unity with the universe. The universal <We-consciousness>we-consciousness</We-consciousness> is
                <lb facs="#facs_94_tr_2_tl_8" n="N007"/>dissolved by the human act of asking a question about that with which one felt identical before.
                <lb facs="#facs_94_tr_2_tl_9" n="N008"/>Now this identity is cut off.
                <lb facs="#facs_94_tr_2_tl_10" n="N009"/>We have considered, then, the consequences of this development in terms of the
             </ab>
             <ab facs="#facs_94_tr_3">
-               <lb facs="#facs_94_tr_3_tl_1" n="N001"/>ideal [idea?] of personality. Now we go back to the state out of which this came, which one
-               <lb facs="#facs_94_tr_3_tl_2" n="N002"/>can call primitive collectivism, or original we-consciousness preceding the ego-consciousness.
+               <lb facs="#facs_94_tr_3_tl_1" n="N001"/>ideal [idea?] of <Personality>personality</Personality>. Now we go back to the state out of which this came, which one
+               <lb facs="#facs_94_tr_3_tl_2" n="N002"/>can call primitive collectivism, or original <We-consciousness>we-consciousness</We-consciousness> preceding the ego-consciousness.
                <lb facs="#facs_94_tr_3_tl_3" n="N003"/>Collectivism is in the beginning, and there is a tendency towards returning to
-               <lb facs="#facs_94_tr_3_tl_4" n="N004"/>collectivism as long as the human race has a historical memory. It is just as in Freud's
+               <lb facs="#facs_94_tr_3_tl_4" n="N004"/>collectivism as long as the human race has a historical memory. It is just as in <rs type="person" key=", tillich_person_id__619">Freud'</rs>s
                <lb facs="#facs_94_tr_3_tl_5" n="N005"/>analysis of living beings of a higher degree who have a tendency to return to the lower degrees
                <lb facs="#facs_94_tr_3_tl_6" n="N006"/>out of which they come, because in these lower degrees the problems of the higher degrees do not
             </ab>
             <ab facs="#facs_94_tr_1">
-               <lb facs="#facs_94_tr_1_tl_1" n="N001"/>yet exist. Freud's doctrine of death-instinct in man is nothing but an expression of this
+               <lb facs="#facs_94_tr_1_tl_1" n="N001"/>yet exist.<rs type="person" key=", tillich_person_id__619"> Freud</rs>'s doctrine of death-instinct in man is nothing but an expression of this
                <lb facs="#facs_94_tr_1_tl_2" n="N002"/>tendency to go down again to the non-responsible situation of animal existence, or even to the
                <lb facs="#facs_94_tr_1_tl_3" n="N003"/>non-conscious existence of vegetative or inorganic existence.
-               <lb facs="#facs_94_tr_1_tl_4" n="N004"/>In the same way, Kierkegaard describes the desire of man to get rid of himself as the
+               <lb facs="#facs_94_tr_1_tl_4" n="N004"/>In the same way, <rs type="person" key=", tillich_person_id__1049">Kierkegaard</rs> describes the desire of man to get rid of himself as the
                <lb facs="#facs_94_tr_1_tl_5" n="N005"/>phenomenon of despair, because the problem of man, his being a combination of finitude and
             </ab>
             <pb facs="#facs_95" n="part4_p095.jpg" xml:id="img_0095"/>
@@ -6520,12 +6520,12 @@
                <lb facs="#facs_95_tr_2_tl_12" n="N009"/>youth movements, the tendency to return to the group prevailed. This was the fertile soil
             </ab>
             <ab facs="#facs_95_tr_3">
-               <lb facs="#facs_95_tr_3_tl_1" n="N001"/>for the other neo-collectivistic movements which appeared both as Communism and as Fascism
-               <lb facs="#facs_95_tr_3_tl_2" n="N002"/>and Nazism.
+               <lb facs="#facs_95_tr_3_tl_1" n="N001"/>for the other neo-collectivistic movements which appeared both as <Communism>Communism </Communism>and as <Fascism>Fascism</Fascism>
+               <lb facs="#facs_95_tr_3_tl_2" n="N002"/>and <Nazism>Nazism</Nazism>.
                <lb facs="#facs_95_tr_3_tl_3" n="N003"/>Now in order to discuss this situation, I suggest some distinctions. All this has not
-               <lb facs="#facs_95_tr_3_tl_4" n="N004"/>happened in England, while it happened in Continental Europe. It has not happened in this
-               <lb facs="#facs_95_tr_3_tl_5" n="N005"/>country either. Why not? Because in England we have another form of existence over against
-               <lb facs="#facs_95_tr_3_tl_6" n="N006"/>Continental individualism, namely conformism. Let's look at this word for a moment. Conformism
+               <lb facs="#facs_95_tr_3_tl_4" n="N004"/>happened in <rs type="place">England</rs>, while it happened in Continental Europe. It has not happened in this
+               <lb facs="#facs_95_tr_3_tl_5" n="N005"/>country either. Why not? Because in <rs type="place">England</rs> we have another form of existence over against
+               <lb facs="#facs_95_tr_3_tl_6" n="N006"/>Continental individualism, namely <Conformism>conformism</Conformism>. Let's look at this word for a moment. Conformism
                <lb facs="#facs_95_tr_3_tl_7" n="N007"/>can be understood in a merely negative sense, namely as subjecting oneself to the laws of convention,
                <lb facs="#facs_95_tr_3_tl_8" n="N008"/>to avoid being outstanding, standing on oneself, or as I formulated it in the <hi style="font-style: italic;">Courage to Be</hi>, the
                <lb facs="#facs_95_tr_3_tl_9" n="N009"/>courage to be oneself. Where this is lacking, there, conformism can develop. But conformism is,
@@ -6539,23 +6539,23 @@
             <ab facs="#facs_96_tr_1">
                <lb facs="#facs_96_tr_1_tl_1" n="N001"/>[565]
                <lb facs="#facs_96_tr_1_tl_2" n="N002"/>two things and give to the essential description the term "conformity" and the distorted
-               <lb facs="#facs_96_tr_1_tl_3" n="N003"/>description the term "conformism." Now if this is the case, then we have in England, against
-               <lb facs="#facs_96_tr_1_tl_4" n="N004"/>the tremendous development of liberal individuality in France and Germany and the smaller
+               <lb facs="#facs_96_tr_1_tl_3" n="N003"/>description the term "<Conformism>conformism</Conformism>." Now if this is the case, then we have in <rs type="place">England</rs>, against
+               <lb facs="#facs_96_tr_1_tl_4" n="N004"/>the tremendous development of liberal individuality in <rs type="place">France</rs> and <rs type="place">Germany</rs> and the smaller
                <lb facs="#facs_96_tr_1_tl_5" n="N005"/>countries around, we have in Great Britain a development of traditions which do not necessarily
                <lb facs="#facs_96_tr_1_tl_6" n="N006"/>produce conformism in terms of intentional subjection to conventional rules, but in terms of
                <lb facs="#facs_96_tr_1_tl_7" n="N007"/>growth which is automatic and has not necessarily the character of an external subjection. This
                <lb facs="#facs_96_tr_1_tl_8" n="N008"/>seems to me a very important distinction. This, for instance, accounts for the following little
-               <lb facs="#facs_96_tr_1_tl_9" n="N009"/>story I experienced a few years ago in England:
-               <lb facs="#facs_96_tr_1_tl_10" n="N010"/>I had to give to a group of students and professors a lecture on existentialism, and I
-               <lb facs="#facs_96_tr_1_tl_11" n="N011"/>developed the main ideas about the human predicament, which we find in philosophers like Heidegger
-               <lb facs="#facs_96_tr_1_tl_12" n="N012"/>and theologians like Kierkegaard and artists and painters like Picasso, and novelists like Kafka.
+               <lb facs="#facs_96_tr_1_tl_9" n="N009"/>story I experienced a few years ago in<rs type="place"> England</rs>:
+               <lb facs="#facs_96_tr_1_tl_10" n="N010"/>I had to give to a group of students and professors a lecture on <Existentialism>existentialism</Existentialism>, and I
+               <lb facs="#facs_96_tr_1_tl_11" n="N011"/>developed the main ideas about the human predicament, which we find in philosophers like <rs type="person" key=", tillich_person_id__841">Heidegger</rs>
+               <lb facs="#facs_96_tr_1_tl_12" n="N012"/>and theologians like <rs type="person" key=", tillich_person_id__1049">Kierkegaard</rs> and artists and painters like <rs type="person" key=", tillich_person_id__1495">Picasso</rs>, and novelists like <rs type="person" key=", tillich_person_id__1008">Kafka</rs>.
             </ab>
             <ab facs="#facs_96_tr_2">
                <lb facs="#facs_96_tr_2_tl_1" n="N001"/>Now then, I wanted a discussion. There was first a great silence, and then I was asked, "Do you
                <lb facs="#facs_96_tr_2_tl_2" n="N002"/>think that this fits the English life at all?" Now I could of course answer in terms of pointing to
-               <lb facs="#facs_96_tr_2_tl_3" n="N003"/>people like Eliot and Greene and Auden and others, who are supposed to be British by birth or
+               <lb facs="#facs_96_tr_2_tl_3" n="N003"/>people like<rs type="person" key=", tillich_person_id__523"> Eliot</rs> and<rs type="person" key=", tillich_person_id__3156"> Greene</rs> and <rs type="person" key=", tillich_person_id__3157">Auden</rs> and others, who are supposed to be British by birth or
                <lb facs="#facs_96_tr_2_tl_4" n="N004"/>choice, and a few other things like this, and then I asked: Isn't there in the younger generation,
-               <lb facs="#facs_96_tr_2_tl_5" n="N005"/>in the YOUNGEST generation, even on places like Oxford and Cambridge, where the logical
+               <lb facs="#facs_96_tr_2_tl_5" n="N005"/>in the YOUNGEST generation, even on places like <rs type="place">Oxford</rs> and <rs type="place">Cambridge</rs>, where the logical
                <lb facs="#facs_96_tr_2_tl_6" n="N006"/>positivistic tradition is now prevailing, a new tendency toward asking relevant questions, namely
                <lb facs="#facs_96_tr_2_tl_7" n="N007"/>questions relevant to human existence, even in philosophy? And there was hesitation, but there
                <lb facs="#facs_96_tr_2_tl_8" n="N008"/>was the feeling that perhaps a change is going on. The same experience, ten years earlier, was
@@ -6563,7 +6563,7 @@
             <pb facs="#facs_97" n="part4_p097.jpg" xml:id="img_0097"/>
             <ab facs="#facs_97_tr_3">
                <lb facs="#facs_97_tr_3_tl_1" n="N001"/>[566]
-               <lb facs="#facs_97_tr_3_tl_2" n="N002"/>had by my very highly valuated friend Karl Mannheim, who came as a refugee to England in 1934 and
+               <lb facs="#facs_97_tr_3_tl_2" n="N002"/>had by my very highly valuated friend <rs type="person" key=", tillich_person_id__1255">Karl Mannheim</rs>, who came as a refugee to <rs type="place">England </rs>in 1934 and
                <lb facs="#facs_97_tr_3_tl_3" n="N003"/>'35, and introduced "sociology of knowledge"---which was his very special interest---namely trying
                <lb facs="#facs_97_tr_3_tl_4" n="N004"/>to find out which sociological group is responsible for a special ideology. This of course means
                <lb facs="#facs_97_tr_3_tl_5" n="N005"/>UNDERCUTTING the certainty of these ideologies. So the English people, the educated groups
@@ -6576,24 +6576,24 @@
                <lb facs="#facs_97_tr_2_tl_5" n="N005"/>And you can find this always, that very self-certain groups are extremely sensitive if they are
                <lb facs="#facs_97_tr_2_tl_6" n="N006"/>sociologically analyzed, because they feel that this undercuts the unbroken self-identity of their
                <lb facs="#facs_97_tr_2_tl_7" n="N007"/>existence, it undercuts their natural conformity. Of course such resistance ALREADY transforms
-               <lb facs="#facs_97_tr_2_tl_8" n="N008"/>conformity into conformism, and the situation in England is very much in the balance now.
+               <lb facs="#facs_97_tr_2_tl_8" n="N008"/>conformity into <Conformism>conformism</Conformism>, and the situation in <rs type="place">England</rs> is very much in the balance now.
                <lb facs="#facs_97_tr_2_tl_9" n="N009"/>Now in this country, the European individualism never was very strong. The so-called
                <lb facs="#facs_97_tr_2_tl_10" n="N010"/>American "rugged individualism" is an economic <hi style="font-style: italic;">factum</hi> [?] and has very little to do with
                <lb facs="#facs_97_tr_2_tl_11" n="N011"/>ideology, with ideas generally, with the idea of the individual as developed in the romantic and
             </ab>
             <ab facs="#facs_97_tr_1">
                <lb facs="#facs_97_tr_1_tl_1" n="N001"/>post-romantic traditions, and Bohemian traditions, which we can call post-romantic traditions in
-               <lb facs="#facs_97_tr_1_tl_2" n="N002"/>Europe. Very little of this existed genuinely in this country. The economic individualism did not
+               <lb facs="#facs_97_tr_1_tl_2" n="N002"/><rs type="place">Europe</rs>. Very little of this existed genuinely in this country. The economic individualism did not
                <lb facs="#facs_97_tr_1_tl_3" n="N003"/>express itself in intellectual individualism.. The most rugged individualist became the most pious
                <lb facs="#facs_97_tr_1_tl_4" n="N004"/>members of some church and gave millions and billions of money either to these churches or other
             </ab>
             <pb facs="#facs_98" n="part4_p098.jpg" xml:id="img_0098"/>
             <ab facs="#facs_98_tr_1">
                <lb facs="#facs_98_tr_1_tl_1" n="N001"/>[567]
-               <lb facs="#facs_98_tr_1_tl_2" n="N002"/>good works. Now this is not European at all! <hi style="font-style: italic;">[little laughter]</hi> In Europe, the state has to do this.
+               <lb facs="#facs_98_tr_1_tl_2" n="N002"/>good works. Now this is not European at all! <hi style="font-style: italic;">[little laughter]</hi> In <rs type="place">Europe</rs>, the state has to do this.
                <lb facs="#facs_98_tr_1_tl_3" n="N003"/>Now on this basis I tried to find out---and I think I found it out just when I discovered
                <lb facs="#facs_98_tr_1_tl_4" n="N004"/>the nature of British conformity---what is going on in this country sociologically, and I had to invent
-               <lb facs="#facs_98_tr_1_tl_5" n="N005"/>a new word (perhaps it already existed, perhaps not): patternization, derived from "pattern,"
+               <lb facs="#facs_98_tr_1_tl_5" n="N005"/>a new word (perhaps it already existed, perhaps not): <Patternization>patternization</Patternization>, derived from "pattern,"
                <lb facs="#facs_98_tr_1_tl_6" n="N006"/>bringing every individual into a pattern. This is not the same as collectivism or conformism, or even
                <lb facs="#facs_98_tr_1_tl_7" n="N007"/>conformity, but it is not individualism either. It is a quite different sociological form for which we
                <lb facs="#facs_98_tr_1_tl_8" n="N008"/>need another word. And if this word is too bad English, perhaps you will give me another or
@@ -6631,7 +6631,7 @@
                <lb facs="#facs_99_tr_3_tl_5" n="N005"/>Now here we are before a problem, namely, under these circumstances, is the resistance
             </ab>
             <ab facs="#facs_99_tr_1">
-               <lb facs="#facs_99_tr_1_tl_1" n="N001"/>against neo-collectivism in this country more possible than in the totalitarian counties? In the
+               <lb facs="#facs_99_tr_1_tl_1" n="N001"/>against neo-collectivism in this country more possible than in the totalitarian countries? In the
                <lb facs="#facs_99_tr_1_tl_2" n="N002"/>totalitarian countries, a resistance is a matter of danger of life. In this country the resistance is a
                <lb facs="#facs_99_tr_1_tl_3" n="N003"/>matter of preserving INTERNALLY elements which can be preserved ONLY in the situation of
                <lb facs="#facs_99_tr_1_tl_4" n="N004"/>solitude. I can tell you a discussion I had in the Business School two months ago, I think it was,
@@ -6655,10 +6655,10 @@
                <lb facs="#facs_100_tr_3_tl_1" n="N001"/>working for a neo-collectivism in the WHOLE Western civilization, has brought this country,
                <lb facs="#facs_100_tr_3_tl_2" n="N002"/>is not so much the resistance against the external forms, enforced forms, of neo-collectivisim [sic.], as
                <lb facs="#facs_100_tr_3_tl_3" n="N003"/>we have them in the Communist countries, and had them (and may have them again) in the Fascist
-               <lb facs="#facs_100_tr_3_tl_4" n="N004"/>and Nazi countries, but is the process of patternization.
+               <lb facs="#facs_100_tr_3_tl_4" n="N004"/>and Nazi countries, but is the process of <Patternization>patternization.</Patternization>
                <lb facs="#facs_100_tr_3_tl_5" n="N005"/>Now I think this should bring to an end these problems, but in any case, I must come
                <lb facs="#facs_100_tr_3_tl_6" n="N006"/>now to other questions, and the next question I want to discuss is the problem of religion and
-               <lb facs="#facs_100_tr_3_tl_7" n="N007"/>economics. Perhaps I should conclude this statement about patternization by saying: Solitude,
+               <lb facs="#facs_100_tr_3_tl_7" n="N007"/><Economy>economics</Economy>. Perhaps I should conclude this statement about patternization by saying: Solitude,
                <lb facs="#facs_100_tr_3_tl_8" n="N008"/>in relation to an ultimate concern, is the only power of resistance. Not an empty solitude (which then
                <lb facs="#facs_100_tr_3_tl_9" n="N009"/>becomes loneliness and, with even stronger force, drives us BACK to the patterns of life, in the
             </ab>
@@ -6670,14 +6670,14 @@
             <pb facs="#facs_101" n="part4_p101.jpg" xml:id="img_0101"/>
             <ab facs="#facs_101_tr_3">
                <lb facs="#facs_101_tr_3_tl_1" n="N001"/>[570]
-               <lb facs="#facs_101_tr_3_tl_2" n="N002"/>Now I come to the economic problem. You have not experienced, perhaps, as much
+               <lb facs="#facs_101_tr_3_tl_2" n="N002"/>Now I come to the <Economy>economic </Economy>problem. You have not experienced, perhaps, as much
                <lb facs="#facs_101_tr_3_tl_3" n="N003"/>as the Europeans, especially the older ones who come from the 19th century, as I do, the central
                <lb facs="#facs_101_tr_3_tl_4" n="N004"/>importance which, in European civilization, was attributed to the economic problem. Don't push
-               <lb facs="#facs_101_tr_3_tl_5" n="N005"/>this away by identifying it with the most hated name of the last few hundred years, namely Karl
-               <lb facs="#facs_101_tr_3_tl_6" n="N006"/>Marx---that alone is not a sufficient explanation for the movements which have happened in Europe
-               <lb facs="#facs_101_tr_3_tl_7" n="N007"/>and now have conquered more than half of the world. But the explanation is: Marx---as ALWAYS
+               <lb facs="#facs_101_tr_3_tl_5" n="N005"/>this away by identifying it with the most hated name of the last few hundred years, namely<rs type="person" key=", tillich_person_id__1275"> Karl
+               <lb break="no" facs="#facs_101_tr_3_tl_6" n="N006"/>Marx</rs>---that alone is not a sufficient explanation for the movements which have happened in <rs type="place">Europe</rs>
+               <lb facs="#facs_101_tr_3_tl_7" n="N007"/>and now have conquered more than half of the world. But the explanation is: <rs type="person" key=", tillich_person_id__1275">Marx</rs>---as ALWAYS
                <lb facs="#facs_101_tr_3_tl_8" n="N008"/>if one man represents something---REPRESENTS something which otherwise is present.
-               <lb facs="#facs_101_tr_3_tl_9" n="N009"/>We have in Europe a continuous development of revolution, since the end of the Middle
+               <lb facs="#facs_101_tr_3_tl_9" n="N009"/>We have in <rs type="place">Europe </rs>a continuous development of <Revolution>revolution</Revolution>, since the end of the Middle
                <lb facs="#facs_101_tr_3_tl_10" n="N010"/>Ages. First the great Peasant Revolutions; then the bourgeois revolutions; and then the socialist-
                <lb facs="#facs_101_tr_3_tl_11" n="N011"/>Communist, the revolutions of the fourth [force? i.e. labor? working?] class of society, as we had
                <lb facs="#facs_101_tr_3_tl_12" n="N012"/>it in Europe. All these movements had a special relationship to religion. The peasants' movement,
@@ -6685,7 +6685,7 @@
                <lb facs="#facs_101_tr_3_tl_14" n="N014"/>derived from the Stoic-Christian doctrine of the situation of man in the Paradise, which was identified
                <lb facs="#facs_101_tr_3_tl_15" n="N015"/>with the natural law. In the bourgeois revolution, it was also the religious idea of the equality of all
                <lb facs="#facs_101_tr_3_tl_16" n="N016"/>men before God, which then became secularized to the equality of all men in terms of rationality---
-               <lb facs="#facs_101_tr_3_tl_18" n="N017"/>not of reasonableness---nobody was ever stupid enough to say such a thing, not even Hegel, who
+               <lb facs="#facs_101_tr_3_tl_18" n="N017"/>not of reasonableness---nobody was ever stupid enough to say such a thing, not even <rs type="person" key=", tillich_person_id__839">Hegel</rs>, who
                <lb facs="#facs_101_tr_3_tl_19" n="N018"/>is sometimes considered much more stupid than a 10-year old boy---but what these men meant was that
                <lb facs="#facs_101_tr_3_tl_20" n="N019"/>man is potentially rational, and that this power of reason in him can be developed equally in everybody,
                <lb facs="#facs_101_tr_3_tl_21" n="N020"/>if the chances are given---whereby reasonableness is not identified with intelligence; the differences in
@@ -6694,21 +6694,21 @@
             <ab facs="#facs_102_tr_2">
                <lb facs="#facs_102_tr_2_tl_1" n="N001"/>[571]
                <lb facs="#facs_102_tr_2_tl_2" n="N002"/>gifts was always accepted.
-               <lb facs="#facs_102_tr_2_tl_3" n="N003"/>Now this idea was the religious background of the bourgeois revolutions, and the
+               <lb facs="#facs_102_tr_2_tl_3" n="N003"/>Now this idea was the religious background of the bourgeois <Revolution>revolutions</Revolution>, and the
                <lb facs="#facs_102_tr_2_tl_4" n="N004"/>religious color of it was even visible in the moment in which the Goddess of Reason was put
                <lb facs="#facs_102_tr_2_tl_5" n="N005"/>on the altar of Notre Dame in Paris. They didn't [wouldn't have?] put it on the altar if they
                <lb facs="#facs_102_tr_2_tl_6" n="N006"/>had the feeling that this is a matter of ULTIMATE concern---this is not only a matter of the
                <lb facs="#facs_102_tr_2_tl_7" n="N007"/>"third estate" (<hi style="font-style: italic;">le tiers état</hi>), namely the bourgeois revolt against aristocracy and clergy (the first
                <lb facs="#facs_102_tr_2_tl_8" n="N008"/>two estates), but it was a real belief IN social justice (which they wanted to provide) as an ultimate
-               <lb facs="#facs_102_tr_2_tl_9" n="N009"/>concern. But again the economic situation was in the foreground. Bourgeois society became
+               <lb facs="#facs_102_tr_2_tl_9" n="N009"/>concern. But again the <Economy>economic</Economy> situation was in the foreground. Bourgeois society became
                <lb facs="#facs_102_tr_2_tl_10" n="N010"/>victorious; it already a long time had become very powerful in the old aristocratic system.
                <lb facs="#facs_102_tr_2_tl_11" n="N011"/>And after it HAD become victorious, it didn't want to give up its economic superiority over
                <lb facs="#facs_102_tr_2_tl_12" n="N012"/>the working classes and the peasants, and was able to establish a system in which the bourgeois
                <lb facs="#facs_102_tr_2_tl_13" n="N013"/>upper classes could stop the revolutionary principles in the name of which they had produced the
                <lb facs="#facs_102_tr_2_tl_14" n="N014"/>revolution, and so gave occasion to the next wave of revolutions, namely the proletarian revolutions,
                <lb facs="#facs_102_tr_2_tl_15" n="N015"/>by keeping the proletariat under their political and economic power.
-               <lb facs="#facs_102_tr_2_tl_16" n="N016"/>The proletarian revolutions also were often done consciously, and always unconsciously,
-               <lb facs="#facs_102_tr_2_tl_17" n="N017"/>in the name of an ultimate concern, of religious principles, although they were more secularized
+               <lb facs="#facs_102_tr_2_tl_16" n="N016"/>The proletarian <Revolution>revolutions</Revolution> also were often done consciously, and always unconsciously,
+               <lb facs="#facs_102_tr_2_tl_17" n="N017"/>in the name of an <ultimate_concern>ultimate concern</ultimate_concern>, of religious principles, although they were more secularized
                <lb facs="#facs_102_tr_2_tl_18" n="N018"/>than the original bourgeois revolutions and much more secularized than the original peasant
                <lb facs="#facs_102_tr_2_tl_19" n="N019"/>revolutions in the 16th century. Nevertheless the so-called utopian socialists, in contrast to
                <lb facs="#facs_102_tr_2_tl_20" n="N020"/>Marxism, were often sectarian people of a strong religious feeling, applying their religious principles
@@ -6718,7 +6718,7 @@
                <lb facs="#facs_103_tr_1_tl_1" n="N001"/>[572]
                <lb facs="#facs_103_tr_1_tl_2" n="N002"/>just as the same sects did in the Reformation period, to participate in the revolution. In all these
                <lb facs="#facs_103_tr_1_tl_3" n="N003"/>cases, one idea was extremely important, namely the idea of the third stage of history. This is a
-               <lb facs="#facs_103_tr_1_tl_4" n="N004"/>very old idea, and its origin can be sought in Joachim di Fiore (whose name you all know),
+               <lb facs="#facs_103_tr_1_tl_4" n="N004"/>very old idea, and its origin can be sought in <rs type="person" key=", tillich_person_id__983">Joachim di Fiore </rs>(whose name you all know),
                <lb facs="#facs_103_tr_1_tl_5" n="N005"/>a monk of the 12th century. This man wrote, in the beginning of the 12th century, prophecies
                <lb facs="#facs_103_tr_1_tl_6" n="N006"/>on the basis of which he gave the first---not the first, but a very important---anti-Augustinian
                <lb facs="#facs_103_tr_1_tl_7" n="N007"/>sectarian interpretation of history, namely that the Trinity is not only eternal but is also
@@ -6729,8 +6729,8 @@
                <lb facs="#facs_103_tr_1_tl_12" n="N012"/>disappear; every individual will be taught directly by the Divine Spirit; everybody will become a
                <lb facs="#facs_103_tr_1_tl_13" n="N013"/>monk. And by abstinence from sexual relationships, mankind and, with it, history, will come to an end.
                <lb facs="#facs_103_tr_1_tl_14" n="N014"/>Now these prophecies had a tremendous influence on the Franciscan movement, and the
-               <lb facs="#facs_103_tr_1_tl_15" n="N015"/>later Franciscans revolted against the papal hierarchies in the name of the prophecies of Joachim di
-               <lb facs="#facs_103_tr_1_tl_17" n="N016"/>Fiore, in the hope that the third stage of history will now start with the Order of Saint Francis.
+               <lb facs="#facs_103_tr_1_tl_15" n="N015"/>later Franciscans revolted against the papal hierarchies in the name of the prophecies of J<rs type="person" key=", tillich_person_id__983">oachim di
+               <lb break="no" facs="#facs_103_tr_1_tl_17" n="N016"/>Fiore</rs>, in the hope that the third stage of history will now start with the Order of Saint Francis.
                <lb facs="#facs_103_tr_1_tl_18" n="N017"/>They were suppressed by the power of the popes, and their ideas remained in a more secularized
                <lb facs="#facs_103_tr_1_tl_20" n="N018"/>form. And the idea of a third stage of history is from now on a continuous symbol, as
                <lb facs="#facs_103_tr_1_tl_21" n="N019"/>you can call it, for such ideas---for all revolutionary movements in the Western world. The sects of
@@ -6742,21 +6742,21 @@
                <lb facs="#facs_104_tr_1_tl_3" n="N002"/>sects of the Reformation period, also construed their age as the Age of Reason, which is the last
                <lb facs="#facs_104_tr_1_tl_4" n="N003"/>age after all the others are only preparatory.
                <lb facs="#facs_104_tr_1_tl_5" n="N004"/>The same idea, then, was finally taken over by the proletariat, and the idea of the third
-               <lb facs="#facs_104_tr_1_tl_6" n="N005"/>stage of history, the final revolution, the revolution of the lowest class, which will abolish all
+               <lb facs="#facs_104_tr_1_tl_6" n="N005"/>stage of history, the final <Revolution>revolution</Revolution>, the revolution of the lowest class, which will abolish all
                <lb facs="#facs_104_tr_1_tl_7" n="N006"/>classes, was the religious impetus behind the proletarian revolutions. And this is even the case
-               <lb facs="#facs_104_tr_1_tl_8" n="N007"/>in Karl Marx, who is usually accused by sometimes very questionable Christianity as "atheist,"
+               <lb facs="#facs_104_tr_1_tl_8" n="N007"/>in <rs type="person" key=", tillich_person_id__1275">Karl Marx</rs>, who is usually accused by sometimes very questionable Christianity as "atheist,"
                <lb facs="#facs_104_tr_1_tl_9" n="N008"/>but who, in spite of his so-called atheism, was grasped by the idea of a completely secularized
                <lb facs="#facs_104_tr_1_tl_10" n="N009"/>kingdom of God, which has very similar structures to the religious idea of the kingdom of God
                <lb facs="#facs_104_tr_1_tl_11" n="N010"/>IN HISTORY, only in a secularized form without the traditional religious symbolism. For him,
                <lb facs="#facs_104_tr_1_tl_12" n="N011"/>in SOME of his utterances at least, there was a kind of original communism---<hi style="font-style: italic;">Urkommunismus</hi>,
-               <lb facs="#facs_104_tr_1_tl_13" n="N012"/>as he called it---or at least a state of things like in Rousseau, in which the separation of classes did not
+               <lb facs="#facs_104_tr_1_tl_13" n="N012"/>as he called it---or at least a state of things like in <rs type="person" key=", tillich_person_id__1652">Rousseau</rs>, in which the separation of classes did not
                <lb facs="#facs_104_tr_1_tl_14" n="N013"/>exist. Then, with the establishment of private property, the differentiation of classes started, and
-               <lb facs="#facs_104_tr_1_tl_15" n="N014"/>at the same time the tremendous economic development which Marx describes in the <hi style="font-style: italic;">Communist</hi>
+               <lb facs="#facs_104_tr_1_tl_15" n="N014"/>at the same time the tremendous economic development which <rs type="person" key=", tillich_person_id__1275">Marx</rs> describes in the <hi style="font-style: italic;">Communist</hi>
                <lb facs="#facs_104_tr_1_tl_16" n="N015"/><hi style="font-style: italic;">Manifesto</hi>, almost in hymnic praises of the bourgeois society and its achievement. But at the same
                <lb facs="#facs_104_tr_1_tl_17" n="N016"/>time, it was the period of the class wars, and now a third period will come: the classless society.
                <lb facs="#facs_104_tr_1_tl_20" n="N017"/>This structure of thinking gave the religious impetus without which no strong movement
                <lb facs="#facs_104_tr_1_tl_21" n="N018"/>can exist---if you interpret religion, as I do, as being ultimately concerned.
-               <lb facs="#facs_104_tr_1_tl_22" n="N019"/>In all these cases, the problem was the economic situation of the revolutionary
+               <lb facs="#facs_104_tr_1_tl_22" n="N019"/>In all these cases, the problem was the economic situation of the <Revolution>revolutionary</Revolution>
                <lb facs="#facs_104_tr_1_tl_23" n="N020"/>classes. Fist the economic situation of the peasants, and partly the lower nobility, who also revolted
             </ab>
             <pb facs="#facs_105" n="part4_p105.jpg" xml:id="img_0105"/>
@@ -6768,7 +6768,7 @@
                <lb facs="#facs_105_tr_1_tl_5" n="N005"/>had come to a victory.
                <lb facs="#facs_105_tr_1_tl_6" n="N006"/>A very interesting cooperation of philosophical thought and this sociological development
                <lb facs="#facs_105_tr_1_tl_7" n="N007"/>can be mentioned here, namely the development from the rationalism (which is critical) to the
-               <lb facs="#facs_105_tr_1_tl_8" n="N008"/>bourgeois victory (which is positivistic); the revolution of which Rousseau, Voltaire, Diderot,
+               <lb facs="#facs_105_tr_1_tl_8" n="N008"/>bourgeois victory (which is positivistic); the revolution of which <rs type="person" key=", tillich_person_id__1652">Rousseau</rs>, <rs type="person" key=", tillich_person_id__2007">Voltaire</rs>, <rs type="person" key=", tillich_person_id__461">Diderot</rs>,
                <lb facs="#facs_105_tr_1_tl_9" n="N009"/>the Encyclopedists of the 18th century gave the formulas, was done in the name of critical reason.
                <lb facs="#facs_105_tr_1_tl_10" n="N010"/>In the moment in which the bourgeoisie was victorious, critical reason was replaced by positivistic
                <lb facs="#facs_105_tr_1_tl_11" n="N011"/>reason, by calculating reason, because now, that which is positively given should be RECOGNIZED,
@@ -6785,8 +6785,8 @@
             <pb facs="#facs_106" n="part4_p106.jpg" xml:id="img_0106"/>
             <ab facs="#facs_106_tr_3">
                <lb facs="#facs_106_tr_3_tl_1" n="N001"/>[575]
-               <lb facs="#facs_106_tr_3_tl_2" n="N002"/>The first mistake is the definition of the economic. What is that? Economy means building a
-               <lb facs="#facs_106_tr_3_tl_3" n="N003"/>house, originally. It is derived from οικος, house. So economy means the whole structure in which
+               <lb facs="#facs_106_tr_3_tl_2" n="N002"/>The first mistake is the definition of the <Economy>economic</Economy>. What is that? Economy means building a
+               <lb facs="#facs_106_tr_3_tl_3" n="N003"/>house, originally. It is derived from οἶκος, house. So economy means the whole structure in which
                <lb facs="#facs_106_tr_3_tl_4" n="N004"/>man builds its house on earth. This of course is limited, in the language which we now use,
                <lb facs="#facs_106_tr_3_tl_5" n="N005"/>to those productions which are basic for human existence, to fill the needs which arise in human
                <lb facs="#facs_106_tr_3_tl_6" n="N006"/>life. All this is economy. Now if you say that this economy is the basis, and that the arts
@@ -6807,15 +6807,15 @@
             <pb facs="#facs_107" n="part4_p107.jpg" xml:id="img_0107"/>
             <ab facs="#facs_107_tr_1">
                <lb facs="#facs_107_tr_1_tl_1" n="N001"/>[576]
-               <lb facs="#facs_107_tr_1_tl_2" n="N002"/>The same is true of the legal forms within which economy is always going on. If you
-               <lb facs="#facs_107_tr_1_tl_3" n="N003"/>derive the system of law from the economy, then you must see that economy never goes on,
+               <lb facs="#facs_107_tr_1_tl_2" n="N002"/>The same is true of the legal forms within which <Economy>economy</Economy> is always going on. If you
+               <lb facs="#facs_107_tr_1_tl_3" n="N003"/>derive the system of <Law>law </Law>from the economy, then you must see that economy never goes on,
                <lb facs="#facs_107_tr_1_tl_4" n="N004"/>not even if two people work together, without some laws regulating their togetherness,
                <lb facs="#facs_107_tr_1_tl_5" n="N005"/>regulating the division of what is produced by them, etc. So law is ALREADY presupposed and
                <lb facs="#facs_107_tr_1_tl_6" n="N006"/>cannot be derived from that which IS presupposed in it.
                <lb facs="#facs_107_tr_1_tl_7" n="N007"/>Now all this does not mean we must turn the whole situation around: that would be an
-               <lb facs="#facs_107_tr_1_tl_8" n="N008"/>idealistic interpretation of economy which is equally wrong as a materialistic interpretation of a
+               <lb facs="#facs_107_tr_1_tl_8" n="N008"/>idealistic interpretation of <Economy>economy</Economy> which is equally wrong as a materialistic interpretation of a
                <lb facs="#facs_107_tr_1_tl_9" n="N009"/>culture OUT of economy. The whole thing is a TOTAL STRUCTURE in which every element
-               <lb facs="#facs_107_tr_1_tl_10" n="N010"/>is mutually dependent on all other elements. Only if we consider society as such a <hi style="font-style: italic;">Gestalt</hi>,
+               <lb facs="#facs_107_tr_1_tl_10" n="N010"/>is mutually dependent on all other elements. Only if we consider society as such a <Gestalt><hi style="font-style: italic;">Gestalt</hi></Gestalt>,
                <lb facs="#facs_107_tr_1_tl_11" n="N011"/>a living structure, are we able to understand the relationship of the economic to the others.
                <lb facs="#facs_107_tr_1_tl_12" n="N012"/>On this basis we go on next time.
             </ab>
@@ -6825,25 +6825,25 @@
                <lb facs="#facs_108_tr_3_tl_2" n="N002"/>LECTURE XLIV, April 26, 1956
                <lb facs="#facs_108_tr_3_tl_3" n="N003"/>Today I want to continue what I started just at the end of last hour, talking about the
                <lb facs="#facs_108_tr_3_tl_4" n="N004"/>concept of the economic. The reason why this is important is the fact that we have, through
-               <lb facs="#facs_108_tr_3_tl_5" n="N005"/>Marxism*, something which is usually called "the materialistic interpretation of history." And I want
+               <lb facs="#facs_108_tr_3_tl_5" n="N005"/><rs type="person" key=", tillich_person_id__1275">Marxi</rs>sm*, something which is usually called "the <Materialism>materialistic </Materialism>interpretation of history." And I want
                <lb facs="#facs_108_tr_3_tl_6" n="N006"/>to say a few words about this, about the meaning of this word and about the implications of it.
-               <lb facs="#facs_108_tr_3_tl_7" n="N007"/>First of all the word "materialistic interpretation of history" is a bad word---poor word---
+               <lb facs="#facs_108_tr_3_tl_7" n="N007"/>First of all the word "<Materialism>materialistic</Materialism> interpretation of history" is a bad word---poor word---
                <lb facs="#facs_108_tr_3_tl_8" n="N008"/>because the term materialism has three meanings, and the confusion of meanings is frequently a
                <lb facs="#facs_108_tr_3_tl_9" n="N009"/>wonderful weapon in a political struggle, and I will show you how this came to pass in this case.
-               <lb facs="#facs_108_tr_3_tl_10" n="N010"/>"Materialism" is basically a metaphysical term derived from philosophers like Democritus and
-               <lb facs="#facs_108_tr_3_tl_11" n="N011"/>Epicurus in the ancient world and their successors in the Renaissance and in the present. "Materialism"
+               <lb facs="#facs_108_tr_3_tl_10" n="N010"/>"Materialism" is basically a metaphysical term derived from philosophers like <rs type="person" key=", tillich_person_id__449">Democritus </rs>and
+               <lb facs="#facs_108_tr_3_tl_11" n="N011"/><rs type="person" key=", tillich_person_id__535">Epicurus</rs> in the ancient world and their successors in the Renaissance and in the present. "Materialism"
                <lb facs="#facs_108_tr_3_tl_12" n="N012"/>here means the interpretation of reality as a whole in terms of material particles called atoms,
                <lb facs="#facs_108_tr_3_tl_13" n="N013"/>or otherwise. This concept of materialism is to be valuated very positively because it was the
                <lb facs="#facs_108_tr_3_tl_14" n="N014"/>first step into a methodological science of nature, and, as you know, the fundamentals of this first
                <lb facs="#facs_108_tr_3_tl_15" n="N015"/>step, the concept of atom, is still a valid concept in spite of all changes of its qualification in
                <lb facs="#facs_108_tr_3_tl_16" n="N016"/>modern sciences.
-               <lb facs="#facs_108_tr_3_tl_17" n="N017"/>The second meaning of materialism is a moral attitude of desire for goods which satisfy
+               <lb facs="#facs_108_tr_3_tl_17" n="N017"/>The second meaning of <Materialism>materialism</Materialism> is a moral attitude of desire for goods which satisfy
                <lb facs="#facs_108_tr_3_tl_18" n="N018"/>the drives of libido and of power, and especially of libido (power, more as a means to satisfy the libido
                <lb facs="#facs_108_tr_3_tl_19" n="N019"/>drives). If this meaning is used, then it is ALWAYS used, by everybody, in a devaluating sense,
                <lb facs="#facs_108_l" n="N020"/>--------------
-               <lb facs="#facs_108_tr_3_tl_20" n="N021"/>*Cf. the review by the noted American historian, Charles A. Beard, of PT's <hi style="font-style: italic;">The Interpretation of</hi>
+               <lb facs="#facs_108_tr_3_tl_20" n="N021"/>*Cf. the review by the noted American historian, Charles A. <rs type="person" key=", tillich_person_id__3164">Beard</rs>, of <rs type="person" key=", tillich_person_id__1928">PT</rs>'s <hi style="font-style: italic;">The Interpretation of</hi>
                <lb facs="#facs_108_tr_3_tl_21" n="N022"/><hi style="font-style: italic;">History</hi> (1936), which appeared in the <hi style="font-style: italic;">American Journal of Sociology</hi>, XLIII (Jan. 1938), 666.
-               <lb facs="#facs_108_tr_3_tl_22" n="N023"/>Beard expresses his surprise that here, for once, is a theologian who has read his Marx! --- Ed.
+               <lb facs="#facs_108_tr_3_tl_22" n="N023"/>Beard expresses his surprise that here, for once, is a theologian who has read his <rs type="person" key=", tillich_person_id__1275">Marx</rs>! --- Ed.
             </ab>
             <pb facs="#facs_109" n="part4_p109.jpg" xml:id="img_0109"/>
             <ab facs="#facs_109_tr_2">
