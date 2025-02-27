@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_23">
          <graphic url="TL-0415.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=KAQWXJLQLZIEFGGONAFRNCWA&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KAQWXJLQLZIEFGGONAFRNCWA&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="304,305 2307,305 2307,1132 304,1132" rendition="TextRegion" xml:id="facs_23_tr_2">
             <zone points="1165,358 1195,363 1205,373 1240,373 1245,368 1268,371 1275,363 1288,363 1288,323 1275,323 1255,303 1247,308 1227,308 1217,301 1200,318 1165,318" rendition="Line" xml:id="facs_23_tr_2_tl_1"/>
             <zone points="293,504 1423,488 1536,534 1658,483 2270,491 2272,433 296,461" rendition="Line" xml:id="facs_23_tr_2_tl_2"/>
@@ -115,7 +115,7 @@
             </p>
             <p facs="#facs_23_tr_3">
                <lb facs="#facs_23_tr_3_tl_1" n="N001"/>idea, which developed a little later than the Renaissance idea, with the rising democratic
-               <lb facs="#facs_23_tr_3_tl_2" n="N002"/>ideology, we have the concept of the universal public schools--not public schools in the sense of
+               <lb facs="#facs_23_tr_3_tl_2" n="N002"/>ideology, we have the <rs type="keyword" ref="#Concept">concept</rs> of the universal public schools--not public schools in the sense of
                <lb facs="#facs_23_tr_3_tl_3" n="N003"/>Great Britain, where it simply meant a school in which not only one teacher is in a house to
                <lb facs="#facs_23_tr_3_tl_4" n="N004"/>teach the aristocrats, but the sons come together in institutes where you have to be announced
                <lb facs="#facs_23_tr_3_tl_5" n="N005"/>a decade before your birth in order to be put in at all! Now this has very little to do with

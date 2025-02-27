@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_17">
          <graphic url="TL-0409.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=AXWHBDGYUGSQASXZPXYCOULL&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AXWHBDGYUGSQASXZPXYCOULL&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="289,317 2385,317 2385,1138 289,1138" rendition="TextRegion" xml:id="facs_17_tr_3">
             <zone points="1078,368 1112,373 1120,381 1154,381 1164,373 1174,381 1185,381 1195,371 1208,371 1208,303 1146,300 1141,305 1122,305 1109,295 1078,295" rendition="Line" xml:id="facs_17_tr_3_tl_1"/>
             <zone points="274,504 853,517 966,509 966,457 702,446 671,470 634,433 564,433 525,470 491,436 392,433 331,436 274,472" rendition="Line" xml:id="facs_17_tr_3_tl_2" subtype="heading"/>
@@ -134,7 +134,7 @@
                <lb facs="#facs_17_tr_1_tl_4" n="N004"/>Now this was the one [question]. The next question is a little bit too long, but I will
                <lb facs="#facs_17_tr_1_tl_5" n="N005"/>try to do it:
                <lb facs="#facs_17_tr_1_tl_6" n="N006"/>QN (P.H.John): In his recent book, <hi style="font-style: italic;">Icon and Idea</hi>, Sir <rs type="person" ref="#tillich_person_id__3109">Herbert</rs> Read says that the history of <rs type="keyword" ref="#Art">art</rs>
-               <lb facs="#facs_17_tr_1_tl_7" n="N007"/>and the history of ideas have hitherto been considered as independent aspects of human development,
+               <lb facs="#facs_17_tr_1_tl_7" n="N007"/>and the <rs type="keyword" ref="#History">history</rs> of ideas have hitherto been considered as independent aspects of human development,
                <lb facs="#facs_17_tr_1_tl_8" n="N008"/>and priority was given to ideas. But he says that in reality the plastic image--or icon--always precedes
             </p>
             

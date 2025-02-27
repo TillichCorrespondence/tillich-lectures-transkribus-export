@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_50">
          <graphic url="TL-0442.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=NJGKAJYHNQLXHPJEIMOIJPUR&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=NJGKAJYHNQLXHPJEIMOIJPUR&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="292,353 2289,353 2289,2535 292,2535" rendition="TextRegion" xml:id="facs_50_tr_1">
             <zone points="1139,406 1152,406 1177,421 1239,421 1249,411 1274,411 1274,371 1259,371 1254,366 1242,371 1222,351 1209,346 1204,349 1187,334 1157,369 1139,369" rendition="Line" xml:id="facs_50_tr_1_tl_1"/>
             <zone points="301,569 2230,567 2175,487 301,497" rendition="Line" xml:id="facs_50_tr_1_tl_2"/>
@@ -114,7 +114,7 @@
                <lb facs="#facs_50_tr_1_tl_13" n="N012"/>of the divine <rs type="keyword" ref="#Ground_of_Being">ground of being</rs> himself. As such, the individual represents something unique, but not
                <lb facs="#facs_50_tr_1_tl_14" n="N013"/>unique as before God, in CHRISTIAN thinking, namely an object of the love of God, but unique
                <lb facs="#facs_50_tr_1_tl_15" n="N014"/>in the cultural sense, the representative of unique creative possibilities. This is the DIFFERENCE
-               <lb facs="#facs_50_tr_1_tl_16" n="N015"/>from the <rs type="keyword" ref="#Rationality">rational</rs> concept also, because it is not the development of CONSCIOUSNESS which is
+               <lb facs="#facs_50_tr_1_tl_16" n="N015"/>from the <rs type="keyword" ref="#Rationality">rational</rs> <rs type="keyword" ref="#Concept">concept</rs> also, because it is not the development of CONSCIOUSNESS which is
             </p>
             <p facs="#facs_50_tr_2">
                <lb facs="#facs_50_tr_2_tl_1" n="N001"/>decisive here, but it is a qualitative character, qualitative elements, which are potentially in every man

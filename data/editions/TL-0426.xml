@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_34">
          <graphic url="TL-0426.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=VMMOQISNRNYEPSPJIFUUIDFV&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=VMMOQISNRNYEPSPJIFUUIDFV&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="256,141 2286,141 2286,1278 256,1278" rendition="TextRegion" xml:id="facs_34_tr_3">
             <zone points="1066,206 1102,203 1122,213 1186,198 1186,129 1145,127 1132,140 1122,142 1066,142" rendition="Line" xml:id="facs_34_tr_3_tl_1"/>
             <zone points="241,510 2254,467 2280,409 241,467" rendition="Line" xml:id="facs_34_tr_3_tl_2"/>
@@ -107,7 +107,7 @@
                <lb facs="#facs_34_tr_3_tl_3" n="N003"/>to a totalitarian ideal. It is in both cases the education to the impossibility to say No!
                <lb facs="#facs_34_tr_3_tl_4" n="N004"/>This form of education to adjustment is always going on, and expresses itself
                <lb facs="#facs_34_tr_3_tl_5" n="N005"/>in all the little <rs type="keyword" ref="#Symbols">symbols</rs> which appear in movie and television, in music, in slogans,
-               <lb facs="#facs_34_tr_3_tl_7" n="N006"/>in little changes of the language, in little symbols produced by the arts which are communicated.
+               <lb facs="#facs_34_tr_3_tl_7" n="N006"/>in little changes of the <rs type="keyword" ref="#Language">language</rs>, in little symbols produced by the arts which are communicated.
                <lb facs="#facs_34_tr_3_tl_8" n="N007"/>And everybody is influenced by them, and it is hard to say No to it.
             </p>
             <p facs="#facs_34_tr_1">
@@ -124,7 +124,7 @@
             <p facs="#facs_34_tr_2">
                <lb facs="#facs_34_tr_2_tl_1" n="N001"/>understand when I use the word ''Protestantism.'' If you take ''Protestantism'' as another
                <lb facs="#facs_34_tr_2_tl_2" n="N002"/>religion beside the Catholic religions and beside the non-Christian religions, in which there are
-               <lb facs="#facs_34_tr_2_tl_3" n="N003"/>special liturgies, special sum of doctrines, a special form of ethics, and a social structure called
+               <lb facs="#facs_34_tr_2_tl_3" n="N003"/>special liturgies, special sum of doctrines, a special form of <rs type="keyword" ref="#Ethics">ethics</rs>, and a social structure called
                <lb facs="#facs_34_tr_2_tl_4" n="N004"/>a <rs type="keyword" ref="#Church">church</rs>, which is not the <rs type="keyword" ref="#Roman_Catholicism">Roman church </rs>but another church--then of course Protestantism
             </p>
             

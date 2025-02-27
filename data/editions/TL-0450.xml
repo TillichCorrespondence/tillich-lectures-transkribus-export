@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_58">
          <graphic url="TL-0450.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=ZRJBGHSJYWOWIHXWQTIOIXDX&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZRJBGHSJYWOWIHXWQTIOIXDX&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="316,332 2307,332 2307,1460 316,1460" rendition="TextRegion" xml:id="facs_58_tr_2">
             <zone points="1181,390 1208,390 1228,400 1275,400 1290,390 1303,390 1300,343 1266,343 1246,323 1238,331 1226,331 1213,343 1178,343" rendition="Line" xml:id="facs_58_tr_2_tl_1"/>
             <zone points="540,554 2245,549 2248,460 540,490" rendition="Line" xml:id="facs_58_tr_2_tl_2"/>
@@ -106,7 +106,7 @@
                <lb facs="#facs_58_tr_1_tl_1" n="N001"/>are developed by me in [these lectures], when I speak about the state of mankind in our period,
                <lb facs="#facs_58_tr_1_tl_2" n="N002"/>but I will go into it once more from the point of view of the ideal of personality.
                <lb facs="#facs_58_tr_1_tl_3" n="N003"/>This ideal, in all its greatness, has become one of the most demonic and destructive
-               <lb facs="#facs_58_tr_1_tl_4" n="N004"/>powers in Western history. And so our next task will be to develop the dialectics of the ideal of
+               <lb facs="#facs_58_tr_1_tl_4" n="N004"/>powers in Western <rs type="keyword" ref="#History">history</rs>. And so our next task will be to develop the dialectics of the ideal of
                <lb facs="#facs_58_tr_1_tl_5" n="N005"/>personality and relate it to <rs type="keyword" ref="#Social_Ethics">social ethics</rs> and the problem of community.
             </p>
             

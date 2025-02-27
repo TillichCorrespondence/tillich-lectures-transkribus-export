@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_27">
          <graphic url="TL-0419.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=DNUYJWHYVGOVWSWNZGTLTUOW&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DNUYJWHYVGOVWSWNZGTLTUOW&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="65,33 2230,33 2230,1732 65,1732" rendition="TextRegion" xml:id="facs_27_tr_2">
             <zone points="1136,362 1166,364 1178,374 1188,374 1193,369 1198,374 1209,374 1216,367 1224,372 1254,369 1254,322 1221,322 1198,299 1173,322 1136,322" rendition="Line" xml:id="facs_27_tr_2_tl_2"/>
             <zone points="309,513 2103,533 2103,455 1490,482 1379,402 1289,477 309,480" rendition="Line" xml:id="facs_27_tr_2_tl_3"/>
@@ -120,7 +120,7 @@
                <lb facs="#facs_27_tr_3_tl_4" n="N004"/>of these symbols, of the leaders of this group, of the institutions--for instance parades of
                <lb facs="#facs_27_tr_3_tl_5" n="N005"/>representatives of a party, if it is a real social group; or religious services and processions. All this
                <lb facs="#facs_27_tr_3_tl_6" n="N006"/>belongs to the third form of education. They TAKE IN those who are not yet in, and they strengthen
-               <lb facs="#facs_27_tr_3_tl_7" n="N007"/>the participation of those who ARE in. And this is the education which one can call education
+               <lb facs="#facs_27_tr_3_tl_7" n="N007"/>the <rs type="keyword" ref="#Participation">participation</rs> of those who ARE in. And this is the education which one can call education
                <lb facs="#facs_27_tr_3_tl_8" n="N008"/>by existential participation. I had the experience in the twenties that the younger generation of
                <lb facs="#facs_27_tr_3_tl_9" n="N009"/><rs type="keyword" ref="#Germany">Germany</rs> was absolutely dedicated to THIS form of education, against both of the others.
             </p>

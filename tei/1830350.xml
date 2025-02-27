@@ -82,7 +82,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_4">
          <graphic url="part3_p004.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=KRYHXWFPCGVXKXHCCENJCDVO&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KRYHXWFPCGVXKXHCCENJCDVO&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="307,385 2280,385 2280,1287 307,1287" rendition="TextRegion" xml:id="facs_4_tr_2">
             <zone points="1177,435 1189,435 1206,452 1244,452 1254,445 1261,452 1294,452 1294,373 1261,376 1254,371 1230,390 1218,388 1208,397 1177,397" rendition="Line" xml:id="facs_4_tr_2_tl_1"/>
             <zone points="300,592 614,645 2146,599 2146,554 1932,519 300,557" rendition="Line" xml:id="facs_4_tr_2_tl_2"/>
@@ -312,7 +312,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_12">
          <graphic url="part3_p012.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=UMIUBTXLYELGTOUXOAKCYLVA&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=UMIUBTXLYELGTOUXOAKCYLVA&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="62,75 2251,75 2251,1031 62,1031" rendition="TextRegion" xml:id="facs_12_tr_1">
             <zone points="1174,408 1186,408 1206,420 1225,423 1281,423 1285,418 1298,418 1300,346 1237,346 1211,370 1177,370" rendition="Line" xml:id="facs_12_tr_1_tl_3"/>
             <zone points="307,609 510,677 631,575 1534,599 2112,573 2112,529 536,532 423,476 307,541" rendition="Line" xml:id="facs_12_tr_1_tl_4"/>
@@ -371,7 +371,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_14">
          <graphic url="part3_p014.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=WGDOTXNSQHUMKKGTQATWELAZ&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WGDOTXNSQHUMKKGTQATWELAZ&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="280,317 2188,317 2188,1437 280,1437" rendition="TextRegion" xml:id="facs_14_tr_2">
             <zone points="1066,368 1108,373 1118,382 1135,380 1143,373 1150,380 1215,380 1215,323 1192,323 1175,306 1152,306 1135,323 1123,320 1113,330 1066,330" rendition="Line" xml:id="facs_14_tr_2_tl_1"/>
             <zone points="278,524 2151,534 2151,402 2037,492 278,484" rendition="Line" xml:id="facs_14_tr_2_tl_2"/>
@@ -403,7 +403,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_15">
          <graphic url="part3_p015.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=SLRORZNLARHNIMFWGUXCTPAM&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=SLRORZNLARHNIMFWGUXCTPAM&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="289,314 2245,314 2245,1135 289,1135" rendition="TextRegion" xml:id="facs_15_tr_3">
             <zone points="1133,372 1163,372 1171,379 1188,382 1206,379 1249,384 1249,324 1211,324 1191,307 1168,329 1133,329" rendition="Line" xml:id="facs_15_tr_3_tl_1"/>
             <zone points="281,535 2158,533 2158,445 2078,405 1894,485 281,492" rendition="Line" xml:id="facs_15_tr_3_tl_2"/>
@@ -442,7 +442,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_17">
          <graphic url="part3_p017.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=AXWHBDGYUGSQASXZPXYCOULL&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AXWHBDGYUGSQASXZPXYCOULL&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="289,317 2385,317 2385,1138 289,1138" rendition="TextRegion" xml:id="facs_17_tr_3">
             <zone points="1078,368 1112,373 1120,381 1154,381 1164,373 1174,381 1185,381 1195,371 1208,371 1208,303 1146,300 1141,305 1122,305 1109,295 1078,295" rendition="Line" xml:id="facs_17_tr_3_tl_1"/>
             <zone points="274,504 853,517 966,509 966,457 702,446 671,470 634,433 564,433 525,470 491,436 392,433 331,436 274,472" rendition="Line" xml:id="facs_17_tr_3_tl_2" subtype="heading"/>
@@ -581,7 +581,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_21">
          <graphic url="part3_p021.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=FVGYWGNYJGJKFPGLWSULAAYG&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=FVGYWGNYJGJKFPGLWSULAAYG&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="286,278 2251,278 2251,1231 286,1231" rendition="TextRegion" xml:id="facs_21_tr_2">
             <zone points="1157,341 1181,341 1189,348 1206,348 1231,341 1255,344 1265,334 1278,334 1278,299 1258,299 1238,279 1211,277 1203,279 1191,292 1157,292" rendition="Line" xml:id="facs_21_tr_2_tl_1"/>
             <zone points="282,470 1478,465 1661,534 1708,487 1826,499 1826,400 282,435" rendition="Line" xml:id="facs_21_tr_2_tl_2"/>
@@ -615,7 +615,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_22">
          <graphic url="part3_p022.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=FMQILNLKAAAUAITICORYLWDO&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=FMQILNLKAAAUAITICORYLWDO&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="286,39 2289,39 2289,1714 286,1714" rendition="TextRegion" xml:id="facs_22_tr_1">
             <zone points="1155,311 1170,311 1188,326 1208,329 1252,329 1267,321 1280,321 1280,261 1225,261 1215,271 1208,266 1190,279 1155,279" rendition="Line" xml:id="facs_22_tr_1_tl_2"/>
             <zone points="284,448 2114,456 2114,403 284,413" rendition="Line" xml:id="facs_22_tr_1_tl_3"/>
@@ -647,7 +647,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_23">
          <graphic url="part3_p023.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=KAQWXJLQLZIEFGGONAFRNCWA&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KAQWXJLQLZIEFGGONAFRNCWA&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="304,305 2307,305 2307,1132 304,1132" rendition="TextRegion" xml:id="facs_23_tr_2">
             <zone points="1165,358 1195,363 1205,373 1240,373 1245,368 1268,371 1275,363 1288,363 1288,323 1275,323 1255,303 1247,308 1227,308 1217,301 1200,318 1165,318" rendition="Line" xml:id="facs_23_tr_2_tl_1"/>
             <zone points="293,504 1423,488 1536,534 1658,483 2270,491 2272,433 296,461" rendition="Line" xml:id="facs_23_tr_2_tl_2"/>
@@ -680,7 +680,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_24">
          <graphic url="part3_p024.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=RTVAEHLLVQKBKMNAFRTXDMHE&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=RTVAEHLLVQKBKMNAFRTXDMHE&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="304,275 2254,275 2254,1496 304,1496" rendition="TextRegion" xml:id="facs_24_tr_1">
             <zone points="1115,329 1148,334 1156,342 1192,342 1200,334 1212,342 1230,342 1230,259 1200,259 1179,280 1115,280" rendition="Line" xml:id="facs_24_tr_1_tl_1"/>
             <zone points="306,527 2207,509 2207,444 1544,465 1462,401 1397,465 306,475" rendition="Line" xml:id="facs_24_tr_1_tl_2"/>
@@ -741,7 +741,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_26">
          <graphic url="part3_p026.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=IKKSLUBIUKSVGASPWLNNYXWT&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=IKKSLUBIUKSVGASPWLNNYXWT&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="298,278 2376,278 2376,1711 298,1711" rendition="TextRegion" xml:id="facs_26_tr_2">
             <zone points="1167,335 1193,337 1213,350 1226,347 1249,352 1254,345 1262,350 1292,345 1290,271 1251,268 1228,294 1210,294 1195,283 1165,286" rendition="Line" xml:id="facs_26_tr_2_tl_1"/>
             <zone points="319,478 2370,518 2186,449 1558,455 1463,391 1402,452 319,434" rendition="Line" xml:id="facs_26_tr_2_tl_2"/>
@@ -771,7 +771,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_27">
          <graphic url="part3_p027.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=DNUYJWHYVGOVWSWNZGTLTUOW&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DNUYJWHYVGOVWSWNZGTLTUOW&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="65,33 2230,33 2230,1732 65,1732" rendition="TextRegion" xml:id="facs_27_tr_2">
             <zone points="1136,362 1166,364 1178,374 1188,374 1193,369 1198,374 1209,374 1216,367 1224,372 1254,369 1254,322 1221,322 1198,299 1173,322 1136,322" rendition="Line" xml:id="facs_27_tr_2_tl_2"/>
             <zone points="309,513 2103,533 2103,455 1490,482 1379,402 1289,477 309,480" rendition="Line" xml:id="facs_27_tr_2_tl_3"/>
@@ -947,7 +947,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_33">
          <graphic url="part3_p033.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=BBRVSDTVYYPZGJRIQFTDQQGF&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=BBRVSDTVYYPZGJRIQFTDQQGF&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="38,48 2304,48 2304,1087 38,1087" rendition="TextRegion" xml:id="facs_33_tr_3">
             <zone points="1011,242 1038,242 1043,237 1056,244 1073,244 1091,261 1125,261 1128,172 1096,172 1081,177 1063,174 1048,189 1013,189" rendition="Line" xml:id="facs_33_tr_3_tl_2"/>
             <zone points="503,476 2246,446 2298,383 505,423" rendition="Line" xml:id="facs_33_tr_3_tl_3"/>
@@ -977,7 +977,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_34">
          <graphic url="part3_p034.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=VMMOQISNRNYEPSPJIFUUIDFV&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=VMMOQISNRNYEPSPJIFUUIDFV&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="256,141 2286,141 2286,1278 256,1278" rendition="TextRegion" xml:id="facs_34_tr_3">
             <zone points="1066,206 1102,203 1122,213 1186,198 1186,129 1145,127 1132,140 1122,142 1066,142" rendition="Line" xml:id="facs_34_tr_3_tl_1"/>
             <zone points="241,510 2254,467 2280,409 241,467" rendition="Line" xml:id="facs_34_tr_3_tl_2"/>
@@ -1067,7 +1067,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_37">
          <graphic url="part3_p037.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=MIRXWIKNGZFQTGEYOZTZLDKV&amp;amp;amp;amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MIRXWIKNGZFQTGEYOZTZLDKV&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="274,209 2209,209 2209,1281 274,1281" rendition="TextRegion" xml:id="facs_37_tr_3">
             <zone points="1031,270 1050,270 1065,277 1114,277 1119,272 1124,277 1151,275 1148,221 1114,223 1099,211 1087,223 1028,223" rendition="Line" xml:id="facs_37_tr_3_tl_1"/>
             <zone points="260,579 611,515 2120,471 2122,422 891,456 832,405 704,469 265,481" rendition="Line" xml:id="facs_37_tr_3_tl_2"/>
@@ -1159,7 +1159,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_40">
          <graphic url="part3_p040.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=WQXBVOXRCZKKIZIYDPZVCEKP&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=WQXBVOXRCZKKIZIYDPZVCEKP&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="277,36 2251,36 2251,1016 277,1016" rendition="TextRegion" xml:id="facs_40_tr_3">
             <zone points="1053,291 1094,293 1114,303 1146,301 1161,291 1176,291 1178,222 1149,222 1117,244 1055,242" rendition="Line" xml:id="facs_40_tr_3_tl_2"/>
             <zone points="264,515 2147,500 2147,429 264,454" rendition="Line" xml:id="facs_40_tr_3_tl_3"/>
@@ -1253,7 +1253,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_43">
          <graphic url="part3_p043.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=BOMRJAQSCEVZWWABJAWSLHEG&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=BOMRJAQSCEVZWWABJAWSLHEG&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="298,15 2227,15 2227,911 298,911" rendition="TextRegion" xml:id="facs_43_tr_3">
             <zone points="1133,276 1155,276 1168,286 1252,286 1250,207 1235,209 1210,234 1200,234 1193,227 1185,234 1175,227 1168,234 1133,234" rendition="Line" xml:id="facs_43_tr_3_tl_2"/>
             <zone points="291,488 2037,486 2114,478 2114,411 291,431" rendition="Line" xml:id="facs_43_tr_3_tl_3"/>
@@ -1306,7 +1306,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_45">
          <graphic url="part3_p045.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=JTSVSLYPEVSNBJVGBLBTYFTQ&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=JTSVSLYPEVSNBJVGBLBTYFTQ&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="289,27 2197,27 2197,986 289,986" rendition="TextRegion" xml:id="facs_45_tr_2">
             <zone points="1125,368 1155,373 1167,382 1247,380 1244,288 1224,288 1205,308 1195,310 1177,325 1167,323 1157,333 1123,333" rendition="Line" xml:id="facs_45_tr_2_tl_4"/>
             <zone points="278,524 1021,532 1021,464 815,484 695,378 586,467 278,467" rendition="Line" xml:id="facs_45_tr_2_tl_5" subtype="heading"/>
@@ -1336,7 +1336,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_46">
          <graphic url="part3_p046.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=GFYSSEQZGIJFHAQUCBQVZACQ&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=GFYSSEQZGIJFHAQUCBQVZACQ&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="298,329 2313,329 2313,1834 298,1834" rendition="TextRegion" xml:id="facs_46_tr_2">
             <zone points="1141,387 1168,387 1186,397 1251,397 1269,392 1266,307 1221,307 1203,327 1141,329" rendition="Line" xml:id="facs_46_tr_2_tl_1"/>
             <zone points="296,538 2158,548 2158,497 1899,485 296,503" rendition="Line" xml:id="facs_46_tr_2_tl_2"/>
@@ -1364,7 +1364,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_47">
          <graphic url="part3_p047.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=DNCJCKJPLKZHTOLRCPJJXWGA&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=DNCJCKJPLKZHTOLRCPJJXWGA&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="286,69 2269,69 2269,2287 286,2287" rendition="TextRegion" xml:id="facs_47_tr_1">
             <zone points="1145,384 1158,384 1170,397 1213,404 1225,404 1230,399 1235,404 1270,402 1270,339 1235,342 1223,329 1200,352 1190,347 1183,352 1175,344 1145,344" rendition="Line" xml:id="facs_47_tr_1_tl_2"/>
             <zone points="304,539 1811,546 1811,469 1564,509 1480,462 1435,506 1183,509 1095,472 676,509 636,469 382,509 304,469" rendition="Line" xml:id="facs_47_tr_1_tl_3"/>
@@ -1393,7 +1393,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_48">
          <graphic url="part3_p048.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=VJGOMKSLDKAMSOMGFGEPEGAY&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=VJGOMKSLDKAMSOMGFGEPEGAY&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="313,347 2274,347 2274,1622 313,1622" rendition="TextRegion" xml:id="facs_48_tr_2">
             <zone points="1161,402 1196,402 1205,412 1240,417 1262,412 1274,402 1286,402 1284,343 1250,343 1235,328 1220,343 1159,345" rendition="Line" xml:id="facs_48_tr_2_tl_1"/>
             <zone points="309,551 2161,566 2019,483 309,517" rendition="Line" xml:id="facs_48_tr_2_tl_2"/>
@@ -1451,7 +1451,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_50">
          <graphic url="part3_p050.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=NJGKAJYHNQLXHPJEIMOIJPUR&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=NJGKAJYHNQLXHPJEIMOIJPUR&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="292,353 2289,353 2289,2535 292,2535" rendition="TextRegion" xml:id="facs_50_tr_1">
             <zone points="1139,406 1152,406 1177,421 1239,421 1249,411 1274,411 1274,371 1259,371 1254,366 1242,371 1222,351 1209,346 1204,349 1187,334 1157,369 1139,369" rendition="Line" xml:id="facs_50_tr_1_tl_1"/>
             <zone points="301,569 2230,567 2175,487 301,497" rendition="Line" xml:id="facs_50_tr_1_tl_2"/>
@@ -1516,7 +1516,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_52">
          <graphic url="part3_p052.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=VAHRSGVLFPVQQCVLIHUAZOHC&amp;amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=VAHRSGVLFPVQQCVLIHUAZOHC&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="47,63 2277,63 2277,1484 47,1484" rendition="TextRegion" xml:id="facs_52_tr_2">
             <zone points="1178,398 1190,395 1213,405 1273,408 1288,395 1301,395 1298,325 1268,325 1253,332 1235,350 1175,352" rendition="Line" xml:id="facs_52_tr_2_tl_3"/>
             <zone points="538,571 1656,614 1741,559 2187,561 2187,518 1925,521 1865,476 1651,521 624,526 538,486" rendition="Line" xml:id="facs_52_tr_2_tl_4"/>
@@ -1637,7 +1637,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_56">
          <graphic url="part3_p056.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=YVNBZVWFDCANDUUBBNVWFCGS&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=YVNBZVWFDCANDUUBBNVWFCGS&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="298,350 2373,350 2373,1332 298,1332" rendition="TextRegion" xml:id="facs_56_tr_2">
             <zone points="1186,405 1206,405 1214,412 1263,412 1273,420 1283,420 1293,410 1306,410 1304,338 1252,343 1245,336 1222,359 1183,359" rendition="Line" xml:id="facs_56_tr_2_tl_1"/>
             <zone points="310,551 2372,581 2315,520 1900,502 310,512" rendition="Line" xml:id="facs_56_tr_2_tl_2"/>
@@ -1698,7 +1698,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_58">
          <graphic url="part3_p058.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=ZRJBGHSJYWOWIHXWQTIOIXDX&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=ZRJBGHSJYWOWIHXWQTIOIXDX&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="316,332 2307,332 2307,1460 316,1460" rendition="TextRegion" xml:id="facs_58_tr_2">
             <zone points="1181,390 1208,390 1228,400 1275,400 1290,390 1303,390 1300,343 1266,343 1246,323 1238,331 1226,331 1213,343 1178,343" rendition="Line" xml:id="facs_58_tr_2_tl_1"/>
             <zone points="540,554 2245,549 2248,460 540,490" rendition="Line" xml:id="facs_58_tr_2_tl_2"/>
@@ -1749,7 +1749,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_60">
          <graphic url="part3_p060.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=AZBNPQOLQUWIYAVSJZJUHMER&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AZBNPQOLQUWIYAVSJZJUHMER&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="313,66 2283,66 2283,1159 313,1159" rendition="TextRegion" xml:id="facs_60_tr_2">
             <zone points="1150,384 1165,384 1182,397 1215,397 1222,404 1237,399 1244,404 1277,399 1277,320 1257,322 1239,340 1195,337 1185,345 1150,345" rendition="Line" xml:id="facs_60_tr_2_tl_2"/>
             <zone points="533,548 2278,558 2278,473 2149,508 2038,414 1941,506 533,513" rendition="Line" xml:id="facs_60_tr_2_tl_3"/>
@@ -1988,7 +1988,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_68">
          <graphic url="part3_p068.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=IBVRKZFMPPTDDREGQMZOTSUO&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=IBVRKZFMPPTDDREGQMZOTSUO&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="325,305 2322,305 2322,1663 325,1663" rendition="TextRegion" xml:id="facs_68_tr_1">
             <zone points="1118,362 1153,367 1160,374 1225,374 1229,369 1239,369 1239,302 1115,310" rendition="Line" xml:id="facs_68_tr_1_tl_1"/>
             <zone points="327,533 414,580 1470,580 1542,523 2315,521 2251,441 1795,476 1720,402 1636,476 327,456" rendition="Line" xml:id="facs_68_tr_1_tl_2"/>
@@ -2148,7 +2148,7 @@
       </surface>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_74">
          <graphic url="part3_p074.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=AWFNTJABDRDWBMDCQEWBSQEN&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=AWFNTJABDRDWBMDCQEWBSQEN&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="38,18 2295,18 2295,965 38,965" rendition="TextRegion" xml:id="facs_74_tr_3">
             <zone points="1151,337 1164,334 1197,349 1218,352 1259,352 1266,342 1279,342 1277,283 1264,283 1259,288 1223,283 1210,295 1197,293 1187,301 1151,303" rendition="Line" xml:id="facs_74_tr_3_tl_2"/>
             <zone points="285,506 2011,509 2011,442 1744,465 1534,434 1456,362 1379,434 1084,460 285,434" rendition="Line" xml:id="facs_74_tr_3_tl_3"/>
@@ -2488,7 +2488,7 @@
                <lb facs="#facs_4_tr_2_tl_1" n="N001"/>[391]
                <lb facs="#facs_4_tr_2_tl_2" n="N002"/>as such, is bad; conformism CAN be good, if it is historically founded and alive, as it still was
                <lb facs="#facs_4_tr_2_tl_3" n="N003"/>in England in the first half of this century. <Conformism>Conformism</Conformism> is bad if it extinguishes (as mass society
-               <lb facs="#facs_4_tr_2_tl_4" n="N004"/>tends to do) the individual reactions, creativity of the individual person. Therefore perhaps if
+               <lb facs="#facs_4_tr_2_tl_4" n="N004"/>tends to do) the individual reactions, <Creativity>creativity</Creativity> of the individual person. Therefore perhaps if
                <lb facs="#facs_4_tr_2_tl_6" n="N005"/>this would be possible linguistically, one should distinguish patternization and conformism. The danger
                <lb facs="#facs_4_tr_2_tl_7" n="N006"/>certainly is patternization.
                <lb facs="#facs_4_tr_2_tl_8" n="N007"/>Now this was the result of our analysis. What does religion do in this situation? Why has
@@ -2641,7 +2641,7 @@
             <pb facs="#facs_10" n="part3_p010.jpg" xml:id="img_0010"/>
             <ab facs="#facs_10_tr_2">
                <lb facs="#facs_10_tr_2_tl_5" n="N001"/>[397]
-               <lb facs="#facs_10_tr_2_tl_6" n="N002"/>because we are in both of them even, if we are in one or the other of them, with a negative sign
+               <lb facs="#facs_10_tr_2_tl_6" n="N002"/>because we are in both of them even, if we are in one or the other of them, with a negative <Signs>sign</Signs>
                <lb facs="#facs_10_tr_2_tl_7" n="N003"/>before our being in it. <hi style="font-style: italic;">[little daughter]</hi> In any case, the question ''What to do about the situation?''
                <lb facs="#facs_10_tr_2_tl_8" n="N004"/>is certainly justified.
                <lb facs="#facs_10_tr_2_tl_9" n="N005"/>To remain very modest in answering this question, I would say what you can do in an
@@ -2711,7 +2711,7 @@
                <lb facs="#facs_12_tr_2_tl_3" n="N003"/>power grasping us which has both personal and supra-personal character. And if for ''supra-
                <lb facs="#facs_12_tr_2_tl_4" n="N004"/>personal'' you say ''mystical,'' then this is another way of speaking about the mystic, but it is
                <lb facs="#facs_12_tr_2_tl_6" n="N005"/>by no means the anti-rational.
-               <lb facs="#facs_12_tr_2_tl_7" n="N006"/>QN: Do you think that ours is the first period of history in which such great objectivation has
+               <lb facs="#facs_12_tr_2_tl_7" n="N006"/>QN: Do you think that ours is the first period of <History>history</History> in which such great objectivation has
                <lb facs="#facs_12_tr_2_tl_8" n="N007"/>taken place?
                <lb facs="#facs_12_tr_2_tl_9" n="N008"/>PT: This is a very justified question, whether our period is the first in which such <Objectivation>objectivation</Objectivation>
                <lb facs="#facs_12_tr_2_tl_10" n="N009"/>has taken place. I have learned about the whole thing only by studying the history of Greek
@@ -2748,7 +2748,7 @@
                <lb facs="#facs_14_tr_2_tl_2" n="N002"/>it is not originally archaic any more, but it is archaistic, it is a return. And this return gives the
                <lb facs="#facs_14_tr_2_tl_3" n="N003"/>religious power back to these figures. They become mostly two-dimensional, i.e., they are taken
                <lb facs="#facs_14_tr_2_tl_4" n="N004"/>out of the natural space.
-               <lb facs="#facs_14_tr_2_tl_5" n="N005"/>Now then from there the new real archaic period of the <Byzantine_Art>Byzantine</Byzantine_Art> and early <Middle_Ages>Middle
+               <lb facs="#facs_14_tr_2_tl_5" n="N005"/>Now then from there the <New>new</New> real archaic period of the <Byzantine_Art>Byzantine</Byzantine_Art> and early <Middle_Ages>Middle
                <lb break="no" facs="#facs_14_tr_2_tl_6" n="N006"/>ages</Middle_Ages> began.
                <lb facs="#facs_14_tr_2_tl_7" n="N007"/>And it might be that our expressionistic art in the large sense of the word, which
                <lb facs="#facs_14_tr_2_tl_8" n="N008"/>now is lasting for 50 years, will be an analogy with the return of the archaic in the archaistic
@@ -2793,7 +2793,7 @@
                <lb facs="#facs_15_tr_2_tl_10" n="N010"/>and dehumanization, and mechanization. And what they created, in the dialectics of world
             </ab>
             <ab facs="#facs_15_tr_1">
-               <lb facs="#facs_15_tr_1_tl_1" n="N001"/>history, was almost 100% the opposite: they produced the most dehumanizing systems AGAINST
+               <lb facs="#facs_15_tr_1_tl_1" n="N001"/><History>history</History>, was almost 100% the opposite: they produced the most dehumanizing systems AGAINST
                <lb facs="#facs_15_tr_1_tl_2" n="N002"/>their will, by the tragic of world history. This is a partial answer. Today we are in the same situation,
                <lb facs="#facs_15_tr_1_tl_4" n="N003"/>and we don’t know whether the same development will take place, that that which was
                <lb facs="#facs_15_tr_1_tl_5" n="N004"/>thought as an onslaught against the structure of industrial society, will be used finally by the leaders
@@ -2833,7 +2833,7 @@
                <lb facs="#facs_17_tr_1_tl_4" n="N004"/>Now this was the one [question]. The next question is a little bit too long, but I will
                <lb facs="#facs_17_tr_1_tl_5" n="N005"/>try to do it:
                <lb facs="#facs_17_tr_1_tl_6" n="N006"/>QN (P.H.John): In his recent book, <hi style="font-style: italic;">Icon and Idea</hi>, Sir <rs type="person" key=", tillich_person_id__3109">Herbert</rs> Read says that the history of <Art>art</Art>
-               <lb facs="#facs_17_tr_1_tl_7" n="N007"/>and the history of ideas have hitherto been considered as independent aspects of human development,
+               <lb facs="#facs_17_tr_1_tl_7" n="N007"/>and the <History>history</History> of ideas have hitherto been considered as independent aspects of human development,
                <lb facs="#facs_17_tr_1_tl_8" n="N008"/>and priority was given to ideas. But he says that in reality the plastic image--or icon--always precedes
             </ab>
             <pb facs="#facs_18" n="part3_p018.jpg" xml:id="img_0018"/>
@@ -2948,7 +2948,7 @@
                <lb facs="#facs_21_tr_3_tl_3" n="N003"/>control them, and can relate them to each other. Man as the microcosmos represents the universe
                <lb facs="#facs_21_tr_3_tl_4" n="N004"/>and is able to develop all the potentialities which are given to him with his [this?] situation.
                <lb facs="#facs_21_tr_3_tl_5" n="N005"/>But, and this is the second point, he can and should develop them only as a unique individual.
-               <lb facs="#facs_21_tr_3_tl_6" n="N006"/>This is NOT Greek. The concept of the microcosmic individual has come to the Renaissance through
+               <lb facs="#facs_21_tr_3_tl_6" n="N006"/>This is NOT Greek. The <Concept>concept</Concept> of the microcosmic individual has come to the Renaissance through
                <lb facs="#facs_21_tr_3_tl_7" n="N007"/>its Christian underground, through the Christian idea of the infinite value of the individual person
                <lb facs="#facs_21_tr_3_tl_8" n="N008"/>in the mind of <God>God</God>. This infinite value of the individual means, in <Christianity>Christianity</Christianity>, that each human
             </ab>
@@ -2968,10 +2968,10 @@
                <lb facs="#facs_22_tr_1_tl_3" n="N002"/>development of one’s unique individual potentialities, in the process of one's life. This is the
                <lb facs="#facs_22_tr_1_tl_4" n="N003"/>second reason for the <Humanism>humanistic</Humanism> ideal of <Education>education</Education>.
                <lb facs="#facs_22_tr_1_tl_5" n="N004"/>Then there is a third one: man, because of his central position in the universe, is able to
-               <lb facs="#facs_22_tr_1_tl_6" n="N005"/>decide autonomously, by the law of the structure of <Mind>mind</Mind> and <Universe>universe</Universe> which is embodied in him,
+               <lb facs="#facs_22_tr_1_tl_6" n="N005"/>decide autonomously, by the <Law>law</Law> of the structure of <Mind>mind</Mind> and <Universe>universe</Universe> which is embodied in him,
                <lb facs="#facs_22_tr_1_tl_8" n="N006"/>about the true and the good. Man in the power of his autonomous reason controls world and
                <lb facs="#facs_22_tr_1_tl_9" n="N007"/>nature and society. ''Autonomous'' means: the law is in himself. Please don’t misunderstand that
-               <lb facs="#facs_22_tr_1_tl_10" n="N008"/>word--I must say that now for 50 years, each time, because of the distortion the concept of
+               <lb facs="#facs_22_tr_1_tl_10" n="N008"/>word--I must say that now for 50 years, each time, because of the distortion the <Concept>concept</Concept> of
                <lb facs="#facs_22_tr_1_tl_11" n="N009"/>autonomy has suffered in Neo-Orthodox theology, where it has been identified with individual
                <lb facs="#facs_22_tr_1_tl_14" n="N010"/>willfulness. ''Autonomous'' is, as the Greek word <hi style="font-style: italic;">nomos</hi> indicates, subjection to the law of the
                <lb facs="#facs_22_tr_1_tl_15" n="N011"/>universe which is embodied in man and reality as a whole. Autonomy in Kant is just the opposite
@@ -3003,7 +3003,7 @@
             </ab>
             <ab facs="#facs_23_tr_3">
                <lb facs="#facs_23_tr_3_tl_1" n="N001"/>idea, which developed a little later than the Renaissance idea, with the rising democratic
-               <lb facs="#facs_23_tr_3_tl_2" n="N002"/>ideology, we have the concept of the universal public schools--not public schools in the sense of
+               <lb facs="#facs_23_tr_3_tl_2" n="N002"/>ideology, we have the <Concept>concept</Concept> of the universal public schools--not public schools in the sense of
                <lb facs="#facs_23_tr_3_tl_3" n="N003"/>Great Britain, where it simply meant a school in which not only one teacher is in a house to
                <lb facs="#facs_23_tr_3_tl_4" n="N004"/>teach the aristocrats, but the sons come together in institutes where you have to be announced
                <lb facs="#facs_23_tr_3_tl_5" n="N005"/>a decade before your birth in order to be put in at all! Now this has very little to do with
@@ -3024,12 +3024,12 @@
             <pb facs="#facs_24" n="part3_p024.jpg" xml:id="img_0024"/>
             <ab facs="#facs_24_tr_1">
                <lb facs="#facs_24_tr_1_tl_1" n="N001"/>[411]
-               <lb facs="#facs_24_tr_1_tl_2" n="N002"/>geography and history. But all this was done on the basis of the use of which the state makes of
+               <lb facs="#facs_24_tr_1_tl_2" n="N002"/>geography and <History>history</History>. But all this was done on the basis of the use of which the state makes of
                <lb facs="#facs_24_tr_1_tl_3" n="N003"/>the citizen. And it was very wise to do this because--for instance in military and economic
                <lb facs="#facs_24_tr_1_tl_4" n="N004"/>competitions which are going on in Europe day by day--those who had these skills were superior
                <lb facs="#facs_24_tr_1_tl_5" n="N005"/>to those who had no skills, and had only the power of a kind of dull resistance but not the power
                <lb facs="#facs_24_tr_1_tl_6" n="N006"/>of active progress.
-               <lb facs="#facs_24_tr_1_tl_7" n="N007"/>The third form is the introducing idea by active participation in the spirit of a
+               <lb facs="#facs_24_tr_1_tl_7" n="N007"/>The third form is the introducing idea by active <Participation>participation</Participation> in the spirit of a
                <lb facs="#facs_24_tr_1_tl_9" n="N008"/>city-state--a <hi style="font-style: italic;">politeia</hi>, as <rs type="person" key=", tillich_person_id__3063">Plato</rs> called it--in the spirit of a nation, so that one can participate
                <lb facs="#facs_24_tr_1_tl_11" n="N009"/>creatively in it, and not only as a tool, as in the second form; or into a special cultural or religious
             </ab>
@@ -3051,7 +3051,7 @@
             <pb facs="#facs_25" n="part3_p025.jpg" xml:id="img_0025"/>
             <ab facs="#facs_25_tr_1">
                <lb facs="#facs_25_tr_1_tl_1" n="N001"/>[412]
-               <lb facs="#facs_25_tr_1_tl_2" n="N002"/>and an ability to look on THIS basis into the <Humanism>humanistic</Humanism> values with a new eye. And we PERFORMED
+               <lb facs="#facs_25_tr_1_tl_2" n="N002"/>and an ability to look on THIS basis into the <Humanism>humanistic</Humanism> values with a <New>new</New> eye. And we PERFORMED
                <lb facs="#facs_25_tr_1_tl_3" n="N003"/>this, to a certain extent--it was possible to understand what happens in Greece or in Rome MUCH
                <lb facs="#facs_25_tr_1_tl_4" n="N004"/>better in the light of the conflicts of the social situation in the twenties and, before that, in <Germany>Germany</Germany>
                <lb facs="#facs_25_tr_1_tl_5" n="N005"/>and Europe generally.
@@ -3079,7 +3079,7 @@
             <pb facs="#facs_26" n="part3_p026.jpg" xml:id="img_0026"/>
             <ab facs="#facs_26_tr_2">
                <lb facs="#facs_26_tr_2_tl_1" n="N001"/>[413]
-               <lb facs="#facs_26_tr_2_tl_2" n="N002"/>in the power of a higher principle. This I would call the negative concept of an education of adjustment.
+               <lb facs="#facs_26_tr_2_tl_2" n="N002"/>in the power of a higher principle. This I would call the negative <Concept>concept</Concept> of an education of adjustment.
                <lb facs="#facs_26_tr_2_tl_3" n="N003"/>If we use that term, ''<Education>education</Education> for <Adjustment>adjustment</Adjustment>,'' then we should always read <rs type="person" key=", tillich_person_id__948">Huxley's</rs> <hi style="font-style: italic;">Brave New</hi>
                <lb facs="#facs_26_tr_2_tl_4" n="N004"/><hi style="font-style: italic;">World</hi> in order to see where we can avoid producing ''gamma's'' in our school's, namely that
                <lb facs="#facs_26_tr_2_tl_5" n="N005"/>lowest class of workers which is produced <hi style="font-style: italic;">en masse</hi> by special means of stimulus and response, and
@@ -3123,7 +3123,7 @@
                <lb facs="#facs_27_tr_3_tl_4" n="N004"/>of these symbols, of the leaders of this group, of the institutions--for instance parades of
                <lb facs="#facs_27_tr_3_tl_5" n="N005"/>representatives of a party, if it is a real social group; or religious services and processions. All this
                <lb facs="#facs_27_tr_3_tl_6" n="N006"/>belongs to the third form of education. They TAKE IN those who are not yet in, and they strengthen
-               <lb facs="#facs_27_tr_3_tl_7" n="N007"/>the participation of those who ARE in. And this is the education which one can call education
+               <lb facs="#facs_27_tr_3_tl_7" n="N007"/>the <Participation>participation</Participation> of those who ARE in. And this is the education which one can call education
                <lb facs="#facs_27_tr_3_tl_8" n="N008"/>by existential participation. I had the experience in the twenties that the younger generation of
                <lb facs="#facs_27_tr_3_tl_9" n="N009"/><Germany>Germany</Germany> was absolutely dedicated to THIS form of education, against both of the others.
             </ab>
@@ -3203,7 +3203,7 @@
                <lb facs="#facs_30_tr_2_tl_1" n="N001"/>lifetime, that is, of course, but decisively for four or five years. And there, those students who
                <lb facs="#facs_30_tr_2_tl_2" n="N002"/>were a little bit older, one or two years older, were the REAL authorities--we didn't care very much
                <lb facs="#facs_30_tr_2_tl_3" n="N003"/>about the professors in comparison with the older students--and I think you do the same!
-               <lb facs="#facs_30_tr_2_tl_4" n="N004"/>Now here you have a very large concept of education, and the TITLE (''educators'')
+               <lb facs="#facs_30_tr_2_tl_4" n="N004"/>Now here you have a very large <Concept>concept</Concept> of education, and the TITLE (''educators'')
                <lb facs="#facs_30_tr_2_tl_5" n="N005"/>should be applied to all of them. Now a little more about this Thursday.
             </ab>
             <pb facs="#facs_31" n="part3_p031.jpg" xml:id="img_0031"/>
@@ -3273,7 +3273,7 @@
             <ab facs="#facs_33_tr_2">
                <lb facs="#facs_33_tr_2_tl_1" n="N001"/>public communication, influence [us] day and night--because the air is filled day and night
                <lb facs="#facs_33_tr_2_tl_2" n="N002"/>with the waves produced by these masters. They influence, if not the conscious life, if some people
-               <lb facs="#facs_33_tr_2_tl_3" n="N003"/>keep away from it (certainly INdirectly, by language, by ideas, by plays, by best sellers and many
+               <lb facs="#facs_33_tr_2_tl_3" n="N003"/>keep away from it (certainly INdirectly, by <Language>language</Language>, by ideas, by plays, by best sellers and many
                <lb facs="#facs_33_tr_2_tl_4" n="N004"/>other ways) the climate in which we all are living. So we can say the question ''Whereto? To what
                <lb facs="#facs_33_tr_2_tl_5" n="N005"/>shall we go?'' is answered by the adjustment to a universal climate which is produced by the
                <lb facs="#facs_33_tr_2_tl_6" n="N006"/>anonymous leaders of public communication. It is introduction into something, certainly, but it is
@@ -3295,7 +3295,7 @@
                <lb facs="#facs_34_tr_3_tl_3" n="N003"/>to a totalitarian ideal. It is in both cases the education to the impossibility to say No!
                <lb facs="#facs_34_tr_3_tl_4" n="N004"/>This form of education to adjustment is always going on, and expresses itself
                <lb facs="#facs_34_tr_3_tl_5" n="N005"/>in all the little <Symbols>symbols</Symbols> which appear in movie and television, in music, in slogans,
-               <lb facs="#facs_34_tr_3_tl_7" n="N006"/>in little changes of the language, in little symbols produced by the arts which are communicated.
+               <lb facs="#facs_34_tr_3_tl_7" n="N006"/>in little changes of the <Language>language</Language>, in little symbols produced by the arts which are communicated.
                <lb facs="#facs_34_tr_3_tl_8" n="N007"/>And everybody is influenced by them, and it is hard to say No to it.
             </ab>
             <ab facs="#facs_34_tr_1">
@@ -3312,7 +3312,7 @@
             <ab facs="#facs_34_tr_2">
                <lb facs="#facs_34_tr_2_tl_1" n="N001"/>understand when I use the word ''Protestantism.'' If you take ''Protestantism'' as another
                <lb facs="#facs_34_tr_2_tl_2" n="N002"/>religion beside the Catholic religions and beside the non-Christian religions, in which there are
-               <lb facs="#facs_34_tr_2_tl_3" n="N003"/>special liturgies, special sum of doctrines, a special form of ethics, and a social structure called
+               <lb facs="#facs_34_tr_2_tl_3" n="N003"/>special liturgies, special sum of doctrines, a special form of <Ethics>ethics</Ethics>, and a social structure called
                <lb facs="#facs_34_tr_2_tl_4" n="N004"/>a <Church>church</Church>, which is not the <Roman_Catholicism>Roman church </Roman_Catholicism>but another church--then of course Protestantism
             </ab>
             <pb facs="#facs_35" n="part3_p035.jpg" xml:id="img_0035"/>
@@ -3366,7 +3366,7 @@
                <lb facs="#facs_36_tr_1_tl_5" n="N005"/>STATE of the child. The other question is: is every individual a <hi style="font-style: italic;">tabula rasa</hi>?--meaning an empty
                <lb facs="#facs_36_tr_1_tl_6" n="N006"/>blackboard on which <Education>education</Education> has to write something. Or is every human being gifted with
                <lb facs="#facs_36_tr_1_tl_7" n="N007"/>potentialities which belong essentially to his being? In the first case, everything must be given
-               <lb facs="#facs_36_tr_1_tl_8" n="N008"/>to him; he must be introduced into something which is completely new, for instance the
+               <lb facs="#facs_36_tr_1_tl_8" n="N008"/>to him; he must be introduced into something which is completely <New>new</New>, for instance the
                <lb facs="#facs_36_tr_1_tl_9" n="N009"/>surrounding world, including the religious message in it. The other way is the development of
             </ab>
             <pb facs="#facs_37" n="part3_p037.jpg" xml:id="img_0037"/>
@@ -3381,10 +3381,10 @@
             </ab>
             <ab facs="#facs_37_tr_2">
                <lb facs="#facs_37_tr_2_tl_1" n="N001"/>Pythagorean proposition if it is shown to him; he has insight into it because, in mythological
-               <lb facs="#facs_37_tr_2_tl_2" n="N002"/>terms, he remembers the mathematical structures and their inner evidence, from his participation
+               <lb facs="#facs_37_tr_2_tl_2" n="N002"/>terms, he remembers the mathematical structures and their inner evidence, from his <Participation>participation</Participation>
                <lb facs="#facs_37_tr_2_tl_3" n="N003"/>in the eternal Ideas. If we take the word ''memory'' as a mythological <hi style="font-style: italic;">[sic]</hi> away from this,
                <lb facs="#facs_37_tr_2_tl_4" n="N004"/>then we can speak, instead of that, in terms of man's essential nature, and can speak of the classical
-               <lb facs="#facs_37_tr_2_tl_5" n="N005"/>concept of <Natural_Law>natural law</Natural_Law>, which means essential rational structure, which is always and essentially in
+               <lb facs="#facs_37_tr_2_tl_5" n="N005"/><Concept>concept</Concept> of <Natural_Law>natural law</Natural_Law>, which means essential rational structure, which is always and essentially in
                <lb facs="#facs_37_tr_2_tl_6" n="N006"/>him and which only needs to be developed. Whatever you give him, HE HAS IT ALREADY.
                <lb facs="#facs_37_tr_2_tl_7" n="N007"/>You know that this meant, in Socratic <Metaphor>metaphorism</Metaphor>, the maieutic art, the art of the midwifery,
                <lb facs="#facs_37_tr_2_tl_8" n="N008"/>of bringing out that which is in the student, and not necessarily in the teacher, by helping him
@@ -3394,7 +3394,7 @@
             <ab facs="#facs_37_tr_1">
                <lb facs="#facs_37_tr_1_tl_1" n="N001"/>There are two groups which do not accept this. The one are the <Empiricism>empiricists</Empiricism>, or
                <lb facs="#facs_37_tr_1_tl_2" n="N002"/><Logical_Positivism>positivists</Logical_Positivism>, who say that man <hi style="text-decoration: underline;">is</hi> <hi style="font-style: italic;">tabula rasa</hi>, and that experience mediated largely by the teacher, by
-               <lb facs="#facs_37_tr_1_tl_3" n="N003"/>the history books, by the traditions, must be given to man from outside. Therefore you can form
+               <lb facs="#facs_37_tr_1_tl_3" n="N003"/>the <History>history</History> books, by the traditions, must be given to man from outside. Therefore you can form
             </ab>
             <pb facs="#facs_38" n="part3_p038.jpg" xml:id="img_0038"/>
             <ab facs="#facs_38_tr_4">
@@ -3477,7 +3477,7 @@
                <lb facs="#facs_40_tr_1_tl_1" n="N001"/>two wings, an <Empiricism>empiricistic</Empiricism> wing, as developed especially in the empiricistic philosophy of Locke and
                <lb facs="#facs_40_tr_1_tl_2" n="N002"/>Hume and all his innumerable followers in England, the Continent, and here.
                <lb facs="#facs_40_tr_1_tl_3" n="N003"/>And the other: the religious form of positivism appearing in <rs type="person" key=", tillich_person_id__1717">Schleiermacher</rs>, in <rs type="person" key=", tillich_person_id__1049">Kierkegaard</rs>,
-               <lb facs="#facs_40_tr_1_tl_4" n="N004"/>in the <rs type="person" key=", tillich_person_id__1614">Ritschlian</rs> school (I spoke now in abbreviations for some who have studied the history of
+               <lb facs="#facs_40_tr_1_tl_4" n="N004"/>in the <rs type="person" key=", tillich_person_id__1614">Ritschlian</rs> school (I spoke now in abbreviations for some who have studied the <History>history</History> of
                <lb facs="#facs_40_tr_1_tl_5" n="N005"/>theology in the 19th century). It is the predominant attitude of theology in the 19th century.
                <lb facs="#facs_40_tr_1_tl_6" n="N006"/>In both cases, there is content, but there is no possibility of resisting the content which is given.
             </ab>
@@ -3549,7 +3549,7 @@
                <lb facs="#facs_43_tr_1_tl_1" n="N001"/>which I will call (and ask for your permission) by the old, beautiful and (as [with] all these words)
                <lb facs="#facs_43_tr_1_tl_2" n="N002"/>deteriorized name: initiation--from the <Latin_language>Latin</Latin_language>, ''going-into'' something, namely into what?: into the
                <lb facs="#facs_43_tr_1_tl_3" n="N003"/>mysteries, in the mystery cults, into the esoteric inner knowledge. I take this as a <Metaphor>metaphor</Metaphor>.
-               <lb facs="#facs_43_tr_1_tl_4" n="N004"/>I don't want to establish a new mystery religion, with this <hi style="font-style: italic;">[some laughter]</hi>--for this you better
+               <lb facs="#facs_43_tr_1_tl_4" n="N004"/>I don't want to establish a <New>new</New> mystery religion, with this <hi style="font-style: italic;">[some laughter]</hi>--for this you better
                <lb facs="#facs_43_tr_1_tl_5" n="N005"/>go to California! <hi style="font-style: italic;">[laughter]</hi>--but what I want to say is that beyond the humanistic development of
                <lb facs="#facs_43_tr_1_tl_6" n="N006"/>man’s potentialities, beyond the public education to skills and beyond the introduction into the
                <lb facs="#facs_43_tr_1_tl_7" n="N007"/>religious groups and their <Symbols>symbols</Symbols> and rites, there is something higher than all of them, namely
@@ -3582,7 +3582,7 @@
                <lb facs="#facs_44_tr_1_tl_5" n="N005"/>different forms of <Education>education</Education> which I have mentioned. And negatively, I want to state that I don't
                <lb facs="#facs_44_tr_1_tl_6" n="N006"/>believe that ANY education which is not ultimately INITIATION into--into the mystery
                <lb facs="#facs_44_tr_1_tl_8" n="N007"/>of human existence--falls short of what it should do. And nothing is more revealing for this
-               <lb facs="#facs_44_tr_1_tl_9" n="N008"/>fact than the latest European history! <hi style="font-style: italic;">[Applause]</hi>
+               <lb facs="#facs_44_tr_1_tl_9" n="N008"/>fact than the latest European <History>history</History>! <hi style="font-style: italic;">[Applause]</hi>
             </ab>
             <pb facs="#facs_45" n="part3_p045.jpg" xml:id="img_0045"/>
             <ab facs="#facs_45_tr_2">
@@ -3595,9 +3595,9 @@
             <ab facs="#facs_45_tr_3">
                <lb facs="#facs_45_tr_3_tl_1" n="N001"/><Social_Ethics>social ethics</Social_Ethics>. In both of these realms, the problem ''<Culture>Culture</Culture> and <RELIGION>Religion</RELIGION>'' has a large amount of
                <lb facs="#facs_45_tr_3_tl_2" n="N002"/>implications and demands a large amount of answers. Let me first give you a survey on what
-               <lb facs="#facs_45_tr_3_tl_3" n="N003"/>individual ethics means by speaking about different concepts of individuality.
+               <lb facs="#facs_45_tr_3_tl_3" n="N003"/>individual ethics means by speaking about different <Concept>concepts</Concept> of individuality.
                <lb facs="#facs_45_tr_3_tl_4" n="N004"/>The word ''<Individualism>individualism</Individualism>'' is used very much as a critical word against special forms of
-               <lb facs="#facs_45_tr_3_tl_5" n="N005"/>behavior or special structures of society, in our period of history. This word is valid to a certain
+               <lb facs="#facs_45_tr_3_tl_5" n="N005"/>behavior or special structures of society, in our period of <History>history</History>. This word is valid to a certain
                <lb facs="#facs_45_tr_3_tl_6" n="N006"/>extent--one CAN speak of modern individualism--but it is valid only in a limited way, because
             </ab>
             <ab facs="#facs_45_tr_1">
@@ -3621,7 +3621,7 @@
                <lb facs="#facs_46_tr_2_tl_7" n="N006"/>therefore, after death, the religious-sacramental position a man has on this earth, the consecrated
                <lb facs="#facs_46_tr_2_tl_8" n="N007"/>position in the hierarchy of beings--and finally in the hierarchy of man--is decisive for his ultimate
                <lb facs="#facs_46_tr_2_tl_9" n="N008"/>destiny.
-               <lb facs="#facs_46_tr_2_tl_10" n="N009"/>Against this the development--to which I come later when I speak about the concept of
+               <lb facs="#facs_46_tr_2_tl_10" n="N009"/>Against this the development--to which I come later when I speak about the <Concept>concept</Concept> of
                <lb facs="#facs_46_tr_2_tl_11" n="N010"/>person--has brought about an attitude which comes to absolute fulfillment in <Christianity>Christianity</Christianity>, namely
                <lb facs="#facs_46_tr_2_tl_12" n="N011"/>that the individual human being, that his <Soul>soul</Soul>, is immediately related to <God>God</God>, in complete indifference
             </ab>
@@ -3631,7 +3631,7 @@
                <lb facs="#facs_46_tr_1_tl_3" n="N003"/>This kind of <Individualism>individualism</Individualism> is always in the basis of Christian thinking. But don't forget
                <lb facs="#facs_46_tr_1_tl_4" n="N004"/>that this Christian individualism is ONLY valid seen from the Christian tradition with respect
                <lb facs="#facs_46_tr_1_tl_5" n="N005"/>to the relation of God and man, or of man to God. It has NOT the consequence to abolish
-               <lb facs="#facs_46_tr_1_tl_6" n="N006"/>hierarchical orders in <Time>time</Time> and <Space>space</Space>. There the equality before God, the evaluation of the
+               <lb facs="#facs_46_tr_1_tl_6" n="N006"/>hierarchical orders in <Time>time</Time> and <space/>space. There the equality before God, the evaluation of the
                <lb facs="#facs_46_tr_1_tl_7" n="N007"/>individual, is dependent on the hierarchical order as a whole.
                <lb facs="#facs_46_tr_1_tl_8" n="N008"/>Now this is the one concept of individualism, and Christianity should be clear that
                <lb facs="#facs_46_tr_1_tl_9" n="N009"/>this is in the relation between <God>God</God> and man and not in the relation between MAN and man.
@@ -3644,7 +3644,7 @@
                <lb facs="#facs_47_tr_1_tl_7" n="N004"/>The second type is <Rationality>rational</Rationality> <Individualism>individualism</Individualism>. The rational individualism is the
                <lb facs="#facs_47_tr_1_tl_8" n="N005"/>result of the development of the modern mind since the second half of the <Renaissance>Renaissance</Renaissance>, and is
                <lb facs="#facs_47_tr_1_tl_10" n="N006"/>based on the idea that the divine <Logos><hi style="font-style: italic;">logos</hi></Logos> is present in every individual <Mind>mind</Mind> and makes it possible
-               <lb facs="#facs_47_tr_1_tl_11" n="N007"/>for every individual mind to act according to the principles of reason. Of course this concept
+               <lb facs="#facs_47_tr_1_tl_11" n="N007"/>for every individual mind to act according to the principles of reason. Of course this <Concept>concept</Concept>
                <lb facs="#facs_47_tr_1_tl_12" n="N008"/>of reason is not the deteriorized concept of reasonING, which we use today in the deteriorized
                <lb facs="#facs_47_tr_1_tl_13" n="N009"/>philosophies of the 19th century; but it is the classical concept of <Reason>reason</Reason>, reason as a structure
                <lb facs="#facs_47_tr_1_tl_14" n="N010"/>of the human mind and the structure of the world which is encountered by the human mind--reason
@@ -3679,12 +3679,12 @@
                <lb facs="#facs_48_tr_1_tl_2" n="N002"/>classical philosophy of society, in contrast to a philosophy of community. It is society which
                <lb facs="#facs_48_tr_1_tl_3" n="N003"/>consists of atomized monads, which are beside each other, which have no possible communion with
                <lb facs="#facs_48_tr_1_tl_4" n="N004"/>each other, and if they communicate with each other, they do it by <Signs>signs</Signs>, by signs which are
-               <lb facs="#facs_48_tr_1_tl_5" n="N005"/>mutually understood, but there is no participation of the one in the other, and each is left to his
+               <lb facs="#facs_48_tr_1_tl_5" n="N005"/>mutually understood, but there is no <Participation>participation</Participation> of the one in the other, and each is left to his
                <lb facs="#facs_48_tr_1_tl_6" n="N006"/>own inner development.
                <lb facs="#facs_48_tr_1_tl_7" n="N007"/>This has many consequences, for instance for <Language>language</Language>: language is a means of
                <lb facs="#facs_48_tr_1_tl_8" n="N008"/>communication; external signs are enough because words and letters are nothing but signs
                <lb facs="#facs_48_tr_1_tl_9" n="N009"/>in the social cooperation which makes this cooperation possible. I may make here a footnote
-               <lb facs="#facs_48_tr_1_tl_10" n="N010"/>about the new language, for which I am too old, unfortunately (or fortunately--I don't know yet),
+               <lb facs="#facs_48_tr_1_tl_10" n="N010"/>about the <New>new</New> language, for which I am too old, unfortunately (or fortunately--I don't know yet),
                <lb facs="#facs_48_tr_1_tl_11" n="N011"/>namely the language of abbreviations. There are very few people who still use words; when they
             </ab>
             <pb facs="#facs_49" n="part3_p049.jpg" xml:id="img_0049"/>
@@ -3699,9 +3699,9 @@
                <lb facs="#facs_49_tr_1_tl_2" n="N002"/>any more--the original words of which the combined words are the letters. These original words are
                <lb facs="#facs_49_tr_1_tl_3" n="N003"/>not necessary for the technical communication of separated monads, but they are sufficient in order
                <lb facs="#facs_49_tr_1_tl_4" n="N004"/>to point to something which, if you have learned it, you know, and no more is needed. The whole
-               <lb facs="#facs_49_tr_1_tl_5" n="N005"/>realm of connotations, the power of language which lies in the connotations and the history of
+               <lb facs="#facs_49_tr_1_tl_5" n="N005"/>realm of connotations, the power of language which lies in the connotations and the <History>history</History> of
                <lb facs="#facs_49_tr_1_tl_6" n="N006"/>the words and the rhythms and the combinations, in which all participate, which then are real doors
-               <lb facs="#facs_49_tr_1_tl_7" n="N007"/>and windows from one to the other: they are taken away, and what is left are signs pointing to
+               <lb facs="#facs_49_tr_1_tl_7" n="N007"/>and windows from one to the other: they are taken away, and what is left are <Signs>signs</Signs> pointing to
                <lb facs="#facs_49_tr_1_tl_8" n="N008"/>something in which cooperation is possible, for instance buying what somebody else wants to sell!
             </ab>
             <ab facs="#facs_49_tr_2">
@@ -3730,7 +3730,7 @@
                <lb facs="#facs_50_tr_1_tl_13" n="N012"/>of the divine <Ground_of_Being>ground of being</Ground_of_Being> himself. As such, the individual represents something unique, but not
                <lb facs="#facs_50_tr_1_tl_14" n="N013"/>unique as before God, in CHRISTIAN thinking, namely an object of the love of God, but unique
                <lb facs="#facs_50_tr_1_tl_15" n="N014"/>in the cultural sense, the representative of unique creative possibilities. This is the DIFFERENCE
-               <lb facs="#facs_50_tr_1_tl_16" n="N015"/>from the <Rationality>rational</Rationality> concept also, because it is not the development of CONSCIOUSNESS which is
+               <lb facs="#facs_50_tr_1_tl_16" n="N015"/>from the <Rationality>rational</Rationality> <Concept>concept</Concept> also, because it is not the development of CONSCIOUSNESS which is
             </ab>
             <ab facs="#facs_50_tr_2">
                <lb facs="#facs_50_tr_2_tl_1" n="N001"/>decisive here, but it is a qualitative character, qualitative elements, which are potentially in every man
@@ -3770,13 +3770,13 @@
                <lb facs="#facs_51_tr_2_tl_7" n="N007"/>Then we can say that this last type has been more reduced than the two others; it had been
                <lb facs="#facs_51_tr_2_tl_8" n="N008"/>reduced often to an existence--and a very precarious existence--in Bohemianism, while the higher
                <lb facs="#facs_51_tr_2_tl_9" n="N009"/>bourgeoisie has accepted, generally speaking, the rational type of <Individualism>individualism</Individualism>, if, as we shall see later,
-               <lb facs="#facs_51_tr_2_tl_10" n="N010"/>the WHOLE concept of the individual in these three senses has not been dropped for the sake of radical
+               <lb facs="#facs_51_tr_2_tl_10" n="N010"/>the WHOLE <Concept>concept</Concept> of the individual in these three senses has not been dropped for the sake of radical
                <lb facs="#facs_51_tr_2_tl_11" n="N011"/>collectivism.
             </ab>
             <pb facs="#facs_52" n="part3_p052.jpg" xml:id="img_0052"/>
             <ab facs="#facs_52_tr_2">
                <lb facs="#facs_52_tr_2_tl_3" n="N001"/>[439]
-               <lb facs="#facs_52_tr_2_tl_4" n="N002"/>Now when you have these three concepts of the individual, it would be good if you
+               <lb facs="#facs_52_tr_2_tl_4" n="N002"/>Now when you have these three <Concept>concepts</Concept> of the individual, it would be good if you
                <lb facs="#facs_52_tr_2_tl_5" n="N003"/>always keep them asunder and don’t fall into the many traps and confusions which will immediately
                <lb facs="#facs_52_tr_2_tl_6" n="N004"/>follow if you confuse them, if you don’t keep them asunder.
                <lb facs="#facs_52_tr_2_tl_7" n="N005"/>I come now to another concept, the concept of person, or <Personality>personality</Personality>. The person
@@ -3789,13 +3789,13 @@
                <lb facs="#facs_52_tr_3_tl_2" n="N002"/>beginning of this section of our lectures--we said <Morality>morality</Morality> is the totality of those
                <lb facs="#facs_52_tr_3_tl_3" n="N003"/>acts in which an individual person sets itself, or establishes itself, as an individual person. This was
                <lb facs="#facs_52_tr_3_tl_4" n="N004"/>the general definition of morality, in order to avoid the distorted form of morality that it is obedience
-               <lb facs="#facs_52_tr_3_tl_5" n="N005"/>to a set of laws whereby one would ask ''Why?'' ''Where do the laws come from?'' ''Why do I have
+               <lb facs="#facs_52_tr_3_tl_5" n="N005"/>to a set of <Law>laws</Law> whereby one would ask ''Why?'' ''Where do the laws come from?'' ''Why do I have
                <lb facs="#facs_52_tr_3_tl_6" n="N006"/>to be obedient to them?'' If, however, we say that the principle of morality is the principle of the
             </ab>
             <ab facs="#facs_52_tr_1">
                <lb facs="#facs_52_tr_1_tl_1" n="N001"/>self-establishment of the <hi style="font-style: italic;">persona</hi> as <hi style="font-style: italic;">persona</hi>, then the situation is different; then it isn’t estranged
                <lb facs="#facs_52_tr_1_tl_2" n="N002"/>law; then it is WE OURSELVES who are centrally involved in the acts of morality.
-               <lb facs="#facs_52_tr_1_tl_3" n="N003"/><hi style="font-style: italic;">Persona</hi>--person: where does it come from? The word has a long history, and it is
+               <lb facs="#facs_52_tr_1_tl_3" n="N003"/><hi style="font-style: italic;">Persona</hi>--person: where does it come from? The word has a long <History>history</History>, and it is
                <lb facs="#facs_52_tr_1_tl_5" n="N004"/>very important to know it in order especially to avoid pitfalls in the <Philosophy_of_Religion>philosophy of religion</Philosophy_of_Religion>
                <lb facs="#facs_52_tr_1_tl_6" n="N005"/>and calling <God>God</God> ''a Person''--which some people still do, in popular nonsense. But if we are clear
                <lb facs="#facs_52_tr_1_tl_7" n="N006"/>what persona means, then we would avoid such a thing.
@@ -3808,7 +3808,7 @@
                <lb facs="#facs_53_tr_3_tl_4" n="N004"/>have received the meaning of ''mask,'' of the special character a member of the theatrical cast
                <lb facs="#facs_53_tr_3_tl_5" n="N005"/>represents. From there it was applied to the centered self, which we today call a person, which
                <lb facs="#facs_53_tr_3_tl_6" n="N006"/>establishes itself in his ethical decisions.
-               <lb facs="#facs_53_tr_3_tl_7" n="N007"/>Now in <German_Language>German</German_Language>, person--<hi style="font-style: italic;">Person</hi>--is the POTENTIALITY OF SELF-REALIZATION,
+               <lb facs="#facs_53_tr_3_tl_7" n="N007"/>Now in <German_language>German</German_language>, person--<hi style="font-style: italic;">Person</hi>--is the POTENTIALITY OF SELF-REALIZATION,
             </ab>
             <ab facs="#facs_53_tr_1">
                <lb facs="#facs_53_tr_1_tl_1" n="N001"/>in the different forms: religious, rational and romantic. In English, I have been told, the word
@@ -3823,7 +3823,7 @@
             </ab>
             <ab facs="#facs_53_tr_2">
                <lb facs="#facs_53_tr_2_tl_1" n="N001"/>Now may I ask YOU, those of you who feel they can answer it more from their more
-               <lb facs="#facs_53_tr_2_tl_2" n="N002"/>genuine feeling for the English language than I have it: what is the difference between ''person''
+               <lb facs="#facs_53_tr_2_tl_2" n="N002"/>genuine feeling for the English <Language>language</Language> than I have it: what is the difference between ''person''
                <lb facs="#facs_53_tr_2_tl_3" n="N003"/>and ''personality'' YOU would make?
                <lb facs="#facs_53_tr_2_tl_4" n="N004"/>STUDENT: [Susan Lord]: It seems to me that you use ''personality'' in two senses: 1) as opposed
             </ab>
@@ -3862,14 +3862,14 @@
                <lb facs="#facs_55_tr_2_tl_6" n="N006"/>tied to a physical aspect of the person...
                <lb facs="#facs_55_tr_2_tl_7" n="N007"/>PT: So a personality is a ghost in this school--a spirit.
                <lb facs="#facs_55_tr_2_tl_8" n="N008"/>STUDENT: A spirit--not so much a ghost. <hi style="font-style: italic;">[laughter]</hi>
-               <lb facs="#facs_55_tr_2_tl_9" n="N009"/>PT: Then let us say the English language is in a development here. <hi style="font-style: italic;">[laughter]</hi> Let us make a decision
+               <lb facs="#facs_55_tr_2_tl_9" n="N009"/>PT: Then let us say the English <Language>language</Language> is in a development here. <hi style="font-style: italic;">[laughter]</hi> Let us make a decision
             </ab>
             <ab facs="#facs_55_tr_3">
                <lb facs="#facs_55_tr_3_tl_1" n="N001"/>ourselves, and if you don’t mind, since it is comparatively clear, let us simply make the most primitive
                <lb facs="#facs_55_tr_3_tl_2" n="N002"/>differentiation, namely person is somebody who can become a personality, but who is not
                <lb facs="#facs_55_tr_3_tl_3" n="N003"/>necessarily yet a personality.
                <lb facs="#facs_55_tr_3_tl_4" n="N004"/>Now if you accept this as a preliminary linguistic statement, then we come to the next
-               <lb facs="#facs_55_tr_3_tl_5" n="N005"/>question: how did it come to pass that this concept of person and personality became of such importance?
+               <lb facs="#facs_55_tr_3_tl_5" n="N005"/>question: how did it come to pass that this <Concept>concept</Concept> of person and personality became of such importance?
                <lb facs="#facs_55_tr_3_tl_6" n="N006"/>In Greek thinking the word meant the actor, and it was applied in this form to the Trinitarian
                <lb facs="#facs_55_tr_3_tl_7" n="N007"/>figures in God--Father, Son, and the Spirit. But it was never applied to <God>God</God> Himself, and I fight
                <lb facs="#facs_55_tr_3_tl_8" n="N008"/>against the application of the word ''person'' to God. If you say the word ''personal God,''
@@ -3889,7 +3889,7 @@
                <lb facs="#facs_56_tr_2_tl_3" n="N003"/>collectivism, the collective is guilty. And if an <Individual>individual</Individual> is singled out for punishment, the
                <lb facs="#facs_56_tr_2_tl_4" n="N004"/>primitive mind does NOT believe that this individual is especially guilty--he is not more guilty
                <lb facs="#facs_56_tr_2_tl_5" n="N005"/>than the other--but he REPRESENTS the others. The primitive mind HAS these strong forms
-               <lb facs="#facs_56_tr_2_tl_6" n="N006"/>of mystical identification and participation. Now this participation makes an individual guilty
+               <lb facs="#facs_56_tr_2_tl_6" n="N006"/>of mystical identification and <Participation>participation</Participation>. Now this participation makes an individual guilty
                <lb facs="#facs_56_tr_2_tl_7" n="N007"/>because the COLLECTIVE is guilty. And the way of singling him out is done in a magic way, not
             </ab>
             <ab facs="#facs_56_tr_3">
@@ -3897,7 +3897,7 @@
                <lb facs="#facs_56_tr_3_tl_2" n="N002"/>commandment, especially in <Judaism>Judaism</Judaism>, made the <Individualism>INDIVIDUAL</Individualism> responsible and not the nation as a
                <lb facs="#facs_56_tr_3_tl_3" n="N003"/>whole any more. And after this has happened, we have the responsible, independent individuals
                <lb facs="#facs_56_tr_3_tl_4" n="N004"/>who have to carry their guilt, who have to expiate their guilt, and who may be forgiven individually.
-               <lb facs="#facs_56_tr_3_tl_5" n="N005"/>Now this took a long time. Even in later periods of Jewish history, the period of the Psalms,
+               <lb facs="#facs_56_tr_3_tl_5" n="N005"/>Now this took a long time. Even in later periods of Jewish <History>history</History>, the period of the Psalms,
                <lb facs="#facs_56_tr_3_tl_6" n="N006"/>for instance, the guilty ego is usually the congregation--the sacred nation--but not an individual
                <lb facs="#facs_56_tr_3_tl_7" n="N007"/>within it. But then step by step, especially under the prophetic attack, every individual
             </ab>
@@ -3952,7 +3952,7 @@
                <lb facs="#facs_58_tr_1_tl_1" n="N001"/>are developed by me in [these lectures], when I speak about the state of mankind in our period,
                <lb facs="#facs_58_tr_1_tl_2" n="N002"/>but I will go into it once more from the point of view of the ideal of personality.
                <lb facs="#facs_58_tr_1_tl_3" n="N003"/>This ideal, in all its greatness, has become one of the most demonic and destructive
-               <lb facs="#facs_58_tr_1_tl_4" n="N004"/>powers in Western history. And so our next task will be to develop the dialectics of the ideal of
+               <lb facs="#facs_58_tr_1_tl_4" n="N004"/>powers in Western <History>history</History>. And so our next task will be to develop the dialectics of the ideal of
                <lb facs="#facs_58_tr_1_tl_5" n="N005"/>personality and relate it to <Social_Ethics>social ethics</Social_Ethics> and the problem of community.
             </ab>
             <pb facs="#facs_59" n="part3_p059.jpg" xml:id="img_0059"/>
@@ -3974,7 +3974,7 @@
                <lb facs="#facs_59_tr_3_tl_8" n="N008"/>The problem we have discussed was <Personal_Ethics>individual ethics</Personal_Ethics>. I gave you a discussion of the
             </ab>
             <ab facs="#facs_59_tr_1">
-               <lb facs="#facs_59_tr_1_tl_1" n="N001"/>different types of <Individualism>individualism</Individualism>, and then we came to the concept of person, personality, and
+               <lb facs="#facs_59_tr_1_tl_1" n="N001"/>different types of <Individualism>individualism</Individualism>, and then we came to the <Concept>concept</Concept> of person, personality, and
                <lb facs="#facs_59_tr_1_tl_2" n="N002"/>the different meanings of the second word in different languages. In the meantime, I have
                <lb facs="#facs_59_tr_1_tl_3" n="N003"/>learned that there is another use of the word <Personality>personality</Personality>, introduced by the psychology of
                <lb facs="#facs_59_tr_1_tl_4" n="N004"/>personality, the idea of personality structure. Since this structure already has its roots in the
@@ -4003,7 +4003,7 @@
                <lb facs="#facs_60_tr_1_tl_9" n="N009"/>personality.'' But of another man we would say ''He is no personality.'' Certainly he is a person--
                <lb facs="#facs_60_tr_1_tl_10" n="N010"/>I cannot kill him as I can an animal. But he is not a personality. On the basis of his personal
                <lb facs="#facs_60_tr_1_tl_11" n="N011"/>potentialities, he has nothing developed which makes him a real personality, a concentrated will,
-               <lb facs="#facs_60_tr_1_tl_12" n="N012"/>an educational form, a participation in universals, in thought and action. That’s what I would call a
+               <lb facs="#facs_60_tr_1_tl_12" n="N012"/>an educational form, a <Participation>participation</Participation> in universals, in thought and action. That’s what I would call a
             </ab>
             <ab facs="#facs_60_tr_3">
                <lb facs="#facs_60_tr_3_tl_1" n="N001"/>personality.--This is the IDEA of personality.
@@ -4017,12 +4017,12 @@
                <lb facs="#facs_61_tr_2_tl_3" n="N003"/>of<Consciousness> consciousness</Consciousness>.
                <lb facs="#facs_61_tr_2_tl_4" n="N004"/>On this basis an ideal of <Personality>personality</Personality> has appeared which looks like this: the <Individual>individual</Individual>
                <lb facs="#facs_61_tr_2_tl_5" n="N005"/>is a strong, directed character, dependent on the universal structures of reality; dependent in
-               <lb facs="#facs_61_tr_2_tl_6" n="N006"/>religion, in <Protestantism>Protestantism</Protestantism>, on the divine law; dependent, in humanism, on the law of reason,
+               <lb facs="#facs_61_tr_2_tl_6" n="N006"/>religion, in <Protestantism>Protestantism</Protestantism>, on the divine <Law>law</Law>; dependent, in humanism, on the law of reason,
                <lb facs="#facs_61_tr_2_tl_7" n="N007"/>determined by it, self-controlled, conscious and suppressive, namely suppressing those elements
                <lb facs="#facs_61_tr_2_tl_8" n="N008"/>in oneself which are given on the basis of our vital existence, repressing the dynamics of <Vitality>vitality</Vitality>,
             </ab>
             <ab facs="#facs_61_tr_1">
-               <lb facs="#facs_61_tr_1_tl_1" n="N001"/>and cutting off the relationship not only to one's own vital and unconscious tendencies and realities,
+               <lb facs="#facs_61_tr_1_tl_1" n="N001"/>and cutting off the relationship not only to one's own vital and <unconscious>unconscious</unconscious> tendencies and realities,
                <lb facs="#facs_61_tr_1_tl_2" n="N002"/>but also to the others and also to nature as a whole. This ideal of personality you find in these two
                <lb facs="#facs_61_tr_1_tl_3" n="N003"/>developments: in the later development of <Calvinism>Calvinism</Calvinism> and in the later development of bourgeois society.
                <lb facs="#facs_61_tr_1_tl_5" n="N004"/>Now let us think a little about the implications of this idea of personality which is
@@ -4054,8 +4054,8 @@
             <ab facs="#facs_62_tr_2">
                <lb facs="#facs_62_tr_2_tl_1" n="N001"/>in types of <Protestantism>Protestantism</Protestantism> and type of <Humanism>humanism</Humanism>, a relationship of control and nothing but this.
                <lb facs="#facs_62_tr_2_tl_2" n="N002"/>Religiously speaking, the <Renaissance>Renaissance</Renaissance> idea of the infinite being-present in the finite, of EVERY
-               <lb facs="#facs_62_tr_2_tl_3" n="N003"/>finite--nature and history--has been transformed into the idea of a <Kingdom_of_God>kingdom of God</Kingdom_of_God>, or a will of
-               <lb facs="#facs_62_tr_2_tl_4" n="N004"/>God, or a law of reason, which is in opposition to the natural powers, and demands their
+               <lb facs="#facs_62_tr_2_tl_3" n="N003"/>finite--nature and <History>history</History>--has been transformed into the idea of a <Kingdom_of_God>kingdom of God</Kingdom_of_God>, or a will of
+               <lb facs="#facs_62_tr_2_tl_4" n="N004"/>God, or a <Law>law</Law> of reason, which is in opposition to the natural powers, and demands their
                <lb facs="#facs_62_tr_2_tl_5" n="N005"/>suppression. Now first, this was very much in the line with the analysis I gave about the status of
                <lb facs="#facs_62_tr_2_tl_6" n="N006"/>industrial society, in the period of history in which we are living. Nature MEANS a tool, but not
                <lb facs="#facs_62_tr_2_tl_7" n="N007"/>an end in itself, not a mirror of the divine potentialities in every atom and in every plant and
@@ -4134,7 +4134,7 @@
                <lb facs="#facs_65_tr_3_tl_1" n="N001"/>one of the sections which I have under No. 17, family and sex relationships. In the idea of
                <lb facs="#facs_65_tr_3_tl_2" n="N002"/>personality, not only the relationship to nature, and the <Eros>eros</Eros> to the objects of our work--and therefore
                <lb facs="#facs_65_tr_3_tl_3" n="N003"/>to the work itself--but also the relationship to ourselves insofar as something is not brought into the
-               <lb facs="#facs_65_tr_3_tl_4" n="N004"/><Consciousness>conscious</Consciousness> willing, deciding center, is cut off. The concept of self-controlling is certainly a concept
+               <lb facs="#facs_65_tr_3_tl_4" n="N004"/><Consciousness>conscious</Consciousness> willing, deciding center, is cut off. The <Concept>concept</Concept> of self-controlling is certainly a concept
                <lb facs="#facs_65_tr_3_tl_5" n="N005"/>which is needed in many special situations; he who has not self-control can never become a centered
                <lb facs="#facs_65_tr_3_tl_6" n="N006"/><Personality>personality</Personality>, and that belongs to the formation of man to become this. But if he pays for this,
                <lb facs="#facs_65_tr_3_tl_7" n="N007"/>being a centered personality, the price of cutting himself off from the vital dimension of his being,
@@ -4213,7 +4213,7 @@
             <ab facs="#facs_68_tr_3">
                <lb facs="#facs_68_tr_3_tl_1" n="N001"/><Roman_Catholicism>Catholic</Roman_Catholicism> sections; it is MOST needed, at least statistically, in <Judaism>Jewish</Judaism> groups; and again nearer to it,
                <lb facs="#facs_68_tr_3_tl_2" n="N002"/>in <Protestantism>Protestant</Protestantism> groups. This means that this picture [?], which makes the situation especially clear,
-               <lb facs="#facs_68_tr_3_tl_3" n="N003"/>cut off from the vital sources of life by the commandments which come from the law, be it
+               <lb facs="#facs_68_tr_3_tl_3" n="N003"/>cut off from the vital sources of life by the commandments which come from the <Law>law</Law>, be it
                <lb facs="#facs_68_tr_3_tl_4" n="N004"/><Humanism>humanistic</Humanism> or <RELIGION>religious</RELIGION>. [??] This is the reason for a large amount of mental disease, or
                <lb facs="#facs_68_tr_3_tl_5" n="N005"/>of chaotic explosion which may ruin the personality definitively, if he is not able to overcome
             </ab>
@@ -4255,7 +4255,7 @@
             <pb facs="#facs_70" n="part3_p070.jpg" xml:id="img_0070"/>
             <ab facs="#facs_70_tr_3">
                <lb facs="#facs_70_tr_3_tl_1" n="N001"/>[457]
-               <lb facs="#facs_70_tr_3_tl_2" n="N002"/>of both Christian and <Protestantism>Protestant</Protestantism> sex ethics, and family ethics.
+               <lb facs="#facs_70_tr_3_tl_2" n="N002"/>of both Christian and <Protestantism>Protestant</Protestantism> sex <Ethics>ethics</Ethics>, and family ethics.
                <lb facs="#facs_70_tr_3_tl_3" n="N003"/>First <Family>family</Family> ethics: The authoritarian family is a bourgeois invention, which in this
                <lb facs="#facs_70_tr_3_tl_5" n="N004"/>way was not valid in former centuries. There we had the feudal authority, which completely transcended
                <lb facs="#facs_70_tr_3_tl_6" n="N005"/>the family authority. In the bourgeois realm, the authority of the family developed, and all the
@@ -4344,7 +4344,7 @@
                <lb facs="#facs_74_tr_3_tl_2" n="N001"/>[461]
                <lb facs="#facs_74_tr_3_tl_3" n="N002"/>people 20,000 years ago, and then from there this, I think 10-year-old, girl was supposed
                <lb facs="#facs_74_tr_3_tl_4" n="N003"/>to learn the historical development of <RELIGION>religion</RELIGION> through the centuries. Now this is something
-               <lb facs="#facs_74_tr_3_tl_5" n="N004"/>against which I have nothing to say if it is done to people who are not interested in the history of
+               <lb facs="#facs_74_tr_3_tl_5" n="N004"/>against which I have nothing to say if it is done to people who are not interested in the <History>history</History> of
                <lb facs="#facs_74_tr_3_tl_6" n="N005"/>religion, as every student of <Theology>theology</Theology> should, and some students of <Culture>culture</Culture> generally, ALSO should be.
             </ab>
             <ab facs="#facs_74_tr_1">
@@ -4378,7 +4378,7 @@
             <ab facs="#facs_75_tr_1">
                <lb facs="#facs_75_tr_1_tl_1" n="N001"/>restricted themselves completely from this act of introducing the children into the reality of a
                <lb facs="#facs_75_tr_1_tl_2" n="N002"/>religious <Community>community</Community>, its symbols and its life. But if this WAS done, then an empty space,
-               <lb facs="#facs_75_tr_1_tl_3" n="N003"/>a vacuum, was created, and it was very questionable, as history has shown, whether this vacuum
+               <lb facs="#facs_75_tr_1_tl_3" n="N003"/>a vacuum, was created, and it was very questionable, as <History>history</History> has shown, whether this vacuum
                <lb facs="#facs_75_tr_1_tl_4" n="N004"/>could be filled later on at all, or whether it remained a vacuum because of forms of resistance connected
                <lb facs="#facs_75_tr_1_tl_5" n="N005"/>with the whole rebellious attitude of all younger generations against the older ones. So we stand before
                <lb facs="#facs_75_tr_1_tl_6" n="N006"/>the great problem of giving contents, which later on must be or actually will be shaken, and often

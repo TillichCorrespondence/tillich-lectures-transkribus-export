@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_68">
          <graphic url="TL-0460.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=IBVRKZFMPPTDDREGQMZOTSUO&amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=IBVRKZFMPPTDDREGQMZOTSUO&amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="325,305 2322,305 2322,1663 325,1663" rendition="TextRegion" xml:id="facs_68_tr_1">
             <zone points="1118,362 1153,367 1160,374 1225,374 1229,369 1239,369 1239,302 1115,310" rendition="Line" xml:id="facs_68_tr_1_tl_1"/>
             <zone points="327,533 414,580 1470,580 1542,523 2315,521 2251,441 1795,476 1720,402 1636,476 327,456" rendition="Line" xml:id="facs_68_tr_1_tl_2"/>
@@ -117,7 +117,7 @@
             <p facs="#facs_68_tr_3">
                <lb facs="#facs_68_tr_3_tl_1" n="N001"/><rs type="keyword" ref="#Roman_Catholicism">Catholic</rs> sections; it is MOST needed, at least statistically, in <rs type="keyword" ref="#Judaism">Jewish</rs> groups; and again nearer to it,
                <lb facs="#facs_68_tr_3_tl_2" n="N002"/>in <rs type="keyword" ref="#Protestantism">Protestant</rs> groups. This means that this picture [?], which makes the situation especially clear,
-               <lb facs="#facs_68_tr_3_tl_3" n="N003"/>cut off from the vital sources of life by the commandments which come from the law, be it
+               <lb facs="#facs_68_tr_3_tl_3" n="N003"/>cut off from the vital sources of life by the commandments which come from the <rs type="keyword" ref="#Law">law</rs>, be it
                <lb facs="#facs_68_tr_3_tl_4" n="N004"/><rs type="keyword" ref="#Humanism">humanistic</rs> or <rs type="keyword" ref="#RELIGION">religious</rs>. [??] This is the reason for a large amount of mental disease, or
                <lb facs="#facs_68_tr_3_tl_5" n="N005"/>of chaotic explosion which may ruin the personality definitively, if he is not able to overcome
             </p>
