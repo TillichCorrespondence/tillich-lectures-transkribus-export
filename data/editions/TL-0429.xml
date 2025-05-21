@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_37">
          <graphic url="TL-0429.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=MIRXWIKNGZFQTGEYOZTZLDKV&amp;amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=MIRXWIKNGZFQTGEYOZTZLDKV&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="274,209 2209,209 2209,1281 274,1281" rendition="TextRegion" xml:id="facs_37_tr_3">
             <zone points="1031,270 1050,270 1065,277 1114,277 1119,272 1124,277 1151,275 1148,221 1114,223 1099,211 1087,223 1028,223" rendition="Line" xml:id="facs_37_tr_3_tl_1"/>
             <zone points="260,579 611,515 2120,471 2122,422 891,456 832,405 704,469 265,481" rendition="Line" xml:id="facs_37_tr_3_tl_2"/>
@@ -117,10 +117,10 @@
                <lb facs="#facs_37_tr_2_tl_4" n="N004"/>then we can speak, instead of that, in terms of man's essential nature, and can speak of the classical
                <lb facs="#facs_37_tr_2_tl_5" n="N005"/><rs type="keyword" ref="#Concept">concept</rs> of <rs type="keyword" ref="#Natural_Law">natural law</rs>, which means essential rational structure, which is always and essentially in
                <lb facs="#facs_37_tr_2_tl_6" n="N006"/>him and which only needs to be developed. Whatever you give him, HE HAS IT ALREADY.
-               <lb facs="#facs_37_tr_2_tl_7" n="N007"/>You know that this meant, in Socratic <rs type="keyword" ref="#Metaphor">metaphorism</rs>, the maieutic art, the art of the midwifery,
+               <lb facs="#facs_37_tr_2_tl_7" n="N007"/>You know that this meant, in Socratic <rs type="keyword" ref="#Metaphor">metaphorism</rs>, the maieutic art, the <rs type="keyword" ref="#Art">art</rs> of the midwifery,
                <lb facs="#facs_37_tr_2_tl_8" n="N008"/>of bringing out that which is in the student, and not necessarily in the teacher, by helping him
                <lb facs="#facs_37_tr_2_tl_9" n="N009"/>to bring to light what he already has. This is the fundamental principle of all Socratic and,
-               <lb facs="#facs_37_tr_2_tl_10" n="N010"/>I can add now, of the <rs type="keyword" ref="#Humanism">humanistic</rs> form of education.
+               <lb facs="#facs_37_tr_2_tl_10" n="N010"/>I can add now, of the <rs type="keyword" ref="#Humanism">humanistic</rs> <rs type="keyword" ref="#Form">form</rs> of education.
             </p>
             <p facs="#facs_37_tr_1">
                <lb facs="#facs_37_tr_1_tl_1" n="N001"/>There are two groups which do not accept this. The one are the <rs type="keyword" ref="#Empiricism">empiricists</rs>, or

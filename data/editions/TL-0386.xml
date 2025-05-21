@@ -66,7 +66,7 @@
    <facsimile>
     <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_102">
          <graphic url="TL-0386.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=KSGNCHSKUVQRAATODMVVRAMP&amp;amp;amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?id=KSGNCHSKUVQRAATODMVVRAMP&amp;amp;fileType=view" width="2479px" height="3508px"/>
          <zone points="23,21 2316,21 2316,1499 23,1499" rendition="TextRegion" xml:id="facs_102_tr_1">
             <zone points="1089,342 1117,347 1127,357 1214,357 1211,303 1155,303 1140,288 1122,303 1086,303" rendition="Line" xml:id="facs_102_tr_1_tl_2"/>
             <zone points="298,484 2081,495 1882,423 298,451" rendition="Line" xml:id="facs_102_tr_1_tl_3"/>
@@ -114,7 +114,7 @@
                <lb facs="#facs_102_tr_1_tl_10" n="N009"/>completely gone, in such a situation. A few MINUTES after the panic, the individual is reestablished
             </p>
             <p facs="#facs_102_tr_3">
-               <lb facs="#facs_102_tr_3_tl_1" n="N001"/>again, and he may be ashamed that in this moment he ceased to be a spontaneous free-acting individual,
+               <lb facs="#facs_102_tr_3_tl_1" n="N001"/>again, and he may be ashamed that in this moment he ceased to be a spontaneous free-acting <rs type="keyword" ref="#Individual">individual</rs>,
                <lb facs="#facs_102_tr_3_tl_2" n="N002"/>that he has become a particle of the mass, moving like the mass as a whole. So it is in gangs, where
                <lb facs="#facs_102_tr_3_tl_3" n="N003"/>one leader gives the word ''Let's do this!'' and then they all lose their independent judgment.
                <lb facs="#facs_102_tr_3_tl_4" n="N004"/>It is in crusades, where larger masses are moved for a special purpose in the same way. And there
