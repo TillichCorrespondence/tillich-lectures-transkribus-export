@@ -109,10 +109,10 @@
             <pb facs="#facs_1" n="TLx-0037_p001.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0037_p001.jpg"/>
             <p facs="#facs_1_r">
                <lb facs="#facs_1_l" n="N001"/>I. The human situation
-               <lb facs="#facs_1_l_1" n="N002"/>1. <rs type="person" key=", tillich_person_id__295">Breughel </rs>(10). The triumph of death
-               <lb facs="#facs_1_l_2" n="N003"/>2. <rs type="person" key=", tillich_person_id__1326">Michelangelo </rs>{(71)} {Even} Unknown.
-               <lb facs="#facs_1_l_3" n="N004"/>4. <rs type="person" key=", tillich_person_id__496">Dürer</rs> (37) The knight, death and the devil
-               <lb facs="#facs_1_l_4" n="N005"/>3. <rs type="person" key=", tillich_person_id__4038">Sasetta</rs> (35) St. Antony.
+               <lb facs="#facs_1_l_1" n="N002"/>1. <rs type="person" ref="#tillich_person_id__295">Breughel </rs>(10). The triumph of death
+               <lb facs="#facs_1_l_2" n="N003"/>2. <rs type="person" ref="#tillich_person_id__1326">Michelangelo </rs>{(71)} {Even} Unknown.
+               <lb facs="#facs_1_l_3" n="N004"/>4. <rs type="person" ref="#tillich_person_id__496">Dürer</rs> (37) The knight, death and the devil
+               <lb facs="#facs_1_l_4" n="N005"/>3. <rs type="person" ref="#tillich_person_id__4038">Sasetta</rs> (35) St. Antony.
             </p>
             <pb facs="#facs_2" n="TLx-0037_p002.jpg" xml:id="img_0002"/>
             <p facs="#facs_2_r">
@@ -121,10 +121,10 @@
             <pb facs="#facs_3" n="TLx-0037_p003.jpg" xml:id="img_0003"/>
             <p facs="#facs_3_r">
                <lb facs="#facs_3_l" n="N001"/><hi style="text-decoration: underline;">II. Transcendent Scenes</hi>
-               <lb facs="#facs_3_l_1" n="N002"/>1. <rs type="person" key=", tillich_person_id__496">Dürer</rs>: 2 eschatological pictures
-               <lb facs="#facs_3_l_2" n="N003"/>2. <rs type="person" key=", tillich_person_id__4039">Giovanni di Paolo</rs>. Paradise
+               <lb facs="#facs_3_l_1" n="N002"/>1. <rs type="person" ref="#tillich_person_id__496">Dürer</rs>: 2 eschatological pictures
+               <lb facs="#facs_3_l_2" n="N003"/>2. <rs type="person" ref="#tillich_person_id__4039">Giovanni di Paolo</rs>. Paradise
                <lb facs="#facs_3_l_3" n="N004"/>3. Christ as shepherd
-               <lb facs="#facs_3_l_4" n="N005"/>4. <rs type="person" key=", tillich_person_id__3888">Fra Angelico</rs>: Coronation of the Virgin.
+               <lb facs="#facs_3_l_4" n="N005"/>4. <rs type="person" ref="#tillich_person_id__3888">Fra Angelico</rs>: Coronation of the Virgin.
             </p>
             <pb facs="#facs_4" n="TLx-0037_p004.jpg" xml:id="img_0004"/>
             <p facs="#facs_4_r">
@@ -134,8 +134,8 @@
             <p facs="#facs_5_r">
                <lb facs="#facs_5_l" n="N001"/><hi style="text-decoration: underline;">III. Immanent-transcendent Scenes</hi>
                <lb facs="#facs_5_l_1" n="N002"/>1. Annunciations (Table X and XI) Table 19.
-               <lb facs="#facs_5_l_2" n="N003"/>2. {Virginities} Birth of Jesus (<rs type="person" key=", tillich_person_id__4040">Mantegna</rs>, <rs type="person" key=", tillich_person_id__3970">Philippo Lippi</rs>),
-               <lb facs="#facs_5_l_3" n="N004"/>{3.} <rs type="person" key=", tillich_person_id__3891">Roger v. d. Weyden</rs>
+               <lb facs="#facs_5_l_2" n="N003"/>2. {Virginities} Birth of Jesus (<rs type="person" ref="#tillich_person_id__4040">Mantegna</rs>, <rs type="person" ref="#tillich_person_id__3970">Philippo Lippi</rs>),
+               <lb facs="#facs_5_l_3" n="N004"/>{3.} <rs type="person" ref="#tillich_person_id__3891">Roger v. d. Weyden</rs>
                <lb facs="#facs_5_l_4" n="N005"/>3. Crucifixions etc.
                <lb facs="#facs_5_l_5" n="N006"/>Baptisms.
                <lb facs="#facs_5_l_6" n="N007"/>Mary with Child

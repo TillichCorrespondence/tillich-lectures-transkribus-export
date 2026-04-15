@@ -135,16 +135,16 @@
                <lb facs="#facs_1_l" n="N001"/>{1. Figurative}
                <lb facs="#facs_1_l_1" n="N002"/>1.
                <lb facs="#facs_1_l_2" n="N003"/><hi style="text-decoration: underline;"><rs type="keyword" ref="#Symbol">Symbolic</rs> <rs type="keyword" ref="#Arts">art</rs></hi>
-               <lb facs="#facs_1_l_3" n="N004"/>1. <rs type="person" key=", tillich_person_id__295">Breughel </rs>II (Wilde Margrath)
-               <lb facs="#facs_1_l_4" n="N005"/>2. <rs type="person" key=", tillich_person_id__496">Dürer</rs> 89 (Melancholia)
-               <lb facs="#facs_1_l_5" n="N006"/>3. <rs type="person" key=", tillich_person_id__3095">Chirico</rs>. Art News 136 (The disquieting Muses)
-               <lb facs="#facs_1_l_6" n="N007"/>4. <rs type="person" key=", tillich_person_id__3924">Ernst</rs> La Femme 100 têtes (Quietude)
+               <lb facs="#facs_1_l_3" n="N004"/>1. <rs type="person" ref="#tillich_person_id__295">Breughel </rs>II (Wilde Margrath)
+               <lb facs="#facs_1_l_4" n="N005"/>2. <rs type="person" ref="#tillich_person_id__496">Dürer</rs> 89 (Melancholia)
+               <lb facs="#facs_1_l_5" n="N006"/>3. <rs type="person" ref="#tillich_person_id__3095">Chirico</rs>. Art News 136 (The disquieting Muses)
+               <lb facs="#facs_1_l_6" n="N007"/>4. <rs type="person" ref="#tillich_person_id__3924">Ernst</rs> La Femme 100 têtes (Quietude)
                <lb facs="#facs_1_l_12" n="N008"/>2.
                <lb facs="#facs_1_l_7" n="N009"/><hi style="text-decoration: underline;">Non-symbolic<rs type="keyword" ref="#Arts"> art</rs></hi>
-               <lb facs="#facs_1_l_8" n="N010"/>1. <rs type="person" key=", tillich_person_id__2574">Corot</rs> (Malranse II, 143) (Souvenir d'Italie)
-               <lb facs="#facs_1_l_9" n="N011"/>2. <rs type="person" key=", tillich_person_id__4049">Pieter de Hooch</rs> (Art News, Cover) (The Game of skittles)
-               <lb facs="#facs_1_l_10" n="N012"/>3. <rs type="person" key=", tillich_person_id__3991">Velazquez </rs>(Malranse II, 217) (Still-Life, detail)
-               <lb facs="#facs_1_l_11" n="N013"/>4. <rs type="person" key=", tillich_person_id__1580">Rembrandt</rs> (Malranse II, 175) (Homer)
+               <lb facs="#facs_1_l_8" n="N010"/>1. <rs type="person" ref="#tillich_person_id__2574">Corot</rs> (Malranse II, 143) (Souvenir d'Italie)
+               <lb facs="#facs_1_l_9" n="N011"/>2. <rs type="person" ref="#tillich_person_id__4049">Pieter de Hooch</rs> (Art News, Cover) (The Game of skittles)
+               <lb facs="#facs_1_l_10" n="N012"/>3. <rs type="person" ref="#tillich_person_id__3991">Velazquez </rs>(Malranse II, 217) (Still-Life, detail)
+               <lb facs="#facs_1_l_11" n="N013"/>4. <rs type="person" ref="#tillich_person_id__1580">Rembrandt</rs> (Malranse II, 175) (Homer)
             </p>
             <pb facs="#facs_2" n="TLx-0040_p002.jpg" xml:id="img_0002"/>
             <p facs="#facs_2_r">
@@ -155,22 +155,22 @@
             <pb facs="#facs_3" n="TLx-0040_p003.jpg" xml:id="img_0003"/>
             <p facs="#facs_3_r">
                <lb facs="#facs_3_l" n="N001"/>p. 2
-               <lb facs="#facs_3_l_1" n="N002"/>1. Perceptive: {<rs type="person" key=", tillich_person_id__3888">Fra Angelico</rs>,<rs type="person" key=", tillich_person_id__496"> Dürer,</rs> Fortuna (<rs type="person" key=", tillich_person_id__496">Dürers </rs>Holzschnitte, table 19.)} Caritas, Brinkmann, 359.
+               <lb facs="#facs_3_l_1" n="N002"/>1. Perceptive: {<rs type="person" ref="#tillich_person_id__3888">Fra Angelico</rs>,<rs type="person" ref="#tillich_person_id__496"> Dürer,</rs> Fortuna (<rs type="person" ref="#tillich_person_id__496">Dürers </rs>Holzschnitte, table 19.)} Caritas, Brinkmann, 359.
                <lb facs="#facs_3_l_2" n="N003"/>2. Participant: Buddha (Dietz, 117)
-               <lb facs="#facs_3_l_3" n="N004"/>Opening realities: Collioure, <rs type="person" key=", tillich_person_id__3868">Derain</rs> (Fauves 21)
-               <lb facs="#facs_3_l_4" n="N005"/>Opening souls: <rs type="person" key=", tillich_person_id__1550">Raffael</rs>, Madonna, (Photograph)
+               <lb facs="#facs_3_l_3" n="N004"/>Opening realities: Collioure, <rs type="person" ref="#tillich_person_id__3868">Derain</rs> (Fauves 21)
+               <lb facs="#facs_3_l_4" n="N005"/>Opening souls: <rs type="person" ref="#tillich_person_id__1550">Raffael</rs>, Madonna, (Photograph)
                <lb facs="#facs_3_l_5" n="N006"/>p. 27. Expressing
                <lb facs="#facs_3_l_6" n="N007"/><rs type="keyword" ref="#Expressionism">Expressionism</rs>: Crucifixion,
-               <lb facs="#facs_3_l_7" n="N008"/><rs type="person" key=", tillich_person_id__3094">Rouault</rs>, Pierrette
-               <lb facs="#facs_3_l_8" n="N009"/><rs type="person" key=", tillich_person_id__3877">Juan Gris</rs> Book, Pipe and glasses
+               <lb facs="#facs_3_l_7" n="N008"/><rs type="person" ref="#tillich_person_id__3094">Rouault</rs>, Pierrette
+               <lb facs="#facs_3_l_8" n="N009"/><rs type="person" ref="#tillich_person_id__3877">Juan Gris</rs> Book, Pipe and glasses
                <lb facs="#facs_3_l_9" n="N010"/><rs type="keyword" ref="#Realism">Realism </rs>(Art News Cover) Nurse attentive
-               <lb facs="#facs_3_l_10" n="N011"/><rs type="keyword" ref="#Impressionism">Impressionism</rs> (Art Annual p. 98) <rs type="person" key=", tillich_person_id__442">Degas</rs>
-               <lb facs="#facs_3_l_11" n="N012"/>Sample (Lodge, <rs type="person" key=", tillich_person_id__1583">Renoir</rs>)
+               <lb facs="#facs_3_l_10" n="N011"/><rs type="keyword" ref="#Impressionism">Impressionism</rs> (Art Annual p. 98) <rs type="person" ref="#tillich_person_id__442">Degas</rs>
+               <lb facs="#facs_3_l_11" n="N012"/>Sample (Lodge, <rs type="person" ref="#tillich_person_id__1583">Renoir</rs>)
             </p>
             <pb facs="#facs_4" n="TLx-0040_p004.jpg" xml:id="img_0004"/>
             <p facs="#facs_4_r">
                <lb facs="#facs_4_l" n="N001"/><hi style="text-decoration: underline;">4</hi>
-               <lb facs="#facs_4_l_1" n="N002"/><rs type="person" key=", tillich_person_id__3094"><hi style="text-decoration: underline;">Rouault</hi></rs>
+               <lb facs="#facs_4_l_1" n="N002"/><rs type="person" ref="#tillich_person_id__3094"><hi style="text-decoration: underline;">Rouault</hi></rs>
                <lb facs="#facs_4_l_2" n="N003"/>1. Christ with arms
                <lb facs="#facs_4_l_3" n="N004"/>2. Crucifixion
                <lb facs="#facs_4_l_4" n="N005"/>3. Christ and the High Priest
@@ -184,13 +184,13 @@
             <p facs="#facs_5_r">
                <lb facs="#facs_5_l" n="N001"/>p. 3.
                <lb facs="#facs_5_l_1" n="N002"/>p. 28. Photographs. 42. 96
-               <lb facs="#facs_5_l_2" n="N003"/>p. 31. {<rs type="person" key=", tillich_person_id__3008">Ruisdael</rs>, Haarlem}
-               <lb facs="#facs_5_l_3" n="N004"/><rs type="person" key=", tillich_person_id__406">Courbet</rs>, Bonjour Mr. Courbet!
+               <lb facs="#facs_5_l_2" n="N003"/>p. 31. {<rs type="person" ref="#tillich_person_id__3008">Ruisdael</rs>, Haarlem}
+               <lb facs="#facs_5_l_3" n="N004"/><rs type="person" ref="#tillich_person_id__406">Courbet</rs>, Bonjour Mr. Courbet!
                <lb facs="#facs_5_l_4" n="N005"/>p. 32. Three forms of beauty
-               <lb facs="#facs_5_l_5" n="N006"/>1. <rs type="person" key=", tillich_person_id__3098">Piero de la Francesca</rs>. Queen of Saba.
+               <lb facs="#facs_5_l_5" n="N006"/>1. <rs type="person" ref="#tillich_person_id__3098">Piero de la Francesca</rs>. Queen of Saba.
                <lb facs="#facs_5_l_6" n="N007"/>2. <rs type="person">Mascagno</rs> Lady and Musician
-               <lb facs="#facs_5_l_7" n="N008"/>3. <rs type="person" key=", tillich_person_id__4050">Tamajo</rs> The Lunatic
-               <lb facs="#facs_5_l_8" n="N009"/><hi style="text-decoration: underline;">33.</hi> <rs type="person" key=", tillich_person_id__3008">Ruisdal</rs>, Haarlem.
+               <lb facs="#facs_5_l_7" n="N008"/>3. <rs type="person" ref="#tillich_person_id__4050">Tamajo</rs> The Lunatic
+               <lb facs="#facs_5_l_8" n="N009"/><hi style="text-decoration: underline;">33.</hi> <rs type="person" ref="#tillich_person_id__3008">Ruisdal</rs>, Haarlem.
                <lb facs="#facs_5_l_9" n="N010"/>34. Classical gods
                <lb facs="#facs_5_l_10" n="N011"/>Renaissance
             </p>

@@ -174,7 +174,7 @@
             <pb facs="#facs_5" n="TLx-0028_p005.jpg" xml:id="img_0005"/>
             <p facs="#facs_5_r">
                <lb facs="#facs_5_l" n="N001"/><hi style="text-decoration: underline;">2</hi>
-               <lb facs="#facs_5_l_1" n="N002"/>(Possibility of a smaller group. - <rs type="person" key=", tillich_person_id__1923">Hannah</rs>'s guiding trips)
+               <lb facs="#facs_5_l_1" n="N002"/>(Possibility of a smaller group. - <rs type="person" ref="#tillich_person_id__1923">Hannah</rs>'s guiding trips)
                <lb facs="#facs_5_l_2" n="N003"/>6. Today the meaning of <rs type="keyword" ref="#Religion">religious</rs> <rs type="keyword" ref="#Arts">art</rs>. Pictures
                <lb facs="#facs_5_l_3" n="N004"/>{at random}.
             </p>

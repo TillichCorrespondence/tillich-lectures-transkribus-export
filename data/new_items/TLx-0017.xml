@@ -206,7 +206,7 @@
          <div>
             <pb facs="#facs_1" n="TLx-0017_p001.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0017_p001.jpg"/>
             <p facs="#facs_1_r_6">
-               <lb facs="#facs_1_tr_1_tl_1" n="N001"/><rs type="person" key=", tillich_person_id__1928">PAUL TILLICH</rs>
+               <lb facs="#facs_1_tr_1_tl_1" n="N001"/><rs type="person" ref="#tillich_person_id__1928">PAUL TILLICH</rs>
                <lb facs="#facs_1_tr_1_tl_2" n="N002"/>[1886-1965]
                <lb facs="#facs_1_tr_1_tl_3" n="N003"/>ACADEMIC LECTURES*
                <lb facs="#facs_1_tr_1_tl_4" n="N004"/>Delivered at:
@@ -231,7 +231,7 @@
                <lb facs="#facs_1_tr_1_tl_17" n="N007"/><hi style="font-style: italic;">--Four lectures each week. (S) --<hi style="font-style: italic; text-decoration: underline;"/></hi>NOTE
                <lb facs="#facs_1_tr_1_tl_20" n="N008"/><hi style="font-style: italic;">entries, when enclosed in quotation marks, are re-</hi>
                <lb facs="#facs_1_tr_1_tl_21" n="N009"/><hi style="font-style: italic;">produced from the respective institutional catalogs.</hi>
-               <lb facs="#facs_1_tr_1_tl_23" n="N010"/>*Recorded by <rs type="person" key=", tillich_person_id__3056">Peter H. John,</rs> Box 207, Cambridge, Mass. 02138. The
+               <lb facs="#facs_1_tr_1_tl_23" n="N010"/>*Recorded by <rs type="person" ref="#tillich_person_id__3056">Peter H. John,</rs> Box 207, Cambridge, Mass. 02138. The
                <lb facs="#facs_1_tr_1_tl_24" n="N011"/>corpus of recorded material represents about 85% of the lectures and
                <lb facs="#facs_1_tr_1_tl_25" n="N012"/>courses taught during the years, 1951-1962.
                <lb facs="#facs_1_tr_1_tl_26" n="N013"/><hi style="text-decoration: underline;">**Abbreviations:</hi>
@@ -251,7 +251,7 @@
                <lb facs="#facs_1_tr_1_tl_40" n="N027"/>
                <lb facs="#facs_1_tr_1_tl_41" n="N028"/>the years' commentaries on the basic ''Propositions'' (which formed the
                <lb facs="#facs_1_tr_1_tl_43" n="N029"/>student's pre-published text, distributed at the beginning of each course),
-               <lb facs="#facs_1_tr_1_tl_44" n="N030"/>one can trace the continuing development and expansion of Prof.<rs type="person" key=", tillich_person_id__1928"> Tillich</rs>'s
+               <lb facs="#facs_1_tr_1_tl_44" n="N030"/>one can trace the continuing development and expansion of Prof.<rs type="person" ref="#tillich_person_id__1928"> Tillich</rs>'s
                <lb facs="#facs_1_tr_1_tl_45" n="N031"/>thought. The content of repeated courses always changed in emphasis and
                <lb facs="#facs_1_tr_1_tl_46" n="N032"/>treatment.
                <lb facs="#facs_1_tr_1_tl_47" n="N033"/><hi style="font-style: italic;">Included in the recordings are the discussion periods which were</hi>
@@ -285,7 +285,7 @@
                <lb facs="#facs_2_tr_1_tl_18" n="N017"/>The New Being as community: the Church. The New Being as
                <lb facs="#facs_2_tr_1_tl_19" n="N018"/>personality: the Christian.''
                <lb facs="#facs_2_tr_1_tl_20" n="N019"/><hi style="font-style: italic;">--Four lectures each week. Edited &amp; privately published</hi>
-               <lb facs="#facs_2_tr_1_tl_21" n="N020"/><hi style="font-style: italic;">for course members, by <rs type="person" key=", tillich_person_id__3056">Peter H. John</rs>, 1952. Pp. 313; index. (S)</hi>
+               <lb facs="#facs_2_tr_1_tl_21" n="N020"/><hi style="font-style: italic;">for course members, by <rs type="person" ref="#tillich_person_id__3056">Peter H. John</rs>, 1952. Pp. 313; index. (S)</hi>
                <lb facs="#facs_2_tr_1_tl_22" n="N021"/><hi style="font-style: italic;">--47 Lectures.</hi>
                <lb facs="#facs_2_tr_1_tl_23" n="N022"/>IV. <hi style="text-decoration: underline;">The THEOLOGY Of CHRISTIAN MYSTICS.</hi> (1952, Spring, UTS)
                <lb facs="#facs_2_tr_1_tl_25" n="N023"/>''The nature of Christian mysticism, its difference from
@@ -297,9 +297,9 @@
                <lb facs="#facs_2_tr_1_tl_31" n="N029"/>V. <hi style="text-decoration: underline;">ART and RELIGION.</hi> ( 1952, Fall, UTS)
                <lb facs="#facs_2_tr_1_tl_32" n="N030"/><hi style="font-style: italic;">--Two evenings each month, with illustrated slides and</hi>
                <lb facs="#facs_2_tr_1_tl_33" n="N031"/><hi style="font-style: italic;">commentaries. (S)</hi>
-               <lb facs="#facs_2_tr_1_tl_34" n="N032"/>VI. <hi style="text-decoration: underline;"><rs type="person" key=", tillich_person_id__1228">LUTHER'</rs>S THEOLOGY.</hi> ( 1952, Fall, UTS)
+               <lb facs="#facs_2_tr_1_tl_34" n="N032"/>VI. <hi style="text-decoration: underline;"><rs type="person" ref="#tillich_person_id__1228">LUTHER'</rs>S THEOLOGY.</hi> ( 1952, Fall, UTS)
                <lb facs="#facs_2_tr_1_tl_35" n="N033"/><hi style="font-style: italic;">--Two lectures each week. (S)</hi>
-               <lb facs="#facs_2_tr_1_tl_36" n="N034"/>VII. <hi style="text-decoration: underline;"><rs type="person" key=", tillich_person_id__354">CALVIN</rs>'S THEOLOGY. </hi>( 1953, Spring, UTS)
+               <lb facs="#facs_2_tr_1_tl_36" n="N034"/>VII. <hi style="text-decoration: underline;"><rs type="person" ref="#tillich_person_id__354">CALVIN</rs>'S THEOLOGY. </hi>( 1953, Spring, UTS)
                <lb facs="#facs_2_tr_1_tl_37" n="N035"/><hi style="font-style: italic;">--Two lectures each week. (S)</hi>
             </p>
             <pb facs="#facs_3" n="TLx-0017_p003.jpg" xml:id="img_0003"/>
@@ -323,9 +323,9 @@
                <lb facs="#facs_3_tr_2_tl_17" n="N017"/>successors; the roots of modern theology and the present theol-
                <lb facs="#facs_3_tr_2_tl_18" n="N018"/>ogical situation in Europe and America.''
                <lb facs="#facs_3_tr_2_tl_19" n="N019"/><hi style="font-style: italic;">--Four lectures each week.--Edited &amp; privately published</hi>
-               <lb facs="#facs_3_tr_2_tl_20" n="N020"/><hi style="font-style: italic;">by <rs type="person" key=", tillich_person_id__3056">Peter H. John</rs>, 1953, as A HISTORY OF CHRISTIAN THOUGHT;</hi>
+               <lb facs="#facs_3_tr_2_tl_20" n="N020"/><hi style="font-style: italic;">by <rs type="person" ref="#tillich_person_id__3056">Peter H. John</rs>, 1953, as A HISTORY OF CHRISTIAN THOUGHT;</hi>
                <lb facs="#facs_3_tr_2_tl_21" n="N021"/><hi style="font-style: italic;">2nd edition, Cambridge, 1956, with extensive bibliogra-</hi>
-               <lb facs="#facs_3_tr_2_tl_22" n="N022"/><hi style="font-style: italic;">phies of and about <rs type="person" key=", tillich_person_id__1928">Tillich</rs>'s writings. Pp. 309; index.</hi>
+               <lb facs="#facs_3_tr_2_tl_22" n="N022"/><hi style="font-style: italic;">phies of and about <rs type="person" ref="#tillich_person_id__1928">Tillich</rs>'s writings. Pp. 309; index.</hi>
                <lb facs="#facs_3_tr_2_tl_23" n="N023"/><hi style="font-style: italic;">Out of print. (A few lectures from this course were</hi>
                <lb facs="#facs_3_tr_2_tl_24" n="N024"/><hi style="font-style: italic;">also recorded in 1951 and 1952, though not used in the</hi>
                <lb facs="#facs_3_tr_2_tl_25" n="N025"/><hi style="font-style: italic;">above editions.) (ST)</hi>
@@ -337,8 +337,8 @@
                <lb facs="#facs_3_tr_2_tl_32" n="N031"/>The end of history and the eschatological symbols.''
                <lb facs="#facs_3_tr_2_tl_33" n="N032"/><hi style="font-style: italic;">--Two lectures each week. (Seminar) -- (S)</hi>
                <lb facs="#facs_3_tr_2_tl_34" n="N033"/>XI. <hi style="text-decoration: underline;">The COGNITIVE and RELIGIOUS USE of MYTH and SYMBOL. </hi>(1954, Spring, CU)
-               <lb facs="#facs_3_tr_2_tl_35" n="N034"/><hi style="font-style: italic;">--One evening each month. Seminar with Prof. <rs type="person" key=", tillich_person_id__1556">John Hermann</rs></hi>
-               <lb facs="#facs_3_tr_2_tl_36" n="N035"/><hi style="font-style: italic;"><rs type="person" key=", tillich_person_id__1556">Randall</rs>, Jr., Department of Philosophy, Columbia. (ST)</hi>
+               <lb facs="#facs_3_tr_2_tl_35" n="N034"/><hi style="font-style: italic;">--One evening each month. Seminar with Prof. <rs type="person" ref="#tillich_person_id__1556">John Hermann</rs></hi>
+               <lb facs="#facs_3_tr_2_tl_36" n="N035"/><hi style="font-style: italic;"><rs type="person" ref="#tillich_person_id__1556">Randall</rs>, Jr., Department of Philosophy, Columbia. (ST)</hi>
                <lb facs="#facs_3_tr_2_tl_37" n="N036"/>XII. <hi style="text-decoration: underline;">EXISTENCE and the CHRIST.</hi> (1954, Spring, UTS)
                <lb facs="#facs_3_tr_2_tl_38" n="N037"/>LIFE and the SPIRIT. (See Entry III and note, p. 1.]
                <lb facs="#facs_3_tr_2_tl_39" n="N038"/><hi style="font-style: italic;">--Four lectures each week. (ST)</hi>

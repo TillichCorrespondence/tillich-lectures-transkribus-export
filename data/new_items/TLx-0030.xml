@@ -390,7 +390,7 @@
             <pb facs="#facs_9" n="TLx-0030_bMS 649_46 (11)-9.jpg" xml:id="img_0009"/>
             <p facs="#facs_9_tr_1">
                <lb facs="#facs_9_tr_1_tl_1" n="N001"/>Possibilities:
-               <lb facs="#facs_9_tr_1_tl_2" n="N002"/>Reading of <rs type="person" key=", tillich_person_id__520">Einstein</rs>'s discussion with me.
+               <lb facs="#facs_9_tr_1_tl_2" n="N002"/>Reading of <rs type="person" ref="#tillich_person_id__520">Einstein</rs>'s discussion with me.
                <lb facs="#facs_9_tr_1_tl_3" n="N003"/>     "     of an article on religion and psychotherapy.
                <lb facs="#facs_9_tr_1_tl_5" n="N004"/>     "     of my lecture in the New School.
                <lb facs="#facs_9_tr_1_tl_7" n="N005"/>     "     of parts of Syst. III, concerning the organic

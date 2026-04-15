@@ -220,34 +220,34 @@
             <pb facs="#facs_1" n="TLx-0008_p001.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0008_p001.jpg"/>
             <p facs="#facs_1_r">
                <lb facs="#facs_1_l" n="N001"/><hi style="text-decoration: underline;">I GROUP</hi>
-               <lb facs="#facs_1_l_1" n="N002"/>1) <rs type="person" key="Ostade, tillich_person_id__3085"><hi style="text-decoration: underline;">OSTADE</hi></rs> {Rustic Couple Dancing} (vital ecstasy)
+               <lb facs="#facs_1_l_1" n="N002"/>1) <rs type="person" ref="#tillich_person_id__3085"><hi style="text-decoration: underline;">OSTADE</hi></rs> {Rustic Couple Dancing} (vital ecstasy)
                <lb facs="#facs_1_l_2" n="N003"/>[The Jubilee]
-               <lb facs="#facs_1_l_3" n="N004"/><hi style="text-decoration: underline;"><rs type="person" key="Steen, tillich_person_id__3084">Jan Steen</rs>.</hi> The painter's family
-               <lb facs="#facs_1_l_4" n="N005"/>2) <rs type="person" key="Watteau, tillich_person_id__3086"><hi style="text-decoration: underline;">WATTEAU</hi></rs> {French Comedy}
+               <lb facs="#facs_1_l_3" n="N004"/><hi style="text-decoration: underline;"><rs type="person" ref="#tillich_person_id__3084">Jan Steen</rs>.</hi> The painter's family
+               <lb facs="#facs_1_l_4" n="N005"/>2) <rs type="person" ref="#tillich_person_id__3086"><hi style="text-decoration: underline;">WATTEAU</hi></rs> {French Comedy}
                <lb facs="#facs_1_l_5" n="N006"/>(Les comédiens Francais)
                <lb facs="#facs_1_l_6" n="N007"/>(The comedian, later the harlekin, the
                <lb facs="#facs_1_l_7" n="N008"/>[play as] Pierrot expression of vitality, {refined} [later tragic)]
                <lb facs="#facs_1_l_8" n="N009"/><hi style="text-decoration: underline;">W:</hi> Love in Italian comedy
-               <lb facs="#facs_1_l_9" n="N010"/>3) <rs type="person" key="Renoir, tillich_person_id__1583"><hi style="text-decoration: underline;">RENOIR</hi></rs> {Breakfeast [sic.] by the River} (Chicago)
+               <lb facs="#facs_1_l_9" n="N010"/>3) <rs type="person" ref="#tillich_person_id__1583"><hi style="text-decoration: underline;">RENOIR</hi></rs> {Breakfeast [sic.] by the River} (Chicago)
                <lb facs="#facs_1_l_10" n="N011"/>Les Canotiers à Chatouse
                <lb facs="#facs_1_l_11" n="N012"/>(The union of nature and society: The discovery
                <lb facs="#facs_1_l_12" n="N013"/>of nature as life-power)
-               <lb facs="#facs_1_l_13" n="N014"/>4) <rs type="person" key="van Ruysdael, tillich_person_id__1667"><hi style="text-decoration: underline;">RUYSDAEL</hi></rs> {Ruins of Egmont (Chicago)}
+               <lb facs="#facs_1_l_13" n="N014"/>4) <rs type="person" ref="#tillich_person_id__1667"><hi style="text-decoration: underline;">RUYSDAEL</hi></rs> {Ruins of Egmont (Chicago)}
                <lb facs="#facs_1_l_14" n="N015"/><hi style="text-decoration: underline;">Jacob.</hi> Edge of a Wood
                <lb facs="#facs_1_l_15" n="N016"/>(The power of nature itself. The tree and
                <lb facs="#facs_1_l_16" n="N017"/>the power of treehood)
-               <lb facs="#facs_1_l_17" n="N018"/>5) <rs type="person" key="Monet, tillich_person_id__1343"><hi style="text-decoration: underline;">MONET</hi></rs> {Argenteuil (Chicago)}
+               <lb facs="#facs_1_l_17" n="N018"/>5) <rs type="person" ref="#tillich_person_id__1343"><hi style="text-decoration: underline;">MONET</hi></rs> {Argenteuil (Chicago)}
                <lb facs="#facs_1_l_18" n="N019"/><hi style="text-decoration: underline;">Claude</hi>, Waterloo Bridge, London
                <lb facs="#facs_1_l_19" n="N020"/>(The positivistic stream of {nature} consciousness in
                <lb facs="#facs_1_l_20" n="N021"/>the vision of the subject)
-               <lb facs="#facs_1_l_21" n="N022"/>6) <hi style="text-decoration: underline;"><rs type="person" key="Bronzino, tillich_person_id__3087">A. BRONZINO</rs> </hi>Portrait of {a Lady}
+               <lb facs="#facs_1_l_21" n="N022"/>6) <hi style="text-decoration: underline;"><rs type="person" ref="#tillich_person_id__3087">A. BRONZINO</rs> </hi>Portrait of {a Lady}
                <lb facs="#facs_1_l_22" n="N023"/>Eleonora de Medici
                <lb facs="#facs_1_l_23" n="N024"/>(The meaning of the portrait. Expression
                <lb facs="#facs_1_l_24" n="N025"/>of the unique individuality)
-               <lb facs="#facs_1_l_25" n="N026"/>7)<rs type="person" key="Sargent, tillich_person_id__3909"> <hi style="text-decoration: underline;">J. SARGENT</hi></rs> {Mrs. Dyer (Chicago)}
+               <lb facs="#facs_1_l_25" n="N026"/>7)<rs type="person" ref="#tillich_person_id__3909"> <hi style="text-decoration: underline;">J. SARGENT</hi></rs> {Mrs. Dyer (Chicago)}
                <lb facs="#facs_1_l_26" n="N027"/>Portrait of Henry James
                <lb facs="#facs_1_l_27" n="N028"/>(The approximation to the photographic truth)
-               <lb facs="#facs_1_l_28" n="N029"/>8) <rs type="person" key="Monet, tillich_person_id__1343"><hi style="text-decoration: underline;">MONET</hi></rs> {St. Lazare (Chicago)}
+               <lb facs="#facs_1_l_28" n="N029"/>8) <rs type="person" ref="#tillich_person_id__1343"><hi style="text-decoration: underline;">MONET</hi></rs> {St. Lazare (Chicago)}
                <lb facs="#facs_1_l_29" n="N030"/>Unloading The cargo
                <lb facs="#facs_1_l_30" n="N031"/>(<hi style="text-decoration: underline;">Technique</hi> not only tool but also creation.
                <lb facs="#facs_1_l_31" n="N032"/>Romanticism of technique)
@@ -255,31 +255,31 @@
             <pb facs="#facs_2" n="TLx-0008_p002.jpg" xml:id="img_0002"/>
             <p facs="#facs_2_r">
                <lb facs="#facs_2_l" n="N001"/><hi style="text-decoration: underline;">II GROUP</hi>
-               <lb facs="#facs_2_l_1" n="N002"/><hi style="text-decoration: underline;"><rs type="person" key="van Rijn, tillich_person_id__1580">Rembrandt</rs>: </hi>Selfportrait. The end of a period. Tragic personality
-               <lb facs="#facs_2_l_2" n="N003"/>9) <rs type="person" key="Cézanne, tillich_person_id__2575"><hi style="text-decoration: underline;">CEZANNE</hi></rs> Stillife
-               <lb facs="#facs_2_l_3" n="N004"/>{(<rs type="person" key=", tillich_person_id__2575">Cézanne</rs> and <rs type="person" key=", tillich_person_id__1964">Uhde</rs> or <rs type="person" key=", tillich_person_id__3974">Hoffmann</rs>)}
+               <lb facs="#facs_2_l_1" n="N002"/><hi style="text-decoration: underline;"><rs type="person" ref="#tillich_person_id__1580">Rembrandt</rs>: </hi>Selfportrait. The end of a period. Tragic personality
+               <lb facs="#facs_2_l_2" n="N003"/>9) <rs type="person" ref="#tillich_person_id__2575"><hi style="text-decoration: underline;">CEZANNE</hi></rs> Stillife
+               <lb facs="#facs_2_l_3" n="N004"/>{(<rs type="person" ref="#tillich_person_id__2575">Cézanne</rs> and <rs type="person" ref="#tillich_person_id__1964">Uhde</rs> or <rs type="person" ref="#tillich_person_id__3974">Hoffmann</rs>)}
                <lb facs="#facs_2_l_4" n="N005"/>The cosmic character of the still life in
-               <lb facs="#facs_2_l_5" n="N006"/><rs type="person" key=", tillich_person_id__2575">Cézanne</rs>. "The metaphysics of the thing")
-               <lb facs="#facs_2_l_6" n="N007"/>10) <rs type="person" key=", tillich_person_id__272"><hi style="text-decoration: underline;">BRAQUE</hi></rs> Stillife
+               <lb facs="#facs_2_l_5" n="N006"/><rs type="person" ref="#tillich_person_id__2575">Cézanne</rs>. "The metaphysics of the thing")
+               <lb facs="#facs_2_l_6" n="N007"/>10) <rs type="person" ref="#tillich_person_id__272"><hi style="text-decoration: underline;">BRAQUE</hi></rs> Stillife
                <lb facs="#facs_2_l_7" n="N008"/>(Reduction to elements, but 2 dimensional
                <lb facs="#facs_2_l_8" n="N009"/>and in this sense symbolic)
-               <lb facs="#facs_2_l_9" n="N010"/>11) <rs type="person" key="Lurcat, tillich_person_id__3975">Jean <hi style="text-decoration: underline;">LURCAT</hi> </rs>{Cloud}
+               <lb facs="#facs_2_l_9" n="N010"/>11) <rs type="person" ref="#tillich_person_id__3975">Jean <hi style="text-decoration: underline;">LURCAT</hi> </rs>{Cloud}
                <lb facs="#facs_2_l_29" n="N011"/>Le Cidre
                <lb facs="#facs_2_l_10" n="N012"/>(Cosmic by destruction of the surface.
                <lb facs="#facs_2_l_11" n="N013"/>The demonic element, horror and fascination)
-               <lb facs="#facs_2_l_12" n="N014"/>12) <rs type="person" key="Chirico, tillich_person_id__3095"><hi style="text-decoration: underline;">Chicrico</hi> </rs>{Soothsayer's Recompense}
+               <lb facs="#facs_2_l_12" n="N014"/>12) <rs type="person" ref="#tillich_person_id__3095"><hi style="text-decoration: underline;">Chicrico</hi> </rs>{Soothsayer's Recompense}
                <lb facs="#facs_2_l_13" n="N015"/>Melancholy and mystery
                <lb facs="#facs_2_l_14" n="N016"/>of a street.
                <lb facs="#facs_2_l_15" n="N017"/>(The productions of the <hi style="text-decoration: underline;">unconscious</hi>
                <lb facs="#facs_2_l_16" n="N018"/>(surrealistic combination of disrupted pieces of rea-
                <lb facs="#facs_2_l_17" n="N019"/>lity
-               <lb facs="#facs_2_l_18" n="N020"/>13) <rs type="person" key="Tanguy, tillich_person_id__3910"><hi style="text-decoration: underline;">TANGUY</hi></rs> {Parallels}
+               <lb facs="#facs_2_l_18" n="N020"/>13) <rs type="person" ref="#tillich_person_id__3910"><hi style="text-decoration: underline;">TANGUY</hi></rs> {Parallels}
                <lb facs="#facs_2_l_19" n="N021"/>Heredity of
                <lb facs="#facs_2_l_20" n="N022"/>acquired charac-
                <lb facs="#facs_2_l_21" n="N023"/>teristics
                <lb facs="#facs_2_l_22" n="N024"/>No definition, but more connotation
                <lb facs="#facs_2_l_23" n="N025"/>(Phantastic potentialities)
-               <lb facs="#facs_2_l_24" n="N026"/>14) <rs type="person" key="Rouault, tillich_person_id__3094"><hi style="text-decoration: underline;">ROUAULT</hi></rs> {Clowns}
+               <lb facs="#facs_2_l_24" n="N026"/>14) <rs type="person" ref="#tillich_person_id__3094"><hi style="text-decoration: underline;">ROUAULT</hi></rs> {Clowns}
                <lb facs="#facs_2_l_25" n="N027"/>Circus trio
                <lb facs="#facs_2_l_26" n="N028"/>The metaphysics of the harlequin.
                <lb facs="#facs_2_l_27" n="N029"/>[melancholic and even tragic vitality
@@ -287,81 +287,81 @@
             </p>
             <pb facs="#facs_3" n="TLx-0008_p003.jpg" xml:id="img_0003"/>
             <p facs="#facs_3_r">
-               <lb facs="#facs_3_l" n="N001"/><hi style="text-decoration: underline;">II GROUP</hi> (continued) <rs type="person" key="Feininger, tillich_person_id__3920">Feininger</rs>
-               <lb facs="#facs_3_l_1" n="N002"/>15)<rs type="person" key="Beckmann, tillich_person_id__172"> <hi style="text-decoration: underline;">BECKMANN</hi> </rs>Old Actress
+               <lb facs="#facs_3_l" n="N001"/><hi style="text-decoration: underline;">II GROUP</hi> (continued) <rs type="person" ref="#tillich_person_id__3920">Feininger</rs>
+               <lb facs="#facs_3_l_1" n="N002"/>15)<rs type="person" ref="#tillich_person_id__172"> <hi style="text-decoration: underline;">BECKMANN</hi> </rs>Old Actress
                <lb facs="#facs_3_l_2" n="N003"/>(The problem of the <rs type="keyword" ref="#Expressionism">expressionistic</rs> por-
                <lb facs="#facs_3_l_3" n="N004"/>trait: Similarity and expression)
-               <lb facs="#facs_3_l_4" n="N005"/>16) <rs type="person" key="Picasso, tillich_person_id__1495"><hi style="text-decoration: underline;">PICASSO</hi></rs> Three Musicians
-               <lb facs="#facs_3_l_5" n="N006"/><hi style="text-decoration: underline;"><rs type="person" key="Chirico, tillich_person_id__3095">Chirico</rs>:</hi> The consoler
+               <lb facs="#facs_3_l_4" n="N005"/>16) <rs type="person" ref="#tillich_person_id__1495"><hi style="text-decoration: underline;">PICASSO</hi></rs> Three Musicians
+               <lb facs="#facs_3_l_5" n="N006"/><hi style="text-decoration: underline;"><rs type="person" ref="#tillich_person_id__3095">Chirico</rs>:</hi> The consoler
                <lb facs="#facs_3_l_6" n="N007"/>The question of the divinity of the
                <lb facs="#facs_3_l_7" n="N008"/>human face and its analysis.
-               <lb facs="#facs_3_l_8" n="N009"/>17) <rs type="person" key="Picasso, tillich_person_id__1495"><hi style="text-decoration: underline;">PICASSO</hi></rs> Guernica
+               <lb facs="#facs_3_l_8" n="N009"/>17) <rs type="person" ref="#tillich_person_id__1495"><hi style="text-decoration: underline;">PICASSO</hi></rs> Guernica
                <lb facs="#facs_3_l_9" n="N010"/><hi style="text-decoration: underline;">The</hi> Protestant religious picture.
-               <lb facs="#facs_3_l_10" n="N011"/>18) <rs type="person" key="Picasso, tillich_person_id__1495">PICASSO</rs> Geurnica (detail)     "     
+               <lb facs="#facs_3_l_10" n="N011"/>18) <rs type="person" ref="#tillich_person_id__1495">PICASSO</rs> Geurnica (detail)     "     
                <lb facs="#facs_3_l_11" n="N012"/>
-               <lb facs="#facs_3_l_12" n="N013"/>19) <rs type="person" key="Feininger, tillich_person_id__3920"><hi style="text-decoration: underline;">FEININGER</hi> </rs>Bridge
+               <lb facs="#facs_3_l_12" n="N013"/>19) <rs type="person" ref="#tillich_person_id__3920"><hi style="text-decoration: underline;">FEININGER</hi> </rs>Bridge
                <lb facs="#facs_3_l_13" n="N014"/>Elements of the technical tool as
                <lb facs="#facs_3_l_14" n="N015"/>cosmic forms
             </p>
             <pb facs="#facs_4" n="TLx-0008_p004.jpg" xml:id="img_0004"/>
             <p facs="#facs_4_r">
                <lb facs="#facs_4_l" n="N001"/><hi style="text-decoration: underline;">III GROUP</hi>
-               <lb facs="#facs_4_l_2" n="N002"/>20) <rs type="person" key="Giotto, tillich_person_id__681"><hi style="text-decoration: underline;">GIOTTO</hi></rs> {Pieta}
+               <lb facs="#facs_4_l_2" n="N002"/>20) <rs type="person" ref="#tillich_person_id__681"><hi style="text-decoration: underline;">GIOTTO</hi></rs> {Pieta}
                <lb facs="#facs_4_l_3" n="N003"/>St. Francis and
                <lb facs="#facs_4_l_4" n="N004"/>the birds
                <lb facs="#facs_4_l_5" n="N005"/>(Substance <hi style="text-decoration: underline;">and</hi> form. But <hi style="text-decoration: underline;">subjective</hi> piety
-               <lb facs="#facs_4_l_1" n="N006"/>The synthesis in <rs type="person" key="Giotto, tillich_person_id__681">Giotto</rs>.
-               <lb facs="#facs_4_l_6" n="N007"/>21) <rs type="person" key="Masaccio, tillich_person_id__3099"><hi style="text-decoration: underline;">MASACCIO</hi></rs> {Birth of St. John}
+               <lb facs="#facs_4_l_1" n="N006"/>The synthesis in <rs type="person" ref="#tillich_person_id__681">Giotto</rs>.
+               <lb facs="#facs_4_l_6" n="N007"/>21) <rs type="person" ref="#tillich_person_id__3099"><hi style="text-decoration: underline;">MASACCIO</hi></rs> {Birth of St. John}
                <lb facs="#facs_4_l_7" n="N008"/>Tribute money.
                <lb facs="#facs_4_l_8" n="N009"/>{Over stress} The majesty of the human form.
-               <lb facs="#facs_4_l_9" n="N010"/>22) <rs type="person" key="Bellini, tillich_person_id__3027"><hi style="text-decoration: underline;">BELLINI</hi></rs> {Baptism of Christ} Madonna {with} and child
+               <lb facs="#facs_4_l_9" n="N010"/>22) <rs type="person" ref="#tillich_person_id__3027"><hi style="text-decoration: underline;">BELLINI</hi></rs> {Baptism of Christ} Madonna {with} and child
                <lb facs="#facs_4_l_11" n="N011"/>The principle of immanence of the
                <lb facs="#facs_4_l_12" n="N012"/>infinite in the finite and the divinity of man
                <lb facs="#facs_4_l_13" n="N013"/>as the microcosm.
-               <lb facs="#facs_4_l_14" n="N014"/>23) <rs type="person" key=", tillich_person_id__3100"><hi style="text-decoration: underline;">RAPHAEL</hi></rs> Madonna {of the Chair}
+               <lb facs="#facs_4_l_14" n="N014"/>23) <rs type="person" ref="#tillich_person_id__3100"><hi style="text-decoration: underline;">RAPHAEL</hi></rs> Madonna {of the Chair}
                <lb facs="#facs_4_l_15" n="N015"/>Colonna
                <lb facs="#facs_4_l_16" n="N016"/>Loss of religious significance in the
                <lb facs="#facs_4_l_17" n="N017"/>human relations.
-               <lb facs="#facs_4_l_18" n="N018"/>24) <rs type="person" key="Rent, tillich_person_id__1582"><hi style="text-decoration: underline;">REN</hi></rs>I {Baptism of Christ}
+               <lb facs="#facs_4_l_18" n="N018"/>24) <rs type="person" ref="#tillich_person_id__1582"><hi style="text-decoration: underline;">REN</hi></rs>I {Baptism of Christ}
                <lb facs="#facs_4_l_19" n="N019"/>Magdalen
                <lb facs="#facs_4_l_20" n="N020"/>The "kitsch" and the modern churches
-               <lb facs="#facs_4_l_21" n="N021"/>{[25) <rs type="person" key="van Rijn, tillich_person_id__1580"><hi style="text-decoration: underline;">REMBRANDT</hi> </rs>Mannoha, Sacrifice}
+               <lb facs="#facs_4_l_21" n="N021"/>{[25) <rs type="person" ref="#tillich_person_id__1580"><hi style="text-decoration: underline;">REMBRANDT</hi> </rs>Mannoha, Sacrifice}
                <lb facs="#facs_4_l_10" n="N022"/>{Intensive subjective piety]}
-               <lb facs="#facs_4_l_23" n="N023"/><rs type="person" key="von Uhde, tillich_person_id__1964">v. Uhde</rs>: The Christ with the peasants.
+               <lb facs="#facs_4_l_23" n="N023"/><rs type="person" ref="#tillich_person_id__1964">v. Uhde</rs>: The Christ with the peasants.
             </p>
             <pb facs="#facs_5" n="TLx-0008_p005.jpg" xml:id="img_0005"/>
             <p facs="#facs_5_r">
                <lb facs="#facs_5_l" n="N001"/><hi style="text-decoration: underline;">III GROUP</hi> (continued)
-               <lb facs="#facs_5_l_1" n="N002"/>{26) <rs type="person" key="van Rijn, tillich_person_id__1580"><hi style="text-decoration: underline;">REMBRANDT </hi></rs>Selfportrait}
+               <lb facs="#facs_5_l_1" n="N002"/>{26) <rs type="person" ref="#tillich_person_id__1580"><hi style="text-decoration: underline;">REMBRANDT </hi></rs>Selfportrait}
                <lb facs="#facs_5_l_2" n="N003"/>{The history of the individual personality}
                <lb facs="#facs_5_l_3" n="N004"/>{in his relation to the meaning of life}
-               <lb facs="#facs_5_l_4" n="N005"/>27) <rs type="person" key="Manet, tillich_person_id__3034"><hi style="text-decoration: underline;">MANET</hi> </rs>The Mocking of Christ
-               <lb facs="#facs_5_l_6" n="N006"/>The great gap between <rs type="person" key="van Rijn, tillich_person_id__1580">Rembrandt</rs>
+               <lb facs="#facs_5_l_4" n="N005"/>27) <rs type="person" ref="#tillich_person_id__3034"><hi style="text-decoration: underline;">MANET</hi> </rs>The Mocking of Christ
+               <lb facs="#facs_5_l_6" n="N006"/>The great gap between <rs type="person" ref="#tillich_person_id__1580">Rembrandt</rs>
                <lb facs="#facs_5_l_7" n="N007"/>and the year 1900.
             </p>
             <pb facs="#facs_6" n="TLx-0008_p006.jpg" xml:id="img_0006"/>
             <p facs="#facs_6_r">
                <lb facs="#facs_6_l" n="N001"/><hi style="text-decoration: underline;">IV GROUP</hi>
-               <lb facs="#facs_6_l_1" n="N002"/>28)<rs type="person" key="Bosch, tillich_person_id__261"> <hi style="text-decoration: underline;">BOSCH</hi> </rs>Temptation of Saint Anthony
+               <lb facs="#facs_6_l_1" n="N002"/>28)<rs type="person" ref="#tillich_person_id__261"> <hi style="text-decoration: underline;">BOSCH</hi> </rs>Temptation of Saint Anthony
                <lb facs="#facs_6_l_2" n="N003"/>The <rs type="keyword" ref="#Demonic">demonic</rs> <rs type="keyword" ref="#Surrealism">surrealism</rs> used
                <lb facs="#facs_6_l_3" n="N004"/>for the holy legend.
-               <lb facs="#facs_6_l_4" n="N005"/>29) <rs type="person" key="Greco, tillich_person_id__3089"><hi style="text-decoration: underline;">GRECO</hi> </rs>Saint Martin (Chicago)
+               <lb facs="#facs_6_l_4" n="N005"/>29) <rs type="person" ref="#tillich_person_id__3089"><hi style="text-decoration: underline;">GRECO</hi> </rs>Saint Martin (Chicago)
                <lb facs="#facs_6_l_5" n="N006"/>The winding up from humanity to
                <lb facs="#facs_6_l_6" n="N007"/>the transcendent: Produced ecstasy.
-               <lb facs="#facs_6_l_7" n="N008"/>30) <rs type="person" key="Greco, tillich_person_id__3089"><hi style="text-decoration: underline;">GRECO</hi></rs> {Feast in the House of Simon (Chicago)}
+               <lb facs="#facs_6_l_7" n="N008"/>30) <rs type="person" ref="#tillich_person_id__3089"><hi style="text-decoration: underline;">GRECO</hi></rs> {Feast in the House of Simon (Chicago)}
                <lb facs="#facs_6_l_9" n="N009"/>Christ, driving the traders from the temple
                <lb facs="#facs_6_l_10" n="N010"/>The same in a group. But the huma-
                <lb facs="#facs_6_l_11" n="N011"/>nistic basis remains (barock, counter-Reformation)
-               <lb facs="#facs_6_l_8" n="N012"/><rs type="person" key="van Rijn, tillich_person_id__1580"><hi style="text-decoration: underline;">Rembrand</hi></rs>: Daniel's dream, Subjective piety
-               <lb facs="#facs_6_l_13" n="N013"/>31) <rs type="person" key="Nolde, tillich_person_id__1404"><hi style="text-decoration: underline;">NOLDE</hi> </rs>{Prophet}
+               <lb facs="#facs_6_l_8" n="N012"/><rs type="person" ref="#tillich_person_id__1580"><hi style="text-decoration: underline;">Rembrand</hi></rs>: Daniel's dream, Subjective piety
+               <lb facs="#facs_6_l_13" n="N013"/>31) <rs type="person" ref="#tillich_person_id__1404"><hi style="text-decoration: underline;">NOLDE</hi> </rs>{Prophet}
                <lb facs="#facs_6_l_14" n="N014"/>The last supper
                <lb facs="#facs_6_l_15" n="N015"/>The attempt to use ecstatic <rs type="keyword" ref="#Expressionism">expressionist</rs> forms
                <lb facs="#facs_6_l_16" n="N016"/>for the <rs type="keyword" ref="#Religion">religious </rs>content.
-               <lb facs="#facs_6_l_17" n="N017"/><rs type="keyword" ref="#Expressionism">32</rs>) <rs type="person" key="Derain, tillich_person_id__3868"><hi style="text-decoration: underline;">DERAIN</hi></rs> Last S<rs type="keyword" ref="#Religion">upper (Chi</rs>cago)     "     
-               <lb facs="#facs_6_l_19" n="N018"/>33) <rs type="person" key="Chirico, tillich_person_id__3095"><hi style="text-decoration: underline;">CHIRICO</hi></rs> Evangelival Stillife
+               <lb facs="#facs_6_l_17" n="N017"/><rs type="keyword" ref="#Expressionism">32</rs>) <rs type="person" ref="#tillich_person_id__3868"><hi style="text-decoration: underline;">DERAIN</hi></rs> Last S<rs type="keyword" ref="#Religion">upper (Chi</rs>cago)     "     
+               <lb facs="#facs_6_l_19" n="N018"/>33) <rs type="person" ref="#tillich_person_id__3095"><hi style="text-decoration: underline;">CHIRICO</hi></rs> Evangelival Stillife
                <lb facs="#facs_6_l_21" n="N019"/><rs type="keyword" ref="#Symbol">Symbols</rs> in disruption.
-               <lb facs="#facs_6_l_22" n="N020"/>34) <rs type="person" key="Picasso, tillich_person_id__1495"><hi style="text-decoration: underline;">PICASSO</hi></rs>, Cruzifixion     "     "
-               <lb facs="#facs_6_l_24" n="N021"/><rs type="person" key="Rouault, tillich_person_id__3094">Rouault</rs>: On the way to the Church
+               <lb facs="#facs_6_l_22" n="N020"/>34) <rs type="person" ref="#tillich_person_id__1495"><hi style="text-decoration: underline;">PICASSO</hi></rs>, Cruzifixion     "     "
+               <lb facs="#facs_6_l_24" n="N021"/><rs type="person" ref="#tillich_person_id__3094">Rouault</rs>: On the way to the Church
                <lb facs="#facs_6_l_25" n="N022"/>     "     Head of Christ.
                <lb facs="#facs_6_l_26" n="N023"/>[Is it as genuine as his harle-
                <lb facs="#facs_6_l_27" n="N024"/>quins?]

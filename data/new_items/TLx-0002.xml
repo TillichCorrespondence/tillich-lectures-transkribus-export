@@ -232,13 +232,13 @@
                <lb facs="#facs_1_l_25" n="N002"/><rs type="keyword" ref="#Humanities">Humanities </rs>127
                <lb facs="#facs_1_l_32" n="N003"/><rs type="keyword" ref="#Theology">Theology</rs> 131
                <lb facs="#facs_1_l_39" n="N004"/><hi style="text-decoration: underline;">Book List</hi>
-               <lb facs="#facs_1_l_46" n="N005"/><rs type="person" key="Kroner, tillich_person_id__1099">Kroner, R</rs>.--CULTURE AND FAITH
-               <lb facs="#facs_1_l_53" n="N006"/><rs type="person" key="Niebuhr, tillich_person_id__2957">Niebuhr, H. R</rs>.--CHRIST AND CULTURE
-               <lb facs="#facs_1_l_60" n="N007"/><rs type="person" key="Tillich, tillich_person_id__1928">Tillich, P.</rs>--SYSTEMATIC THEOLOGY I
+               <lb facs="#facs_1_l_46" n="N005"/><rs type="person" ref="#tillich_person_id__1099">Kroner, R</rs>.--CULTURE AND FAITH
+               <lb facs="#facs_1_l_53" n="N006"/><rs type="person" ref="#tillich_person_id__2957">Niebuhr, H. R</rs>.--CHRIST AND CULTURE
+               <lb facs="#facs_1_l_60" n="N007"/><rs type="person" ref="#tillich_person_id__1928">Tillich, P.</rs>--SYSTEMATIC THEOLOGY I
                <lb facs="#facs_1_l_67" n="N008"/>THE PROTESTANT ERA
-               <lb facs="#facs_1_l_74" n="N009"/><rs type="person" key="Schleiermacher, tillich_person_id__1717">Schleiermacher, F. D.</rs>--SPEECHES ON RELIGION
-               <lb facs="#facs_1_l_81" n="N010"/><rs type="person" key="D'Arcy, tillich_person_id__4019">D'Arcy, M. C.</rs>--THE NATURE OF BELIEF
-               <lb facs="#facs_1_l_88" n="N011"/><rs type="person" key="Kroner, tillich_person_id__1099">Kroner, R.</rs>--THE PRIMACY OF FAITH
+               <lb facs="#facs_1_l_74" n="N009"/><rs type="person" ref="#tillich_person_id__1717">Schleiermacher, F. D.</rs>--SPEECHES ON RELIGION
+               <lb facs="#facs_1_l_81" n="N010"/><rs type="person" ref="#tillich_person_id__4019">D'Arcy, M. C.</rs>--THE NATURE OF BELIEF
+               <lb facs="#facs_1_l_88" n="N011"/><rs type="person" ref="#tillich_person_id__1099">Kroner, R.</rs>--THE PRIMACY OF FAITH
                <lb facs="#facs_1_l_95" n="N012"/><rs type="person" key="Ogden, C.">Ogden, C</rs>.--THE MEANING OF MEANING (on language)
                <lb facs="#facs_1_l_102" n="N013"/><rs type="person" key="Urban, W.">Urban, W.</rs>--LANGUAGE AND REALITY
                <lb facs="#facs_1_l_109" n="N014"/><rs type="person" key="Cassirer, Ernst">Cassirer, E.</rs>--LANGUAGE AND MYTH

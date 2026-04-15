@@ -239,7 +239,7 @@
             <pb facs="#facs_4" n="TLx-0039_p004.jpg" xml:id="img_0004"/>
             <p facs="#facs_4_tr_1">
                <lb facs="#facs_4_l" n="N001"/><hi style="text-decoration: underline;">4</hi>
-               <lb facs="#facs_4_tr_1_tl_1" n="N002"/>French <rs type="keyword" ref="#Language">language</rs> and its purified clarity and rationality (<rs type="person" key=", tillich_person_id__452">Des-
+               <lb facs="#facs_4_tr_1_tl_1" n="N002"/>French <rs type="keyword" ref="#Language">language</rs> and its purified clarity and rationality (<rs type="person" ref="#tillich_person_id__452">Des-
                <lb break="no" facs="#facs_4_tr_1_tl_2" n="N003"/>cartes</rs> and the French language). The English <rs type="keyword" ref="#Language">language</rs> and its
                <lb facs="#facs_4_tr_1_tl_3" n="N004"/>predominance of the verb, {pr} foreseeing the English-American
                <lb facs="#facs_4_tr_1_tl_4" n="N005"/>activism etc. Its purging power with respect to mysticism.

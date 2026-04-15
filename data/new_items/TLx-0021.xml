@@ -153,17 +153,17 @@
             <p facs="#facs_2_tr_2">
                <lb facs="#facs_2_l" n="N001"/>[2]
                <lb facs="#facs_2_tr_2_tl_1" n="N002"/>3. A Gothic <rs type="keyword" ref="#Religion">religious</rs> sculpture.
-               <lb facs="#facs_2_tr_2_tl_2" n="N003"/>4. A Francis-scene by <rs type="person" key=", tillich_person_id__681">Giotto</rs> (Beyond the categories)
+               <lb facs="#facs_2_tr_2_tl_2" n="N003"/>4. A Francis-scene by <rs type="person" ref="#tillich_person_id__681">Giotto</rs> (Beyond the categories)
                <lb facs="#facs_2_tr_2_tl_3" n="N004"/>b] <rs type="keyword" ref="#Naturalism">Naturalistic</rs>-idealistic predominance.
-               <lb facs="#facs_2_tr_2_tl_4" n="N005"/>1. <rs type="person" key="Massaccio, tillich_person_id__3099">Masaccio</rs> or/and <rs type="person" key="Perugino, tillich_person_id__3889">Perugino</rs>
-               <lb facs="#facs_2_tr_2_tl_5" n="N006"/>2. <rs type="person" key="Dolci, tillich_person_id__3965">Dolci </rs>as "beautifying <rs type="keyword" ref="#Naturalism">naturalism</rs>".
-               <lb facs="#facs_2_tr_2_tl_6" n="N007"/>3. <rs type="person" key="Watteau, tillich_person_id__3086">Watteau</rs> (or <rs type="person" key="Fragonard, tillich_person_id__3966">Fragonard</rs>) as "playing <rs type="keyword" ref="#Naturalism">naturalism</rs>"
-               <lb facs="#facs_2_tr_2_tl_7" n="N008"/>4. <rs type="person" key="Caravaggio, tillich_person_id__3967">Caravaggio</rs> as "aggressive <rs type="keyword" ref="#Naturalism">naturalism</rs>".
-               <lb facs="#facs_2_tr_2_tl_8" n="N009"/>(or/and <rs type="person" key="Goya, tillich_person_id__3090">Goya</rs>)
-               <lb facs="#facs_2_tr_2_tl_9" n="N010"/>5. Optical <rs type="keyword" ref="#Naturalism">naturalism</rs> or <rs type="keyword" ref="#Impressionism">impressionism</rs> (<rs type="person" key="Monet, tillich_person_id__1343">Monet</rs>)
-               <lb facs="#facs_2_tr_2_tl_10" n="N011"/>6. American <rs type="keyword" ref="#Naturalism">naturalism</rs> (<rs type="person" key="Homer, tillich_person_id__926">Homer</rs>?)
-               <lb facs="#facs_2_tr_2_tl_11" n="N012"/>7. <rs type="person" key="Combet-Descombes, tillich_person_id__406">Courbet</rs> (<rs type="person" key="Corot, tillich_person_id__2574">Corot</rs>)
-               <lb facs="#facs_2_tr_2_tl_12" n="N013"/>8. <rs type="person" key=", tillich_person_id__1580">Rembrandt</rs> old man or woman. (Beyond the categories)
+               <lb facs="#facs_2_tr_2_tl_4" n="N005"/>1. <rs type="person" ref="#tillich_person_id__3099">Masaccio</rs> or/and <rs type="person" ref="#tillich_person_id__3889">Perugino</rs>
+               <lb facs="#facs_2_tr_2_tl_5" n="N006"/>2. <rs type="person" ref="#tillich_person_id__3965">Dolci </rs>as "beautifying <rs type="keyword" ref="#Naturalism">naturalism</rs>".
+               <lb facs="#facs_2_tr_2_tl_6" n="N007"/>3. <rs type="person" ref="#tillich_person_id__3086">Watteau</rs> (or <rs type="person" ref="#tillich_person_id__3966">Fragonard</rs>) as "playing <rs type="keyword" ref="#Naturalism">naturalism</rs>"
+               <lb facs="#facs_2_tr_2_tl_7" n="N008"/>4. <rs type="person" ref="#tillich_person_id__3967">Caravaggio</rs> as "aggressive <rs type="keyword" ref="#Naturalism">naturalism</rs>".
+               <lb facs="#facs_2_tr_2_tl_8" n="N009"/>(or/and <rs type="person" ref="#tillich_person_id__3090">Goya</rs>)
+               <lb facs="#facs_2_tr_2_tl_9" n="N010"/>5. Optical <rs type="keyword" ref="#Naturalism">naturalism</rs> or <rs type="keyword" ref="#Impressionism">impressionism</rs> (<rs type="person" ref="#tillich_person_id__1343">Monet</rs>)
+               <lb facs="#facs_2_tr_2_tl_10" n="N011"/>6. American <rs type="keyword" ref="#Naturalism">naturalism</rs> (<rs type="person" ref="#tillich_person_id__926">Homer</rs>?)
+               <lb facs="#facs_2_tr_2_tl_11" n="N012"/>7. <rs type="person" ref="#tillich_person_id__406">Courbet</rs> (<rs type="person" ref="#tillich_person_id__2574">Corot</rs>)
+               <lb facs="#facs_2_tr_2_tl_12" n="N013"/>8. <rs type="person" ref="#tillich_person_id__1580">Rembrandt</rs> old man or woman. (Beyond the categories)
             </p>
             <pb facs="#facs_3" n="TLx-0021_p003.jpg" xml:id="img_0003"/>
             <p facs="#facs_3_r">
@@ -177,20 +177,20 @@
                <lb facs="#facs_3_tr_1_tl_5" n="N005"/>3. Chinese landscape.
                <lb facs="#facs_3_tr_1_tl_6" n="N006"/>4. Buddha statue (classical=<rs type="keyword" ref="#Expressionism">expressive</rs>)
                <lb facs="#facs_3_tr_1_tl_8" n="N007"/>IV. <hi style="text-decoration: underline;">Contemporary Art</hi>
-               <lb facs="#facs_3_tr_1_tl_9" n="N008"/>1. <rs type="person" key="Cézanne, tillich_person_id__2575">Cézanne</rs> (if possible self-portrait)
-               <lb facs="#facs_3_tr_1_tl_10" n="N009"/>2. <rs type="person" key="Van Gogh, tillich_person_id__1984">Van Gogh</rs> (if possible: the chair.)
+               <lb facs="#facs_3_tr_1_tl_9" n="N008"/>1. <rs type="person" ref="#tillich_person_id__2575">Cézanne</rs> (if possible self-portrait)
+               <lb facs="#facs_3_tr_1_tl_10" n="N009"/>2. <rs type="person" ref="#tillich_person_id__1984">Van Gogh</rs> (if possible: the chair.)
                <lb facs="#facs_3_tr_1_tl_11" n="N010"/>3.  A Fauve.
             </p>
             <pb facs="#facs_4" n="TLx-0021_p004.jpg" xml:id="img_0004"/>
             <p facs="#facs_4_tr_1">
                <lb facs="#facs_4_l" n="N001"/>[4]
-               <lb facs="#facs_4_tr_1_tl_1" n="N002"/>4. A <rs type="keyword" ref="#Cubism">cubist</rs> picture by <rs type="person" key="Picasso, tillich_person_id__1495">Picasso</rs>
-               <lb facs="#facs_4_tr_1_tl_3" n="N003"/>5. A <rs type="keyword" ref="#Surrealism">surrealist </rs>picture (<rs type="person" key="Dalí, tillich_person_id__3881">Dali</rs>: The watches?)
-               <lb facs="#facs_4_tr_1_tl_4" n="N004"/>6. A memory of primitive art: <rs type="person" key="Klee, tillich_person_id__3876">Klee</rs>.
+               <lb facs="#facs_4_tr_1_tl_1" n="N002"/>4. A <rs type="keyword" ref="#Cubism">cubist</rs> picture by <rs type="person" ref="#tillich_person_id__1495">Picasso</rs>
+               <lb facs="#facs_4_tr_1_tl_3" n="N003"/>5. A <rs type="keyword" ref="#Surrealism">surrealist </rs>picture (<rs type="person" ref="#tillich_person_id__3881">Dali</rs>: The watches?)
+               <lb facs="#facs_4_tr_1_tl_4" n="N004"/>6. A memory of primitive art: <rs type="person" ref="#tillich_person_id__3876">Klee</rs>.
                <lb facs="#facs_4_tr_1_tl_6" n="N005"/>7. Non-objective art or "abstract <rs type="keyword" ref="#Expressionism">expressionism</rs>"
                <lb facs="#facs_4_tr_1_tl_8" n="N006"/>(Honest acknowlegment of a predicament.)
                <lb facs="#facs_4_tr_1_tl_9" n="N007"/>8. The attempts to become figural again.
-               <lb facs="#facs_4_tr_1_tl_10" n="N008"/>(<rs type="person" key="De Kooning, tillich_person_id__3968">De Kooning</rs>?)
+               <lb facs="#facs_4_tr_1_tl_10" n="N008"/>(<rs type="person" ref="#tillich_person_id__3968">De Kooning</rs>?)
             </p>
          </div>
       </body>

@@ -220,7 +220,7 @@
                <lb facs="#facs_2_tr_1_tl_7" n="N004"/>discussion is <rs type="keyword" ref="#Religion">religion</rs> and <rs type="keyword" ref="#Culture">culture</rs>. These two words belong
                <lb facs="#facs_2_tr_1_tl_9" n="N005"/>to the many who have fallen into the abyss of last words
                <lb facs="#facs_2_tr_1_tl_11" n="N006"/>which must be saved before we can use them for anyone's
-               <lb facs="#facs_2_tr_1_tl_13" n="N007"/>salvation. - This is always necessary: <rs type="person" key=", tillich_person_id__1806">Socrates</rs>, <rs type="person" key=", tillich_person_id__80">Aristotle</rs>, the
+               <lb facs="#facs_2_tr_1_tl_13" n="N007"/>salvation. - This is always necessary: <rs type="person" ref="#tillich_person_id__1806">Socrates</rs>, <rs type="person" ref="#tillich_person_id__80">Aristotle</rs>, the
                <lb facs="#facs_2_tr_1_tl_15" n="N008"/>scholastics, the encyclopedist, the epistemologist of the
                <lb facs="#facs_2_tr_1_tl_17" n="N009"/>Kantian school, the semanticists of today. - But always
                <lb facs="#facs_2_tr_1_tl_18" n="N010"/>the danger to stick to words, forgetting that {words} in

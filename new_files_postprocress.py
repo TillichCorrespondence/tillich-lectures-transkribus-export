@@ -80,3 +80,18 @@ for x in tqdm(files, total=len(files)):
     doc.tree.getroot().insert(0, header)
     doc.tree_to_file(x)
 
+print("fix person rs refs")
+files = sorted(glob.glob('./data/new_items/*.xml'))
+for x in tqdm(files, total=len(files)):
+    doc = TeiReader(x)
+    for y in doc.any_xpath(".//tei:rs[@type='person' and @key]"):
+        orig_attr = y.attrib["key"]
+        orig_attr
+        person_id = orig_attr.split("tillich_person_id__")
+        try:
+            san_id = int(person_id[-1])
+            y.attrib["ref"] = f"#tillich_person_id__{san_id}"
+            del y.attrib["key"]
+        except ValueError:
+            pass
+    doc.tree_to_file(x)

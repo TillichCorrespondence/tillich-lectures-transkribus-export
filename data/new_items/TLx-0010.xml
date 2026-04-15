@@ -208,7 +208,7 @@
                <lb facs="#facs_3_l" n="N001"/>[3]
                <lb facs="#facs_3_tr_1_tl_1" n="N002"/>virgin and child Italian painting
                <lb facs="#facs_3_tr_1_tl_2" n="N003"/>Madonna enthroned by Cimabue
-               <lb facs="#facs_3_tr_1_tl_3" n="N004"/><rs type="person" key=", tillich_person_id__681">Giotto</rs>
+               <lb facs="#facs_3_tr_1_tl_3" n="N004"/><rs type="person" ref="#tillich_person_id__681">Giotto</rs>
                <lb facs="#facs_3_tr_1_tl_4" n="N005"/>1. dream of Innocent III
                <lb facs="#facs_3_tr_1_tl_5" n="N006"/>2. la naissance de la vierge St. Croce
                <lb facs="#facs_3_tr_1_tl_6" n="N007"/>Giovanno de la Milano

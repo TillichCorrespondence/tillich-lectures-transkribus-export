@@ -254,20 +254,20 @@
                <lb facs="#facs_1_l_3" n="N004"/><hi style="text-decoration: underline;">FIRST GROUP</hi>
                <lb facs="#facs_1_l_4" n="N005"/><rs type="keyword" ref="#Naturalism">Naturalistic</rs> Style, <rs type="keyword" ref="#Secular">secular</rs>
                <lb facs="#facs_1_l_5" n="N006"/>subject matter
-               <lb facs="#facs_1_l_6" n="N007"/><rs type="person" key="Rubens, tillich_person_id__1653">Rubens</rs> Landscape with women
-               <lb facs="#facs_1_l_7" n="N008"/><rs type="person" key="Rubens, tillich_person_id__1653">Rubens</rs> Stormy landscape
-               <lb facs="#facs_1_l_8" n="N009"/><rs type="person" key="Ruysdael, tillich_person_id__1667">Ruysdael, J.</rs> Edge of a wood
-               <lb facs="#facs_1_l_9" n="N010"/><rs type="person" key="Monet, tillich_person_id__1343">Monet, Claude </rs>Zaandam
-               <lb facs="#facs_1_l_10" n="N011"/><rs type="person" key="Monet, tillich_person_id__1343">Monet, Claude</rs> La gare. St. Lazare
-               <lb facs="#facs_1_l_11" n="N012"/><rs type="person" key="Monet, tillich_person_id__1343">Monet, Claude</rs> Unloading the cargo
-               <lb facs="#facs_1_l_12" n="N013"/><rs type="person" key="Carpaccio, tillich_person_id__3907">Carpaccio </rs>Francesco Quirini, patriarch
+               <lb facs="#facs_1_l_6" n="N007"/><rs type="person" ref="#tillich_person_id__1653">Rubens</rs> Landscape with women
+               <lb facs="#facs_1_l_7" n="N008"/><rs type="person" ref="#tillich_person_id__1653">Rubens</rs> Stormy landscape
+               <lb facs="#facs_1_l_8" n="N009"/><rs type="person" ref="#tillich_person_id__1667">Ruysdael, J.</rs> Edge of a wood
+               <lb facs="#facs_1_l_9" n="N010"/><rs type="person" ref="#tillich_person_id__1343">Monet, Claude </rs>Zaandam
+               <lb facs="#facs_1_l_10" n="N011"/><rs type="person" ref="#tillich_person_id__1343">Monet, Claude</rs> La gare. St. Lazare
+               <lb facs="#facs_1_l_11" n="N012"/><rs type="person" ref="#tillich_person_id__1343">Monet, Claude</rs> Unloading the cargo
+               <lb facs="#facs_1_l_12" n="N013"/><rs type="person" ref="#tillich_person_id__3907">Carpaccio </rs>Francesco Quirini, patriarch
                <lb facs="#facs_1_l_13" n="N014"/>of Grado, exorcises a demon
-               <lb facs="#facs_1_l_14" n="N015"/><rs type="person" key="van Ostade, tillich_person_id__3085">Ostade, A. J. van</rs> Tavern brawl
-               <lb facs="#facs_1_l_15" n="N016"/><rs type="person" key="Steen, tillich_person_id__3084">Steen, Jan</rs> Loose living
-               <lb facs="#facs_1_l_16" n="N017"/><rs type="person" key="Rembrandt, tillich_person_id__1580">Rembrandt</rs> The Night Watch
-               <lb facs="#facs_1_l_17" n="N018"/><rs type="person" key="Rembrandt, tillich_person_id__1580">Rembrandt</rs> Dr. Tupl's anatomy lesson
-               <lb facs="#facs_1_l_18" n="N019"/><rs type="person" key="Watteau, tillich_person_id__3086">Watteau</rs> Les comediens francais
-               <lb facs="#facs_1_l_19" n="N020"/><rs type="person" key="Watteau, tillich_person_id__3086">Watteau</rs> Love in Italian Comedy
+               <lb facs="#facs_1_l_14" n="N015"/><rs type="person" ref="#tillich_person_id__3085">Ostade, A. J. van</rs> Tavern brawl
+               <lb facs="#facs_1_l_15" n="N016"/><rs type="person" ref="#tillich_person_id__3084">Steen, Jan</rs> Loose living
+               <lb facs="#facs_1_l_16" n="N017"/><rs type="person" ref="#tillich_person_id__1580">Rembrandt</rs> The Night Watch
+               <lb facs="#facs_1_l_17" n="N018"/><rs type="person" ref="#tillich_person_id__1580">Rembrandt</rs> Dr. Tupl's anatomy lesson
+               <lb facs="#facs_1_l_18" n="N019"/><rs type="person" ref="#tillich_person_id__3086">Watteau</rs> Les comediens francais
+               <lb facs="#facs_1_l_19" n="N020"/><rs type="person" ref="#tillich_person_id__3086">Watteau</rs> Love in Italian Comedy
                <lb facs="#facs_1_l_20" n="N021"/>Roman painting, Hellenistic, Fayoum
                <lb facs="#facs_1_l_21" n="N022"/>mummy, 3rd Century A.D.
                <lb facs="#facs_1_l_22" n="N023"/>Roman painting, Pompeian – Paquius
@@ -276,50 +276,50 @@
                <lb facs="#facs_1_l_25" n="N026"/>Portrait group on glass
                <lb facs="#facs_1_l_26" n="N027"/>Greek Painting, Hellenistic, "Aline"
                <lb facs="#facs_1_l_27" n="N028"/>from Hawara
-               <lb facs="#facs_1_l_28" n="N029"/><rs type="person" key="Bronzino, tillich_person_id__3087">Bronzino, A.</rs> Portrait of Eleonora
+               <lb facs="#facs_1_l_28" n="N029"/><rs type="person" ref="#tillich_person_id__3087">Bronzino, A.</rs> Portrait of Eleonora
                <lb facs="#facs_1_l_29" n="N030"/>(da Toledo) de Medici
-               <lb facs="#facs_1_l_30" n="N031"/><rs type="person" key="Titian, tillich_person_id__3088">Titian</rs> Francesco Maria della Bovere
+               <lb facs="#facs_1_l_30" n="N031"/><rs type="person" ref="#tillich_person_id__3088">Titian</rs> Francesco Maria della Bovere
                <lb facs="#facs_1_l_31" n="N032"/>Duke of Urbino
-               <lb facs="#facs_1_l_32" n="N033"/><rs type="person" key="Hals, tillich_person_id__3908">Hals, Frans </rs>Lady Governors. Hospital
+               <lb facs="#facs_1_l_32" n="N033"/><rs type="person" ref="#tillich_person_id__3908">Hals, Frans </rs>Lady Governors. Hospital
                <lb facs="#facs_1_l_33" n="N034"/>for the Aged, Haarlem. Detail
                <lb facs="#facs_1_l_34" n="N035"/><rs type="person" key="Hals, Frans">Hals, Frans </rs>La Bohemienne
-               <lb facs="#facs_1_l_35" n="N036"/><rs type="person" key="Sargent, tillich_person_id__3909">Sargent, J. S</rs>. Portrait of Henry James
+               <lb facs="#facs_1_l_35" n="N036"/><rs type="person" ref="#tillich_person_id__3909">Sargent, J. S</rs>. Portrait of Henry James
                <lb facs="#facs_1_l_36" n="N037"/><hi style="text-decoration: underline;">SECOND GROUP</hi>
                <lb facs="#facs_1_l_37" n="N038"/>Non-naturalistic {style},
                <lb facs="#facs_1_l_38" n="N039"/><rs type="keyword" ref="#Secular">secular</rs> subject matter
-               <lb facs="#facs_1_l_39" n="N040"/><rs type="person" key="El Greco, tillich_person_id__3089">El Greco </rs>View of Toledo
-               <lb facs="#facs_1_l_40" n="N041"/><rs type="person" key="Goya, tillich_person_id__3090">Goya</rs> City on a rock
-               <lb facs="#facs_1_l_41" n="N042"/><rs type="person" key="Cézanne, tillich_person_id__2575">Cezanne</rs> Still life
-               <lb facs="#facs_1_l_42" n="N043"/><rs type="person" key="Braque, tillich_person_id__272">Braque</rs> The Mantel-piece
-               <lb facs="#facs_1_l_43" n="N044"/><rs type="person" key="Braque, tillich_person_id__272">Braque</rs> Still life
-               <lb facs="#facs_1_l_44" n="N045"/><rs type="person" key="Braque, tillich_person_id__272">Braque </rs>Nature-morte
-               <lb facs="#facs_1_l_45" n="N046"/><rs type="person" key="Braque, tillich_person_id__272">Braque</rs> Man with a guitar
-               <lb facs="#facs_1_l_46" n="N047"/><rs type="person" key="Kandinsky, tillich_person_id__1018">Kandinsky</rs> Composition no. 8
-               <lb facs="#facs_1_l_47" n="N048"/><rs type="person" key="Leger, tillich_person_id__3878">Leger, F. </rs>Breakfast
-               <lb facs="#facs_1_l_48" n="N049"/><rs type="person" key="Picasso, tillich_person_id__1495">Picasso</rs> Guernice
-               <lb facs="#facs_1_l_49" n="N050"/><rs type="person" key="Rouault, tillich_person_id__3094">Rouault</rs> Circus trio
-               <lb facs="#facs_1_l_50" n="N051"/><rs type="person" key="Chirico, tillich_person_id__3095">Chirico</rs> Melancholy and mystery of a
+               <lb facs="#facs_1_l_39" n="N040"/><rs type="person" ref="#tillich_person_id__3089">El Greco </rs>View of Toledo
+               <lb facs="#facs_1_l_40" n="N041"/><rs type="person" ref="#tillich_person_id__3090">Goya</rs> City on a rock
+               <lb facs="#facs_1_l_41" n="N042"/><rs type="person" ref="#tillich_person_id__2575">Cezanne</rs> Still life
+               <lb facs="#facs_1_l_42" n="N043"/><rs type="person" ref="#tillich_person_id__272">Braque</rs> The Mantel-piece
+               <lb facs="#facs_1_l_43" n="N044"/><rs type="person" ref="#tillich_person_id__272">Braque</rs> Still life
+               <lb facs="#facs_1_l_44" n="N045"/><rs type="person" ref="#tillich_person_id__272">Braque </rs>Nature-morte
+               <lb facs="#facs_1_l_45" n="N046"/><rs type="person" ref="#tillich_person_id__272">Braque</rs> Man with a guitar
+               <lb facs="#facs_1_l_46" n="N047"/><rs type="person" ref="#tillich_person_id__1018">Kandinsky</rs> Composition no. 8
+               <lb facs="#facs_1_l_47" n="N048"/><rs type="person" ref="#tillich_person_id__3878">Leger, F. </rs>Breakfast
+               <lb facs="#facs_1_l_48" n="N049"/><rs type="person" ref="#tillich_person_id__1495">Picasso</rs> Guernice
+               <lb facs="#facs_1_l_49" n="N050"/><rs type="person" ref="#tillich_person_id__3094">Rouault</rs> Circus trio
+               <lb facs="#facs_1_l_50" n="N051"/><rs type="person" ref="#tillich_person_id__3095">Chirico</rs> Melancholy and mystery of a
                <lb facs="#facs_1_l_51" n="N052"/>street
             </p>
             <p facs="#facs_1_r_1">
                <lb facs="#facs_1_l_52" n="N001"/>SECOND GROUP (CONTINUED)
-               <lb facs="#facs_1_l_53" n="N002"/><rs type="person" key="Tanguy, tillich_person_id__3910">Tanguy</rs> Heredity of acquired character-
+               <lb facs="#facs_1_l_53" n="N002"/><rs type="person" ref="#tillich_person_id__3910">Tanguy</rs> Heredity of acquired character-
                <lb facs="#facs_1_l_54" n="N003"/>istics
-               <lb facs="#facs_1_l_55" n="N004"/><rs type="person" key="Chirico, tillich_person_id__3095">Chirico</rs> The consoler
-               <lb facs="#facs_1_l_56" n="N005"/><rs type="person" key="Moore, tillich_person_id__3096">Moore, Henry </rs>Family group
-               <lb facs="#facs_1_l_57" n="N006"/><rs type="person" key="Moore, tillich_person_id__3096">Moore, Henry</rs> Reclining figure
+               <lb facs="#facs_1_l_55" n="N004"/><rs type="person" ref="#tillich_person_id__3095">Chirico</rs> The consoler
+               <lb facs="#facs_1_l_56" n="N005"/><rs type="person" ref="#tillich_person_id__3096">Moore, Henry </rs>Family group
+               <lb facs="#facs_1_l_57" n="N006"/><rs type="person" ref="#tillich_person_id__3096">Moore, Henry</rs> Reclining figure
                <lb facs="#facs_1_l_58" n="N007"/><hi style="text-decoration: underline;">THIRD GROUP</hi>
                <lb facs="#facs_1_l_59" n="N008"/>Naturalistic style and <rs type="keyword" ref="#Religion">religious</rs>
                <lb facs="#facs_1_l_60" n="N009"/>subject matter
-               <lb facs="#facs_1_l_61" n="N010"/><rs type="person" key="Giotto, tillich_person_id__681">Giotto</rs> St. Francis and the birds
-               <lb facs="#facs_1_l_62" n="N011"/><rs type="person" key="Piero della Franscesca, tillich_person_id__3098">Piero della Francesca</rs> Resurrection
-               <lb facs="#facs_1_l_63" n="N012"/><rs type="person" key="Masaccio, tillich_person_id__3099">Masaccio </rs>Tribute money
-               <lb facs="#facs_1_l_64" n="N013"/><rs type="person" key="Bellini, tillich_person_id__3027">Bellini</rs> Madonna and Child
-               <lb facs="#facs_1_l_65" n="N014"/><rs type="person" key="Raphael, tillich_person_id__3100">Raphael</rs> Madonna Colonna
-               <lb facs="#facs_1_l_66" n="N015"/><rs type="person" key="Reni, tillich_person_id__1582">Reni</rs> The Magdalen
-               <lb facs="#facs_1_l_67" n="N016"/><rs type="person" key="von Uhde, tillich_person_id__1964">Uhde, Fritz von</rs> The Christ with the
+               <lb facs="#facs_1_l_61" n="N010"/><rs type="person" ref="#tillich_person_id__681">Giotto</rs> St. Francis and the birds
+               <lb facs="#facs_1_l_62" n="N011"/><rs type="person" ref="#tillich_person_id__3098">Piero della Francesca</rs> Resurrection
+               <lb facs="#facs_1_l_63" n="N012"/><rs type="person" ref="#tillich_person_id__3099">Masaccio </rs>Tribute money
+               <lb facs="#facs_1_l_64" n="N013"/><rs type="person" ref="#tillich_person_id__3027">Bellini</rs> Madonna and Child
+               <lb facs="#facs_1_l_65" n="N014"/><rs type="person" ref="#tillich_person_id__3100">Raphael</rs> Madonna Colonna
+               <lb facs="#facs_1_l_66" n="N015"/><rs type="person" ref="#tillich_person_id__1582">Reni</rs> The Magdalen
+               <lb facs="#facs_1_l_67" n="N016"/><rs type="person" ref="#tillich_person_id__1964">Uhde, Fritz von</rs> The Christ with the
                <lb facs="#facs_1_l_68" n="N017"/>Peasants
-               <lb facs="#facs_1_l_69" n="N018"/><rs type="person" key="Manet, tillich_person_id__3034">Manet, Edouard </rs>Ecco Homo (The mocking
+               <lb facs="#facs_1_l_69" n="N018"/><rs type="person" ref="#tillich_person_id__3034">Manet, Edouard </rs>Ecco Homo (The mocking
                <lb facs="#facs_1_l_70" n="N019"/>of Christ
                <lb facs="#facs_1_l_71" n="N020"/><hi style="text-decoration: underline;">FOURTH GROUP</hi>
                <lb facs="#facs_1_l_72" n="N021"/>Non-naturalistic style and <rs type="keyword" ref="#Religion">religious</rs>
@@ -331,21 +331,21 @@
                <lb facs="#facs_1_l_78" n="N027"/>Byzantine School, 15th Cent. Resurrection
                <lb facs="#facs_1_l_79" n="N028"/>Painting, Italian, 12th Cent. Crucifix
                <lb facs="#facs_1_l_80" n="N029"/>French, 15th Cent. School of Avignon
-               <lb facs="#facs_1_l_81" n="N030"/><rs type="person" key="Brueghel, tillich_person_id__295">Brueghel, Pieter</rs>, the elder Adoration
+               <lb facs="#facs_1_l_81" n="N030"/><rs type="person" ref="#tillich_person_id__295">Brueghel, Pieter</rs>, the elder Adoration
                <lb facs="#facs_1_l_82" n="N031"/>of the kings
-               <lb facs="#facs_1_l_83" n="N032"/><rs type="person" key="Brueghel, tillich_person_id__295">Brueghel, Pieter</rs>, the elder Triumph of
+               <lb facs="#facs_1_l_83" n="N032"/><rs type="person" ref="#tillich_person_id__295">Brueghel, Pieter</rs>, the elder Triumph of
                <lb facs="#facs_1_l_84" n="N033"/>Death
-               <lb facs="#facs_1_l_85" n="N034"/><rs type="person" key="Bosch, tillich_person_id__261">Bosch, Jerome</rs> Altarpiece of Temptation
-               <lb facs="#facs_1_l_86" n="N035"/><rs type="person" key="El Greco, tillich_person_id__3089">El Greco</rs> Coronation of the Virgin
-               <lb facs="#facs_1_l_87" n="N036"/><rs type="person" key=", tillich_person_id__1580">Rembrandt</rs> Christ crucified between thieves
-               <lb facs="#facs_1_l_88" n="N037"/><rs type="person" key=", tillich_person_id__1580">Rembrandt</rs> Descent from the cross
-               <lb facs="#facs_1_l_89" n="N038"/><rs type="person" key="Nolde, tillich_person_id__1404">Nolde, Emil</rs> The last supper
-               <lb facs="#facs_1_l_90" n="N039"/><rs type="person" key="Grunewald, tillich_person_id__3892">Grunewald</rs> Isen heim altarpiece
-               <lb facs="#facs_1_l_91" n="N040"/><rs type="person" key="Grunewald, tillich_person_id__3892">Grunewald</rs> Isenheim altarpiece, right panel
-               <lb facs="#facs_1_l_92" n="N041"/><rs type="person" key="Rouault, tillich_person_id__3094">Rouault </rs>Crucifixion
-               <lb facs="#facs_1_l_93" n="N042"/><rs type="person" key="Rouault, tillich_person_id__3094">Rouault</rs> Head of Christ with thorns
-               <lb facs="#facs_1_l_94" n="N043"/><rs type="person" key="Picasso, tillich_person_id__1495">Picasso</rs> Crucifixion
-               <lb facs="#facs_1_l_95" n="N044"/><rs type="person" key="Sutherland, tillich_person_id__3101">Sutherland</rs> Crucifixion
+               <lb facs="#facs_1_l_85" n="N034"/><rs type="person" ref="#tillich_person_id__261">Bosch, Jerome</rs> Altarpiece of Temptation
+               <lb facs="#facs_1_l_86" n="N035"/><rs type="person" ref="#tillich_person_id__3089">El Greco</rs> Coronation of the Virgin
+               <lb facs="#facs_1_l_87" n="N036"/><rs type="person" ref="#tillich_person_id__1580">Rembrandt</rs> Christ crucified between thieves
+               <lb facs="#facs_1_l_88" n="N037"/><rs type="person" ref="#tillich_person_id__1580">Rembrandt</rs> Descent from the cross
+               <lb facs="#facs_1_l_89" n="N038"/><rs type="person" ref="#tillich_person_id__1404">Nolde, Emil</rs> The last supper
+               <lb facs="#facs_1_l_90" n="N039"/><rs type="person" ref="#tillich_person_id__3892">Grunewald</rs> Isen heim altarpiece
+               <lb facs="#facs_1_l_91" n="N040"/><rs type="person" ref="#tillich_person_id__3892">Grunewald</rs> Isenheim altarpiece, right panel
+               <lb facs="#facs_1_l_92" n="N041"/><rs type="person" ref="#tillich_person_id__3094">Rouault </rs>Crucifixion
+               <lb facs="#facs_1_l_93" n="N042"/><rs type="person" ref="#tillich_person_id__3094">Rouault</rs> Head of Christ with thorns
+               <lb facs="#facs_1_l_94" n="N043"/><rs type="person" ref="#tillich_person_id__1495">Picasso</rs> Crucifixion
+               <lb facs="#facs_1_l_95" n="N044"/><rs type="person" ref="#tillich_person_id__3101">Sutherland</rs> Crucifixion
             </p>
             <pb facs="#facs_2" n="TLx-0006_p002.jpg" xml:id="img_0002"/>
             <p facs="#facs_2_tr_1">
@@ -353,55 +353,55 @@
                <lb facs="#facs_2_tr_1_tl_5" n="N002"/>First Group
                <lb facs="#facs_2_tr_1_tl_6" n="N003"/><hi style="text-decoration: underline;">Naturalistic Style, secular Subject-Matter</hi>
                <lb facs="#facs_2_tr_1_tl_7" n="N004"/>portraits (Egyptian, Greek, Roman)
-               <lb facs="#facs_2_tr_1_tl_8" n="N005"/><rs type="person" key=", tillich_person_id__3087">Bronzino</rs>: portrait of Eleonora de Medici
-               <lb facs="#facs_2_tr_1_tl_9" n="N006"/>male portrait by <rs type="person" key=", tillich_person_id__3100">Rafael</rs>, or <rs type="person" key=", tillich_person_id__1941">Tizian</rs>, or <rs type="person" key=", tillich_person_id__3027">Bellini</rs>, or <rs type="person" key=", tillich_person_id__3098">Piero de la Francesca</rs>
-               <lb facs="#facs_2_tr_1_tl_10" n="N007"/><rs type="person" key=", tillich_person_id__3909">Sargent</rs>: some portrait
+               <lb facs="#facs_2_tr_1_tl_8" n="N005"/><rs type="person" ref="#tillich_person_id__3087">Bronzino</rs>: portrait of Eleonora de Medici
+               <lb facs="#facs_2_tr_1_tl_9" n="N006"/>male portrait by <rs type="person" ref="#tillich_person_id__3100">Rafael</rs>, or <rs type="person" ref="#tillich_person_id__1941">Tizian</rs>, or <rs type="person" ref="#tillich_person_id__3027">Bellini</rs>, or <rs type="person" ref="#tillich_person_id__3098">Piero de la Francesca</rs>
+               <lb facs="#facs_2_tr_1_tl_10" n="N007"/><rs type="person" ref="#tillich_person_id__3909">Sargent</rs>: some portrait
                <lb facs="#facs_2_tr_1_tl_11" n="N008"/>Pompejian interior
-               <lb facs="#facs_2_tr_1_tl_12" n="N009"/><rs type="person" key=", tillich_person_id__3907">Carpaccio</rs> (social scene)
-               <lb facs="#facs_2_tr_1_tl_13" n="N010"/><rs type="person" key=", tillich_person_id__3085">Ostade</rs>: The jubilee
-               <lb facs="#facs_2_tr_1_tl_14" n="N011"/><rs type="person" key=", tillich_person_id__3084">van Steen</rs>: A peasant scene
-               <lb facs="#facs_2_tr_1_tl_15" n="N012"/><rs type="person" key=", tillich_person_id__1580">Rembrandt</rs>: Nightwatch or Anatomy
-               <lb facs="#facs_2_tr_1_tl_16" n="N013"/><rs type="person" key=", tillich_person_id__3086">Watteau</rs>: les comediens Francais
-               <lb facs="#facs_2_tr_1_tl_17" n="N014"/><rs type="person" key=", tillich_person_id__3086">Watteau</rs>: Love in Italian comedy
-               <lb facs="#facs_2_tr_1_tl_18" n="N015"/><rs type="person" key=", tillich_person_id__1653">Rubens</rs>: Landscape
-               <lb facs="#facs_2_tr_1_tl_19" n="N016"/><rs type="person" key=", tillich_person_id__1343">Monet</rs>: Landscape
-               <lb facs="#facs_2_tr_1_tl_20" n="N017"/><rs type="person" key=", tillich_person_id__3008">Ruisdal</rs>, Jacob: Edge of a wood
-               <lb facs="#facs_2_tr_1_tl_21" n="N018"/><rs type="person" key=", tillich_person_id__1343">Monet</rs>: Unloading of the cargo
+               <lb facs="#facs_2_tr_1_tl_12" n="N009"/><rs type="person" ref="#tillich_person_id__3907">Carpaccio</rs> (social scene)
+               <lb facs="#facs_2_tr_1_tl_13" n="N010"/><rs type="person" ref="#tillich_person_id__3085">Ostade</rs>: The jubilee
+               <lb facs="#facs_2_tr_1_tl_14" n="N011"/><rs type="person" ref="#tillich_person_id__3084">van Steen</rs>: A peasant scene
+               <lb facs="#facs_2_tr_1_tl_15" n="N012"/><rs type="person" ref="#tillich_person_id__1580">Rembrandt</rs>: Nightwatch or Anatomy
+               <lb facs="#facs_2_tr_1_tl_16" n="N013"/><rs type="person" ref="#tillich_person_id__3086">Watteau</rs>: les comediens Francais
+               <lb facs="#facs_2_tr_1_tl_17" n="N014"/><rs type="person" ref="#tillich_person_id__3086">Watteau</rs>: Love in Italian comedy
+               <lb facs="#facs_2_tr_1_tl_18" n="N015"/><rs type="person" ref="#tillich_person_id__1653">Rubens</rs>: Landscape
+               <lb facs="#facs_2_tr_1_tl_19" n="N016"/><rs type="person" ref="#tillich_person_id__1343">Monet</rs>: Landscape
+               <lb facs="#facs_2_tr_1_tl_20" n="N017"/><rs type="person" ref="#tillich_person_id__3008">Ruisdal</rs>, Jacob: Edge of a wood
+               <lb facs="#facs_2_tr_1_tl_21" n="N018"/><rs type="person" ref="#tillich_person_id__1343">Monet</rs>: Unloading of the cargo
             </p>
             <pb facs="#facs_3" n="TLx-0006_p003.jpg" xml:id="img_0003"/>
             <p facs="#facs_3_tr_1">
                <lb facs="#facs_3_tr_1_tl_1" n="N001"/>Second Group
                <lb facs="#facs_3_tr_1_tl_2" n="N002"/><hi style="text-decoration: underline;">Non-naturalistic style, secular subject-matter</hi>
-               <lb facs="#facs_3_tr_1_tl_3" n="N003"/><rs type="person" key=", tillich_person_id__1580"><hi style="text-decoration: underline;">Rembrandt</hi></rs>: Self portrait and portrait of old men or wowan [sic.]
-               <lb facs="#facs_3_tr_1_tl_4" n="N004"/><rs type="person" key=", tillich_person_id__3089"><hi style="text-decoration: underline;">El Greco</hi></rs>: Toledo
-               <lb facs="#facs_3_tr_1_tl_5" n="N005"/><rs type="person" key=", tillich_person_id__3090"><hi style="text-decoration: underline;">Goya</hi></rs>: Toledo? (town on a rock)
-               <lb facs="#facs_3_tr_1_tl_6" n="N006"/><rs type="person" key=", tillich_person_id__2575">Cezanne</rs>: Still Life
-               <lb facs="#facs_3_tr_1_tl_7" n="N007"/><rs type="person" key=", tillich_person_id__272">Braque</rs>: Still Life
-               <lb facs="#facs_3_tr_1_tl_8" n="N008"/><rs type="person" key=", tillich_person_id__3911">Leurcat</rs>: Jean, Les cedres
-               <lb facs="#facs_3_tr_1_tl_9" n="N009"/><rs type="person" key=", tillich_person_id__3095">Chirico</rs>: Melancholy and mystery of a street
-               <lb facs="#facs_3_tr_1_tl_10" n="N010"/><rs type="person" key=", tillich_person_id__3910">Tanguy</rs>: Heredity of aquired charachteristics [sic.]
-               <lb facs="#facs_3_tr_1_tl_11" n="N011"/><rs type="person" key=", tillich_person_id__3094">Rouault</rs>: Circus-Trio
-               <lb facs="#facs_3_tr_1_tl_12" n="N012"/><rs type="person" key=", tillich_person_id__3095">Chirico:</rs> Le consoler
-               <lb facs="#facs_3_tr_1_tl_13" n="N013"/><rs type="person" key=", tillich_person_id__1495">Picasso</rs>: Guernica, main picture and detail
-               <lb facs="#facs_3_tr_1_tl_14" n="N014"/><rs type="person" key=", tillich_person_id__1018">Kandinsky</rs>: non representational
-               <lb facs="#facs_3_tr_1_tl_15" n="N015"/><rs type="person" key=", tillich_person_id__3912">Mondrian</rs>:  any
-               <lb facs="#facs_3_tr_1_tl_16" n="N016"/><rs type="person" key=", tillich_person_id__3913">Lissitzki</rs>:
-               <lb facs="#facs_3_tr_1_tl_17" n="N017"/><rs type="person" key=", tillich_person_id__3878">Leger</rs>: any
+               <lb facs="#facs_3_tr_1_tl_3" n="N003"/><rs type="person" ref="#tillich_person_id__1580"><hi style="text-decoration: underline;">Rembrandt</hi></rs>: Self portrait and portrait of old men or wowan [sic.]
+               <lb facs="#facs_3_tr_1_tl_4" n="N004"/><rs type="person" ref="#tillich_person_id__3089"><hi style="text-decoration: underline;">El Greco</hi></rs>: Toledo
+               <lb facs="#facs_3_tr_1_tl_5" n="N005"/><rs type="person" ref="#tillich_person_id__3090"><hi style="text-decoration: underline;">Goya</hi></rs>: Toledo? (town on a rock)
+               <lb facs="#facs_3_tr_1_tl_6" n="N006"/><rs type="person" ref="#tillich_person_id__2575">Cezanne</rs>: Still Life
+               <lb facs="#facs_3_tr_1_tl_7" n="N007"/><rs type="person" ref="#tillich_person_id__272">Braque</rs>: Still Life
+               <lb facs="#facs_3_tr_1_tl_8" n="N008"/><rs type="person" ref="#tillich_person_id__3911">Leurcat</rs>: Jean, Les cedres
+               <lb facs="#facs_3_tr_1_tl_9" n="N009"/><rs type="person" ref="#tillich_person_id__3095">Chirico</rs>: Melancholy and mystery of a street
+               <lb facs="#facs_3_tr_1_tl_10" n="N010"/><rs type="person" ref="#tillich_person_id__3910">Tanguy</rs>: Heredity of aquired charachteristics [sic.]
+               <lb facs="#facs_3_tr_1_tl_11" n="N011"/><rs type="person" ref="#tillich_person_id__3094">Rouault</rs>: Circus-Trio
+               <lb facs="#facs_3_tr_1_tl_12" n="N012"/><rs type="person" ref="#tillich_person_id__3095">Chirico:</rs> Le consoler
+               <lb facs="#facs_3_tr_1_tl_13" n="N013"/><rs type="person" ref="#tillich_person_id__1495">Picasso</rs>: Guernica, main picture and detail
+               <lb facs="#facs_3_tr_1_tl_14" n="N014"/><rs type="person" ref="#tillich_person_id__1018">Kandinsky</rs>: non representational
+               <lb facs="#facs_3_tr_1_tl_15" n="N015"/><rs type="person" ref="#tillich_person_id__3912">Mondrian</rs>:  any
+               <lb facs="#facs_3_tr_1_tl_16" n="N016"/><rs type="person" ref="#tillich_person_id__3913">Lissitzki</rs>:
+               <lb facs="#facs_3_tr_1_tl_17" n="N017"/><rs type="person" ref="#tillich_person_id__3878">Leger</rs>: any
                <lb facs="#facs_3_l" n="N018"/>[...]
-               <lb facs="#facs_3_tr_1_tl_19" n="N019"/><rs type="person" key=", tillich_person_id__3096">Moore</rs>: abstract sculpture of a human body
+               <lb facs="#facs_3_tr_1_tl_19" n="N019"/><rs type="person" ref="#tillich_person_id__3096">Moore</rs>: abstract sculpture of a human body
             </p>
             <pb facs="#facs_4" n="TLx-0006_p004.jpg" xml:id="img_0004"/>
             <p facs="#facs_4_tr_1">
                <lb facs="#facs_4_tr_1_tl_1" n="N001"/>Third Group
                <lb facs="#facs_4_tr_1_tl_2" n="N002"/><hi style="text-decoration: underline;">Naturalistic style and religious subject-matter</hi>
-               <lb facs="#facs_4_tr_1_tl_3" n="N003"/><rs type="person" key=", tillich_person_id__681">Giotto</rs>: St. Francis and the birds and some other picture of Giotto
-               <lb facs="#facs_4_tr_1_tl_4" n="N004"/><rs type="person" key=", tillich_person_id__3099">Masaccio</rs>: Tribute money
-               <lb facs="#facs_4_tr_1_tl_5" n="N005"/><rs type="person" key=", tillich_person_id__3098">Piero de la Francesca</rs>: any religious picture
-               <lb facs="#facs_4_tr_1_tl_6" n="N006"/><rs type="person" key=", tillich_person_id__3027">Bellini</rs>: any madonna with child
-               <lb facs="#facs_4_tr_1_tl_7" n="N007"/><rs type="person" key=", tillich_person_id__3100">Rafael</rs>: Madonna Colonna
-               <lb facs="#facs_4_tr_1_tl_8" n="N008"/><rs type="person" key=", tillich_person_id__1582">Guido Reni</rs>: Magdalene
-               <lb facs="#facs_4_tr_1_tl_9" n="N009"/><rs type="person" key=", tillich_person_id__1964">Fritz von Uhde</rs>: The Christ with the peasants
-               <lb facs="#facs_4_tr_1_tl_10" n="N010"/><rs type="person" key=", tillich_person_id__3034">Manet</rs>: The mocking of Christ
+               <lb facs="#facs_4_tr_1_tl_3" n="N003"/><rs type="person" ref="#tillich_person_id__681">Giotto</rs>: St. Francis and the birds and some other picture of Giotto
+               <lb facs="#facs_4_tr_1_tl_4" n="N004"/><rs type="person" ref="#tillich_person_id__3099">Masaccio</rs>: Tribute money
+               <lb facs="#facs_4_tr_1_tl_5" n="N005"/><rs type="person" ref="#tillich_person_id__3098">Piero de la Francesca</rs>: any religious picture
+               <lb facs="#facs_4_tr_1_tl_6" n="N006"/><rs type="person" ref="#tillich_person_id__3027">Bellini</rs>: any madonna with child
+               <lb facs="#facs_4_tr_1_tl_7" n="N007"/><rs type="person" ref="#tillich_person_id__3100">Rafael</rs>: Madonna Colonna
+               <lb facs="#facs_4_tr_1_tl_8" n="N008"/><rs type="person" ref="#tillich_person_id__1582">Guido Reni</rs>: Magdalene
+               <lb facs="#facs_4_tr_1_tl_9" n="N009"/><rs type="person" ref="#tillich_person_id__1964">Fritz von Uhde</rs>: The Christ with the peasants
+               <lb facs="#facs_4_tr_1_tl_10" n="N010"/><rs type="person" ref="#tillich_person_id__3034">Manet</rs>: The mocking of Christ
             </p>
             <pb facs="#facs_5" n="TLx-0006_p005.jpg" xml:id="img_0005"/>
             <p facs="#facs_5_tr_1">
@@ -412,14 +412,14 @@
                <lb facs="#facs_5_tr_1_tl_6" n="N005"/>Russian icon
                <lb facs="#facs_5_tr_1_tl_7" n="N006"/>Romanesque [...] cruzification
                <lb facs="#facs_5_tr_1_tl_8" n="N007"/>Gothic Pieta (Avignon)
-               <lb facs="#facs_5_tr_1_tl_9" n="N008"/><rs type="person" key=", tillich_person_id__261">Hieronymous Bosh</rs>: Temptation of St Antony
-               <lb facs="#facs_5_tr_1_tl_10" n="N009"/>Any <rs type="person" key=", tillich_person_id__295">Breughel</rs> with divine or demonic subject-matter
-               <lb facs="#facs_5_tr_1_tl_11" n="N010"/><rs type="person" key=", tillich_person_id__3089">El Greco:</rs> any religious picture
-               <lb facs="#facs_5_tr_1_tl_12" n="N011"/><rs type="person" key=", tillich_person_id__1580">Rembrandt</rs>: Three crosses
-               <lb facs="#facs_5_tr_1_tl_13" n="N012"/><rs type="person" key=", tillich_person_id__1404">Nolde</rs>: The last supper
-               <lb facs="#facs_5_tr_1_tl_14" n="N013"/><rs type="person" key=", tillich_person_id__3892">Matthias Gruenewald</rs>: Isenheimer Altar (cruzifixion) and resurrection)
-               <lb facs="#facs_5_tr_1_tl_15" n="N014"/><rs type="person" key=", tillich_person_id__3094">Rouault</rs>: Head of the Christ and any cruzifixion
-               <lb facs="#facs_5_tr_1_tl_16" n="N015"/><rs type="person" key=", tillich_person_id__1495">Picasso</rs>: Crucifixion if possible
+               <lb facs="#facs_5_tr_1_tl_9" n="N008"/><rs type="person" ref="#tillich_person_id__261">Hieronymous Bosh</rs>: Temptation of St Antony
+               <lb facs="#facs_5_tr_1_tl_10" n="N009"/>Any <rs type="person" ref="#tillich_person_id__295">Breughel</rs> with divine or demonic subject-matter
+               <lb facs="#facs_5_tr_1_tl_11" n="N010"/><rs type="person" ref="#tillich_person_id__3089">El Greco:</rs> any religious picture
+               <lb facs="#facs_5_tr_1_tl_12" n="N011"/><rs type="person" ref="#tillich_person_id__1580">Rembrandt</rs>: Three crosses
+               <lb facs="#facs_5_tr_1_tl_13" n="N012"/><rs type="person" ref="#tillich_person_id__1404">Nolde</rs>: The last supper
+               <lb facs="#facs_5_tr_1_tl_14" n="N013"/><rs type="person" ref="#tillich_person_id__3892">Matthias Gruenewald</rs>: Isenheimer Altar (cruzifixion) and resurrection)
+               <lb facs="#facs_5_tr_1_tl_15" n="N014"/><rs type="person" ref="#tillich_person_id__3094">Rouault</rs>: Head of the Christ and any cruzifixion
+               <lb facs="#facs_5_tr_1_tl_16" n="N015"/><rs type="person" ref="#tillich_person_id__1495">Picasso</rs>: Crucifixion if possible
             </p>
          </div>
       </body>

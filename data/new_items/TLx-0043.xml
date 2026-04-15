@@ -624,7 +624,7 @@
                <lb facs="#facs_10_l_20" n="N003"/>1. The first step in relating religion and the <rs type="keyword" ref="#Science">sciences</rs>
                <lb facs="#facs_10_l_27" n="N004"/>has been done: The boundary line has been drawn. This is
                <lb facs="#facs_10_l_34" n="N005"/>extremely important in view of the history of the conflicts from
-               <lb facs="#facs_10_l_41" n="N006"/><rs type="person" key=", tillich_person_id__654">Galileo</rs> to <rs type="person" key=", tillich_person_id__428">Darwin</rs> and <rs type="person" key=", tillich_person_id__619">Freud</rs>. It is still important in 
+               <lb facs="#facs_10_l_41" n="N006"/><rs type="person" ref="#tillich_person_id__654">Galileo</rs> to <rs type="person" ref="#tillich_person_id__428">Darwin</rs> and <rs type="person" ref="#tillich_person_id__619">Freud</rs>. It is still important in 
                <lb facs="#facs_10_l_48" n="N007"/>theology where church <rs type="keyword" ref="#Authority">authorities</rs> as well as Christian laymen
                <lb facs="#facs_10_l_55" n="N008"/> resist, e.g. historical research into the Biblical books, and the discovery of {showing} the
                <lb facs="#facs_10_l_62" n="N009"/>mixture of historical, legendary and mythical elements in them.
@@ -663,7 +663,7 @@
                <lb facs="#facs_12_l_13" n="N002"/>*(The religious element in teaching the <rs type="keyword" ref="#Science">sciences</rs>.) 
                <lb facs="#facs_12_l_20" n="N003"/>mind ...)
                <lb facs="#facs_12_l_27" n="N004"/>3. No scientific inquiry is possible without the use
-               <lb facs="#facs_12_l_34" n="N005"/>of these concepts, openly or hiddenly [conference with <rs type="person" key=", tillich_person_id__3860">Hutchins</rs>]. They {introduce} point
+               <lb facs="#facs_12_l_34" n="N005"/>of these concepts, openly or hiddenly [conference with <rs type="person" ref="#tillich_person_id__3860">Hutchins</rs>]. They {introduce} point
                <lb facs="#facs_12_l_41" n="N006"/>to an element in science which transcends science, the
                <lb facs="#facs_12_l_48" n="N007"/>cognitive <rs type="keyword" ref="#Eros">eros</rs>, directed to the <rs type="keyword" ref="#Whole">whole</rs>. This element is effec-
                <lb facs="#facs_12_l_55" n="N008"/>tive in the scientific procedures * which, conversly, contri-
@@ -744,7 +744,7 @@
                <lb facs="#facs_16_l_75" n="N010"/>sible only if either the religious substance in a
                <lb facs="#facs_16_l_82" n="N011"/>particular philosophy contradicts the religious substance
                <lb facs="#facs_16_l_89" n="N012"/>in a particular theology. (a Dionysian philosophy like
-               <lb facs="#facs_16_l_96" n="N013"/><rs type="person" key=", tillich_person_id__1394">Nietzsche</rs>'s and {the Christian theology of agape} strict moralist Calvinism of Old Testament Char. Or
+               <lb facs="#facs_16_l_96" n="N013"/><rs type="person" ref="#tillich_person_id__1394">Nietzsche</rs>'s and {the Christian theology of agape} strict moralist Calvinism of Old Testament Char. Or
                <lb facs="#facs_16_l_103" n="N014"/>the conceptualisation of a particular philosophical school
                <lb facs="#facs_16_l_110" n="N015"/>contradicts the conceptualisation, used in a particular
             </p>
