@@ -2,6 +2,18 @@
 
 Automagically export and upconvert data from [Transkribus](https://readcoop.eu/) collections into TEI/XML using [page2tei](https://github.com/dariok/page2tei) from @dariok and [acdh-transkribus-pyutils](https://github.com/acdh-oeaw/acdh-transkribus-utils).
 
+
+## update (2026-04-15)
+processing new files
+
+make sure the col_ids.txt points to the new collection 1956124
+
+```
+uv run download_and_transform.py
+uv run new_files_postprocress.py
+```
+saves the new files into data/new_items
+
 ## initial (local) set up
 
 * create a virtual environment `python -m venv venv`

@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main"></title>
+                <title type="sub">Religion and Culture Project</title>
+                <principal>
+                    <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
+                </principal>
+                <funder>
+                    <name>FWF - Der Wissenschaftsfonds</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Wien</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Wien</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <persName key="https://orcid.org/0009-0006-7356-6162">JJ Warren</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>Transkription und Annotation</resp>
+                    <persName key="https://orcid.org/0009-0005-0671-114X">Michaela Durst</persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <idno type="transkribus_col_id"></idno>
+                    <idno type="transkribus_doc_id"></idno>
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>changme</institution>
+                        <repository>changme</repository>
+                        <idno type="archive">changme</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <locus>part1_p009</locus>
+                            <p />
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+</TEI>
