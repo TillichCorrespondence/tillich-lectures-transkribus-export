@@ -13,16 +13,16 @@ jobs:
       TR_USER: ${{ secrets.TR_USER }}
       TR_PW: ${{ secrets.TR_PW }}
     steps:
-    - uses: actions/checkout@v4
-    - uses: actions/setup-python@v5
+    - uses: actions/checkout@v6
+    - uses: actions/setup-python@v6
       with:
         python-version: "3.12"
     - name: Install Python Packages
       run: pip install -r requirements.txt
     - name: download and transform
       run: python download_and_transform.py
-    - name: postprocess
-      run: python postprocess.py
-    - uses: stefanzweifel/git-auto-commit-action@v4
+    # - name: postprocess
+    #   run: python postprocess.py
+    - uses: stefanzweifel/git-auto-commit-action@v7
       with:
         commit_message: Export and Transformation done
