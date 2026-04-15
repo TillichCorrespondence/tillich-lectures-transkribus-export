@@ -4,15 +4,15 @@ import glob
 
 from tqdm import tqdm
 from acdh_tei_pyutils.tei import TeiReader
-from acdh_tei_pyutils.utils import nsmap
+from acdh_xml_pyutils.xml import NSMAP as nsmap
 
 arche_base = "https://id.acdh.oeaw.ac.at/tillich-lectures/"
 editions = os.path.join("data", "editions")
 shutil.rmtree(editions, ignore_errors=True)
 os.makedirs(editions, exist_ok=True)
 
-col_id = "271480"
-files = sorted(glob.glob("./tei/*.xml"))
+col_id = "1956124"
+files = sorted(glob.glob("./tei/7*.xml"))
 for part, x in enumerate(files, start=1):
     tei_name = os.path.split(x)[-1]
     mets_name = f'{os.path.join("mets", col_id, tei_name.replace(".xml", "_image_name.xml"))}'
