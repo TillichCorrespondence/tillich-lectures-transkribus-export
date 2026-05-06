@@ -3,8 +3,9 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Zusatzmaterial I Box 38, 39, 46</title>
+                <title type="main">bMS 649/46 (21): Religion and Culture, Cole Lectures and Ministers Convocation, Vanderbilt University Divinity School, handwritten, April 6-9, 1959</title>
                 <title type="sub">Religion and Culture Project</title>
+                <title type="order">44</title>
                 <principal>
                     <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
                 </principal>
@@ -43,7 +44,7 @@
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <locus>Zusatzmaterial I Box 38, 39, 46</locus>
+                            <locus>bMS 649/46 (21): Religion and Culture, Cole Lectures and Ministers Convocation, Vanderbilt University Divinity School, handwritten, April 6-9, 1959</locus>
                             <p/>
                         </msItem>
                     </msContents>

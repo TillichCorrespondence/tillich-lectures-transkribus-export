@@ -3,8 +3,9 @@
    <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Zusatzmaterial I Box 38, 39, 46</title>
+                <title type="main">bMS 649/46 (20): Religion and Culture, An Invitation to Conversation with Professor Paul Tillich, Columbia University, includes program, handwritten, 1960</title>
                 <title type="sub">Religion and Culture Project</title>
+                <title type="order">43</title>
                 <principal>
                     <persName key="https://d-nb.info/gnd/130017086">Christian Danz</persName>
                 </principal>
@@ -43,7 +44,7 @@
                     </msIdentifier>
                     <msContents>
                         <msItem>
-                            <locus>Zusatzmaterial I Box 38, 39, 46</locus>
+                            <locus>bMS 649/46 (20): Religion and Culture, An Invitation to Conversation with Professor Paul Tillich, Columbia University, includes program, handwritten, 1960</locus>
                             <p/>
                         </msItem>
                     </msContents>

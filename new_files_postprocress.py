@@ -1,6 +1,7 @@
 import os
 import shutil
 import glob
+import json
 
 from tqdm import tqdm
 from acdh_tei_pyutils.tei import TeiReader
@@ -14,8 +15,12 @@ os.makedirs(new_items, exist_ok=True)
 col_id = "1956124"
 files = sorted(glob.glob("./tei/7*.xml"))
 
+with open("title.json", "r", encoding="utf-8") as fp:
+    title_lookup = json.load(fp)
+
 
 for part, x in enumerate(files, start=1):
+    print(x)
     tei_name = os.path.split(x)[-1]
     mets_name = f"{os.path.join('mets', col_id, tei_name.replace('.xml', '_mets.xml'))}"
     mets = TeiReader(mets_name)
@@ -26,10 +31,12 @@ for part, x in enumerate(files, start=1):
             namespaces=nsmap,
         )
     ]
-    new_name = f"TLx-{part:04}.xml"
     doc = TeiReader(x)
+    transkribus_id = doc.any_xpath(".//tei:idno[@type='Transkribus']/text()")[0]
+    doc_title = doc.any_xpath(".//tei:titleStmt/tei:title/text()")[0]
+    new_name = title_lookup[transkribus_id]["file_name"]
     for i, y in enumerate(doc.any_xpath(".//tei:pb"), start=1):
-        y.attrib["n"] = f"TLx-{part:04}_p{i:03}.jpg"
+        y.attrib["n"] = f"{new_name.replace('.xml', '')}_p{i:03}.jpg"
     for i, y in enumerate(doc.any_xpath(".//tei:surface[@xml:id]")):
         graphic = y.xpath(".//tei:graphic", namespaces=nsmap)[0]
         graphic.attrib["url"] = img_lookup[i]
@@ -71,16 +78,20 @@ files = sorted(glob.glob("./data/new_items/*.xml"))
 for x in tqdm(files, total=len(files)):
     header_doc = TeiReader("tei-header.xml")
     doc = TeiReader(x)
-    doc_title = doc.any_xpath(".//tei:seriesStmt/tei:title/text()")[0]
+    idno_transkribus = doc.any_xpath(".//tei:idno[@type='Transkribus']")[0].text
+    new_title = title_lookup[idno_transkribus]["title"]
     title = header_doc.any_xpath(".//tei:title[@type='main']")[0]
-    title.text = doc_title
+    title.text = new_title
     idno_transkribus = doc.any_xpath(".//tei:idno[@type='Transkribus']")[0].text
     idno_header = header_doc.any_xpath(".//tei:idno[@type='transkribus_doc_id']")[0]
     idno_header.text = idno_transkribus
     idno_header = header_doc.any_xpath(".//tei:idno[@type='transkribus_col_id']")[0]
     idno_header.text = col_id
     locus_node = header_doc.any_xpath(".//tei:locus")[0]
-    locus_node.text = doc_title
+    locus_node.text = new_title
+    order_number = title_lookup[idno_transkribus]["order"]
+    order_node = header_doc.any_xpath(".//tei:title[@type='order']")[0]
+    order_node.text = str(order_number)
     for bad in doc.any_xpath(".//tei:teiHeader"):
         bad.getparent().remove(bad)
     header = header_doc.any_xpath(".//tei:teiHeader")[0]
