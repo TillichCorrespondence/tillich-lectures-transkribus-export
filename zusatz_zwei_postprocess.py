@@ -14,7 +14,7 @@ os.makedirs(new_items, exist_ok=True)
 col_id = "2290561"
 files = sorted(glob.glob("./tei/13*.xml"))
 
-for part, x in enumerate(files, start=1):
+for part, x in enumerate(files, start=45):
     tei_name = os.path.split(x)[-1]
     mets_name = f"{os.path.join('mets', col_id, tei_name.replace('.xml', '_mets.xml'))}"
     mets = TeiReader(mets_name)
@@ -69,7 +69,7 @@ for x in tqdm(files, total=len(files)):
 
 print("update tei-header")
 files = sorted(glob.glob("./data/zusatz_items/*.xml"))
-for i, x in enumerate(tqdm(files, total=len(files)), start=1):
+for i, x in enumerate(tqdm(files, total=len(files)), start=45):
     header_doc = TeiReader("tei-header.xml")
     doc = TeiReader(x)
     new_title = doc.any_xpath(".//tei:title[@type='main']")[0].text
