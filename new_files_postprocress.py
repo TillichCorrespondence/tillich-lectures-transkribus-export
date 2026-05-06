@@ -5,7 +5,6 @@ import glob
 from tqdm import tqdm
 from acdh_tei_pyutils.tei import TeiReader
 from acdh_xml_pyutils.xml import NSMAP as nsmap
-from acdh_tei_pyutils.utils import normalize_string
 
 arche_base = "https://id.acdh.oeaw.ac.at/tillich-lectures/"
 new_items = os.path.join("data", "new_items")
@@ -18,33 +17,41 @@ files = sorted(glob.glob("./tei/7*.xml"))
 
 for part, x in enumerate(files, start=1):
     tei_name = os.path.split(x)[-1]
-    mets_name = f'{os.path.join("mets", col_id, tei_name.replace(".xml", "_image_name.xml"))}'
+    mets_name = f"{os.path.join('mets', col_id, tei_name.replace('.xml', '_mets.xml'))}"
     mets = TeiReader(mets_name)
-    img_lookup = [x.text for x in mets.any_xpath(".//item")]
+    img_lookup = [
+        x
+        for x in mets.tree.xpath(
+            ".//mets:file[@MIMETYPE='image/jpeg']/mets:FLocat/@xlink:href",
+            namespaces=nsmap,
+        )
+    ]
     new_name = f"TLx-{part:04}.xml"
     doc = TeiReader(x)
-    for i, y in enumerate(doc.any_xpath(".//tei:pb")):
-        y.attrib["n"] = f"TLx-{part:04}_{img_lookup[i]}"
+    for i, y in enumerate(doc.any_xpath(".//tei:pb"), start=1):
+        y.attrib["n"] = f"TLx-{part:04}_p{i:03}.jpg"
     for i, y in enumerate(doc.any_xpath(".//tei:surface[@xml:id]")):
         graphic = y.xpath(".//tei:graphic", namespaces=nsmap)[0]
-        graphic.attrib["url"] = f"TLx-{part:04}_{img_lookup[i]}"
+        graphic.attrib["url"] = img_lookup[i]
+        for bad in y.xpath(".//tei:graphic", namespaces=nsmap)[1:]:
+            bad.getparent().remove(bad)
     save_path = os.path.join(new_items, new_name)
     print(save_path)
     doc.tree_to_file(save_path)
 
 
-files = glob.glob('./data/new_items/*.xml')
+files = glob.glob("./data/new_items/*.xml")
 print("fixing facs")
 for x in tqdm(files):
     doc = TeiReader(x)
-    facs_url = doc.any_xpath(".//tei:graphic/@url")[0]
-    pb = doc.any_xpath(".//tei:pb")[0]
-    pb.attrib["corresp"] = f"{arche_base}{facs_url}"
+    facs_url = doc.any_xpath(".//tei:graphic/@url")
+    for i, pb in enumerate(doc.any_xpath(".//tei:pb")):
+        pb.attrib["corresp"] = facs_url[i]
     doc.tree_to_file(x)
 
 
 print("keyword-elements to rs-elements")
-files = sorted(glob.glob('./data/new_items/*.xml'))
+files = sorted(glob.glob("./data/new_items/*.xml"))
 for x in tqdm(files, total=len(files)):
     doc = TeiReader(x)
     body = doc.any_xpath(".//tei:body")[0]
@@ -60,7 +67,7 @@ for x in tqdm(files, total=len(files)):
 
 
 print("update tei-header")
-files = sorted(glob.glob('./data/new_items/*.xml'))
+files = sorted(glob.glob("./data/new_items/*.xml"))
 for x in tqdm(files, total=len(files)):
     header_doc = TeiReader("tei-header.xml")
     doc = TeiReader(x)
@@ -81,7 +88,7 @@ for x in tqdm(files, total=len(files)):
     doc.tree_to_file(x)
 
 print("fix person rs refs")
-files = sorted(glob.glob('./data/new_items/*.xml'))
+files = sorted(glob.glob("./data/new_items/*.xml"))
 for x in tqdm(files, total=len(files)):
     doc = TeiReader(x)
     for y in doc.any_xpath(".//tei:rs[@type='person' and @key]"):

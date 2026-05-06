@@ -53,8 +53,7 @@
     </teiHeader>
 <facsimile>
       <surface ulx="0" uly="0" lrx="2479" lry="3508" xml:id="facs_1">
-         <graphic url="TLx-0001_p001.jpg" width="2479px" height="3508px"/>
-         <graphic url="https://files.transkribus.eu/Get?id=VNVVWAZAJPTHVLTUULBMHQAS&amp;fileType=view" width="2479px" height="3508px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=VNVVWAZAJPTHVLTUULBMHQAS" width="2479px" height="3508px"/>
          <zone points="197,648 197,2765 2140,2765 2140,648" rendition="TextRegion" xml:id="facs_1_tr_1">
             <zone points="1702,714 1730,698 1782,718 1923,700 1953,722 2005,706 2031,730 2135,714 2133,646 2045,604 1921,638 1833,624 1770,636 1700,612" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
             <zone points="513,814 587,844 748,798 816,824 984,800 1207,810 1251,844 1247,688 990,744 830,676 602,744 511,720" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
@@ -84,7 +83,7 @@
    <text>
       <body>
          <div>
-            <pb facs="#facs_1" n="TLx-0001_p001.jpg" xml:id="img_0001" corresp="https://id.acdh.oeaw.ac.at/tillich-lectures/TLx-0001_p001.jpg"/>
+            <pb facs="#facs_1" n="TLx-0001_p001.jpg" xml:id="img_0001" corresp="https://files.transkribus.eu/Get?fileType=view&amp;id=VNVVWAZAJPTHVLTUULBMHQAS"/>
             <p facs="#facs_1_tr_1">
                <lb facs="#facs_1_tr_1_tl_1" n="N001"/>Prof. <rs type="person" key="Tillich, Paul">Paul Tillich</rs>
                <lb facs="#facs_1_tr_1_tl_2" n="N002"/>Course Announcements for 1957-58.
